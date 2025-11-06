@@ -1,13 +1,1 @@
-[
-    {
-        "problemName": "GCD Sum",
-        "problemId": "1498A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1498/A",
-        "solutionUrl": "./Solutions/GCD-Sum.cpp"
-    }
-]
+[]

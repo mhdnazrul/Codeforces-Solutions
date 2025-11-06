@@ -10,14 +10,12 @@ Welcome to my automated Codeforces solution archive. This site is automatically 
 
 ## 📊 Statistics
 
-* **Total Problems Solved:** 1
+* **Total Problems Solved:** 0
 * **Solved by Difficulty:**
-    * **800:** 1 problems
 
 ---
 
 ## 📋 Solution Index
 
 | Problem ID | Problem Name | Difficulty | Tags | Question | Solution |
-| :--- | :--- | :---: | :--- | :---: | :---: |
-| 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
+| :---- | :---- | :----: | :---- | :----: | :----: |
