@@ -1,0 +1,165 @@
+import os
+import json
+import re
+import requests
+from typing import Dict, Any, Optional, List
+
+FOLDERS_TO_SCAN = ['solutions', 'gyms', 'Groups']
+OUTPUT_JSON_FILE = 'solutions.json'
+README_FILE = 'README.md'
+CF_API_URL = 'https://codeforces.com/api/problemset.problems'
+
+ULTIMATE_REGEX = re.compile(
+    r'(https?://codeforces\.com/(?:'
+    r'(?:problemset/problem|problem|contest)/(\d+)/(?:problem/)?([A-Za-z]\d*)'
+    r'|gym/(\d+)/problem/([A-Za-z]\d*)'
+    r'|group/[^/]+/contest/(\d+)/problem/([A-Za-z]\d*)'
+    r'))'
+)
+
+def fetch_problem_data() -> Dict[str, Dict[str, Any]]:
+    print("Fetching Codeforces problem data from API...")
+    problem_map = {}
+    try:
+        response = requests.get(CF_API_URL)
+        response.raise_for_status()
+        data = response.json()
+        if data['status'] == 'OK':
+            for problem in data['result']['problems']:
+                problem_id = f"{problem['contestId']}{problem['index']}"
+                problem_map[problem_id] = {
+                    "name": problem.get('name', 'N/A'),
+                    "rating": problem.get('rating', None),
+                    "tags": problem.get('tags', [])
+                }
+            print(f"Successfully fetched and mapped {len(problem_map)} problems.")
+        else:
+            print(f"Codeforces API error: {data.get('comment', 'Unknown error')}")
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching API data: {e}")
+    return problem_map
+
+
+def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                match = ULTIMATE_REGEX.search(line)
+                if match:
+                    url = match.group(1)
+                    if match.group(2) and match.group(3):
+                        problem_id = f"{match.group(2)}{match.group(3)}"
+                    elif match.group(4) and match.group(5):
+                        problem_id = f"{match.group(4)}{match.group(5)}"
+                    elif match.group(6) and match.group(7):
+                        problem_id = f"{match.group(6)}{match.group(7)}"
+                    else:
+                        continue
+                    return {"url": url, "id": problem_id}
+            print(f"Warning: Could not find ANY valid Codeforces link in: {file_path}")
+            return None
+    except Exception as e:
+        print(f"Error reading file {file_path}: {e}")
+        return None
+
+
+def generate_readme(solutions: List[Dict[str, Any]]):
+    print(f"Generating {README_FILE}...")
+    
+    rating_counts = {}
+    for sol in solutions:
+        rating = sol.get('rating')
+        if rating:
+            if rating in rating_counts:
+                rating_counts[rating] += 1
+            else:
+                rating_counts[rating] = 1
+    
+    content = f"""# 
+ Codeforces Solution Archive
+
+Welcome to my automated Codeforces solution archive. This site is automatically updated from my GitHub repo using GitHub Actions and the Codeforces API.
+
+**Find me on:**
+[GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
+
+---
+
+## 📊 Statistics
+
+* **Total Problems Solved:** {len(solutions)}
+* **Solved by Difficulty:**
+"""
+    for rating in sorted(rating_counts.keys()):
+        content += f"    * **{rating}:** {rating_counts[rating]} problems\n"
+
+    content += "\n---\n\n## 📋 Solution Index\n\n"
+    
+    content += "| Problem ID | Problem Name | Difficulty | Tags | Question | Solution |\n"
+    content += "| :--- | :--- | :---: | :--- | :---: | :---: |\n"
+    
+    for sol in solutions:
+        problem_id = sol.get('problemId', 'N/A')
+        problem_name = sol.get('problemName', 'N/A')
+        difficulty = sol.get('rating', 'N/A')
+        
+        tags = ", ".join(sol.get('tags', []))
+        if not tags:
+            tags = "N/A"
+            
+        question_url = sol.get('questionUrl', '#')
+        solution_url = sol.get('solutionUrl', '#')
+        
+        content += f"| {problem_id} | {problem_name} | {difficulty} | {tags} | [Question]({question_url}) | [Solution]({solution_url}) |\n"
+
+    try:
+        with open(README_FILE, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"Successfully generated '{README_FILE}'")
+    except Exception as e:
+        print(f"Error writing {README_FILE}: {e}")
+
+
+def main():
+    problem_data_map = fetch_problem_data()
+    all_solutions = []
+    
+    print(f"Scanning folders: {', '.join(FOLDERS_TO_SCAN)}...")
+    
+    for folder in FOLDERS_TO_SCAN:
+        for root, _, files in os.walk(folder):
+            for file in files:
+                if file.endswith('.cpp'):
+                    file_path = os.path.join(root, file)
+                    link_info = parse_problem_link(file_path)
+                    
+                    if link_info:
+                        problem_id = link_info['id']
+                        url = link_info['url']
+                        problem_details = problem_data_map.get(problem_id, {})
+                        web_path = file_path.replace(os.sep, '/')
+                        
+                        solution_entry = {
+                            "problemName": problem_details.get('name', 'N/A'),
+                            "problemId": problem_id,
+                            "rating": problem_details.get('rating', None),
+                            "tags": problem_details.get('tags', []),
+                            "questionUrl": url,
+                            "solutionUrl": f"./{web_path}"
+                        }
+                        all_solutions.append(solution_entry)
+
+    all_solutions.sort(key=lambda x: (x['rating'] if x['rating'] is not None else 0))
+    
+    try:
+        with open(OUTPUT_JSON_FILE, 'w', encoding='utf-8') as f:
+            json.dump(all_solutions, f, indent=4)
+        print(f"\nSuccessfully generated '{OUTPUT_JSON_FILE}' with {len(all_solutions)} solutions.")
+    except Exception as e:
+        print(f"Error writing JSON file: {e}")
+
+    generate_readme(all_solutions)
+
+
+if __name__ == "__main__":
+    main()
