@@ -1,0 +1,201 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    }
+    header {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+    .intro-blog {
+    max-width: 1000px;
+    margin: 15px auto;
+    padding: 15px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    }
+    .social-links a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: #3498db;
+    font-weight: bold;
+    }
+    main {
+    max-width: 1440px;
+    margin: 0 auto;
+    }
+    .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+    }
+    .stat-box {
+    flex: 1;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+    }
+    .stat-box h3 { margin-top: 0; }
+    .stat-box p {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #3498db;
+    }
+    .chart-box {
+    flex: 2;
+    min-width: 200px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+    #rating-chart {
+    max-height: 150px;
+    }
+    .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    padding: 5px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    }
+    .filter-container input[type="text"],
+    .filter-container select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    }
+    .tag-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-height: 100px;
+    overflow-y: auto;
+    border: 1px solid #eee;
+    padding: 10px;
+    flex-basis: 100%;
+    }
+    .tag-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background: #ecf0f1;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    }
+    .table-container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow-x: auto;
+    }
+    table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+    th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    white-space: nowrap;
+    }
+    th {
+    background-color: #ecf0f1;
+    }
+    th.sortable {
+    cursor: pointer;
+    }
+    th.sortable:hover {
+    background-color: #dfe6e9;
+    }
+    tr:hover { background-color: #f9f9f9; }
+    td .tag {
+    display: inline-block;
+    background: #e0e0e0;
+    color: #555;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.8em;
+    margin: 2px;
+    }
+    td .link-btn {
+    text-decoration: none;
+    padding: 5px 10px;
+    background: #3498db;
+    color: white;
+    border-radius: 4px;
+    }
+    td .link-btn.solution {
+    background: #2ecc71;
+    }
+    @media (max-width: 1024px) {
+    .stats-container {
+    flex-direction: column;
+    }
+    .chart-box {
+    min-width: 100%;
+    max-height: 400px;
+    }
+    th, td {
+    padding: 10px 12px;
+    font-size: 0.95em;
+    }
+    }
+    @media (max-width: 768px) {
+    body {
+    padding: 10px;
+    font-size: 14px;
+    }
+    h1 {
+    font-size: 1.8em;
+    }
+    .intro-blog {
+    padding: 10px;
+    }
+    .stats-container,
+    .filter-container {
+    flex-direction: column;
+    gap: 15px;
+    }
+    .stat-box p {
+    font-size: 2.2em;
+    }
+    .chart-box {
+    max-height: 300px;
+    }
+    .filter-container input[type="text"],
+    .filter-container select {
+    width: 100%;
+    box-sizing: border-box;
+    }
+    .tag-container {
+    max-height: 150px;
+    }
+    th, td {
+    padding: 8px 10px;
+    font-size: 0.9em;
+    white-space: nowrap;
+    }
+    td .link-btn {
+    padding: 4px 8px;
+    font-size: 0.9em;
+    }
+    td .tag {
+    padding: 2px 6px;
+    }
+    }
