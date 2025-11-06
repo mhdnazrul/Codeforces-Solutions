@@ -1,53 +1,5 @@
 [
     {
-        "problemName": "N/A",
-        "problemId": "105981C",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/gym/105981/problem/C",
-        "solutionUrl": "./gyms/C_Echoes_of_the_Runes.cpp"
-    },
-    {
-        "problemName": "N/A",
-        "problemId": "105940G",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/gym/105940/problem/G",
-        "solutionUrl": "./gyms/G_Cheetahs_Hunting_Deers_Easy.cpp"
-    },
-    {
-        "problemName": "N/A",
-        "problemId": "105940I",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/gym/105940/problem/I",
-        "solutionUrl": "./gyms/I_The_Youngest_in_ASZoo.cpp"
-    },
-    {
-        "problemName": "N/A",
-        "problemId": "219158A",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
-        "solutionUrl": "./Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
-    },
-    {
-        "problemName": "N/A",
-        "problemId": "219158B",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B",
-        "solutionUrl": "./Groups/ICPC-Assiut-University-Community/B_Basic_Data_Types.cpp"
-    },
-    {
-        "problemName": "N/A",
-        "problemId": "219158C",
-        "rating": null,
-        "tags": [],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C",
-        "solutionUrl": "./Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp"
-    },
-    {
         "problemName": "GCD Sum",
         "problemId": "1498A",
         "rating": 800,
