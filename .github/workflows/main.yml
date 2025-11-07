@@ -5,12 +5,14 @@ on:
     branches:
       - main
 
+
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
+ 
   build:
     runs-on: ubuntu-latest
     steps:
@@ -36,8 +38,6 @@ jobs:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
       
-      # 
---- এই নতুন ধাপটি যোগ করা হয়েছে ---
       - name: Copy solution folders to Web directory
         run: |
           echo "Copying solution folders..."
@@ -48,8 +48,6 @@ jobs:
           cp -r Gyms/* Web/Gyms/
           cp -r Groups/* Web/Groups/
           echo "Copying complete."
-      # 
-------------------------------------
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
