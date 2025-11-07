@@ -5,14 +5,12 @@ on:
     branches:
       - main
 
-
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
- 
   build:
     runs-on: ubuntu-latest
     steps:
@@ -38,24 +36,27 @@ jobs:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
       
+      # 
+--- এই ধাপটির Indentation ঠিক করা হয়েছে ---
       - name: Copy solution folders to Web directory
         run: |
           echo "Copying solution folders..."
           mkdir -p Web/Solutions
           mkdir -p Web/Gyms
           mkdir -p Web/Groups
-              
+          
+          # ফোল্ডার খালি থাকলেও যেন error না দেয়
           shopt -s nullglob
-              
+          
           echo "Copying Solutions..."
           cp -r Solutions/* Web/Solutions/
-              
+          
           echo "Copying Gyms..."
           cp -r Gyms/* Web/Gyms/
-              
+          
           echo "Copying Groups..."
           cp -r Groups/* Web/Groups/
-              
+          
           echo "Copying complete."
 
       - name: Upload artifact
