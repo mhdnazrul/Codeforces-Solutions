@@ -22,24 +22,16 @@
         "solutionUrl": "./Solutions/GCD-Sum.cpp"
     },
     {
-        "problemName": "C Echoes of the Runes",
-        "problemId": "105981C",
+        "problemName": "Good Kid",
+        "problemId": "1873B",
         "rating": 800,
         "tags": [
-            "implementation"
+            "brute force",
+            "greedy",
+            "math"
         ],
-        "questionUrl": "https://codeforces.com/gym/105981/problem/C",
-        "solutionUrl": "./Gyms/C_Echoes_of_the_Runes.cpp"
-    },
-    {
-        "problemName": "G Cheetahs Hunting Deers Easy",
-        "problemId": "105940G",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/gym/105940/problem/G",
-        "solutionUrl": "./Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp"
+        "questionUrl": "https://codeforces.com/contest/1873/problem/B",
+        "solutionUrl": "./Solutions/B_Good_Kid.cpp"
     },
     {
         "problemName": "I The Youngest in ASZoo",
@@ -52,14 +44,24 @@
         "solutionUrl": "./Gyms/I_The_Youngest_in_ASZoo.cpp"
     },
     {
-        "problemName": "A Say Hello With C",
-        "problemId": "219158A",
+        "problemName": "G Cheetahs Hunting Deers Easy",
+        "problemId": "105940G",
         "rating": 800,
         "tags": [
             "implementation"
         ],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
-        "solutionUrl": "./Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
+        "questionUrl": "https://codeforces.com/gym/105940/problem/G",
+        "solutionUrl": "./Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp"
+    },
+    {
+        "problemName": "C Echoes of the Runes",
+        "problemId": "105981C",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/gym/105981/problem/C",
+        "solutionUrl": "./Gyms/C_Echoes_of_the_Runes.cpp"
     },
     {
         "problemName": "B Basic Data Types",
@@ -70,6 +72,16 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B",
         "solutionUrl": "./Groups/ICPC-Assiut-University-Community/B_Basic_Data_Types.cpp"
+    },
+    {
+        "problemName": "A Say Hello With C",
+        "problemId": "219158A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
+        "solutionUrl": "./Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
     },
     {
         "problemName": "C Simple Calculator",
