@@ -64,6 +64,7 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
         return None
 def generate_readme(Solutions: List[Dict[str, Any]]):
     print(f"Generating {README_FILE}...")
+   
     rating_counts = {}
     for sol in Solutions:
         rating = sol.get('rating')
@@ -72,35 +73,36 @@ def generate_readme(Solutions: List[Dict[str, Any]]):
                 rating_counts[rating] += 1
             else:
                 rating_counts[rating] = 1
-    content = f"""# 
- Codeforces Solution Archive
-
+   
+    content = f"""# Codeforces Solution Archive\n
 Welcome to my automated Codeforces solution archive. This site is automatically updated from my GitHub repo using GitHub Actions and the Codeforces API.
-
 **Find me on:**
 [Codeforces Solution Archive](https://mhdnazrul.github.io/Codeforces-Solutions/) | [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
-
 ---
-
 ## 📊 Statistics
-
 * **Total Problems Solved:** {len(Solutions)}
 * **Solved by Difficulty:**
 """
-    for rating in sorted(rating_counts.keys()):
-        content += f"    * **{rating}:** {rating_counts[rating]} problems\n"
+    sorted_ratings = sorted(rating_counts.items())
+    for rating, count in sorted_ratings:
+        content += f" * **{rating}:** {count} problems\n"
     content += "\n---\n\n## 📋 Solution Index\n\n"
+   
     content += "| Problem ID | Problem Name | Difficulty | Tags | Question | Solution |\n"
     content += "| :---- | :---- | :----: | :---- | :----: | :----: |\n"
+   
     for sol in Solutions:
         problem_id = sol.get('problemId', 'N/A')
         problem_name = sol.get('problemName', 'N/A')
         difficulty = sol.get('rating', 'N/A')
+       
         tags = ", ".join(sol.get('tags', []))
         if not tags:
             tags = "N/A"
+           
         question_url = sol.get('questionUrl', '#')
         solution_url = sol.get('solutionUrl', '#').replace('../', './')
+       
         content += f"| {problem_id} | {problem_name} | {difficulty} | {tags} | [Question]({question_url}) | [Solution]({solution_url}) |\n"
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
@@ -111,29 +113,48 @@ Welcome to my automated Codeforces solution archive. This site is automatically 
 def main():
     problem_data_map = fetch_problem_data()
     all_solutions = []
+   
     print(f"Scanning folders: {', '.join(FOLDERS_TO_SCAN)}...")
+   
     for folder in FOLDERS_TO_SCAN:
         for root, _, files in os.walk(folder):
             for file in files:
                 if file.endswith('.cpp'):
                     file_path = os.path.join(root, file)
                     link_info = parse_problem_link(file_path)
+                   
                     if link_info:
                         problem_id = link_info['id']
                         url = link_info['url']
                         problem_details = problem_data_map.get(problem_id, {})
+                       
+                        problem_name_from_api = problem_details.get('name', 'N/A')
+                        if problem_name_from_api == 'N/A' or not problem_name_from_api:
+                            file_name_only = os.path.splitext(file)[0]
+                            problem_name = file_name_only.replace('_', ' ').replace('-', ' ')
+                        else:
+                            problem_name = problem_name_from_api
+                        rating = problem_details.get('rating', None)
+                        if rating is None:
+                            rating = 800
+                        tags = problem_details.get('tags', [])
+                        if not tags:
+                            tags = ["implementation"]
+                       
                         solution_path = os.path.relpath(file_path, ROOT_DIR)
                         web_path = solution_path.replace(os.sep, '/')
+                       
                         solution_entry = {
-                            "problemName": problem_details.get('name', 'N/A'),
+                            "problemName": problem_name,
                             "problemId": problem_id,
-                            "rating": problem_details.get('rating', None),
-                            "tags": problem_details.get('tags', []),
+                            "rating": rating,
+                            "tags": tags,
                             "questionUrl": url,
                             "solutionUrl": f"./{web_path}"
                         }
                         all_solutions.append(solution_entry)
     all_solutions.sort(key=lambda x: (x['rating'] if x['rating'] is not None else 0))
+   
     try:
         with open(OUTPUT_JSON_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_solutions, f, indent=4)
