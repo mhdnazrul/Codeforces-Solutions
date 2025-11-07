@@ -44,9 +44,18 @@ jobs:
           mkdir -p Web/Solutions
           mkdir -p Web/Gyms
           mkdir -p Web/Groups
+              
+          shopt -s nullglob
+              
+          echo "Copying Solutions..."
           cp -r Solutions/* Web/Solutions/
+              
+          echo "Copying Gyms..."
           cp -r Gyms/* Web/Gyms/
+              
+          echo "Copying Groups..."
           cp -r Groups/* Web/Groups/
+              
           echo "Copying complete."
 
       - name: Upload artifact
