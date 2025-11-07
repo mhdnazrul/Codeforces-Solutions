@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+
 permissions:
   contents: write
   pages: write
@@ -34,15 +35,29 @@ jobs:
         with:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
+      
+      # 
+--- এই নতুন ধাপটি যোগ করা হয়েছে ---
+      - name: Copy solution folders to Web directory
+        run: |
+          echo "Copying solution folders..."
+          mkdir -p Web/Solutions
+          mkdir -p Web/Gyms
+          mkdir -p Web/Groups
+          cp -r Solutions/* Web/Solutions/
+          cp -r Gyms/* Web/Gyms/
+          cp -r Groups/* Web/Groups/
+          echo "Copying complete."
+      # 
+------------------------------------
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'Web/'
 
- 
   deploy:
     needs: build
-    
     runs-on: ubuntu-latest
     environment:
       name: github-pages
