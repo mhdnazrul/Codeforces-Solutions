@@ -747,5 +747,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/58/A",
         "solutionUrl": "../Solutions/A_Chat_room.cpp"
+    },
+    {
+        "problemName": "Powers Of Two",
+        "problemId": "1095C",
+        "rating": 1400,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1095/C",
+        "solutionUrl": "../Solutions/C_Powers_Of_Two.cpp"
     }
 ]

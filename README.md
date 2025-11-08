@@ -3,11 +3,12 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 71
+* **Total Problems Solved:** 72
 * **Solved by Difficulty:**
  * **800:** 62 problems
  * **900:** 6 problems
  * **1000:** 3 problems
+ * **1400:** 1 problems
 
 ---
 
@@ -86,3 +87,4 @@
 | 122A | Lucky Division | 1000 | brute force, number theory | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](./Solutions/A_Lucky_Division.cpp) |
 | 118A | String Task | 1000 | implementation, strings | [Question](https://codeforces.com/problemset/problem/118/A) | [Solution](./Solutions/A_String_Task.cpp) |
 | 58A | Chat room | 1000 | greedy, strings | [Question](https://codeforces.com/problemset/problem/58/A) | [Solution](./Solutions/A_Chat_room.cpp) |
+| 1095C | Powers Of Two | 1400 | bitmasks, greedy | [Question](https://codeforces.com/problemset/problem/1095/C) | [Solution](./Solutions/C_Powers_Of_Two.cpp) |
