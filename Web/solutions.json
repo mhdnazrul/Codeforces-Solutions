@@ -1,5 +1,223 @@
 [
     {
+        "problemName": "A Four Coprimes",
+        "problemId": "644977A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/gym/644977/problem/A",
+        "solutionUrl": "../Solutions/A_Four_Coprimes.cpp"
+    },
+    {
+        "problemName": "Tram",
+        "problemId": "116A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/116/A",
+        "solutionUrl": "../Solutions/A.%20Tram.cpp"
+    },
+    {
+        "problemName": "George and Accommodation",
+        "problemId": "467A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/467/A",
+        "solutionUrl": "../Solutions/A.%20George%20and%20Accommodation.cpp"
+    },
+    {
+        "problemName": "Mahmoud and Ehab and the even-odd game",
+        "problemId": "959A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/959/A",
+        "solutionUrl": "../Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp"
+    },
+    {
+        "problemName": "Beautiful Matrix",
+        "problemId": "263A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/263/A",
+        "solutionUrl": "../Solutions/A.%20Beautiful%20Matrix.cpp"
+    },
+    {
+        "problemName": "Pangram",
+        "problemId": "520A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/520/A",
+        "solutionUrl": "../Solutions/A.%20Pangram.cpp"
+    },
+    {
+        "problemName": "Next Round",
+        "problemId": "158A",
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/158/A",
+        "solutionUrl": "../Solutions/A.%20Next%20Round.cpp"
+    },
+    {
+        "problemName": "Nearly Lucky Number",
+        "problemId": "110A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/110/A",
+        "solutionUrl": "../Solutions/A.%20Nearly%20Lucky%20Number.cpp"
+    },
+    {
+        "problemName": "Beautiful Year",
+        "problemId": "271A",
+        "rating": 800,
+        "tags": [
+            "brute force"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/271/A",
+        "solutionUrl": "../Solutions/A.%20Beautiful%20Year.cpp"
+    },
+    {
+        "problemName": "Sum",
+        "problemId": "1742A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1742/A",
+        "solutionUrl": "../Solutions/A_Sum.cpp"
+    },
+    {
+        "problemName": "Presents",
+        "problemId": "136A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/136/A",
+        "solutionUrl": "../Solutions/A.%20Presents.cpp"
+    },
+    {
+        "problemName": "Sereja and Dima",
+        "problemId": "381A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/381/problem/A",
+        "solutionUrl": "../Solutions/A_Sereja_and_Dima.cpp"
+    },
+    {
+        "problemName": "In Search of an Easy Problem",
+        "problemId": "1030A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1030/A",
+        "solutionUrl": "../Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp"
+    },
+    {
+        "problemName": "Bit++",
+        "problemId": "282A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/282/A",
+        "solutionUrl": "../Solutions/A.%20Bit%2B%2B.cpp"
+    },
+    {
+        "problemName": "I Wanna Be the Guy",
+        "problemId": "469A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/469/A",
+        "solutionUrl": "../Solutions/A.%20I%20Wanna%20Be%20the%20Guy.cpp"
+    },
+    {
+        "problemName": "Vanya and Fence",
+        "problemId": "677A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/677/A",
+        "solutionUrl": "../Solutions/A.%20Vanya%20and%20Fence.cpp"
+    },
+    {
+        "problemName": "MEX Partition",
+        "problemId": "2160A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2160/A",
+        "solutionUrl": "../Solutions/A_MEX_Partition.cpp"
+    },
+    {
+        "problemName": "Anton and Polyhedrons",
+        "problemId": "785A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/785/A",
+        "solutionUrl": "../Solutions/A_Anton_and_Polyhedrons.cpp"
+    },
+    {
+        "problemName": "Magnets",
+        "problemId": "344A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/344/A",
+        "solutionUrl": "../Solutions/A.%20Magnets.cpp"
+    },
+    {
+        "problemName": "Calculating Function",
+        "problemId": "486A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/486/A",
+        "solutionUrl": "../Solutions/A.%20Calculating%20Function.cpp"
+    },
+    {
+        "problemName": "Ultra-Fast Mathematician",
+        "problemId": "61A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/61/A",
+        "solutionUrl": "../Solutions/A.%20Ultra-Fast%20Mathematician.cpp"
+    },
+    {
         "problemName": "Vanya and Fence",
         "problemId": "677A",
         "rating": 800,
@@ -8,6 +226,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/677/A",
         "solutionUrl": "../Solutions/A-Vanya-and-Fence.cpp"
+    },
+    {
+        "problemName": "Short Sort",
+        "problemId": "1873A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1873/A",
+        "solutionUrl": "../Solutions/A_Short_Sort.cpp"
     },
     {
         "problemName": "Anton and Danik",
@@ -21,44 +250,57 @@
         "solutionUrl": "../Solutions/A.%20Anton%20and%20Danik.cpp"
     },
     {
-        "problemName": "Bear and Big Brother",
-        "problemId": "791A",
+        "problemName": "Anton and Letters",
+        "problemId": "443A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/443/A",
+        "solutionUrl": "../Solutions/A_Anton_and_Letters.cpp"
+    },
+    {
+        "problemName": "Translation",
+        "problemId": "41A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/41/A",
+        "solutionUrl": "../Solutions/A.%20Translation.cpp"
+    },
+    {
+        "problemName": "Arrival of the General",
+        "problemId": "144A",
         "rating": 800,
         "tags": [
             "implementation"
         ],
-        "questionUrl": "https://codeforces.com/problemset/problem/791/A",
-        "solutionUrl": "../Solutions/A.%20Bear%20and%20Big%20Brother.cpp"
+        "questionUrl": "https://codeforces.com/problemset/problem/144/A",
+        "solutionUrl": "../Solutions/A_Arrival_of_the_General.cpp"
     },
     {
-        "problemName": "Beautiful Matrix",
-        "problemId": "263A",
+        "problemName": "Stones on the Table",
+        "problemId": "266A",
         "rating": 800,
         "tags": [
             "implementation"
         ],
-        "questionUrl": "https://codeforces.com/problemset/problem/263/A",
-        "solutionUrl": "../Solutions/A.%20Beautiful%20Matrix.cpp"
+        "questionUrl": "https://codeforces.com/problemset/problem/266/A",
+        "solutionUrl": "../Solutions/A.%20Stones%20on%20the%20Table.cpp"
     },
     {
-        "problemName": "Beautiful Year",
-        "problemId": "271A",
+        "problemName": "Team",
+        "problemId": "231A",
         "rating": 800,
         "tags": [
-            "brute force"
+            "brute force",
+            "greedy"
         ],
-        "questionUrl": "https://codeforces.com/problemset/problem/271/A",
-        "solutionUrl": "../Solutions/A.%20Beautiful%20Year.cpp"
-    },
-    {
-        "problemName": "Bit++",
-        "problemId": "282A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/282/A",
-        "solutionUrl": "../Solutions/A.%20Bit%2B%2B.cpp"
+        "questionUrl": "https://codeforces.com/problemset/problem/231/A",
+        "solutionUrl": "../Solutions/A.%20Team.cpp"
     },
     {
         "problemName": "Boy or Girl",
@@ -73,15 +315,177 @@
         "solutionUrl": "../Solutions/A.%20Boy%20or%20Girl.cpp"
     },
     {
-        "problemName": "Calculating Function",
-        "problemId": "486A",
+        "problemName": "Elephant",
+        "problemId": "617A",
         "rating": 800,
         "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/617/A",
+        "solutionUrl": "../Solutions/A.%20Sum%20of%202050.cpp"
+    },
+    {
+        "problemName": "Bear and Big Brother",
+        "problemId": "791A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/791/A",
+        "solutionUrl": "../Solutions/A.%20Bear%20and%20Big%20Brother.cpp"
+    },
+    {
+        "problemName": "Soldier and Bananas",
+        "problemId": "546A",
+        "rating": 800,
+        "tags": [
+            "brute force",
             "implementation",
             "math"
         ],
-        "questionUrl": "https://codeforces.com/problemset/problem/486/A",
-        "solutionUrl": "../Solutions/A.%20Calculating%20Function.cpp"
+        "questionUrl": "https://codeforces.com/problemset/problem/546/A",
+        "solutionUrl": "../Solutions/A.%20Soldier%20and%20Bananas.cpp"
+    },
+    {
+        "problemName": "Games",
+        "problemId": "268A",
+        "rating": 800,
+        "tags": [
+            "brute force"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/268/A",
+        "solutionUrl": "../Solutions/A_Games.cpp"
+    },
+    {
+        "problemName": "Digits Sum",
+        "problemId": "1553A",
+        "rating": 800,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1553/A",
+        "solutionUrl": "../Solutions/A_Digits_Sum.cpp"
+    },
+    {
+        "problemName": "GCD Sum",
+        "problemId": "1498A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1498/A",
+        "solutionUrl": "../Solutions/GCD-Sum.cpp"
+    },
+    {
+        "problemName": "Petya and Strings",
+        "problemId": "112A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/112/A",
+        "solutionUrl": "../Solutions/A.%20Petya%20and%20Strings.cpp"
+    },
+    {
+        "problemName": "Elephant",
+        "problemId": "617A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/617/A",
+        "solutionUrl": "../Solutions/A.%20Elephant.cpp"
+    },
+    {
+        "problemName": "Codeforces Checking",
+        "problemId": "1791A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1791/A",
+        "solutionUrl": "../Solutions/A_Codeforces_Checking.cpp"
+    },
+    {
+        "problemName": "Good Kid",
+        "problemId": "1873B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1873/problem/B",
+        "solutionUrl": "../Solutions/B_Good_Kid.cpp"
+    },
+    {
+        "problemName": "Lucky?",
+        "problemId": "1676A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1676/A",
+        "solutionUrl": "../Solutions/A_Lucky.cpp"
+    },
+    {
+        "problemName": "Watermelon",
+        "problemId": "4A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/4/A",
+        "solutionUrl": "../Solutions/A.%20Watermelon.cpp"
+    },
+    {
+        "problemName": "Hit the Lottery",
+        "problemId": "996A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/996/A",
+        "solutionUrl": "../Solutions/A_Hit_the_Lottery.cpp"
+    },
+    {
+        "problemName": "Candies and Two Sisters",
+        "problemId": "1335A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1335/A",
+        "solutionUrl": "../Solutions/A_Candies_and_Two_Sisters.cpp"
+    },
+    {
+        "problemName": "Insomnia cure",
+        "problemId": "148A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/148/A",
+        "solutionUrl": "../Solutions/A_Insomnia_cure.cpp"
+    },
+    {
+        "problemName": "Word Capitalization",
+        "problemId": "281A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/281/A",
+        "solutionUrl": "../Solutions/A.%20Word%20Capitalization.cpp"
     },
     {
         "problemName": "Divisibility Problem",
@@ -105,205 +509,6 @@
         "solutionUrl": "../Solutions/A.%20Domino%20piling.cpp"
     },
     {
-        "problemName": "Elephant",
-        "problemId": "617A",
-        "rating": 800,
-        "tags": [
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/617/A",
-        "solutionUrl": "../Solutions/A.%20Elephant.cpp"
-    },
-    {
-        "problemName": "George and Accommodation",
-        "problemId": "467A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/467/A",
-        "solutionUrl": "../Solutions/A.%20George%20and%20Accommodation.cpp"
-    },
-    {
-        "problemName": "I Wanna Be the Guy",
-        "problemId": "469A",
-        "rating": 800,
-        "tags": [
-            "greedy",
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/469/A",
-        "solutionUrl": "../Solutions/A.%20I%20Wanna%20Be%20the%20Guy.cpp"
-    },
-    {
-        "problemName": "In Search of an Easy Problem",
-        "problemId": "1030A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1030/A",
-        "solutionUrl": "../Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp"
-    },
-    {
-        "problemName": "Magnets",
-        "problemId": "344A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/344/A",
-        "solutionUrl": "../Solutions/A.%20Magnets.cpp"
-    },
-    {
-        "problemName": "Nearly Lucky Number",
-        "problemId": "110A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/110/A",
-        "solutionUrl": "../Solutions/A.%20Nearly%20Lucky%20Number.cpp"
-    },
-    {
-        "problemName": "Next Round",
-        "problemId": "158A",
-        "rating": 800,
-        "tags": [
-            "*special",
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/158/A",
-        "solutionUrl": "../Solutions/A.%20Next%20Round.cpp"
-    },
-    {
-        "problemName": "Pangram",
-        "problemId": "520A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/520/A",
-        "solutionUrl": "../Solutions/A.%20Pangram.cpp"
-    },
-    {
-        "problemName": "Petya and Strings",
-        "problemId": "112A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/112/A",
-        "solutionUrl": "../Solutions/A.%20Petya%20and%20Strings.cpp"
-    },
-    {
-        "problemName": "Presents",
-        "problemId": "136A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/136/A",
-        "solutionUrl": "../Solutions/A.%20Presents.cpp"
-    },
-    {
-        "problemName": "Soldier and Bananas",
-        "problemId": "546A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "implementation",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/546/A",
-        "solutionUrl": "../Solutions/A.%20Soldier%20and%20Bananas.cpp"
-    },
-    {
-        "problemName": "Stones on the Table",
-        "problemId": "266A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/266/A",
-        "solutionUrl": "../Solutions/A.%20Stones%20on%20the%20Table.cpp"
-    },
-    {
-        "problemName": "Elephant",
-        "problemId": "617A",
-        "rating": 800,
-        "tags": [
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/617/A",
-        "solutionUrl": "../Solutions/A.%20Sum%20of%202050.cpp"
-    },
-    {
-        "problemName": "Team",
-        "problemId": "231A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "greedy"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/231/A",
-        "solutionUrl": "../Solutions/A.%20Team.cpp"
-    },
-    {
-        "problemName": "Tram",
-        "problemId": "116A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/116/A",
-        "solutionUrl": "../Solutions/A.%20Tram.cpp"
-    },
-    {
-        "problemName": "Translation",
-        "problemId": "41A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/41/A",
-        "solutionUrl": "../Solutions/A.%20Translation.cpp"
-    },
-    {
-        "problemName": "Ultra-Fast Mathematician",
-        "problemId": "61A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/61/A",
-        "solutionUrl": "../Solutions/A.%20Ultra-Fast%20Mathematician.cpp"
-    },
-    {
-        "problemName": "Vanya and Fence",
-        "problemId": "677A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/677/A",
-        "solutionUrl": "../Solutions/A.%20Vanya%20and%20Fence.cpp"
-    },
-    {
-        "problemName": "Watermelon",
-        "problemId": "4A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/4/A",
-        "solutionUrl": "../Solutions/A.%20Watermelon.cpp"
-    },
-    {
         "problemName": "Way Too Long Words",
         "problemId": "71A",
         "rating": 800,
@@ -312,91 +517,6 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/71/A",
         "solutionUrl": "../Solutions/A.%20Way%20Too%20Long%20Words.cpp"
-    },
-    {
-        "problemName": "Word Capitalization",
-        "problemId": "281A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/281/A",
-        "solutionUrl": "../Solutions/A.%20Word%20Capitalization.cpp"
-    },
-    {
-        "problemName": "Anton and Letters",
-        "problemId": "443A",
-        "rating": 800,
-        "tags": [
-            "constructive algorithms",
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/443/A",
-        "solutionUrl": "../Solutions/A_Anton_and_Letters.cpp"
-    },
-    {
-        "problemName": "Anton and Polyhedrons",
-        "problemId": "785A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/785/A",
-        "solutionUrl": "../Solutions/A_Anton_and_Polyhedrons.cpp"
-    },
-    {
-        "problemName": "Arrival of the General",
-        "problemId": "144A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/144/A",
-        "solutionUrl": "../Solutions/A_Arrival_of_the_General.cpp"
-    },
-    {
-        "problemName": "Candies and Two Sisters",
-        "problemId": "1335A",
-        "rating": 800,
-        "tags": [
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1335/A",
-        "solutionUrl": "../Solutions/A_Candies_and_Two_Sisters.cpp"
-    },
-    {
-        "problemName": "Codeforces Checking",
-        "problemId": "1791A",
-        "rating": 800,
-        "tags": [
-            "implementation",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1791/A",
-        "solutionUrl": "../Solutions/A_Codeforces_Checking.cpp"
-    },
-    {
-        "problemName": "Digits Sum",
-        "problemId": "1553A",
-        "rating": 800,
-        "tags": [
-            "math",
-            "number theory"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1553/A",
-        "solutionUrl": "../Solutions/A_Digits_Sum.cpp"
-    },
-    {
-        "problemName": "A Four Coprimes",
-        "problemId": "644977A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/gym/644977/problem/A",
-        "solutionUrl": "../Solutions/A_Four_Coprimes.cpp"
     },
     {
         "problemName": "Fox And Snake",
@@ -409,134 +529,14 @@
         "solutionUrl": "../Solutions/A_Fox_And_Snake.cpp"
     },
     {
-        "problemName": "Games",
-        "problemId": "268A",
-        "rating": 800,
-        "tags": [
-            "brute force"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/268/A",
-        "solutionUrl": "../Solutions/A_Games.cpp"
-    },
-    {
-        "problemName": "Hit the Lottery",
-        "problemId": "996A",
-        "rating": 800,
-        "tags": [
-            "dp",
-            "greedy"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/996/A",
-        "solutionUrl": "../Solutions/A_Hit_the_Lottery.cpp"
-    },
-    {
-        "problemName": "Insomnia cure",
-        "problemId": "148A",
-        "rating": 800,
-        "tags": [
-            "constructive algorithms",
-            "implementation",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/148/A",
-        "solutionUrl": "../Solutions/A_Insomnia_cure.cpp"
-    },
-    {
-        "problemName": "Lucky?",
-        "problemId": "1676A",
+        "problemName": "I The Youngest in ASZoo",
+        "problemId": "105940I",
         "rating": 800,
         "tags": [
             "implementation"
         ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1676/A",
-        "solutionUrl": "../Solutions/A_Lucky.cpp"
-    },
-    {
-        "problemName": "Mahmoud and Ehab and the even-odd game",
-        "problemId": "959A",
-        "rating": 800,
-        "tags": [
-            "games",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/959/A",
-        "solutionUrl": "../Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp"
-    },
-    {
-        "problemName": "MEX Partition",
-        "problemId": "2160A",
-        "rating": 800,
-        "tags": [
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/2160/A",
-        "solutionUrl": "../Solutions/A_MEX_Partition.cpp"
-    },
-    {
-        "problemName": "Sereja and Dima",
-        "problemId": "381A",
-        "rating": 800,
-        "tags": [
-            "greedy",
-            "implementation",
-            "two pointers"
-        ],
-        "questionUrl": "https://codeforces.com/contest/381/problem/A",
-        "solutionUrl": "../Solutions/A_Sereja_and_Dima.cpp"
-    },
-    {
-        "problemName": "Short Sort",
-        "problemId": "1873A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1873/A",
-        "solutionUrl": "../Solutions/A_Short_Sort.cpp"
-    },
-    {
-        "problemName": "Sum",
-        "problemId": "1742A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1742/A",
-        "solutionUrl": "../Solutions/A_Sum.cpp"
-    },
-    {
-        "problemName": "Good Kid",
-        "problemId": "1873B",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "greedy",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/contest/1873/problem/B",
-        "solutionUrl": "../Solutions/B_Good_Kid.cpp"
-    },
-    {
-        "problemName": "GCD Sum",
-        "problemId": "1498A",
-        "rating": 800,
-        "tags": [
-            "brute force",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1498/A",
-        "solutionUrl": "../Solutions/GCD-Sum.cpp"
-    },
-    {
-        "problemName": "C Echoes of the Runes",
-        "problemId": "105981C",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/gym/105981/problem/C",
-        "solutionUrl": "../Gyms/C_Echoes_of_the_Runes.cpp"
+        "questionUrl": "https://codeforces.com/gym/105940/problem/I",
+        "solutionUrl": "../Gyms/I_The_Youngest_in_ASZoo.cpp"
     },
     {
         "problemName": "G Cheetahs Hunting Deers Easy",
@@ -549,34 +549,14 @@
         "solutionUrl": "../Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp"
     },
     {
-        "problemName": "I The Youngest in ASZoo",
-        "problemId": "105940I",
+        "problemName": "C Echoes of the Runes",
+        "problemId": "105981C",
         "rating": 800,
         "tags": [
             "implementation"
         ],
-        "questionUrl": "https://codeforces.com/gym/105940/problem/I",
-        "solutionUrl": "../Gyms/I_The_Youngest_in_ASZoo.cpp"
-    },
-    {
-        "problemName": "A Winter Sale",
-        "problemId": "326175A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A",
-        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp"
-    },
-    {
-        "problemName": "A Say Hello With C",
-        "problemId": "219158A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
-        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
+        "questionUrl": "https://codeforces.com/gym/105981/problem/C",
+        "solutionUrl": "../Gyms/C_Echoes_of_the_Runes.cpp"
     },
     {
         "problemName": "B Basic Data Types",
@@ -589,6 +569,26 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/B_Basic_Data_Types.cpp"
     },
     {
+        "problemName": "A Say Hello With C",
+        "problemId": "219158A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
+    },
+    {
+        "problemName": "A Winter Sale",
+        "problemId": "326175A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp"
+    },
+    {
         "problemName": "C Simple Calculator",
         "problemId": "219158C",
         "rating": 800,
@@ -597,17 +597,6 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp"
-    },
-    {
-        "problemName": "Long Comparison",
-        "problemId": "1613A",
-        "rating": 900,
-        "tags": [
-            "implementation",
-            "math"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/1613/A",
-        "solutionUrl": "../Solutions/A-Long-Comparison.cpp"
     },
     {
         "problemName": "Odd Divisor",
@@ -619,6 +608,28 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1475/A",
         "solutionUrl": "../Solutions/A-Odd-Divisor.cpp"
+    },
+    {
+        "problemName": "Burenka Plays with Fractions",
+        "problemId": "1720A",
+        "rating": 900,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1720/problem/A",
+        "solutionUrl": "../Solutions/A_Burenka_Plays_with_Fractions.cpp"
+    },
+    {
+        "problemName": "Long Comparison",
+        "problemId": "1613A",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1613/A",
+        "solutionUrl": "../Solutions/A-Long-Comparison.cpp"
     },
     {
         "problemName": "Football",
@@ -644,28 +655,6 @@
         "solutionUrl": "../Solutions/A_ABC_String.cpp"
     },
     {
-        "problemName": "Burenka Plays with Fractions",
-        "problemId": "1720A",
-        "rating": 900,
-        "tags": [
-            "math",
-            "number theory"
-        ],
-        "questionUrl": "https://codeforces.com/contest/1720/problem/A",
-        "solutionUrl": "../Solutions/A_Burenka_Plays_with_Fractions.cpp"
-    },
-    {
-        "problemName": "Chat room",
-        "problemId": "58A",
-        "rating": 1000,
-        "tags": [
-            "greedy",
-            "strings"
-        ],
-        "questionUrl": "https://codeforces.com/problemset/problem/58/A",
-        "solutionUrl": "../Solutions/A_Chat_room.cpp"
-    },
-    {
         "problemName": "Lucky Division",
         "problemId": "122A",
         "rating": 1000,
@@ -686,5 +675,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/118/A",
         "solutionUrl": "../Solutions/A_String_Task.cpp"
+    },
+    {
+        "problemName": "Chat room",
+        "problemId": "58A",
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/58/A",
+        "solutionUrl": "../Solutions/A_Chat_room.cpp"
     }
 ]
