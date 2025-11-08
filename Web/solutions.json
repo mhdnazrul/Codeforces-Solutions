@@ -41,6 +41,16 @@
         "solutionUrl": "../Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp"
     },
     {
+        "problemName": "Vlad and the Best of Five",
+        "problemId": "1926A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1926/problem/A",
+        "solutionUrl": "../Solutions/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp"
+    },
+    {
         "problemName": "Beautiful Matrix",
         "problemId": "263A",
         "rating": 800,
@@ -154,6 +164,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/469/A",
         "solutionUrl": "../Solutions/A.%20I%20Wanna%20Be%20the%20Guy.cpp"
+    },
+    {
+        "problemName": "Word",
+        "problemId": "59A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/59/A",
+        "solutionUrl": "../Solutions/A.%20Word.cpp"
     },
     {
         "problemName": "Vanya and Fence",
@@ -315,6 +336,16 @@
         "solutionUrl": "../Solutions/A.%20Boy%20or%20Girl.cpp"
     },
     {
+        "problemName": "Again Twenty Five!",
+        "problemId": "630A",
+        "rating": 800,
+        "tags": [
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/630/A",
+        "solutionUrl": "../Solutions/A_Again_Twenty_Five.cpp"
+    },
+    {
         "problemName": "Elephant",
         "problemId": "617A",
         "rating": 800,
@@ -355,6 +386,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/268/A",
         "solutionUrl": "../Solutions/A_Games.cpp"
+    },
+    {
+        "problemName": "Wrong Subtraction",
+        "problemId": "977A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/977/A",
+        "solutionUrl": "../Solutions/A.%20Wrong%20Subtraction.cpp"
     },
     {
         "problemName": "Digits Sum",
@@ -498,6 +539,16 @@
         "solutionUrl": "../Solutions/A.%20Divisibility%20Problem.cpp"
     },
     {
+        "problemName": "Is your horseshoe on the other hoof?",
+        "problemId": "228A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/228/A",
+        "solutionUrl": "../Solutions/A.Is%20your%20horseshoe%20on%20the%20other%20hoof.cpp"
+    },
+    {
         "problemName": "Next Round",
         "problemId": "158A",
         "rating": 800,
@@ -608,6 +659,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1475/A",
         "solutionUrl": "../Solutions/A-Odd-Divisor.cpp"
+    },
+    {
+        "problemName": "Tricky Sum",
+        "problemId": "598A",
+        "rating": 900,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/598/A",
+        "solutionUrl": "../Solutions/A_Tricky_Sum.cpp"
     },
     {
         "problemName": "Burenka Plays with Fractions",

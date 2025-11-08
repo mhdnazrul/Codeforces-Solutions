@@ -3,10 +3,10 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 65
+* **Total Problems Solved:** 71
 * **Solved by Difficulty:**
- * **800:** 57 problems
- * **900:** 5 problems
+ * **800:** 62 problems
+ * **900:** 6 problems
  * **1000:** 3 problems
 
 ---
@@ -19,6 +19,7 @@
 | 116A | Tram | 800 | implementation | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](./Solutions/A.%20Tram.cpp) |
 | 467A | George and Accommodation | 800 | implementation | [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](./Solutions/A.%20George%20and%20Accommodation.cpp) |
 | 959A | Mahmoud and Ehab and the even-odd game | 800 | games, math | [Question](https://codeforces.com/problemset/problem/959/A) | [Solution](./Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
+| 1926A | Vlad and the Best of Five | 800 | implementation | [Question](https://codeforces.com/contest/1926/problem/A) | [Solution](./Solutions/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp) |
 | 263A | Beautiful Matrix | 800 | implementation | [Question](https://codeforces.com/problemset/problem/263/A) | [Solution](./Solutions/A.%20Beautiful%20Matrix.cpp) |
 | 520A | Pangram | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/520/A) | [Solution](./Solutions/A.%20Pangram.cpp) |
 | 158A | Next Round | 800 | *special, implementation | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](./Solutions/A.%20Next%20Round.cpp) |
@@ -30,6 +31,7 @@
 | 1030A | In Search of an Easy Problem | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1030/A) | [Solution](./Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) |
 | 282A | Bit++ | 800 | implementation | [Question](https://codeforces.com/problemset/problem/282/A) | [Solution](./Solutions/A.%20Bit%2B%2B.cpp) |
 | 469A | I Wanna Be the Guy | 800 | greedy, implementation | [Question](https://codeforces.com/problemset/problem/469/A) | [Solution](./Solutions/A.%20I%20Wanna%20Be%20the%20Guy.cpp) |
+| 59A | Word | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](./Solutions/A.%20Word.cpp) |
 | 677A | Vanya and Fence | 800 | implementation | [Question](https://codeforces.com/problemset/problem/677/A) | [Solution](./Solutions/A.%20Vanya%20and%20Fence.cpp) |
 | 2160A | MEX Partition | 800 | math | [Question](https://codeforces.com/problemset/problem/2160/A) | [Solution](./Solutions/A_MEX_Partition.cpp) |
 | 785A | Anton and Polyhedrons | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/785/A) | [Solution](./Solutions/A_Anton_and_Polyhedrons.cpp) |
@@ -45,10 +47,12 @@
 | 266A | Stones on the Table | 800 | implementation | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](./Solutions/A.%20Stones%20on%20the%20Table.cpp) |
 | 231A | Team | 800 | brute force, greedy | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](./Solutions/A.%20Team.cpp) |
 | 236A | Boy or Girl | 800 | brute force, implementation, strings | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](./Solutions/A.%20Boy%20or%20Girl.cpp) |
+| 630A | Again Twenty Five! | 800 | number theory | [Question](https://codeforces.com/problemset/problem/630/A) | [Solution](./Solutions/A_Again_Twenty_Five.cpp) |
 | 617A | Elephant | 800 | math | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](./Solutions/A.%20Sum%20of%202050.cpp) |
 | 791A | Bear and Big Brother | 800 | implementation | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](./Solutions/A.%20Bear%20and%20Big%20Brother.cpp) |
 | 546A | Soldier and Bananas | 800 | brute force, implementation, math | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](./Solutions/A.%20Soldier%20and%20Bananas.cpp) |
 | 268A | Games | 800 | brute force | [Question](https://codeforces.com/problemset/problem/268/A) | [Solution](./Solutions/A_Games.cpp) |
+| 977A | Wrong Subtraction | 800 | implementation | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](./Solutions/A.%20Wrong%20Subtraction.cpp) |
 | 1553A | Digits Sum | 800 | math, number theory | [Question](https://codeforces.com/problemset/problem/1553/A) | [Solution](./Solutions/A_Digits_Sum.cpp) |
 | 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
 | 112A | Petya and Strings | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](./Solutions/A.%20Petya%20and%20Strings.cpp) |
@@ -62,6 +66,7 @@
 | 148A | Insomnia cure | 800 | constructive algorithms, implementation, math | [Question](https://codeforces.com/problemset/problem/148/A) | [Solution](./Solutions/A_Insomnia_cure.cpp) |
 | 281A | Word Capitalization | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/281/A) | [Solution](./Solutions/A.%20Word%20Capitalization.cpp) |
 | 1328A | Divisibility Problem | 800 | math | [Question](https://codeforces.com/problemset/problem/1328/A) | [Solution](./Solutions/A.%20Divisibility%20Problem.cpp) |
+| 228A | Is your horseshoe on the other hoof? | 800 | implementation | [Question](https://codeforces.com/problemset/problem/228/A) | [Solution](./Solutions/A.Is%20your%20horseshoe%20on%20the%20other%20hoof.cpp) |
 | 158A | Next Round | 800 | *special, implementation | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](./Solutions/A.%20Domino%20piling.cpp) |
 | 71A | Way Too Long Words | 800 | strings | [Question](https://codeforces.com/problemset/problem/71/A) | [Solution](./Solutions/A.%20Way%20Too%20Long%20Words.cpp) |
 | 510A | Fox And Snake | 800 | implementation | [Question](https://codeforces.com/problemset/problem/510/A) | [Solution](./Solutions/A_Fox_And_Snake.cpp) |
@@ -73,6 +78,7 @@
 | 326175A | A Winter Sale | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution](./Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp) |
 | 219158C | C Simple Calculator | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Solution](./Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp) |
 | 1475A | Odd Divisor | 900 | math, number theory | [Question](https://codeforces.com/problemset/problem/1475/A) | [Solution](./Solutions/A-Odd-Divisor.cpp) |
+| 598A | Tricky Sum | 900 | math | [Question](https://codeforces.com/problemset/problem/598/A) | [Solution](./Solutions/A_Tricky_Sum.cpp) |
 | 1720A | Burenka Plays with Fractions | 900 | math, number theory | [Question](https://codeforces.com/contest/1720/problem/A) | [Solution](./Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | implementation, math | [Question](https://codeforces.com/problemset/problem/1613/A) | [Solution](./Solutions/A-Long-Comparison.cpp) |
 | 96A | Football | 900 | implementation, strings | [Question](https://codeforces.com/problemset/problem/96/A) | [Solution](./Solutions/A.%20Football.cpp) |
