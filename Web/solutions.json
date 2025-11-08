@@ -1,5 +1,16 @@
 [
     {
+        "problemName": "Notelock",
+        "problemId": "2154A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2154/problem/A",
+        "solutionUrl": "../Solutions/A_Notelock.cpp"
+    },
+    {
         "problemName": "A Four Coprimes",
         "problemId": "644977A",
         "rating": 800,
@@ -41,6 +52,27 @@
         "solutionUrl": "../Solutions/A_Sum_of_Round_Numbers.cpp"
     },
     {
+        "problemName": "Maple and Multiplication",
+        "problemId": "2139A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2139/A",
+        "solutionUrl": "../Solutions/A.%20Maple%20and%20Multiplication.cpp"
+    },
+    {
+        "problemName": "Trippi Troppi",
+        "problemId": "2094A",
+        "rating": 800,
+        "tags": [
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2094/A",
+        "solutionUrl": "../Solutions/A_TrippiTroppi.cpp"
+    },
+    {
         "problemName": "Anton and Danik",
         "problemId": "734A",
         "rating": 800,
@@ -63,6 +95,38 @@
         "solutionUrl": "../Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp"
     },
     {
+        "problemName": "Circle of Apple Trees",
+        "problemId": "2153A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2153/problem/A",
+        "solutionUrl": "../Solutions/A_Circle_of_Apple_Trees.cpp"
+    },
+    {
+        "problemName": "Beautiful Average",
+        "problemId": "2162A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2162/problem/A",
+        "solutionUrl": "../Solutions/A_Beautiful_Average.cpp"
+    },
+    {
+        "problemName": "Three Decks",
+        "problemId": "2104A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2104/A",
+        "solutionUrl": "../Solutions/A-Three-Decks.cpp"
+    },
+    {
         "problemName": "Vlad and the Best of Five",
         "problemId": "1926A",
         "rating": 800,
@@ -71,6 +135,18 @@
         ],
         "questionUrl": "https://codeforces.com/contest/1926/problem/A",
         "solutionUrl": "../Solutions/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp"
+    },
+    {
+        "problemName": "Mix Mex Max",
+        "problemId": "2127A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2127/A",
+        "solutionUrl": "../Solutions/A.%20Mix%20Mex%20Max.cpp"
     },
     {
         "problemName": "Bitwise Reversion",
@@ -84,6 +160,19 @@
         "solutionUrl": "../Solutions/B_Bitwise_Reversion.cpp"
     },
     {
+        "problemName": "Round Trip",
+        "problemId": "2161A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2161/problem/A",
+        "solutionUrl": "../Solutions/A_Round_Trip.cpp"
+    },
+    {
         "problemName": "Beautiful Matrix",
         "problemId": "263A",
         "rating": 800,
@@ -92,6 +181,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/263/A",
         "solutionUrl": "../Solutions/A.%20Beautiful%20Matrix.cpp"
+    },
+    {
+        "problemName": "Recycling Center",
+        "problemId": "2128A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2128/A",
+        "solutionUrl": "../Solutions/A.%20Recycling%20Center.cpp"
     },
     {
         "problemName": "Pangram",
@@ -166,6 +266,16 @@
         "solutionUrl": "../Solutions/B_Maximum_of_Maximums_of_Minimums.cpp"
     },
     {
+        "problemName": "Be Positive",
+        "problemId": "2149A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2149/problem/A",
+        "solutionUrl": "../Solutions/A.%20Be%20Positive.cpp"
+    },
+    {
         "problemName": "Sereja and Dima",
         "problemId": "381A",
         "rating": 800,
@@ -213,6 +323,30 @@
         "solutionUrl": "../Solutions/B.%20Drinks.cpp"
     },
     {
+        "problemName": "Redstone?",
+        "problemId": "2133A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2133/A",
+        "solutionUrl": "../Solutions/A.%20Redstone.cpp"
+    },
+    {
+        "problemName": "Sequence Game",
+        "problemId": "2164A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2164/problem/A",
+        "solutionUrl": "../Solutions/A_Sequence_Game.cpp"
+    },
+    {
         "problemName": "Bit++",
         "problemId": "282A",
         "rating": 800,
@@ -255,6 +389,17 @@
         "solutionUrl": "../Solutions/A.%20Vanya%20and%20Fence.cpp"
     },
     {
+        "problemName": "Collatz Conjecture",
+        "problemId": "2137A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2137/A",
+        "solutionUrl": "../Solutions/A.%20Collatz%20Conjecture.cpp"
+    },
+    {
         "problemName": "MEX Partition",
         "problemId": "2160A",
         "rating": 800,
@@ -274,6 +419,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/785/A",
         "solutionUrl": "../Solutions/A_Anton_and_Polyhedrons.cpp"
+    },
+    {
+        "problemName": "All Lengths Subtraction",
+        "problemId": "2143A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2143/problem/A",
+        "solutionUrl": "../Solutions/A.%20All%20Lengths%20Subtraction.cpp"
     },
     {
         "problemName": "Magnets",
@@ -308,6 +464,18 @@
         "solutionUrl": "../Solutions/A.%20Calculating%20Function.cpp"
     },
     {
+        "problemName": "Encode and Decode (Hard Version)",
+        "problemId": "2168A2",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "interactive",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2168/problem/A2",
+        "solutionUrl": "../Solutions/A_2_Encode_and_Decode_Hard_Version.cpp"
+    },
+    {
         "problemName": "Ultra-Fast Mathematician",
         "problemId": "61A",
         "rating": 800,
@@ -329,6 +497,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/2092/A",
         "solutionUrl": "../Solutions/Kamilka-and-the-Sheep.cpp"
+    },
+    {
+        "problemName": "Candies for Nephews",
+        "problemId": "2145A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2145/problem/A",
+        "solutionUrl": "../Solutions/A_Candies_for_Nephews.cpp"
     },
     {
         "problemName": "Vanya and Fence",
@@ -361,6 +539,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/734/A",
         "solutionUrl": "../Solutions/A.%20Anton%20and%20Danik.cpp"
+    },
+    {
+        "problemName": "A Sorted Identity",
+        "problemId": "1880A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1880/A",
+        "solutionUrl": "../Solutions/A-Sorted-Identity.cpp"
     },
     {
         "problemName": "Anton and Letters",
@@ -450,6 +638,17 @@
         "solutionUrl": "../Solutions/A.%20Boy%20or%20Girl.cpp"
     },
     {
+        "problemName": "El fucho",
+        "problemId": "2155A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2155/problem/A",
+        "solutionUrl": "../Solutions/A_El_fucho.cpp"
+    },
+    {
         "problemName": "Again Twenty Five!",
         "problemId": "630A",
         "rating": 800,
@@ -532,6 +731,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1498/A",
         "solutionUrl": "../Solutions/GCD-Sum.cpp"
+    },
+    {
+        "problemName": "Square?",
+        "problemId": "2167A",
+        "rating": 800,
+        "tags": [
+            "math",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2167/problem/A",
+        "solutionUrl": "../Solutions/A_Square.cpp"
     },
     {
         "problemName": "Petya and Strings",
@@ -690,6 +900,17 @@
         "solutionUrl": "../Solutions/Helpful-Maths.cpp"
     },
     {
+        "problemName": "Encode and Decode (Easy Version)",
+        "problemId": "2168A1",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "interactive"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2168/problem/A1",
+        "solutionUrl": "../Solutions/A_1_Encode_and_Decode_Easy_Version.cpp"
+    },
+    {
         "problemName": "Following Directions",
         "problemId": "1791B",
         "rating": 800,
@@ -701,6 +922,17 @@
         "solutionUrl": "../Solutions/B_Following_Directions.cpp"
     },
     {
+        "problemName": "Shortest Increasing Path",
+        "problemId": "2147A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2147/problem/A",
+        "solutionUrl": "../Solutions/A.%20Shortest%20Increasing%20Path.cpp"
+    },
+    {
         "problemName": "Divisibility Problem",
         "problemId": "1328A",
         "rating": 800,
@@ -709,6 +941,28 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1328/A",
         "solutionUrl": "../Solutions/A.%20Divisibility%20Problem.cpp"
+    },
+    {
+        "problemName": "A+B Again?",
+        "problemId": "1999A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1999/problem/A",
+        "solutionUrl": "../Solutions/A_A_B_Again.cpp"
+    },
+    {
+        "problemName": "Dr. TC",
+        "problemId": "2106A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2106/A",
+        "solutionUrl": "../Solutions/A-Dr-TC.cpp"
     },
     {
         "problemName": "Is your horseshoe on the other hoof?",
@@ -750,6 +1004,28 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/510/A",
         "solutionUrl": "../Solutions/A_Fox_And_Snake.cpp"
+    },
+    {
+        "problemName": "Submission is All You Need",
+        "problemId": "2130A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2130/A",
+        "solutionUrl": "../Solutions/A.%20Submission%20is%20All%20You%20Need.cpp"
+    },
+    {
+        "problemName": "Shift Sort",
+        "problemId": "2140A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2140/A",
+        "solutionUrl": "../Solutions/A.%20Shift%20Sort.cpp"
     },
     {
         "problemName": "I The Youngest in ASZoo",
