@@ -2,9 +2,12 @@ import os
 import json
 import re
 import requests
+import urllib.parse 
 from typing import Dict, Any, Optional, List
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, '..'))
+
 FOLDERS_TO_SCAN = [
     os.path.join(ROOT_DIR, 'Solutions'),
     os.path.join(ROOT_DIR, 'Gyms'),
@@ -20,6 +23,7 @@ ULTIMATE_REGEX = re.compile(
     r'|group/[^/]+/contest/(\d+)/problem/([A-Za-z]\d*)'
     r'))'
 )
+
 def fetch_problem_data() -> Dict[str, Dict[str, Any]]:
     print("Fetching Codeforces problem data from API...")
     problem_map = {}
@@ -41,6 +45,7 @@ def fetch_problem_data() -> Dict[str, Dict[str, Any]]:
     except requests.exceptions.RequestException as e:
         print(f"Error fetching API data: {e}")
     return problem_map
+
 def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -62,6 +67,7 @@ def parse_problem_link(file_path: str) -> Optional[Dict[str, str]]:
     except Exception as e:
         print(f"Error reading file {file_path}: {e}")
         return None
+
 def generate_readme(Solutions: List[Dict[str, Any]]):
     print(f"Generating {README_FILE}...")
    
@@ -74,17 +80,16 @@ def generate_readme(Solutions: List[Dict[str, Any]]):
             else:
                 rating_counts[rating] = 1
    
-    content = f"""## Codeforces Solution Archive [link](https://mhdnazrul.github.io/Codeforces-Solutions/) 
+    content = f"""## Codeforces Solution Archive [link](https://mhdnazrul.github.io/Codeforces-Solutions/)
 ### 📢 Find me on:
-- [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/) 
+- [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
 * **Total Problems Solved:** {len(Solutions)}
 * **Solved by Difficulty:**
 """
-    sorted_ratings = sorted(rating_counts.items())
-    for rating, count in sorted_ratings:
-        content += f" * **{rating}:** {count} problems\n"
+    for rating in sorted(rating_counts.keys()):
+        content += f" * **{rating}:** {rating_counts[rating]} problems\n"
     content += "\n---\n\n## 📋 Solution Index\n\n"
    
     content += "| Problem ID | Problem Name | Difficulty | Tags | Question | Solution |\n"
@@ -100,15 +105,18 @@ def generate_readme(Solutions: List[Dict[str, Any]]):
             tags = "N/A"
            
         question_url = sol.get('questionUrl', '#')
-        solution_url = sol.get('solutionUrl', '#').replace('../', './')
        
-        content += f"| {problem_id} | {problem_name} | {difficulty} | {tags} | [Question]({question_url}) | [Solution]({solution_url}) |\n"
+        raw_solution_url = sol.get('solutionUrl', '#')
+        readme_solution_path = raw_solution_url.replace('../', './')
+       
+        content += f"| {problem_id} | {problem_name} | {difficulty} | {tags} | [Question]({question_url}) | [Solution]({readme_solution_path}) |\n"
     try:
         with open(README_FILE, 'w', encoding='utf-8') as f:
             f.write(content)
         print(f"Successfully generated '{README_FILE}'")
     except Exception as e:
         print(f"Error writing {README_FILE}: {e}")
+
 def main():
     problem_data_map = fetch_problem_data()
     all_solutions = []
@@ -140,16 +148,18 @@ def main():
                         if not tags:
                             tags = ["implementation"]
                        
-                        solution_path = os.path.relpath(file_path, ROOT_DIR)
-                        web_path = solution_path.replace(os.sep, '/')
+                        rel_path = os.path.relpath(file_path, SCRIPT_DIR)
                        
+                        web_path_raw = rel_path.replace(os.sep, '/')
+                       
+                        web_path_encoded = urllib.parse.quote(web_path_raw, safe='/')
                         solution_entry = {
                             "problemName": problem_name,
                             "problemId": problem_id,
                             "rating": rating,
                             "tags": tags,
                             "questionUrl": url,
-                            "solutionUrl": f"./{web_path}"
+                            "solutionUrl": web_path_encoded 
                         }
                         all_solutions.append(solution_entry)
     all_solutions.sort(key=lambda x: (x['rating'] if x['rating'] is not None else 0))
@@ -161,5 +171,6 @@ def main():
     except Exception as e:
         print(f"Error writing JSON file: {e}")
     generate_readme(all_solutions)
+
 if __name__ == "__main__":
     main()
