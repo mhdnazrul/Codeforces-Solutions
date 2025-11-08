@@ -30,6 +30,28 @@
         "solutionUrl": "../Solutions/A.%20George%20and%20Accommodation.cpp"
     },
     {
+        "problemName": "Sum of Round Numbers",
+        "problemId": "1352A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1352/A",
+        "solutionUrl": "../Solutions/A_Sum_of_Round_Numbers.cpp"
+    },
+    {
+        "problemName": "Anton and Danik",
+        "problemId": "734A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/734/A",
+        "solutionUrl": "../Solutions/B-Anton-and-Danik.cpp"
+    },
+    {
         "problemName": "Mahmoud and Ehab and the even-odd game",
         "problemId": "959A",
         "rating": 800,
@@ -49,6 +71,17 @@
         ],
         "questionUrl": "https://codeforces.com/contest/1926/problem/A",
         "solutionUrl": "../Solutions/A.%20Vlad%20and%20the%20Best%20of%20Five.cpp"
+    },
+    {
+        "problemName": "Bitwise Reversion",
+        "problemId": "2153B",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2153/problem/B",
+        "solutionUrl": "../Solutions/B_Bitwise_Reversion.cpp"
     },
     {
         "problemName": "Beautiful Matrix",
@@ -123,6 +156,16 @@
         "solutionUrl": "../Solutions/A.%20Presents.cpp"
     },
     {
+        "problemName": "B Maximum of Maximums of Minimums",
+        "problemId": "872B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/872/problem/B",
+        "solutionUrl": "../Solutions/B_Maximum_of_Maximums_of_Minimums.cpp"
+    },
+    {
         "problemName": "Sereja and Dima",
         "problemId": "381A",
         "rating": 800,
@@ -135,6 +178,20 @@
         "solutionUrl": "../Solutions/A_Sereja_and_Dima.cpp"
     },
     {
+        "problemName": "Interesting Sum",
+        "problemId": "1720B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1720/problem/B",
+        "solutionUrl": "../Solutions/B_Interesting_Sum.cpp"
+    },
+    {
         "problemName": "In Search of an Easy Problem",
         "problemId": "1030A",
         "rating": 800,
@@ -143,6 +200,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1030/A",
         "solutionUrl": "../Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp"
+    },
+    {
+        "problemName": "Drinks",
+        "problemId": "200B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/200/B",
+        "solutionUrl": "../Solutions/B.%20Drinks.cpp"
     },
     {
         "problemName": "Bit++",
@@ -218,6 +286,17 @@
         "solutionUrl": "../Solutions/A.%20Magnets.cpp"
     },
     {
+        "problemName": "Draw a Square",
+        "problemId": "2074A",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2074/A",
+        "solutionUrl": "../Solutions/Draw-a-Square.cpp"
+    },
+    {
         "problemName": "Calculating Function",
         "problemId": "486A",
         "rating": 800,
@@ -237,6 +316,19 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/61/A",
         "solutionUrl": "../Solutions/A.%20Ultra-Fast%20Mathematician.cpp"
+    },
+    {
+        "problemName": "Kamilka and the Sheep",
+        "problemId": "2092A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2092/A",
+        "solutionUrl": "../Solutions/Kamilka-and-the-Sheep.cpp"
     },
     {
         "problemName": "Vanya and Fence",
@@ -291,6 +383,28 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/41/A",
         "solutionUrl": "../Solutions/A.%20Translation.cpp"
+    },
+    {
+        "problemName": "The Third Side",
+        "problemId": "2074B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2074/B",
+        "solutionUrl": "../Solutions/The-Third-Side.cpp"
+    },
+    {
+        "problemName": "Bear and Big Brother",
+        "problemId": "791A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/791/A",
+        "solutionUrl": "../Solutions/C-Bear-and-Big-Brother.cpp"
     },
     {
         "problemName": "Arrival of the General",
@@ -431,6 +545,17 @@
         "solutionUrl": "../Solutions/A.%20Petya%20and%20Strings.cpp"
     },
     {
+        "problemName": "Profitable Interest Rate",
+        "problemId": "2024A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2024/A",
+        "solutionUrl": "../Solutions/Profitable-Interest-Rate.cpp"
+    },
+    {
         "problemName": "Elephant",
         "problemId": "617A",
         "rating": 800,
@@ -464,6 +589,19 @@
         "solutionUrl": "../Solutions/B_Good_Kid.cpp"
     },
     {
+        "problemName": "Queue at the School",
+        "problemId": "266B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "graph matchings",
+            "implementation",
+            "shortest paths"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/266/B",
+        "solutionUrl": "../Solutions/B.%20Queue%20at%20the%20School.c.cpp"
+    },
+    {
         "problemName": "Lucky?",
         "problemId": "1676A",
         "rating": 800,
@@ -483,6 +621,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/4/A",
         "solutionUrl": "../Solutions/A.%20Watermelon.cpp"
+    },
+    {
+        "problemName": "Two Brackets",
+        "problemId": "1452C",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1452/problem/C",
+        "solutionUrl": "../Solutions/C_Two_Brackets.cpp"
     },
     {
         "problemName": "Hit the Lottery",
@@ -527,6 +675,30 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/281/A",
         "solutionUrl": "../Solutions/A.%20Word%20Capitalization.cpp"
+    },
+    {
+        "problemName": "Helpful Maths",
+        "problemId": "339A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/339/A",
+        "solutionUrl": "../Solutions/Helpful-Maths.cpp"
+    },
+    {
+        "problemName": "Following Directions",
+        "problemId": "1791B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1791/problem/B",
+        "solutionUrl": "../Solutions/B_Following_Directions.cpp"
     },
     {
         "problemName": "Divisibility Problem",
@@ -610,6 +782,16 @@
         "solutionUrl": "../Gyms/C_Echoes_of_the_Runes.cpp"
     },
     {
+        "problemName": "F Adding Bits",
+        "problemId": "326175F",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/F-Adding-Bits.cpp"
+    },
+    {
         "problemName": "B Basic Data Types",
         "problemId": "219158B",
         "rating": 800,
@@ -618,6 +800,16 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/B_Basic_Data_Types.cpp"
+    },
+    {
+        "problemName": "D Ali Baba and Puzzles",
+        "problemId": "326175D",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/D-Ali-Baba-and-Puzzles.cpp"
     },
     {
         "problemName": "A Say Hello With C",
@@ -640,6 +832,16 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp"
     },
     {
+        "problemName": "C Next Alphabet",
+        "problemId": "326175C",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/C-Next-Alphabet.cpp"
+    },
+    {
         "problemName": "C Simple Calculator",
         "problemId": "219158C",
         "rating": 800,
@@ -648,6 +850,26 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp"
+    },
+    {
+        "problemName": "B Memo and Momo",
+        "problemId": "326175B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/B-Memo-and-Momo.cpp"
+    },
+    {
+        "problemName": "E Interval Sweep",
+        "problemId": "326175E",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/E-Interval-Sweep.cpp"
     },
     {
         "problemName": "Odd Divisor",
@@ -671,6 +893,28 @@
         "solutionUrl": "../Solutions/A_Tricky_Sum.cpp"
     },
     {
+        "problemName": "Following the String",
+        "problemId": "1927B",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1927/B",
+        "solutionUrl": "../Solutions/B_Following_the_String.cpp"
+    },
+    {
+        "problemName": "Down with Brackets",
+        "problemId": "2110B",
+        "rating": 900,
+        "tags": [
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2110/B",
+        "solutionUrl": "../Solutions/B_Down_with_Brackets.cpp"
+    },
+    {
         "problemName": "Burenka Plays with Fractions",
         "problemId": "1720A",
         "rating": 900,
@@ -691,6 +935,20 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1613/A",
         "solutionUrl": "../Solutions/A-Long-Comparison.cpp"
+    },
+    {
+        "problemName": "Array Reodering",
+        "problemId": "1535B",
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1535/B",
+        "solutionUrl": "../Solutions/B-Array-Reodering.cpp"
     },
     {
         "problemName": "Football",
@@ -716,6 +974,16 @@
         "solutionUrl": "../Solutions/A_ABC_String.cpp"
     },
     {
+        "problemName": "Theatre Square",
+        "problemId": "1A",
+        "rating": 1000,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1/A",
+        "solutionUrl": "../Solutions/A_Theatre_Square.cpp"
+    },
+    {
         "problemName": "Lucky Division",
         "problemId": "122A",
         "rating": 1000,
@@ -725,6 +993,19 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/122/A",
         "solutionUrl": "../Solutions/A_Lucky_Division.cpp"
+    },
+    {
+        "problemName": "Lady Bug",
+        "problemId": "2092B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2092/B",
+        "solutionUrl": "../Solutions/Lady-Bug.cpp"
     },
     {
         "problemName": "String Task",
@@ -738,6 +1019,17 @@
         "solutionUrl": "../Solutions/A_String_Task.cpp"
     },
     {
+        "problemName": "cAPS lOCK",
+        "problemId": "131A",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/131/A",
+        "solutionUrl": "../Solutions/A_cAPS_lOCK.cpp"
+    },
+    {
         "problemName": "Chat room",
         "problemId": "58A",
         "rating": 1000,
@@ -749,6 +1041,51 @@
         "solutionUrl": "../Solutions/A_Chat_room.cpp"
     },
     {
+        "problemName": "Taxi",
+        "problemId": "158B",
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/158/B",
+        "solutionUrl": "../Solutions/B_Taxi.cpp"
+    },
+    {
+        "problemName": "Distinct Elements",
+        "problemId": "2160B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2160/problem/B",
+        "solutionUrl": "../Solutions/B_Distinct_Elements.cpp"
+    },
+    {
+        "problemName": "IQ test",
+        "problemId": "25A",
+        "rating": 1300,
+        "tags": [
+            "brute force"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/25/A",
+        "solutionUrl": "../Solutions/A_IQ_test.cpp"
+    },
+    {
+        "problemName": "Registration System",
+        "problemId": "4C",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "hashing",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/4/C",
+        "solutionUrl": "../Solutions/C_Registration_system.cpp"
+    },
+    {
         "problemName": "Powers Of Two",
         "problemId": "1095C",
         "rating": 1400,
@@ -758,5 +1095,15 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1095/C",
         "solutionUrl": "../Solutions/C_Powers_Of_Two.cpp"
+    },
+    {
+        "problemName": "Regular Bracket Sequence",
+        "problemId": "26B",
+        "rating": 1400,
+        "tags": [
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/26/B",
+        "solutionUrl": "../Solutions/B.%20Regular%20Bracket%20Sequence.cpp"
     }
 ]
