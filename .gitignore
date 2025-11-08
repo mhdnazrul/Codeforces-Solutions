@@ -1,4 +1,5 @@
 C++ Executable and object files
+branch=$(git branch --show-current) && git add . && git commit -m "Add Solution" && git pull --rebase origin $branch && git push origin $branch
 
 *.exe
 *.o

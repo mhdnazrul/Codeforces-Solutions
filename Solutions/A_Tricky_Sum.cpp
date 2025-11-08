@@ -8,7 +8,10 @@ void solve() {
     ll n;   cin>>n;
     ll total_sum = (n*(n+1))/2;
     ll p = 1, powerSum = 0;
-    while(p<=n){powerSum+=p; p*=2;}
+    while(p<=n){
+        powerSum+=p; 
+        p*=2;
+    }
     ll ans = total_sum - (2*powerSum);
     cout<<ans<<nl;
 }
