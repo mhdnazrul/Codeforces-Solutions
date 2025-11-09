@@ -194,6 +194,18 @@
         "solutionUrl": "../Solutions/A.%20Recycling%20Center.cpp"
     },
     {
+        "problemName": "Rebellion",
+        "problemId": "1746B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1746/problem/B",
+        "solutionUrl": "../Solutions/B_Rebellion.cpp"
+    },
+    {
         "problemName": "Pangram",
         "problemId": "520A",
         "rating": 800,

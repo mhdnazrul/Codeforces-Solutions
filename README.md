@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 128
+* **Total Problems Solved:** 129
 * **Solved by Difficulty:**
- * **800:** 107 problems
+ * **800:** 108 problems
  * **900:** 9 problems
  * **1000:** 6 problems
  * **1100:** 2 problems
@@ -36,6 +36,7 @@
 | 2161A | Round Trip | 800 | games, greedy, implementation, math | [Question](https://codeforces.com/contest/2161/problem/A) | [Solution](./Solutions/A_Round_Trip.cpp) |
 | 263A | Beautiful Matrix | 800 | implementation | [Question](https://codeforces.com/problemset/problem/263/A) | [Solution](./Solutions/A.%20Beautiful%20Matrix.cpp) |
 | 2128A | Recycling Center | 800 | greedy, sortings | [Question](https://codeforces.com/problemset/problem/2128/A) | [Solution](./Solutions/A.%20Recycling%20Center.cpp) |
+| 1746B | Rebellion | 800 | constructive algorithms, greedy, two pointers | [Question](https://codeforces.com/contest/1746/problem/B) | [Solution](./Solutions/B_Rebellion.cpp) |
 | 520A | Pangram | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/520/A) | [Solution](./Solutions/A.%20Pangram.cpp) |
 | 158A | Next Round | 800 | *special, implementation | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](./Solutions/A.%20Next%20Round.cpp) |
 | 110A | Nearly Lucky Number | 800 | implementation | [Question](https://codeforces.com/problemset/problem/110/A) | [Solution](./Solutions/A.%20Nearly%20Lucky%20Number.cpp) |
