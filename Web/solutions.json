@@ -52,6 +52,17 @@
         "solutionUrl": "../Solutions/A_Sum_of_Round_Numbers.cpp"
     },
     {
+        "problemName": "Unconventional Pairs",
+        "problemId": "2149B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2149/problem/B",
+        "solutionUrl": "../Solutions/B.%20Unconventional%20Pairs.cpp"
+    },
+    {
         "problemName": "Maple and Multiplication",
         "problemId": "2139A",
         "rating": 800,
@@ -71,6 +82,16 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/2094/A",
         "solutionUrl": "../Solutions/A_TrippiTroppi.cpp"
+    },
+    {
+        "problemName": "Cake Collection",
+        "problemId": "2139B",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2139/B",
+        "solutionUrl": "../Solutions/B.%20Cake%20Collection.cpp"
     },
     {
         "problemName": "Anton and Danik",
@@ -298,6 +319,20 @@
         ],
         "questionUrl": "https://codeforces.com/contest/381/problem/A",
         "solutionUrl": "../Solutions/A_Sereja_and_Dima.cpp"
+    },
+    {
+        "problemName": "Skibidus and Amog'u",
+        "problemId": "2065A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2065/A",
+        "solutionUrl": "../Solutions/A_Skibidus_and_Amog_u.cpp"
     },
     {
         "problemName": "Interesting Sum",
@@ -574,6 +609,17 @@
         "solutionUrl": "../Solutions/A_Anton_and_Letters.cpp"
     },
     {
+        "problemName": "Prepend and Append",
+        "problemId": "1791C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1791/problem/C",
+        "solutionUrl": "../Solutions/C_Prepend_and_Append.cpp"
+    },
+    {
         "problemName": "Translation",
         "problemId": "41A",
         "rating": 800,
@@ -691,6 +737,16 @@
         "solutionUrl": "../Solutions/A.%20Bear%20and%20Big%20Brother.cpp"
     },
     {
+        "problemName": "Ideal Generator",
+        "problemId": "2093A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2093/A",
+        "solutionUrl": "../Solutions/A_Ideal_Generator.cpp"
+    },
+    {
         "problemName": "Soldier and Bananas",
         "problemId": "546A",
         "rating": 800,
@@ -754,6 +810,19 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1498/A",
         "solutionUrl": "../Solutions/GCD-Sum.cpp"
+    },
+    {
+        "problemName": "Even Modulo Pair",
+        "problemId": "2164B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory",
+            "probabilities"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2164/problem/B",
+        "solutionUrl": "../Solutions/B_Even_Modulo_Pair.cpp"
     },
     {
         "problemName": "Square?",
@@ -856,6 +925,30 @@
         "solutionUrl": "../Solutions/A.%20Watermelon.cpp"
     },
     {
+        "problemName": "Isamatdin and His Magic Wand!",
+        "problemId": "2167C",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2167/problem/C",
+        "solutionUrl": "../Solutions/C_Isamatdin_and_His_Magic_Wand.cpp"
+    },
+    {
+        "problemName": "Your Name",
+        "problemId": "2167B",
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2167/problem/B",
+        "solutionUrl": "../Solutions/B_Your_Name.cpp"
+    },
+    {
         "problemName": "Two Brackets",
         "problemId": "1452C",
         "rating": 800,
@@ -921,6 +1014,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/339/A",
         "solutionUrl": "../Solutions/Helpful-Maths.cpp"
+    },
+    {
+        "problemName": "Bobritto Bandito",
+        "problemId": "2094B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2094/problem/B",
+        "solutionUrl": "../Solutions/B-Bobritto_Bandito.cpp"
     },
     {
         "problemName": "Encode and Decode (Easy Version)",
@@ -1247,6 +1351,39 @@
         "solutionUrl": "../Solutions/A-Long-Comparison.cpp"
     },
     {
+        "problemName": "Expensive Number",
+        "problemId": "2093B",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2093/B",
+        "solutionUrl": "../Solutions/B_Expensive_Number.cpp"
+    },
+    {
+        "problemName": "MEX rose",
+        "problemId": "2149C",
+        "rating": 900,
+        "tags": [
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2149/problem/C",
+        "solutionUrl": "../Solutions/C.%20MEX%20rose.cpp"
+    },
+    {
+        "problemName": "St. Chroma",
+        "problemId": "2106B",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2106/B",
+        "solutionUrl": "../Solutions/B-St-Chroma.cpp"
+    },
+    {
         "problemName": "Array Reodering",
         "problemId": "1535B",
         "rating": 900,
@@ -1305,6 +1442,52 @@
         "solutionUrl": "../Solutions/A_Lucky_Division.cpp"
     },
     {
+        "problemName": "Beautiful String",
+        "problemId": "2162B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "constructive algorithms"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2162/problem/B",
+        "solutionUrl": "../Solutions/B_Beautiful_String.cpp"
+    },
+    {
+        "problemName": "Card Game",
+        "problemId": "1999B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1999/problem/B",
+        "solutionUrl": "../Solutions/B_Card_Game.cpp"
+    },
+    {
+        "problemName": "Maximum Cost Permutation",
+        "problemId": "2144B",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2144/problem/B",
+        "solutionUrl": "../Solutions/B.%20Maximum%20Cost%20Permutation.cpp"
+    },
+    {
+        "problemName": "Cherry Bomb",
+        "problemId": "2106C",
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2106/C",
+        "solutionUrl": "../Solutions/C-Cherry-Bomb.cpp"
+    },
+    {
         "problemName": "Lady Bug",
         "problemId": "2092B",
         "rating": 1000,
@@ -1329,6 +1512,19 @@
         "solutionUrl": "../Solutions/A_String_Task.cpp"
     },
     {
+        "problemName": "Yet Another Array Problem",
+        "problemId": "2167D",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2167/problem/D",
+        "solutionUrl": "../Solutions/D_Yet_Another_Array_Problem.cpp"
+    },
+    {
         "problemName": "cAPS lOCK",
         "problemId": "131A",
         "rating": 1000,
@@ -1340,6 +1536,17 @@
         "solutionUrl": "../Solutions/A_cAPS_lOCK.cpp"
     },
     {
+        "problemName": "Simple Repetition",
+        "problemId": "2093C",
+        "rating": 1000,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2093/C",
+        "solutionUrl": "../Solutions/C_Simple_Repetition.cpp"
+    },
+    {
         "problemName": "Chat room",
         "problemId": "58A",
         "rating": 1000,
@@ -1349,6 +1556,30 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/58/A",
         "solutionUrl": "../Solutions/A_Chat_room.cpp"
+    },
+    {
+        "problemName": "Skibidus and Fanum Tax (easy version)",
+        "problemId": "2065C1",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2065/problem/C1",
+        "solutionUrl": "../Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp"
+    },
+    {
+        "problemName": "Beautiful XOR",
+        "problemId": "2162C",
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2162/problem/C",
+        "solutionUrl": "../Solutions/C_Beautiful_XOR.cpp"
     },
     {
         "problemName": "Taxi",
@@ -1372,6 +1603,62 @@
         ],
         "questionUrl": "https://codeforces.com/contest/2160/problem/B",
         "solutionUrl": "../Solutions/B_Distinct_Elements.cpp"
+    },
+    {
+        "problemName": "Merging the Sets",
+        "problemId": "2146B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2146/problem/B",
+        "solutionUrl": "../Solutions/B.%20Merging%20the%20Sets.cpp"
+    },
+    {
+        "problemName": "Pathless",
+        "problemId": "2130B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2130/problem/B",
+        "solutionUrl": "../Solutions/B.%20Pathless.cpp"
+    },
+    {
+        "problemName": "Maximum Even Sum",
+        "problemId": "2137C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2137/problem/C",
+        "solutionUrl": "../Solutions/C.%20Maximum%20Even%20Sum.cpp"
+    },
+    {
+        "problemName": "A and B",
+        "problemId": "2149D",
+        "rating": 1200,
+        "tags": [
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2149/problem/D",
+        "solutionUrl": "../Solutions/D.%20A%20and%20B.cpp"
+    },
+    {
+        "problemName": "Monocarp's String",
+        "problemId": "2145C",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2145/problem/C",
+        "solutionUrl": "../Solutions/C_Monocarp_s_String.cpp"
     },
     {
         "problemName": "IQ test",
@@ -1415,5 +1702,29 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/26/B",
         "solutionUrl": "../Solutions/B.%20Regular%20Bracket%20Sequence.cpp"
+    },
+    {
+        "problemName": "Flower Boy",
+        "problemId": "2106D",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/2106/D",
+        "solutionUrl": "../Solutions/D-Flower-Boy.cpp"
+    },
+    {
+        "problemName": "Mukhammadali and the Smooth Array",
+        "problemId": "2167G",
+        "rating": 1600,
+        "tags": [
+            "data structures",
+            "dp"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2167/problem/G",
+        "solutionUrl": "../Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp"
     }
 ]

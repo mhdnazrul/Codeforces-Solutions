@@ -3,14 +3,17 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 131
+* **Total Problems Solved:** 158
 * **Solved by Difficulty:**
- * **800:** 109 problems
- * **900:** 10 problems
- * **1000:** 6 problems
- * **1100:** 2 problems
- * **1300:** 2 problems
+ * **800:** 118 problems
+ * **900:** 13 problems
+ * **1000:** 12 problems
+ * **1100:** 7 problems
+ * **1200:** 1 problems
+ * **1300:** 3 problems
  * **1400:** 2 problems
+ * **1500:** 1 problems
+ * **1600:** 1 problems
 
 ---
 
@@ -23,8 +26,10 @@
 | 116A | Tram | 800 | implementation | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](./Solutions/A.%20Tram.cpp) |
 | 467A | George and Accommodation | 800 | implementation | [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](./Solutions/A.%20George%20and%20Accommodation.cpp) |
 | 1352A | Sum of Round Numbers | 800 | implementation, math | [Question](https://codeforces.com/problemset/problem/1352/A) | [Solution](./Solutions/A_Sum_of_Round_Numbers.cpp) |
+| 2149B | Unconventional Pairs | 800 | greedy, sortings | [Question](https://codeforces.com/contest/2149/problem/B) | [Solution](./Solutions/B.%20Unconventional%20Pairs.cpp) |
 | 2139A | Maple and Multiplication | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2139/A) | [Solution](./Solutions/A.%20Maple%20and%20Multiplication.cpp) |
 | 2094A | Trippi Troppi | 800 | strings | [Question](https://codeforces.com/problemset/problem/2094/A) | [Solution](./Solutions/A_TrippiTroppi.cpp) |
+| 2139B | Cake Collection | 800 | greedy | [Question](https://codeforces.com/problemset/problem/2139/B) | [Solution](./Solutions/B.%20Cake%20Collection.cpp) |
 | 734A | Anton and Danik | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](./Solutions/B-Anton-and-Danik.cpp) |
 | 959A | Mahmoud and Ehab and the even-odd game | 800 | games, math | [Question](https://codeforces.com/problemset/problem/959/A) | [Solution](./Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
 | 2153A | Circle of Apple Trees | 800 | greedy, sortings | [Question](https://codeforces.com/contest/2153/problem/A) | [Solution](./Solutions/A_Circle_of_Apple_Trees.cpp) |
@@ -46,6 +51,7 @@
 | 872B | B Maximum of Maximums of Minimums | 800 | implementation | [Question](https://codeforces.com/contest/872/problem/B) | [Solution](./Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 2149A | Be Positive | 800 | math | [Question](https://codeforces.com/contest/2149/problem/A) | [Solution](./Solutions/A.%20Be%20Positive.cpp) |
 | 381A | Sereja and Dima | 800 | greedy, implementation, two pointers | [Question](https://codeforces.com/contest/381/problem/A) | [Solution](./Solutions/A_Sereja_and_Dima.cpp) |
+| 2065A | Skibidus and Amog'u | 800 | brute force, constructive algorithms, greedy, implementation, strings | [Question](https://codeforces.com/problemset/problem/2065/A) | [Solution](./Solutions/A_Skibidus_and_Amog_u.cpp) |
 | 1720B | Interesting Sum | 800 | brute force, data structures, greedy, math, sortings | [Question](https://codeforces.com/contest/1720/problem/B) | [Solution](./Solutions/B_Interesting_Sum.cpp) |
 | 1030A | In Search of an Easy Problem | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1030/A) | [Solution](./Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) |
 | 200B | Drinks | 800 | implementation, math | [Question](https://codeforces.com/problemset/problem/200/B) | [Solution](./Solutions/B.%20Drinks.cpp) |
@@ -71,6 +77,7 @@
 | 734A | Anton and Danik | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](./Solutions/A.%20Anton%20and%20Danik.cpp) |
 | 1880A | A Sorted Identity | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1880/A) | [Solution](./Solutions/A-Sorted-Identity.cpp) |
 | 443A | Anton and Letters | 800 | constructive algorithms, implementation | [Question](https://codeforces.com/problemset/problem/443/A) | [Solution](./Solutions/A_Anton_and_Letters.cpp) |
+| 1791C | Prepend and Append | 800 | implementation, two pointers | [Question](https://codeforces.com/contest/1791/problem/C) | [Solution](./Solutions/C_Prepend_and_Append.cpp) |
 | 41A | Translation | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/41/A) | [Solution](./Solutions/A.%20Translation.cpp) |
 | 2074B | The Third Side | 800 | geometry, greedy, math | [Question](https://codeforces.com/problemset/problem/2074/B) | [Solution](./Solutions/The-Third-Side.cpp) |
 | 791A | Bear and Big Brother | 800 | implementation | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](./Solutions/C-Bear-and-Big-Brother.cpp) |
@@ -82,12 +89,14 @@
 | 630A | Again Twenty Five! | 800 | number theory | [Question](https://codeforces.com/problemset/problem/630/A) | [Solution](./Solutions/A_Again_Twenty_Five.cpp) |
 | 617A | Elephant | 800 | math | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](./Solutions/A.%20Sum%20of%202050.cpp) |
 | 791A | Bear and Big Brother | 800 | implementation | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](./Solutions/A.%20Bear%20and%20Big%20Brother.cpp) |
+| 2093A | Ideal Generator | 800 | math | [Question](https://codeforces.com/problemset/problem/2093/A) | [Solution](./Solutions/A_Ideal_Generator.cpp) |
 | 546A | Soldier and Bananas | 800 | brute force, implementation, math | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](./Solutions/A.%20Soldier%20and%20Bananas.cpp) |
 | 268A | Games | 800 | brute force | [Question](https://codeforces.com/problemset/problem/268/A) | [Solution](./Solutions/A_Games.cpp) |
 | 977A | Wrong Subtraction | 800 | implementation | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](./Solutions/A.%20Wrong%20Subtraction.cpp) |
 | 1553A | Digits Sum | 800 | math, number theory | [Question](https://codeforces.com/problemset/problem/1553/A) | [Solution](./Solutions/A_Digits_Sum.cpp) |
 | 2163A | Souvlaki VS. Kalamaki | 800 | math, sortings | [Question](https://codeforces.com/contest/2163/problem/A) | [Solution](./Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
 | 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
+| 2164B | Even Modulo Pair | 800 | brute force, math, number theory, probabilities | [Question](https://codeforces.com/contest/2164/problem/B) | [Solution](./Solutions/B_Even_Modulo_Pair.cpp) |
 | 2167A | Square? | 800 | math, sortings | [Question](https://codeforces.com/contest/2167/problem/A) | [Solution](./Solutions/A_Square.cpp) |
 | 112A | Petya and Strings | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](./Solutions/A.%20Petya%20and%20Strings.cpp) |
 | 2024A | Profitable Interest Rate | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2024/A) | [Solution](./Solutions/Profitable-Interest-Rate.cpp) |
@@ -97,12 +106,15 @@
 | 266B | Queue at the School | 800 | constructive algorithms, graph matchings, implementation, shortest paths | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](./Solutions/B.%20Queue%20at%20the%20School.c.cpp) |
 | 1676A | Lucky? | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](./Solutions/A_Lucky.cpp) |
 | 4A | Watermelon | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](./Solutions/A.%20Watermelon.cpp) |
+| 2167C | Isamatdin and His Magic Wand! | 800 | constructive algorithms, greedy, implementation, sortings | [Question](https://codeforces.com/contest/2167/problem/C) | [Solution](./Solutions/C_Isamatdin_and_His_Magic_Wand.cpp) |
+| 2167B | Your Name | 800 | sortings, strings | [Question](https://codeforces.com/contest/2167/problem/B) | [Solution](./Solutions/B_Your_Name.cpp) |
 | 1452C | Two Brackets | 800 | greedy | [Question](https://codeforces.com/contest/1452/problem/C) | [Solution](./Solutions/C_Two_Brackets.cpp) |
 | 996A | Hit the Lottery | 800 | dp, greedy | [Question](https://codeforces.com/problemset/problem/996/A) | [Solution](./Solutions/A_Hit_the_Lottery.cpp) |
 | 1335A | Candies and Two Sisters | 800 | math | [Question](https://codeforces.com/problemset/problem/1335/A) | [Solution](./Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 148A | Insomnia cure | 800 | constructive algorithms, implementation, math | [Question](https://codeforces.com/problemset/problem/148/A) | [Solution](./Solutions/A_Insomnia_cure.cpp) |
 | 281A | Word Capitalization | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/281/A) | [Solution](./Solutions/A.%20Word%20Capitalization.cpp) |
 | 339A | Helpful Maths | 800 | greedy, implementation, sortings, strings | [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](./Solutions/Helpful-Maths.cpp) |
+| 2094B | Bobritto Bandito | 800 | brute force, constructive algorithms | [Question](https://codeforces.com/contest/2094/problem/B) | [Solution](./Solutions/B-Bobritto_Bandito.cpp) |
 | 2168A1 | Encode and Decode (Easy Version) | 800 | constructive algorithms, interactive | [Question](https://codeforces.com/contest/2168/problem/A1) | [Solution](./Solutions/A_1_Encode_and_Decode_Easy_Version.cpp) |
 | 1791B | Following Directions | 800 | geometry, implementation | [Question](https://codeforces.com/contest/1791/problem/B) | [Solution](./Solutions/B_Following_Directions.cpp) |
 | 2147A | Shortest Increasing Path | 800 | constructive algorithms, greedy | [Question](https://codeforces.com/contest/2147/problem/A) | [Solution](./Solutions/A.%20Shortest%20Increasing%20Path.cpp) |
@@ -134,18 +146,36 @@
 | 2110B | Down with Brackets | 900 | strings | [Question](https://codeforces.com/problemset/problem/2110/B) | [Solution](./Solutions/B_Down_with_Brackets.cpp) |
 | 1720A | Burenka Plays with Fractions | 900 | math, number theory | [Question](https://codeforces.com/contest/1720/problem/A) | [Solution](./Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | implementation, math | [Question](https://codeforces.com/problemset/problem/1613/A) | [Solution](./Solutions/A-Long-Comparison.cpp) |
+| 2093B | Expensive Number | 900 | greedy, math | [Question](https://codeforces.com/problemset/problem/2093/B) | [Solution](./Solutions/B_Expensive_Number.cpp) |
+| 2149C | MEX rose | 900 | greedy | [Question](https://codeforces.com/contest/2149/problem/C) | [Solution](./Solutions/C.%20MEX%20rose.cpp) |
+| 2106B | St. Chroma | 900 | constructive algorithms, greedy, math | [Question](https://codeforces.com/problemset/problem/2106/B) | [Solution](./Solutions/B-St-Chroma.cpp) |
 | 1535B | Array Reodering | 900 | brute force, greedy, math, number theory, sortings | [Question](https://codeforces.com/problemset/problem/1535/B) | [Solution](./Solutions/B-Array-Reodering.cpp) |
 | 96A | Football | 900 | implementation, strings | [Question](https://codeforces.com/problemset/problem/96/A) | [Solution](./Solutions/A.%20Football.cpp) |
 | 1494A | ABC String | 900 | bitmasks, brute force, implementation | [Question](https://codeforces.com/contest/1494/problem/A) | [Solution](./Solutions/A_ABC_String.cpp) |
 | 1A | Theatre Square | 1000 | math | [Question](https://codeforces.com/problemset/problem/1/A) | [Solution](./Solutions/A_Theatre_Square.cpp) |
 | 122A | Lucky Division | 1000 | brute force, number theory | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](./Solutions/A_Lucky_Division.cpp) |
+| 2162B | Beautiful String | 1000 | brute force, constructive algorithms | [Question](https://codeforces.com/contest/2162/problem/B) | [Solution](./Solutions/B_Beautiful_String.cpp) |
+| 1999B | Card Game | 1000 | brute force, constructive algorithms, implementation | [Question](https://codeforces.com/contest/1999/problem/B) | [Solution](./Solutions/B_Card_Game.cpp) |
+| 2144B | Maximum Cost Permutation | 1000 | constructive algorithms, greedy | [Question](https://codeforces.com/contest/2144/problem/B) | [Solution](./Solutions/B.%20Maximum%20Cost%20Permutation.cpp) |
+| 2106C | Cherry Bomb | 1000 | greedy, math, sortings | [Question](https://codeforces.com/problemset/problem/2106/C) | [Solution](./Solutions/C-Cherry-Bomb.cpp) |
 | 2092B | Lady Bug | 1000 | brute force, constructive algorithms, implementation, math | [Question](https://codeforces.com/problemset/problem/2092/B) | [Solution](./Solutions/Lady-Bug.cpp) |
 | 118A | String Task | 1000 | implementation, strings | [Question](https://codeforces.com/problemset/problem/118/A) | [Solution](./Solutions/A_String_Task.cpp) |
+| 2167D | Yet Another Array Problem | 1000 | brute force, implementation, math, number theory | [Question](https://codeforces.com/contest/2167/problem/D) | [Solution](./Solutions/D_Yet_Another_Array_Problem.cpp) |
 | 131A | cAPS lOCK | 1000 | implementation, strings | [Question](https://codeforces.com/problemset/problem/131/A) | [Solution](./Solutions/A_cAPS_lOCK.cpp) |
+| 2093C | Simple Repetition | 1000 | math, number theory | [Question](https://codeforces.com/problemset/problem/2093/C) | [Solution](./Solutions/C_Simple_Repetition.cpp) |
 | 58A | Chat room | 1000 | greedy, strings | [Question](https://codeforces.com/problemset/problem/58/A) | [Solution](./Solutions/A_Chat_room.cpp) |
+| 2065C1 | Skibidus and Fanum Tax (easy version) | 1100 | binary search, dp, greedy | [Question](https://codeforces.com/contest/2065/problem/C1) | [Solution](./Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp) |
+| 2162C | Beautiful XOR | 1100 | bitmasks, constructive algorithms, greedy | [Question](https://codeforces.com/contest/2162/problem/C) | [Solution](./Solutions/C_Beautiful_XOR.cpp) |
 | 158B | Taxi | 1100 | *special, greedy, implementation | [Question](https://codeforces.com/problemset/problem/158/B) | [Solution](./Solutions/B_Taxi.cpp) |
 | 2160B | Distinct Elements | 1100 | greedy, math | [Question](https://codeforces.com/contest/2160/problem/B) | [Solution](./Solutions/B_Distinct_Elements.cpp) |
+| 2146B | Merging the Sets | 1100 | greedy, implementation | [Question](https://codeforces.com/contest/2146/problem/B) | [Solution](./Solutions/B.%20Merging%20the%20Sets.cpp) |
+| 2130B | Pathless | 1100 | constructive algorithms | [Question](https://codeforces.com/contest/2130/problem/B) | [Solution](./Solutions/B.%20Pathless.cpp) |
+| 2137C | Maximum Even Sum | 1100 | brute force, greedy, implementation, math | [Question](https://codeforces.com/contest/2137/problem/C) | [Solution](./Solutions/C.%20Maximum%20Even%20Sum.cpp) |
+| 2149D | A and B | 1200 | strings | [Question](https://codeforces.com/contest/2149/problem/D) | [Solution](./Solutions/D.%20A%20and%20B.cpp) |
+| 2145C | Monocarp's String | 1300 | binary search, greedy, strings | [Question](https://codeforces.com/contest/2145/problem/C) | [Solution](./Solutions/C_Monocarp_s_String.cpp) |
 | 25A | IQ test | 1300 | brute force | [Question](https://codeforces.com/problemset/problem/25/A) | [Solution](./Solutions/A_IQ_test.cpp) |
 | 4C | Registration System | 1300 | data structures, hashing, implementation | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](./Solutions/C_Registration_system.cpp) |
 | 1095C | Powers Of Two | 1400 | bitmasks, greedy | [Question](https://codeforces.com/problemset/problem/1095/C) | [Solution](./Solutions/C_Powers_Of_Two.cpp) |
 | 26B | Regular Bracket Sequence | 1400 | greedy | [Question](https://codeforces.com/problemset/problem/26/B) | [Solution](./Solutions/B.%20Regular%20Bracket%20Sequence.cpp) |
+| 2106D | Flower Boy | 1500 | binary search, dp, greedy, two pointers | [Question](https://codeforces.com/problemset/problem/2106/D) | [Solution](./Solutions/D-Flower-Boy.cpp) |
+| 2167G | Mukhammadali and the Smooth Array | 1600 | data structures, dp | [Question](https://codeforces.com/contest/2167/problem/G) | [Solution](./Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp) |
