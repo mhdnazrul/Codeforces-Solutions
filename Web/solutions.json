@@ -1185,6 +1185,36 @@
         "solutionUrl": "../Gyms/C_Echoes_of_the_Runes.cpp"
     },
     {
+        "problemName": "S Interval",
+        "problemId": "219158S",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/S_Interval.cpp"
+    },
+    {
+        "problemName": "U Float or int",
+        "problemId": "219158U",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/U_Float_or_int.cpp"
+    },
+    {
+        "problemName": "W Mathematical Expression",
+        "problemId": "219158W",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/W_Mathematical_Expression.cpp"
+    },
+    {
         "problemName": "F Adding Bits",
         "problemId": "326175F",
         "rating": 800,
@@ -1193,6 +1223,26 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/F-Adding-Bits.cpp"
+    },
+    {
+        "problemName": "N Char",
+        "problemId": "219158N",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/N_Char.cpp"
+    },
+    {
+        "problemName": "E Area of a Circle",
+        "problemId": "219158E",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/E_Area_of_a_Circle.cpp"
     },
     {
         "problemName": "B Basic Data Types",
@@ -1215,6 +1265,96 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/D-Ali-Baba-and-Puzzles.cpp"
     },
     {
+        "problemName": "I Welcome for you with Conditions",
+        "problemId": "219158I",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/I_Welcome_for_you_with_Conditions.cpp"
+    },
+    {
+        "problemName": "L The Brothers",
+        "problemId": "219158L",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/L_The_Brothers.cpp"
+    },
+    {
+        "problemName": "T Sort Numbers",
+        "problemId": "219158T",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/T_Sort_Numbers.cpp"
+    },
+    {
+        "problemName": "J Multiples",
+        "problemId": "219158J",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/J_Multiples.cpp"
+    },
+    {
+        "problemName": "O Calculator",
+        "problemId": "219158O",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/O_Calculator.cpp"
+    },
+    {
+        "problemName": "F Digits Summation",
+        "problemId": "219158F",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/F_Digits_Summation.cpp"
+    },
+    {
+        "problemName": "H Two numbers",
+        "problemId": "219158H",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/H_Two_numbers.cpp"
+    },
+    {
+        "problemName": "G Summation from 1 to N",
+        "problemId": "219158G",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/G_Summation_from_1_to_N.cpp"
+    },
+    {
+        "problemName": "Y The last 2 digits",
+        "problemId": "219158Y",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/Y_The_last_2_digits.cpp"
+    },
+    {
         "problemName": "A Say Hello With C",
         "problemId": "219158A",
         "rating": 800,
@@ -1223,6 +1363,36 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp"
+    },
+    {
+        "problemName": "D Difference",
+        "problemId": "219158D",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/D_Difference.cpp"
+    },
+    {
+        "problemName": "R Age in Days",
+        "problemId": "219158R",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/R_Age_in_Days.cpp"
+    },
+    {
+        "problemName": "Q Coordinates of a Point",
+        "problemId": "219158Q",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/Q_Coordinates_of_a_Point.cpp"
     },
     {
         "problemName": "A Winter Sale",
@@ -1235,6 +1405,16 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp"
     },
     {
+        "problemName": "V Comparison",
+        "problemId": "219158V",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/V_Comparison.cpp"
+    },
+    {
         "problemName": "C Next Alphabet",
         "problemId": "326175C",
         "rating": 800,
@@ -1243,6 +1423,16 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/C-Next-Alphabet.cpp"
+    },
+    {
+        "problemName": "P First digit",
+        "problemId": "219158P",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/P_First_digit.cpp"
     },
     {
         "problemName": "C Simple Calculator",
@@ -1255,6 +1445,16 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp"
     },
     {
+        "problemName": "M Capital or Small or Digit",
+        "problemId": "219158M",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/M_Capital_or_Small_or_Digit.cpp"
+    },
+    {
         "problemName": "B Memo and Momo",
         "problemId": "326175B",
         "rating": 800,
@@ -1265,6 +1465,16 @@
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/B-Memo-and-Momo.cpp"
     },
     {
+        "problemName": "Z Hard Compare",
+        "problemId": "219158Z",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/Z_Hard_Compare.cpp"
+    },
+    {
         "problemName": "E Interval Sweep",
         "problemId": "326175E",
         "rating": 800,
@@ -1273,6 +1483,26 @@
         ],
         "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E",
         "solutionUrl": "../Groups/ICPC-Assiut-University-Community/E-Interval-Sweep.cpp"
+    },
+    {
+        "problemName": "X Two intervals",
+        "problemId": "219158X",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/X_Two_intervals.cpp"
+    },
+    {
+        "problemName": "K Max and Min",
+        "problemId": "219158K",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K",
+        "solutionUrl": "../Groups/ICPC-Assiut-University-Community/K_Max_and_Min.cpp"
     },
     {
         "problemName": "Odd Divisor",

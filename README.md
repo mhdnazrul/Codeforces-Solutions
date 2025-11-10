@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 158
+* **Total Problems Solved:** 181
 * **Solved by Difficulty:**
- * **800:** 118 problems
+ * **800:** 141 problems
  * **900:** 13 problems
  * **1000:** 12 problems
  * **1100:** 7 problems
@@ -130,15 +130,38 @@
 | 105940I | I The Youngest in ASZoo | 800 | implementation | [Question](https://codeforces.com/gym/105940/problem/I) | [Solution](./Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 800 | implementation | [Question](https://codeforces.com/gym/105940/problem/G) | [Solution](./Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | 105981C | C Echoes of the Runes | 800 | implementation | [Question](https://codeforces.com/gym/105981/problem/C) | [Solution](./Gyms/C_Echoes_of_the_Runes.cpp) |
+| 219158S | S Interval | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [Solution](./Groups/ICPC-Assiut-University-Community/S_Interval.cpp) |
+| 219158U | U Float or int | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [Solution](./Groups/ICPC-Assiut-University-Community/U_Float_or_int.cpp) |
+| 219158W | W Mathematical Expression | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) | [Solution](./Groups/ICPC-Assiut-University-Community/W_Mathematical_Expression.cpp) |
 | 326175F | F Adding Bits | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Solution](./Groups/ICPC-Assiut-University-Community/F-Adding-Bits.cpp) |
+| 219158N | N Char | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [Solution](./Groups/ICPC-Assiut-University-Community/N_Char.cpp) |
+| 219158E | E Area of a Circle | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [Solution](./Groups/ICPC-Assiut-University-Community/E_Area_of_a_Circle.cpp) |
 | 219158B | B Basic Data Types | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Solution](./Groups/ICPC-Assiut-University-Community/B_Basic_Data_Types.cpp) |
 | 326175D | D Ali Baba and Puzzles | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution](./Groups/ICPC-Assiut-University-Community/D-Ali-Baba-and-Puzzles.cpp) |
+| 219158I | I Welcome for you with Conditions | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Solution](./Groups/ICPC-Assiut-University-Community/I_Welcome_for_you_with_Conditions.cpp) |
+| 219158L | L The Brothers | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [Solution](./Groups/ICPC-Assiut-University-Community/L_The_Brothers.cpp) |
+| 219158T | T Sort Numbers | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [Solution](./Groups/ICPC-Assiut-University-Community/T_Sort_Numbers.cpp) |
+| 219158J | J Multiples | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Solution](./Groups/ICPC-Assiut-University-Community/J_Multiples.cpp) |
+| 219158O | O Calculator | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [Solution](./Groups/ICPC-Assiut-University-Community/O_Calculator.cpp) |
+| 219158F | F Digits Summation | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Solution](./Groups/ICPC-Assiut-University-Community/F_Digits_Summation.cpp) |
+| 219158H | H Two numbers | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Solution](./Groups/ICPC-Assiut-University-Community/H_Two_numbers.cpp) |
+| 219158G | G Summation from 1 to N | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Solution](./Groups/ICPC-Assiut-University-Community/G_Summation_from_1_to_N.cpp) |
+| 219158Y | Y The last 2 digits | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](./Groups/ICPC-Assiut-University-Community/Y_The_last_2_digits.cpp) |
 | 219158A | A Say Hello With C | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Solution](./Groups/ICPC-Assiut-University-Community/A_Say_Hello_With_C.cpp) |
+| 219158D | D Difference | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [Solution](./Groups/ICPC-Assiut-University-Community/D_Difference.cpp) |
+| 219158R | R Age in Days | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) | [Solution](./Groups/ICPC-Assiut-University-Community/R_Age_in_Days.cpp) |
+| 219158Q | Q Coordinates of a Point | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) | [Solution](./Groups/ICPC-Assiut-University-Community/Q_Coordinates_of_a_Point.cpp) |
 | 326175A | A Winter Sale | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution](./Groups/ICPC-Assiut-University-Community/A-Winter-Sale.cpp) |
+| 219158V | V Comparison | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V) | [Solution](./Groups/ICPC-Assiut-University-Community/V_Comparison.cpp) |
 | 326175C | C Next Alphabet | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution](./Groups/ICPC-Assiut-University-Community/C-Next-Alphabet.cpp) |
+| 219158P | P First digit | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [Solution](./Groups/ICPC-Assiut-University-Community/P_First_digit.cpp) |
 | 219158C | C Simple Calculator | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Solution](./Groups/ICPC-Assiut-University-Community/C_Simple_Calculator.cpp) |
+| 219158M | M Capital or Small or Digit | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M) | [Solution](./Groups/ICPC-Assiut-University-Community/M_Capital_or_Small_or_Digit.cpp) |
 | 326175B | B Memo and Momo | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution](./Groups/ICPC-Assiut-University-Community/B-Memo-and-Momo.cpp) |
+| 219158Z | Z Hard Compare | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](./Groups/ICPC-Assiut-University-Community/Z_Hard_Compare.cpp) |
 | 326175E | E Interval Sweep | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution](./Groups/ICPC-Assiut-University-Community/E-Interval-Sweep.cpp) |
+| 219158X | X Two intervals | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution](./Groups/ICPC-Assiut-University-Community/X_Two_intervals.cpp) |
+| 219158K | K Max and Min | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) | [Solution](./Groups/ICPC-Assiut-University-Community/K_Max_and_Min.cpp) |
 | 1475A | Odd Divisor | 900 | math, number theory | [Question](https://codeforces.com/problemset/problem/1475/A) | [Solution](./Solutions/A-Odd-Divisor.cpp) |
 | 598A | Tricky Sum | 900 | math | [Question](https://codeforces.com/problemset/problem/598/A) | [Solution](./Solutions/A_Tricky_Sum.cpp) |
 | 1927B | Following the String | 900 | constructive algorithms, greedy, strings | [Question](https://codeforces.com/problemset/problem/1927/B) | [Solution](./Solutions/B_Following_the_String.cpp) |
