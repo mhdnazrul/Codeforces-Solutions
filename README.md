@@ -3,10 +3,10 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 129
+* **Total Problems Solved:** 131
 * **Solved by Difficulty:**
- * **800:** 108 problems
- * **900:** 9 problems
+ * **800:** 109 problems
+ * **900:** 10 problems
  * **1000:** 6 problems
  * **1100:** 2 problems
  * **1300:** 2 problems
@@ -86,6 +86,7 @@
 | 268A | Games | 800 | brute force | [Question](https://codeforces.com/problemset/problem/268/A) | [Solution](./Solutions/A_Games.cpp) |
 | 977A | Wrong Subtraction | 800 | implementation | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](./Solutions/A.%20Wrong%20Subtraction.cpp) |
 | 1553A | Digits Sum | 800 | math, number theory | [Question](https://codeforces.com/problemset/problem/1553/A) | [Solution](./Solutions/A_Digits_Sum.cpp) |
+| 2163A | Souvlaki VS. Kalamaki | 800 | math, sortings | [Question](https://codeforces.com/contest/2163/problem/A) | [Solution](./Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
 | 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
 | 2167A | Square? | 800 | math, sortings | [Question](https://codeforces.com/contest/2167/problem/A) | [Solution](./Solutions/A_Square.cpp) |
 | 112A | Petya and Strings | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](./Solutions/A.%20Petya%20and%20Strings.cpp) |
@@ -129,6 +130,7 @@
 | 1475A | Odd Divisor | 900 | math, number theory | [Question](https://codeforces.com/problemset/problem/1475/A) | [Solution](./Solutions/A-Odd-Divisor.cpp) |
 | 598A | Tricky Sum | 900 | math | [Question](https://codeforces.com/problemset/problem/598/A) | [Solution](./Solutions/A_Tricky_Sum.cpp) |
 | 1927B | Following the String | 900 | constructive algorithms, greedy, strings | [Question](https://codeforces.com/problemset/problem/1927/B) | [Solution](./Solutions/B_Following_the_String.cpp) |
+| 160A | Twins | 900 | greedy, sortings | [Question](https://codeforces.com/problemset/problem/160/A) | [Solution](./Solutions/A_Twins.cpp) |
 | 2110B | Down with Brackets | 900 | strings | [Question](https://codeforces.com/problemset/problem/2110/B) | [Solution](./Solutions/B_Down_with_Brackets.cpp) |
 | 1720A | Burenka Plays with Fractions | 900 | math, number theory | [Question](https://codeforces.com/contest/1720/problem/A) | [Solution](./Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | implementation, math | [Question](https://codeforces.com/problemset/problem/1613/A) | [Solution](./Solutions/A-Long-Comparison.cpp) |

@@ -734,6 +734,17 @@
         "solutionUrl": "../Solutions/A_Digits_Sum.cpp"
     },
     {
+        "problemName": "Souvlaki VS. Kalamaki",
+        "problemId": "2163A",
+        "rating": 800,
+        "tags": [
+            "math",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2163/problem/A",
+        "solutionUrl": "../Solutions/A_Souvlaki_VS_Kalamaki.cpp"
+    },
+    {
         "problemName": "GCD Sum",
         "problemId": "1498A",
         "rating": 800,
@@ -1191,6 +1202,17 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/1927/B",
         "solutionUrl": "../Solutions/B_Following_the_String.cpp"
+    },
+    {
+        "problemName": "Twins",
+        "problemId": "160A",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/160/A",
+        "solutionUrl": "../Solutions/A_Twins.cpp"
     },
     {
         "problemName": "Down with Brackets",
