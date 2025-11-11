@@ -914,6 +914,17 @@
         "solutionUrl": "../Solutions/A_Lucky.cpp"
     },
     {
+        "problemName": "Showering",
+        "problemId": "1999C",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/1999/problem/C",
+        "solutionUrl": "../Solutions/C_Showering.cpp"
+    },
+    {
         "problemName": "Watermelon",
         "problemId": "4A",
         "rating": 800,

@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 181
+* **Total Problems Solved:** 182
 * **Solved by Difficulty:**
- * **800:** 141 problems
+ * **800:** 142 problems
  * **900:** 13 problems
  * **1000:** 12 problems
  * **1100:** 7 problems
@@ -105,6 +105,7 @@
 | 1873B | Good Kid | 800 | brute force, greedy, math | [Question](https://codeforces.com/contest/1873/problem/B) | [Solution](./Solutions/B_Good_Kid.cpp) |
 | 266B | Queue at the School | 800 | constructive algorithms, graph matchings, implementation, shortest paths | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](./Solutions/B.%20Queue%20at%20the%20School.c.cpp) |
 | 1676A | Lucky? | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](./Solutions/A_Lucky.cpp) |
+| 1999C | Showering | 800 | greedy, implementation | [Question](https://codeforces.com/contest/1999/problem/C) | [Solution](./Solutions/C_Showering.cpp) |
 | 4A | Watermelon | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](./Solutions/A.%20Watermelon.cpp) |
 | 2167C | Isamatdin and His Magic Wand! | 800 | constructive algorithms, greedy, implementation, sortings | [Question](https://codeforces.com/contest/2167/problem/C) | [Solution](./Solutions/C_Isamatdin_and_His_Magic_Wand.cpp) |
 | 2167B | Your Name | 800 | sortings, strings | [Question](https://codeforces.com/contest/2167/problem/B) | [Solution](./Solutions/B_Your_Name.cpp) |
