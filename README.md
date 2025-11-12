@@ -3,14 +3,14 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 184
+* **Total Problems Solved:** 186
 * **Solved by Difficulty:**
  * **800:** 142 problems
  * **900:** 14 problems
- * **1000:** 12 problems
+ * **1000:** 13 problems
  * **1100:** 7 problems
  * **1200:** 1 problems
- * **1300:** 4 problems
+ * **1300:** 5 problems
  * **1400:** 2 problems
  * **1500:** 1 problems
  * **1600:** 1 problems
@@ -181,6 +181,7 @@
 | 122A | Lucky Division | 1000 | brute force, number theory | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](./Solutions/A_Lucky_Division.cpp) |
 | 2162B | Beautiful String | 1000 | brute force, constructive algorithms | [Question](https://codeforces.com/contest/2162/problem/B) | [Solution](./Solutions/B_Beautiful_String.cpp) |
 | 1999B | Card Game | 1000 | brute force, constructive algorithms, implementation | [Question](https://codeforces.com/contest/1999/problem/B) | [Solution](./Solutions/B_Card_Game.cpp) |
+| 230A | Dragons | 1000 | greedy, sortings | [Question](https://codeforces.com/contest/230/problem/A) | [Solution](./Solutions/A_Dragons.cpp) |
 | 2144B | Maximum Cost Permutation | 1000 | constructive algorithms, greedy | [Question](https://codeforces.com/contest/2144/problem/B) | [Solution](./Solutions/B.%20Maximum%20Cost%20Permutation.cpp) |
 | 2106C | Cherry Bomb | 1000 | greedy, math, sortings | [Question](https://codeforces.com/problemset/problem/2106/C) | [Solution](./Solutions/C-Cherry-Bomb.cpp) |
 | 2092B | Lady Bug | 1000 | brute force, constructive algorithms, implementation, math | [Question](https://codeforces.com/problemset/problem/2092/B) | [Solution](./Solutions/Lady-Bug.cpp) |
@@ -201,6 +202,7 @@
 | 318B | Strings of Power | 1300 | implementation, strings, two pointers | [Question](https://codeforces.com/contest/318/problem/B) | [Solution](./Solutions/B_Strings_of_Power.cpp) |
 | 25A | IQ test | 1300 | brute force | [Question](https://codeforces.com/problemset/problem/25/A) | [Solution](./Solutions/A_IQ_test.cpp) |
 | 4C | Registration System | 1300 | data structures, hashing, implementation | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](./Solutions/C_Registration_system.cpp) |
+| 230B | T-primes | 1300 | binary search, implementation, math, number theory | [Question](https://codeforces.com/problemset/problem/230/B) | [Solution](./Solutions/B_T_primes.cpp) |
 | 1095C | Powers Of Two | 1400 | bitmasks, greedy | [Question](https://codeforces.com/problemset/problem/1095/C) | [Solution](./Solutions/C_Powers_Of_Two.cpp) |
 | 26B | Regular Bracket Sequence | 1400 | greedy | [Question](https://codeforces.com/problemset/problem/26/B) | [Solution](./Solutions/B.%20Regular%20Bracket%20Sequence.cpp) |
 | 2106D | Flower Boy | 1500 | binary search, dp, greedy, two pointers | [Question](https://codeforces.com/problemset/problem/2106/D) | [Solution](./Solutions/D-Flower-Boy.cpp) |

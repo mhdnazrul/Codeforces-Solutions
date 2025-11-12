@@ -1716,6 +1716,17 @@
         "solutionUrl": "../Solutions/B_Card_Game.cpp"
     },
     {
+        "problemName": "Dragons",
+        "problemId": "230A",
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/contest/230/problem/A",
+        "solutionUrl": "../Solutions/A_Dragons.cpp"
+    },
+    {
         "problemName": "Maximum Cost Permutation",
         "problemId": "2144B",
         "rating": 1000,
@@ -1944,6 +1955,19 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/4/C",
         "solutionUrl": "../Solutions/C_Registration_system.cpp"
+    },
+    {
+        "problemName": "T-primes",
+        "problemId": "230B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/230/B",
+        "solutionUrl": "../Solutions/B_T_primes.cpp"
     },
     {
         "problemName": "Powers Of Two",
