@@ -1603,6 +1603,16 @@
         "solutionUrl": "../Solutions/B_Expensive_Number.cpp"
     },
     {
+        "problemName": "Even Odds",
+        "problemId": "318A",
+        "rating": 900,
+        "tags": [
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/318/A",
+        "solutionUrl": "../Solutions/A_Even_Odds.cpp"
+    },
+    {
         "problemName": "MEX rose",
         "problemId": "2149C",
         "rating": 900,
@@ -1900,6 +1910,18 @@
         ],
         "questionUrl": "https://codeforces.com/contest/2145/problem/C",
         "solutionUrl": "../Solutions/C_Monocarp_s_String.cpp"
+    },
+    {
+        "problemName": "Strings of Power",
+        "problemId": "318B",
+        "rating": 1300,
+        "tags": [
+            "implementation",
+            "strings",
+            "two pointers"
+        ],
+        "questionUrl": "https://codeforces.com/contest/318/problem/B",
+        "solutionUrl": "../Solutions/B_Strings_of_Power.cpp"
     },
     {
         "problemName": "IQ test",

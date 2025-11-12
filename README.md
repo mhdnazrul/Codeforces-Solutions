@@ -3,14 +3,14 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 182
+* **Total Problems Solved:** 184
 * **Solved by Difficulty:**
  * **800:** 142 problems
- * **900:** 13 problems
+ * **900:** 14 problems
  * **1000:** 12 problems
  * **1100:** 7 problems
  * **1200:** 1 problems
- * **1300:** 3 problems
+ * **1300:** 4 problems
  * **1400:** 2 problems
  * **1500:** 1 problems
  * **1600:** 1 problems
@@ -171,6 +171,7 @@
 | 1720A | Burenka Plays with Fractions | 900 | math, number theory | [Question](https://codeforces.com/contest/1720/problem/A) | [Solution](./Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | implementation, math | [Question](https://codeforces.com/problemset/problem/1613/A) | [Solution](./Solutions/A-Long-Comparison.cpp) |
 | 2093B | Expensive Number | 900 | greedy, math | [Question](https://codeforces.com/problemset/problem/2093/B) | [Solution](./Solutions/B_Expensive_Number.cpp) |
+| 318A | Even Odds | 900 | math | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](./Solutions/A_Even_Odds.cpp) |
 | 2149C | MEX rose | 900 | greedy | [Question](https://codeforces.com/contest/2149/problem/C) | [Solution](./Solutions/C.%20MEX%20rose.cpp) |
 | 2106B | St. Chroma | 900 | constructive algorithms, greedy, math | [Question](https://codeforces.com/problemset/problem/2106/B) | [Solution](./Solutions/B-St-Chroma.cpp) |
 | 1535B | Array Reodering | 900 | brute force, greedy, math, number theory, sortings | [Question](https://codeforces.com/problemset/problem/1535/B) | [Solution](./Solutions/B-Array-Reodering.cpp) |
@@ -197,6 +198,7 @@
 | 2137C | Maximum Even Sum | 1100 | brute force, greedy, implementation, math | [Question](https://codeforces.com/contest/2137/problem/C) | [Solution](./Solutions/C.%20Maximum%20Even%20Sum.cpp) |
 | 2149D | A and B | 1200 | strings | [Question](https://codeforces.com/contest/2149/problem/D) | [Solution](./Solutions/D.%20A%20and%20B.cpp) |
 | 2145C | Monocarp's String | 1300 | binary search, greedy, strings | [Question](https://codeforces.com/contest/2145/problem/C) | [Solution](./Solutions/C_Monocarp_s_String.cpp) |
+| 318B | Strings of Power | 1300 | implementation, strings, two pointers | [Question](https://codeforces.com/contest/318/problem/B) | [Solution](./Solutions/B_Strings_of_Power.cpp) |
 | 25A | IQ test | 1300 | brute force | [Question](https://codeforces.com/problemset/problem/25/A) | [Solution](./Solutions/A_IQ_test.cpp) |
 | 4C | Registration System | 1300 | data structures, hashing, implementation | [Question](https://codeforces.com/problemset/problem/4/C) | [Solution](./Solutions/C_Registration_system.cpp) |
 | 1095C | Powers Of Two | 1400 | bitmasks, greedy | [Question](https://codeforces.com/problemset/problem/1095/C) | [Solution](./Solutions/C_Powers_Of_Two.cpp) |
