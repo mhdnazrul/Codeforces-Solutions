@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 197
+* **Total Problems Solved:** 200
 * **Solved by Difficulty:**
- * **800:** 149 problems
+ * **800:** 152 problems
  * **900:** 17 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
@@ -135,9 +135,12 @@
 | 105981C | C Echoes of the Runes | 800 | implementation | [Question](https://codeforces.com/gym/105981/problem/C) | [Solution](./Gyms/C_Echoes_of_the_Runes.cpp) |
 | 643604A | A Free Palestine | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/A) | [Solution](./Groups/A_Free_Palestine.cpp) |
 | 643604C | C Resistors in Parallel | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/C) | [Solution](./Groups/C_Resistors_in_Parallel.cpp) |
+| 645209C | C Journey | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/C) | [Solution](./Groups/C_Journey.cpp) |
+| 645209B | B Coin Transformation | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/B) | [Solution](./Groups/B_Coin_Transformation.cpp) |
 | 643604B | B Ski Sum | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/B) | [Solution](./Groups/B_Ski_Sum.cpp) |
 | 643604F | F New Year and Hurry | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/F) | [Solution](./Groups/F_New_Year_and_Hurry.cpp) |
 | 643604E | E The New Year Meeting Friends | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/E) | [Solution](./Groups/E_The_New_Year_Meeting_Friends.cpp) |
+| 645209A | A I m an easy problem | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/A) | [Solution](./Groups/A_I_m_an_easy_problem.cpp) |
 | 219158S | S Interval | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [Solution](./Groups/ICPC-Assiut-University-Community/S_Interval.cpp) |
 | 219158U | U Float or int | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [Solution](./Groups/ICPC-Assiut-University-Community/U_Float_or_int.cpp) |
 | 219158W | W Mathematical Expression | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) | [Solution](./Groups/ICPC-Assiut-University-Community/W_Mathematical_Expression.cpp) |

@@ -1236,6 +1236,26 @@
         "solutionUrl": "../Groups/C_Resistors_in_Parallel.cpp"
     },
     {
+        "problemName": "C Journey",
+        "problemId": "645209C",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/C",
+        "solutionUrl": "../Groups/C_Journey.cpp"
+    },
+    {
+        "problemName": "B Coin Transformation",
+        "problemId": "645209B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/B",
+        "solutionUrl": "../Groups/B_Coin_Transformation.cpp"
+    },
+    {
         "problemName": "B Ski Sum",
         "problemId": "643604B",
         "rating": 800,
@@ -1264,6 +1284,16 @@
         ],
         "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/E",
         "solutionUrl": "../Groups/E_The_New_Year_Meeting_Friends.cpp"
+    },
+    {
+        "problemName": "A I m an easy problem",
+        "problemId": "645209A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/A",
+        "solutionUrl": "../Groups/A_I_m_an_easy_problem.cpp"
     },
     {
         "problemName": "S Interval",
