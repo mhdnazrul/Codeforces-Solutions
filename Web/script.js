@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             allSolutions = data;
-            currentFilteredSolutions = [...allSolutions];
+            currentFilteredSolutions = [...data];
             renderStatistics(allSolutions);
             populateFilters(allSolutions);
             renderTable(allSolutions);
@@ -16,11 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
         .catch(error => console.error('Error loading solutions.json:', error));
 
     const searchBox = document.getElementById('search-box');
-    if(searchBox) searchBox.addEventListener('input', applyFilters);
+    if (searchBox) searchBox.addEventListener('input', applyFilters);
     const ratingFilter = document.getElementById('rating-filter');
-    if(ratingFilter) ratingFilter.addEventListener('change', applyFilters);
+    if (ratingFilter) ratingFilter.addEventListener('change', applyFilters);
     const difficultyHeader = document.getElementById('difficulty-header');
-    if(difficultyHeader) difficultyHeader.addEventListener('click', sortTableByDifficulty);
+    if (difficultyHeader) difficultyHeader.addEventListener('click', sortTableByDifficulty);
 });
 
 function renderStatistics(solutions) {
@@ -28,23 +28,47 @@ function renderStatistics(solutions) {
     if (totalSolvedElement) {
         totalSolvedElement.textContent = solutions.length;
     }
+    const ratingCategories = [...new Set(solutions.map(sol => sol.rating).filter(r => r))].sort((a, b) => a - b);
     const ratingCounts = {};
-    const ratingCategories = [800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400,2500,2600,2700,2800,2900,3000];
     ratingCategories.forEach(r => ratingCounts[r] = 0);
     solutions.forEach(sol => {
-        if (sol.rating && ratingCounts.hasOwnProperty(sol.rating)) ratingCounts[sol.rating]++;
+        if (sol.rating) {
+            ratingCounts[sol.rating]++;
+        }
     });
-    const canvas = document.getElementById('rating-chart');
-    if (canvas) {
-        const ctx = canvas.getContext('2d');
-        if (ratingChart) ratingChart.destroy();
+    const canvasElement = document.getElementById('rating-chart');
+    if (canvasElement) {
+        const ctx = canvasElement.getContext('2d');
+        if (ratingChart) {
+            ratingChart.destroy();
+        }
         ratingChart = new Chart(ctx, {
             type: 'bar',
             data: {
                 labels: ratingCategories,
-                datasets: [{ label: 'Solved Count', data: Object.values(ratingCounts), backgroundColor: '#3498db' }]
+                datasets: [{
+                    label: 'Solved Count',
+                    data: Object.values(ratingCounts),
+                    backgroundColor: '#3498db',
+                }]
             },
-            options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } }, plugins: { legend: { display: false } } }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
         });
     }
 }
@@ -52,7 +76,6 @@ function renderStatistics(solutions) {
 function populateFilters(solutions) {
     const ratingFilter = document.getElementById('rating-filter');
     const tagFilter = document.getElementById('tag-filter');
-   
     if (!ratingFilter || !tagFilter) return;
     const ratings = new Set();
     const tags = new Set();
@@ -60,13 +83,15 @@ function populateFilters(solutions) {
         if (sol.rating) ratings.add(sol.rating);
         sol.tags.forEach(tag => tags.add(tag));
     });
-    [...ratings].sort((a,b)=>a-b).forEach(rating=>{
+    const sortedRatings = [...ratings].sort((a, b) => a - b);
+    sortedRatings.forEach(rating => {
         const option = document.createElement('option');
         option.value = rating;
         option.textContent = rating;
         ratingFilter.appendChild(option);
     });
-    [...tags].sort().forEach(tag=>{
+    const sortedTags = [...tags].sort();
+    sortedTags.forEach(tag => {
         const tagItem = document.createElement('label');
         tagItem.className = 'tag-item';
         const checkbox = document.createElement('input');
@@ -83,16 +108,22 @@ function renderTable(solutions) {
     const tableBody = document.getElementById('solutions-table-body');
     if (!tableBody) return;
     tableBody.innerHTML = '';
-    solutions.forEach(sol=>{
+    solutions.forEach(sol => {
         const row = document.createElement('tr');
-        const idCell = document.createElement('td'); idCell.textContent = sol.problemId; row.appendChild(idCell);
-        const nameCell = document.createElement('td'); nameCell.textContent = sol.problemName; row.appendChild(nameCell);
-        const ratingCell = document.createElement('td'); ratingCell.textContent = sol.rating||'N/A'; row.appendChild(ratingCell);
+        const idCell = document.createElement('td');
+        idCell.textContent = sol.problemId;
+        row.appendChild(idCell);
+        const nameCell = document.createElement('td');
+        nameCell.textContent = sol.problemName;
+        row.appendChild(nameCell);
+        const ratingCell = document.createElement('td');
+        ratingCell.textContent = sol.rating || 'N/A';
+        row.appendChild(ratingCell);
         const tagsCell = document.createElement('td');
-        sol.tags.forEach(tag=>{
+        sol.tags.forEach(tag => {
             const tagSpan = document.createElement('span');
-            tagSpan.className='tag';
-            tagSpan.textContent=tag;
+            tagSpan.className = 'tag';
+            tagSpan.textContent = tag;
             tagsCell.appendChild(tagSpan);
         });
         row.appendChild(tagsCell);
@@ -109,35 +140,33 @@ function renderTable(solutions) {
 function applyFilters() {
     const searchBox = document.getElementById('search-box');
     const ratingFilter = document.getElementById('rating-filter');
-   
     if (!searchBox || !ratingFilter) return;
     const searchText = searchBox.value.toLowerCase();
     const selectedRating = ratingFilter.value;
-    const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb=>cb.value);
-    currentFilteredSolutions = allSolutions.filter(sol=>{
+    const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb => cb.value);
+    currentFilteredSolutions = allSolutions.filter(sol => {
         const nameMatch = sol.problemName.toLowerCase().includes(searchText);
-        const ratingMatch = !selectedRating || sol.rating == selectedRating;
+        const ratingMatch = !selectedRating || sol.rating === Number(selectedRating);
         const tagMatch = selectedTags.every(tag => sol.tags.includes(tag));
         return nameMatch && ratingMatch && tagMatch;
     });
     difficultySortDirection = 'none';
     const header = document.getElementById('difficulty-header');
     if (header) header.textContent = 'Difficulty ⇅';
-   
     renderTable(currentFilteredSolutions);
 }
 
 function sortTableByDifficulty() {
     const header = document.getElementById('difficulty-header');
     if (!header) return;
-    if(difficultySortDirection === 'none' || difficultySortDirection === 'desc'){
+    if (difficultySortDirection === 'none' || difficultySortDirection === 'desc') {
         difficultySortDirection = 'asc';
         header.textContent = 'Difficulty ↑';
     } else {
         difficultySortDirection = 'desc';
         header.textContent = 'Difficulty ↓';
     }
-    currentFilteredSolutions.sort((a,b)=>{
+    currentFilteredSolutions.sort((a, b) => {
         const ratingA = a.rating || 0;
         const ratingB = b.rating || 0;
         return difficultySortDirection === 'asc' ? ratingA - ratingB : ratingB - ratingA;
