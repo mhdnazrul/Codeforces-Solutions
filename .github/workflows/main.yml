@@ -1,66 +1,86 @@
 name: Build and Deploy Solution Archive
+
 on:
   push:
     branches:
       - main
+
 permissions:
   contents: write
   pages: write
   id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
       - name: Run Python script to generate JSON and README
         run: python Web/generate.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
           add_options: '--force'
-     
-      - name: Copy solution folders to Web directory
+      
+      # --- এই ধাপটি আপনার সমস্যার সমাধান করবে ---
+      - name: Prepare Website Files
         run: |
-          echo "Creating destination folders..."
+          echo "Preparing files..."
+          
+          # ১. টার্গেট ফোল্ডার তৈরি করা
           mkdir -p Web/Solutions
           mkdir -p Web/Gyms
           mkdir -p Web/Groups
-         
+          
+          # ২. .nojekyll ফাইল তৈরি করা (সবচেয়ে গুরুত্বপূর্ণ)
+          # এটি গিটহাবকে বলে সব ফাইল সার্ভ করতে, কোনোটি যেন বাদ না দেয়
+          touch Web/.nojekyll
+          
+          # ৩. ফাইল কপি করা (Case-Insensitive উপায়)
           shopt -s nullglob
+          
           echo "Copying Solutions..."
-          cp -r [Ss]olutions/* Web/Solutions/ || echo "No Solutions found"
-         
+          cp -r [Ss]olutions/* Web/Solutions/ || echo "Warning: No Solutions found"
+          
           echo "Copying Gyms..."
-          cp -r [Gg]yms/* Web/Gyms/ || echo "No Gyms found"
-         
+          cp -r [Gg]yms/* Web/Gyms/ || echo "Warning: No Gyms found"
+          
           echo "Copying Groups..."
-          cp -r [Gg]roups/* Web/Groups/ || echo "No Groups found"
-         
-          echo "Copying complete. Listing Web folder for debug:"
-          ls -R Web/
+          cp -r [Gg]roups/* Web/Groups/ || echo "Warning: No Groups found"
+          
+          # ৪. ডিবাগিং (চেক করা যে কপি হয়েছে কিনা)
+          echo "Listing Web directory content to verify:"
+          ls -F Web/
+      # -------------------------------------------
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'Web/'
           name: 'my-site-files'
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-     
+      
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
