@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+# ধাপ ১: 403 Error সমাধানের জন্য পারমিশন দেওয়া
 permissions:
   contents: write
   pages: write
@@ -35,43 +36,32 @@ jobs:
         with:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
+          # ধাপ ২: README কনফ্লিক্ট সমাধানের জন্য '.gitignore' বাইপাস করা
           add_options: '--force'
       
-      # --- এই ধাপটি আপনার সমস্যার সমাধান করবে ---
+      # ধাপ ৩: 404 Error (Solution লিঙ্ক) সমাধানের জন্য ফাইল কপি করা
       - name: Prepare Website Files
         run: |
           echo "Preparing files..."
           
-          # ১. টার্গেট ফোল্ডার তৈরি করা
-          mkdir -p Web/Solutions
-          mkdir -p Web/Gyms
-          mkdir -p Web/Groups
-          
-          # ২. .nojekyll ফাইল তৈরি করা (সবচেয়ে গুরুত্বপূর্ণ)
-          # এটি গিটহাবকে বলে সব ফাইল সার্ভ করতে, কোনোটি যেন বাদ না দেয়
+          # ক. Jekyll 404 Error সমাধানের জন্য .nojekyll ফাইল তৈরি
           touch Web/.nojekyll
           
-          # ৩. ফাইল কপি করা (Case-Insensitive উপায়)
-          shopt -s nullglob
+          # খ. সল্যুশন ফোল্ডারগুলো কপি করা (সবচেয়ে সহজ উপায়ে)
+          # || true কমান্ডটি নিশ্চিত করে যে ফোল্ডার খালি থাকলেও error দেবে না
+          cp -r Solutions Web/ || true
+          cp -r Gyms Web/ || true
+          cp -r Groups Web/ || true
           
-          echo "Copying Solutions..."
-          cp -r [Ss]olutions/* Web/Solutions/ || echo "Warning: No Solutions found"
-          
-          echo "Copying Gyms..."
-          cp -r [Gg]yms/* Web/Gyms/ || echo "Warning: No Gyms found"
-          
-          echo "Copying Groups..."
-          cp -r [Gg]roups/* Web/Groups/ || echo "Warning: No Groups found"
-          
-          # ৪. ডিবাগিং (চেক করা যে কপি হয়েছে কিনা)
+          # গ. ডিবাগিং: কপি হয়েছে কিনা তা চেক করা
           echo "Listing Web directory content to verify:"
           ls -F Web/
-      # -------------------------------------------
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'Web/'
+          # ধাপ ৪: Multiple Artifacts Error সমাধানের জন্য ইউনিক নাম দেওয়া
           name: 'my-site-files'
 
   deploy:
@@ -86,4 +76,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
+          # ধাপ ৪-এর ইউনিক নামটি ব্যবহার করা
           artifact_name: 'my-site-files'
