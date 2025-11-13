@@ -970,6 +970,16 @@
         "solutionUrl": "../Solutions/B_Your_Name.cpp"
     },
     {
+        "problemName": "Vanya and Cubes",
+        "problemId": "492A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/492/problem/A",
+        "solutionUrl": "../Solutions/A_Vanya_and_Cubes.cpp"
+    },
+    {
         "problemName": "Two Brackets",
         "problemId": "1452C",
         "rating": 800,
@@ -1941,6 +1951,19 @@
         ],
         "questionUrl": "https://codeforces.com/contest/2137/problem/C",
         "solutionUrl": "../Solutions/C.%20Maximum%20Even%20Sum.cpp"
+    },
+    {
+        "problemName": "Vanya and Lanterns",
+        "problemId": "492B",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/492/B",
+        "solutionUrl": "../Solutions/B_Vanya_and_Lanterns.cpp"
     },
     {
         "problemName": "A and B",

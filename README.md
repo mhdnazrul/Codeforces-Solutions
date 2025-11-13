@@ -3,13 +3,13 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 190
+* **Total Problems Solved:** 192
 * **Solved by Difficulty:**
- * **800:** 143 problems
+ * **800:** 144 problems
  * **900:** 17 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
- * **1200:** 1 problems
+ * **1200:** 2 problems
  * **1300:** 5 problems
  * **1400:** 2 problems
  * **1500:** 1 problems
@@ -110,6 +110,7 @@
 | 4A | Watermelon | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](./Solutions/A.%20Watermelon.cpp) |
 | 2167C | Isamatdin and His Magic Wand! | 800 | constructive algorithms, greedy, implementation, sortings | [Question](https://codeforces.com/contest/2167/problem/C) | [Solution](./Solutions/C_Isamatdin_and_His_Magic_Wand.cpp) |
 | 2167B | Your Name | 800 | sortings, strings | [Question](https://codeforces.com/contest/2167/problem/B) | [Solution](./Solutions/B_Your_Name.cpp) |
+| 492A | Vanya and Cubes | 800 | implementation | [Question](https://codeforces.com/contest/492/problem/A) | [Solution](./Solutions/A_Vanya_and_Cubes.cpp) |
 | 1452C | Two Brackets | 800 | greedy | [Question](https://codeforces.com/contest/1452/problem/C) | [Solution](./Solutions/C_Two_Brackets.cpp) |
 | 996A | Hit the Lottery | 800 | dp, greedy | [Question](https://codeforces.com/problemset/problem/996/A) | [Solution](./Solutions/A_Hit_the_Lottery.cpp) |
 | 1335A | Candies and Two Sisters | 800 | math | [Question](https://codeforces.com/problemset/problem/1335/A) | [Solution](./Solutions/A_Candies_and_Two_Sisters.cpp) |
@@ -201,6 +202,7 @@
 | 2146B | Merging the Sets | 1100 | greedy, implementation | [Question](https://codeforces.com/contest/2146/problem/B) | [Solution](./Solutions/B.%20Merging%20the%20Sets.cpp) |
 | 2130B | Pathless | 1100 | constructive algorithms | [Question](https://codeforces.com/contest/2130/problem/B) | [Solution](./Solutions/B.%20Pathless.cpp) |
 | 2137C | Maximum Even Sum | 1100 | brute force, greedy, implementation, math | [Question](https://codeforces.com/contest/2137/problem/C) | [Solution](./Solutions/C.%20Maximum%20Even%20Sum.cpp) |
+| 492B | Vanya and Lanterns | 1200 | binary search, implementation, math, sortings | [Question](https://codeforces.com/problemset/problem/492/B) | [Solution](./Solutions/B_Vanya_and_Lanterns.cpp) |
 | 2149D | A and B | 1200 | strings | [Question](https://codeforces.com/contest/2149/problem/D) | [Solution](./Solutions/D.%20A%20and%20B.cpp) |
 | 2145C | Monocarp's String | 1300 | binary search, greedy, strings | [Question](https://codeforces.com/contest/2145/problem/C) | [Solution](./Solutions/C_Monocarp_s_String.cpp) |
 | 318B | Strings of Power | 1300 | implementation, strings, two pointers | [Question](https://codeforces.com/contest/318/problem/B) | [Solution](./Solutions/B_Strings_of_Power.cpp) |
