@@ -3,12 +3,30 @@ let currentFilteredSolutions = [];
 let ratingChart = null;
 let difficultySortDirection = 'none';
 
+// Convert GitHub blob URLs to raw URLs
+function convertGitHubBlobToRaw(url) {
+    if (!url) return url;
+    // Example: https://github.com/user/repo/blob/main/file.cpp
+    // Converts to: https://raw.githubusercontent.com/user/repo/main/file.cpp
+    return url.replace(
+        /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/,
+        'https://raw.githubusercontent.com/$1/$2/$3'
+    );
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('solutions.json')
         .then(response => response.json())
         .then(data => {
-            allSolutions = data;
-            currentFilteredSolutions = data;
+            // Convert all solution and question URLs to raw URLs once
+            allSolutions = data.map(sol => ({
+                ...sol,
+                solutionUrl: convertGitHubBlobToRaw(sol.solutionUrl),
+                questionUrl: convertGitHubBlobToRaw(sol.questionUrl)
+            }));
+
+            currentFilteredSolutions = [...allSolutions];
+
             renderStatistics(allSolutions);
             populateFilters(allSolutions);
             renderTable(allSolutions);
@@ -17,7 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById('search-box').addEventListener('input', applyFilters);
     document.getElementById('rating-filter').addEventListener('change', applyFilters);
-    
     document.getElementById('difficulty-header').addEventListener('click', sortTableByDifficulty);
 });
 
@@ -34,25 +51,18 @@ function renderStatistics(solutions) {
     });
 
     const ctx = document.getElementById('rating-chart').getContext('2d');
-    if (ratingChart) {
-        ratingChart.destroy();
-    }
+    if (ratingChart) ratingChart.destroy();
+
     ratingChart = new Chart(ctx, {
         type: 'bar',
         data: {
             labels: ratingCategories,
-            datasets: [{
-                label: 'Solved Count',
-                data: Object.values(ratingCounts),
-                backgroundColor: '#3498db',
-            }]
+            datasets: [{ label: 'Solved Count', data: Object.values(ratingCounts), backgroundColor: '#3498db' }]
         },
         options: {
             responsive: true,
             maintainAspectRatio: false,
-            scales: {
-                y: { beginAtZero: true, ticks: { stepSize: 1 } }
-            },
+            scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } },
             plugins: { legend: { display: false } }
         }
     });
@@ -69,16 +79,14 @@ function populateFilters(solutions) {
         sol.tags.forEach(tag => tags.add(tag));
     });
 
-    const sortedRatings = [...ratings].sort((a, b) => a - b);
-    sortedRatings.forEach(rating => {
+    [...ratings].sort((a, b) => a - b).forEach(rating => {
         const option = document.createElement('option');
         option.value = rating;
         option.textContent = rating;
         ratingFilter.appendChild(option);
     });
 
-    const sortedTags = [...tags].sort();
-    sortedTags.forEach(tag => {
+    [...tags].sort().forEach(tag => {
         const tagItem = document.createElement('label');
         tagItem.className = 'tag-item';
         const checkbox = document.createElement('input');
@@ -120,15 +128,11 @@ function renderTable(solutions) {
         row.appendChild(tagsCell);
 
         const questionCell = document.createElement('td');
-        questionCell.innerHTML = `
-            <a href="${sol.questionUrl}" target="_blank" class="link-btn">Question</a>
-        `;
+        questionCell.innerHTML = `<a href="${sol.questionUrl}" target="_blank" class="link-btn">Question</a>`;
         row.appendChild(questionCell);
         
         const solutionCell = document.createElement('td');
-        solutionCell.innerHTML = `
-            <a href="${sol.solutionUrl}" target="_blank" class="link-btn solution">Solution</a>
-        `;
+        solutionCell.innerHTML = `<a href="${sol.solutionUrl}" target="_blank" class="link-btn solution">Solution</a>`;
         row.appendChild(solutionCell);
 
         tableBody.appendChild(row);
@@ -138,10 +142,7 @@ function renderTable(solutions) {
 function applyFilters() {
     const searchText = document.getElementById('search-box').value.toLowerCase();
     const selectedRating = document.getElementById('rating-filter').value;
-    const selectedTags = [];
-    document.querySelectorAll('#tag-filter input[type="checkbox"]:checked').forEach(cb => {
-        selectedTags.push(cb.value);
-    });
+    const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb => cb.value);
 
     currentFilteredSolutions = allSolutions.filter(sol => {
         const nameMatch = sol.problemName.toLowerCase().includes(searchText);
@@ -170,12 +171,7 @@ function sortTableByDifficulty() {
     currentFilteredSolutions.sort((a, b) => {
         const ratingA = a.rating || 0;
         const ratingB = b.rating || 0;
-
-        if (difficultySortDirection === 'asc') {
-            return ratingA - ratingB;
-        } else {
-            return ratingB - ratingA;
-        }
+        return difficultySortDirection === 'asc' ? ratingA - ratingB : ratingB - ratingA;
     });
 
     renderTable(currentFilteredSolutions);
