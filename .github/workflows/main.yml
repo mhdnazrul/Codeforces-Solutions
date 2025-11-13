@@ -1,61 +1,66 @@
 name: Build and Deploy Solution Archive
-
 on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
   pages: write
   id-token: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-
       - name: Run Python script to generate JSON and README
         run: python Web/generate.py
-
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: Auto-update solutions.json and README.md"
           file_pattern: Web/solutions.json README.md
           add_options: '--force'
-      
+     
       - name: Copy solution folders to Web directory
         run: |
-          cp -r Solutions Web/ || true
-          cp -r Gyms Web/ || true
-          cp -r Groups Web/ || true
-
+          echo "Creating destination folders..."
+          mkdir -p Web/Solutions
+          mkdir -p Web/Gyms
+          mkdir -p Web/Groups
+         
+          shopt -s nullglob
+          echo "Copying Solutions..."
+          cp -r [Ss]olutions/* Web/Solutions/ || echo "No Solutions found"
+         
+          echo "Copying Gyms..."
+          cp -r [Gg]yms/* Web/Gyms/ || echo "No Gyms found"
+         
+          echo "Copying Groups..."
+          cp -r [Gg]roups/* Web/Groups/ || echo "No Groups found"
+         
+          echo "Copying complete. Listing Web folder for debug:"
+          ls -R Web/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'Web/'
           name: 'my-site-files'
-
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-      
+     
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
