@@ -663,16 +663,6 @@
         "solutionUrl": "../Solutions/A_Arrival_of_the_General.cpp"
     },
     {
-        "problemName": "A Einstein s Calculator",
-        "problemId": "106188A",
-        "rating": 800,
-        "tags": [
-            "implementation"
-        ],
-        "questionUrl": "https://codeforces.com/gym/106188/problem/A",
-        "solutionUrl": "../Solutions/A_Einstein_s_Calculator.cpp"
-    },
-    {
         "problemName": "Stones on the Table",
         "problemId": "266A",
         "rating": 800,
@@ -1196,6 +1186,16 @@
         "solutionUrl": "../Gyms/I_The_Youngest_in_ASZoo.cpp"
     },
     {
+        "problemName": "A Einstein s Calculator",
+        "problemId": "106188A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/gym/106188/problem/A",
+        "solutionUrl": "../Gyms/A_Einstein_s_Calculator.cpp"
+    },
+    {
         "problemName": "G Cheetahs Hunting Deers Easy",
         "problemId": "105940G",
         "rating": 800,
@@ -1214,6 +1214,56 @@
         ],
         "questionUrl": "https://codeforces.com/gym/105981/problem/C",
         "solutionUrl": "../Gyms/C_Echoes_of_the_Runes.cpp"
+    },
+    {
+        "problemName": "A Free Palestine",
+        "problemId": "643604A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/A",
+        "solutionUrl": "../Groups/A_Free_Palestine.cpp"
+    },
+    {
+        "problemName": "C Resistors in Parallel",
+        "problemId": "643604C",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/C",
+        "solutionUrl": "../Groups/C_Resistors_in_Parallel.cpp"
+    },
+    {
+        "problemName": "B Ski Sum",
+        "problemId": "643604B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/B",
+        "solutionUrl": "../Groups/B_Ski_Sum.cpp"
+    },
+    {
+        "problemName": "F New Year and Hurry",
+        "problemId": "643604F",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/F",
+        "solutionUrl": "../Groups/F_New_Year_and_Hurry.cpp"
+    },
+    {
+        "problemName": "E The New Year Meeting Friends",
+        "problemId": "643604E",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/E",
+        "solutionUrl": "../Groups/E_The_New_Year_Meeting_Friends.cpp"
     },
     {
         "problemName": "S Interval",

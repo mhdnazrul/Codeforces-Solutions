@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 192
+* **Total Problems Solved:** 197
 * **Solved by Difficulty:**
- * **800:** 144 problems
+ * **800:** 149 problems
  * **900:** 17 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
@@ -82,7 +82,6 @@
 | 2074B | The Third Side | 800 | geometry, greedy, math | [Question](https://codeforces.com/problemset/problem/2074/B) | [Solution](./Solutions/The-Third-Side.cpp) |
 | 791A | Bear and Big Brother | 800 | implementation | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](./Solutions/C-Bear-and-Big-Brother.cpp) |
 | 144A | Arrival of the General | 800 | implementation | [Question](https://codeforces.com/problemset/problem/144/A) | [Solution](./Solutions/A_Arrival_of_the_General.cpp) |
-| 106188A | A Einstein s Calculator | 800 | implementation | [Question](https://codeforces.com/gym/106188/problem/A) | [Solution](./Solutions/A_Einstein_s_Calculator.cpp) |
 | 266A | Stones on the Table | 800 | implementation | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](./Solutions/A.%20Stones%20on%20the%20Table.cpp) |
 | 231A | Team | 800 | brute force, greedy | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](./Solutions/A.%20Team.cpp) |
 | 236A | Boy or Girl | 800 | brute force, implementation, strings | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](./Solutions/A.%20Boy%20or%20Girl.cpp) |
@@ -131,8 +130,14 @@
 | 2130A | Submission is All You Need | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2130/A) | [Solution](./Solutions/A.%20Submission%20is%20All%20You%20Need.cpp) |
 | 2140A | Shift Sort | 800 | greedy, sortings | [Question](https://codeforces.com/problemset/problem/2140/A) | [Solution](./Solutions/A.%20Shift%20Sort.cpp) |
 | 105940I | I The Youngest in ASZoo | 800 | implementation | [Question](https://codeforces.com/gym/105940/problem/I) | [Solution](./Gyms/I_The_Youngest_in_ASZoo.cpp) |
+| 106188A | A Einstein s Calculator | 800 | implementation | [Question](https://codeforces.com/gym/106188/problem/A) | [Solution](./Gyms/A_Einstein_s_Calculator.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 800 | implementation | [Question](https://codeforces.com/gym/105940/problem/G) | [Solution](./Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | 105981C | C Echoes of the Runes | 800 | implementation | [Question](https://codeforces.com/gym/105981/problem/C) | [Solution](./Gyms/C_Echoes_of_the_Runes.cpp) |
+| 643604A | A Free Palestine | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/A) | [Solution](./Groups/A_Free_Palestine.cpp) |
+| 643604C | C Resistors in Parallel | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/C) | [Solution](./Groups/C_Resistors_in_Parallel.cpp) |
+| 643604B | B Ski Sum | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/B) | [Solution](./Groups/B_Ski_Sum.cpp) |
+| 643604F | F New Year and Hurry | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/F) | [Solution](./Groups/F_New_Year_and_Hurry.cpp) |
+| 643604E | E The New Year Meeting Friends | 800 | implementation | [Question](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/E) | [Solution](./Groups/E_The_New_Year_Meeting_Friends.cpp) |
 | 219158S | S Interval | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [Solution](./Groups/ICPC-Assiut-University-Community/S_Interval.cpp) |
 | 219158U | U Float or int | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [Solution](./Groups/ICPC-Assiut-University-Community/U_Float_or_int.cpp) |
 | 219158W | W Mathematical Expression | 800 | implementation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) | [Solution](./Groups/ICPC-Assiut-University-Community/W_Mathematical_Expression.cpp) |
