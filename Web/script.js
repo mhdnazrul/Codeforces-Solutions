@@ -8,65 +8,75 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             allSolutions = data;
-            currentFilteredSolutions = data;
+            currentFilteredSolutions = [...data];
             renderStatistics(allSolutions);
             populateFilters(allSolutions);
             renderTable(allSolutions);
         })
         .catch(error => console.error('Error loading solutions.json:', error));
 
-    document.getElementById('search-box').addEventListener('input', applyFilters);
-    document.getElementById('rating-filter').addEventListener('change', applyFilters);
-    document.getElementById('difficulty-header').addEventListener('click', sortTableByDifficulty);
+    const searchBox = document.getElementById('search-box');
+    if (searchBox) searchBox.addEventListener('input', applyFilters);
+    const ratingFilter = document.getElementById('rating-filter');
+    if (ratingFilter) ratingFilter.addEventListener('change', applyFilters);
+    const difficultyHeader = document.getElementById('difficulty-header');
+    if (difficultyHeader) difficultyHeader.addEventListener('click', sortTableByDifficulty);
 });
 
 function renderStatistics(solutions) {
-    document.getElementById('total-solved').textContent = solutions.length;
+    const totalSolvedElement = document.getElementById('total-solved');
+    if (totalSolvedElement) {
+        totalSolvedElement.textContent = solutions.length;
+    }
     const ratingCounts = {};
-    const ratingCategories = [800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000];
+    const ratingCategories = [...new Set(solutions.map(sol => sol.rating).filter(r => r))].sort((a, b) => a - b);
     ratingCategories.forEach(r => ratingCounts[r] = 0);
     solutions.forEach(sol => {
-        if (sol.rating && ratingCounts.hasOwnProperty(sol.rating)) {
+        if (sol.rating) {
             ratingCounts[sol.rating]++;
         }
     });
-    const ctx = document.getElementById('rating-chart').getContext('2d');
-    if (ratingChart) {
-        ratingChart.destroy();
-    }
-    ratingChart = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: ratingCategories,
-            datasets: [{
-                label: 'Solved Count',
-                data: Object.values(ratingCounts),
-                backgroundColor: '#3498db',
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    ticks: {
-                        stepSize: 1
+    const canvas = document.getElementById('rating-chart');
+    if (canvas) {
+        const ctx = canvas.getContext('2d');
+        if (ratingChart) {
+            ratingChart.destroy();
+        }
+        ratingChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ratingCategories,
+                datasets: [{
+                    label: 'Solved Count',
+                    data: Object.values(ratingCounts),
+                    backgroundColor: '#3498db',
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            stepSize: 1
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
                     }
                 }
-            },
-            plugins: {
-                legend: {
-                    display: false
-                }
             }
-        }
-    });
+        });
+    }
 }
 
 function populateFilters(solutions) {
     const ratingFilter = document.getElementById('rating-filter');
     const tagFilter = document.getElementById('tag-filter');
+    if (!ratingFilter || !tagFilter) return;
     const ratings = new Set();
     const tags = new Set();
     solutions.forEach(sol => {
@@ -96,6 +106,7 @@ function populateFilters(solutions) {
 
 function renderTable(solutions) {
     const tableBody = document.getElementById('solutions-table-body');
+    if (!tableBody) return;
     tableBody.innerHTML = '';
     solutions.forEach(sol => {
         const row = document.createElement('tr');
@@ -117,35 +128,37 @@ function renderTable(solutions) {
         });
         row.appendChild(tagsCell);
         const questionCell = document.createElement('td');
-        questionCell.innerHTML = <a href="${sol.questionUrl}" target="_blank" class="link-btn">Question</a>;
+        questionCell.innerHTML = `<a href="${sol.questionUrl}" target="_blank" class="link-btn">Question</a>`;
         row.appendChild(questionCell);
         const solutionCell = document.createElement('td');
-        solutionCell.innerHTML = <a href="${sol.solutionUrl}" target="_blank" class="link-btn solution">Solution</a>;
+        solutionCell.innerHTML = `<a href="${sol.solutionUrl}" target="_blank" class="link-btn solution">Solution</a>`;
         row.appendChild(solutionCell);
         tableBody.appendChild(row);
     });
 }
 
 function applyFilters() {
-    const searchText = document.getElementById('search-box').value.toLowerCase();
-    const selectedRating = document.getElementById('rating-filter').value;
-    const selectedTags = [];
-    document.querySelectorAll('#tag-filter input[type="checkbox"]:checked').forEach(cb => {
-        selectedTags.push(cb.value);
-    });
+    const searchBox = document.getElementById('search-box');
+    const ratingFilter = document.getElementById('rating-filter');
+    if (!searchBox || !ratingFilter) return;
+    const searchText = searchBox.value.toLowerCase();
+    const selectedRating = ratingFilter.value;
+    const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb => cb.value);
     currentFilteredSolutions = allSolutions.filter(sol => {
         const nameMatch = sol.problemName.toLowerCase().includes(searchText);
-        const ratingMatch = !selectedRating || sol.rating == selectedRating;
+        const ratingMatch = !selectedRating || sol.rating === parseInt(selectedRating);
         const tagMatch = selectedTags.every(tag => sol.tags.includes(tag));
         return nameMatch && ratingMatch && tagMatch;
     });
     difficultySortDirection = 'none';
-    document.getElementById('difficulty-header').textContent = 'Difficulty ⇅';
+    const header = document.getElementById('difficulty-header');
+    if (header) header.textContent = 'Difficulty ⇅';
     renderTable(currentFilteredSolutions);
 }
 
 function sortTableByDifficulty() {
     const header = document.getElementById('difficulty-header');
+    if (!header) return;
     if (difficultySortDirection === 'none' || difficultySortDirection === 'desc') {
         difficultySortDirection = 'asc';
         header.textContent = 'Difficulty ↑';
@@ -156,11 +169,7 @@ function sortTableByDifficulty() {
     currentFilteredSolutions.sort((a, b) => {
         const ratingA = a.rating || 0;
         const ratingB = b.rating || 0;
-        if (difficultySortDirection === 'asc') {
-            return ratingA - ratingB;
-        } else {
-            return ratingB - ratingA;
-        }
+        return difficultySortDirection === 'asc' ? ratingA - ratingB : ratingB - ratingA;
     });
     renderTable(currentFilteredSolutions);
 }
