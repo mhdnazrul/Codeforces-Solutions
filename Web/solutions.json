@@ -388,7 +388,7 @@
         "rating": 800,
         "tags": [
             "brute force",
-            "greedy"
+            "sortings"
         ],
         "questionUrl": "https://codeforces.com/contest/2164/problem/A",
         "solutionUrl": "../Solutions/A_Sequence_Game.cpp"
@@ -663,6 +663,16 @@
         "solutionUrl": "../Solutions/A_Arrival_of_the_General.cpp"
     },
     {
+        "problemName": "A Einstein s Calculator",
+        "problemId": "106188A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/gym/106188/problem/A",
+        "solutionUrl": "../Solutions/A_Einstein_s_Calculator.cpp"
+    },
+    {
         "problemName": "Stones on the Table",
         "problemId": "266A",
         "rating": 800,
@@ -794,6 +804,7 @@
         "problemId": "2163A",
         "rating": 800,
         "tags": [
+            "brute force",
             "math",
             "sortings"
         ],
@@ -818,8 +829,7 @@
         "tags": [
             "brute force",
             "math",
-            "number theory",
-            "probabilities"
+            "number theory"
         ],
         "questionUrl": "https://codeforces.com/contest/2164/problem/B",
         "solutionUrl": "../Solutions/B_Even_Modulo_Pair.cpp"
@@ -1613,6 +1623,16 @@
         "solutionUrl": "../Solutions/A_Even_Odds.cpp"
     },
     {
+        "problemName": "HQ9+",
+        "problemId": "133A",
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/133/A",
+        "solutionUrl": "../Solutions/A_HQ_9.cpp"
+    },
+    {
         "problemName": "MEX rose",
         "problemId": "2149C",
         "rating": 900,
@@ -1621,6 +1641,28 @@
         ],
         "questionUrl": "https://codeforces.com/contest/2149/problem/C",
         "solutionUrl": "../Solutions/C.%20MEX%20rose.cpp"
+    },
+    {
+        "problemName": "Dubstep",
+        "problemId": "208A",
+        "rating": 900,
+        "tags": [
+            "strings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/208/A",
+        "solutionUrl": "../Solutions/A_Dubstep.cpp"
+    },
+    {
+        "problemName": "Gravity Flip",
+        "problemId": "405A",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/405/A",
+        "solutionUrl": "../Solutions/A_Gravity_Flip.cpp"
     },
     {
         "problemName": "St. Chroma",

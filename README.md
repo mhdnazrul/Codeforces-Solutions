@@ -3,10 +3,10 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 186
+* **Total Problems Solved:** 190
 * **Solved by Difficulty:**
- * **800:** 142 problems
- * **900:** 14 problems
+ * **800:** 143 problems
+ * **900:** 17 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
  * **1200:** 1 problems
@@ -56,7 +56,7 @@
 | 1030A | In Search of an Easy Problem | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1030/A) | [Solution](./Solutions/A.%20In%20Search%20of%20an%20Easy%20Problem.cpp) |
 | 200B | Drinks | 800 | implementation, math | [Question](https://codeforces.com/problemset/problem/200/B) | [Solution](./Solutions/B.%20Drinks.cpp) |
 | 2133A | Redstone? | 800 | brute force, data structures, implementation, math | [Question](https://codeforces.com/problemset/problem/2133/A) | [Solution](./Solutions/A.%20Redstone.cpp) |
-| 2164A | Sequence Game | 800 | brute force, greedy | [Question](https://codeforces.com/contest/2164/problem/A) | [Solution](./Solutions/A_Sequence_Game.cpp) |
+| 2164A | Sequence Game | 800 | brute force, sortings | [Question](https://codeforces.com/contest/2164/problem/A) | [Solution](./Solutions/A_Sequence_Game.cpp) |
 | 282A | Bit++ | 800 | implementation | [Question](https://codeforces.com/problemset/problem/282/A) | [Solution](./Solutions/A.%20Bit%2B%2B.cpp) |
 | 469A | I Wanna Be the Guy | 800 | greedy, implementation | [Question](https://codeforces.com/problemset/problem/469/A) | [Solution](./Solutions/A.%20I%20Wanna%20Be%20the%20Guy.cpp) |
 | 59A | Word | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](./Solutions/A.%20Word.cpp) |
@@ -82,6 +82,7 @@
 | 2074B | The Third Side | 800 | geometry, greedy, math | [Question](https://codeforces.com/problemset/problem/2074/B) | [Solution](./Solutions/The-Third-Side.cpp) |
 | 791A | Bear and Big Brother | 800 | implementation | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](./Solutions/C-Bear-and-Big-Brother.cpp) |
 | 144A | Arrival of the General | 800 | implementation | [Question](https://codeforces.com/problemset/problem/144/A) | [Solution](./Solutions/A_Arrival_of_the_General.cpp) |
+| 106188A | A Einstein s Calculator | 800 | implementation | [Question](https://codeforces.com/gym/106188/problem/A) | [Solution](./Solutions/A_Einstein_s_Calculator.cpp) |
 | 266A | Stones on the Table | 800 | implementation | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](./Solutions/A.%20Stones%20on%20the%20Table.cpp) |
 | 231A | Team | 800 | brute force, greedy | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](./Solutions/A.%20Team.cpp) |
 | 236A | Boy or Girl | 800 | brute force, implementation, strings | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](./Solutions/A.%20Boy%20or%20Girl.cpp) |
@@ -94,9 +95,9 @@
 | 268A | Games | 800 | brute force | [Question](https://codeforces.com/problemset/problem/268/A) | [Solution](./Solutions/A_Games.cpp) |
 | 977A | Wrong Subtraction | 800 | implementation | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](./Solutions/A.%20Wrong%20Subtraction.cpp) |
 | 1553A | Digits Sum | 800 | math, number theory | [Question](https://codeforces.com/problemset/problem/1553/A) | [Solution](./Solutions/A_Digits_Sum.cpp) |
-| 2163A | Souvlaki VS. Kalamaki | 800 | math, sortings | [Question](https://codeforces.com/contest/2163/problem/A) | [Solution](./Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
+| 2163A | Souvlaki VS. Kalamaki | 800 | brute force, math, sortings | [Question](https://codeforces.com/contest/2163/problem/A) | [Solution](./Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
 | 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
-| 2164B | Even Modulo Pair | 800 | brute force, math, number theory, probabilities | [Question](https://codeforces.com/contest/2164/problem/B) | [Solution](./Solutions/B_Even_Modulo_Pair.cpp) |
+| 2164B | Even Modulo Pair | 800 | brute force, math, number theory | [Question](https://codeforces.com/contest/2164/problem/B) | [Solution](./Solutions/B_Even_Modulo_Pair.cpp) |
 | 2167A | Square? | 800 | math, sortings | [Question](https://codeforces.com/contest/2167/problem/A) | [Solution](./Solutions/A_Square.cpp) |
 | 112A | Petya and Strings | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](./Solutions/A.%20Petya%20and%20Strings.cpp) |
 | 2024A | Profitable Interest Rate | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2024/A) | [Solution](./Solutions/Profitable-Interest-Rate.cpp) |
@@ -172,7 +173,10 @@
 | 1613A | Long Comparison | 900 | implementation, math | [Question](https://codeforces.com/problemset/problem/1613/A) | [Solution](./Solutions/A-Long-Comparison.cpp) |
 | 2093B | Expensive Number | 900 | greedy, math | [Question](https://codeforces.com/problemset/problem/2093/B) | [Solution](./Solutions/B_Expensive_Number.cpp) |
 | 318A | Even Odds | 900 | math | [Question](https://codeforces.com/problemset/problem/318/A) | [Solution](./Solutions/A_Even_Odds.cpp) |
+| 133A | HQ9+ | 900 | implementation | [Question](https://codeforces.com/problemset/problem/133/A) | [Solution](./Solutions/A_HQ_9.cpp) |
 | 2149C | MEX rose | 900 | greedy | [Question](https://codeforces.com/contest/2149/problem/C) | [Solution](./Solutions/C.%20MEX%20rose.cpp) |
+| 208A | Dubstep | 900 | strings | [Question](https://codeforces.com/problemset/problem/208/A) | [Solution](./Solutions/A_Dubstep.cpp) |
+| 405A | Gravity Flip | 900 | greedy, implementation, sortings | [Question](https://codeforces.com/problemset/problem/405/A) | [Solution](./Solutions/A_Gravity_Flip.cpp) |
 | 2106B | St. Chroma | 900 | constructive algorithms, greedy, math | [Question](https://codeforces.com/problemset/problem/2106/B) | [Solution](./Solutions/B-St-Chroma.cpp) |
 | 1535B | Array Reodering | 900 | brute force, greedy, math, number theory, sortings | [Question](https://codeforces.com/problemset/problem/1535/B) | [Solution](./Solutions/B-Array-Reodering.cpp) |
 | 96A | Football | 900 | implementation, strings | [Question](https://codeforces.com/problemset/problem/96/A) | [Solution](./Solutions/A.%20Football.cpp) |
