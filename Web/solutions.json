@@ -41,6 +41,18 @@
         "solutionUrl": "../Solutions/A.%20George%20and%20Accommodation.cpp"
     },
     {
+        "problemName": "Halloumi Boxes",
+        "problemId": "1903A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "sortings"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/1903/A",
+        "solutionUrl": "../Solutions/A_Halloumi_Boxes.cpp"
+    },
+    {
         "problemName": "Sum of Round Numbers",
         "problemId": "1352A",
         "rating": 800,

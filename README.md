@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 200
+* **Total Problems Solved:** 201
 * **Solved by Difficulty:**
- * **800:** 152 problems
+ * **800:** 153 problems
  * **900:** 17 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
@@ -25,6 +25,7 @@
 | 644977A | A Four Coprimes | 800 | implementation | [Question](https://codeforces.com/gym/644977/problem/A) | [Solution](./Solutions/A_Four_Coprimes.cpp) |
 | 116A | Tram | 800 | implementation | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](./Solutions/A.%20Tram.cpp) |
 | 467A | George and Accommodation | 800 | implementation | [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](./Solutions/A.%20George%20and%20Accommodation.cpp) |
+| 1903A | Halloumi Boxes | 800 | brute force, greedy, sortings | [Question](https://codeforces.com/problemset/problem/1903/A) | [Solution](./Solutions/A_Halloumi_Boxes.cpp) |
 | 1352A | Sum of Round Numbers | 800 | implementation, math | [Question](https://codeforces.com/problemset/problem/1352/A) | [Solution](./Solutions/A_Sum_of_Round_Numbers.cpp) |
 | 2149B | Unconventional Pairs | 800 | greedy, sortings | [Question](https://codeforces.com/contest/2149/problem/B) | [Solution](./Solutions/B.%20Unconventional%20Pairs.cpp) |
 | 2139A | Maple and Multiplication | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2139/A) | [Solution](./Solutions/A.%20Maple%20and%20Multiplication.cpp) |
