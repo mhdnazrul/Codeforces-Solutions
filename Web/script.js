@@ -3,44 +3,42 @@ let currentFilteredSolutions = [];
 let ratingChart = null;
 let difficultySortDirection = 'none';
 
-// GitHub blob বা Pages URL কে raw.githubusercontent.com URL এ convert
+// Convert GitHub blob or Pages URLs to raw URLs
 function convertToRawURL(url) {
     if (!url) return url;
-    // যদি blob URL হয়
+
+    // Blob URL case
     if (url.includes("github.com") && url.includes("/blob/")) {
         return url.replace(
             /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/,
             'https://raw.githubusercontent.com/$1/$2/$3'
         );
     }
-    // যদি GitHub Pages link হয়
+
+    // GitHub Pages URL case
     if (url.includes("github.io")) {
-        // GitHub Pages থেকে raw link বানানো
-        // ধরো: https://username.github.io/repo/file.cpp
-        // হবে: https://raw.githubusercontent.com/username/repo/main/file.cpp
         let match = url.match(/https:\/\/([^\.]+)\.github\.io\/([^\/]+)\/(.+)/);
         if (match) {
             let user = match[1], repo = match[2], path = match[3];
             return `https://raw.githubusercontent.com/${user}/${repo}/main/${path}`;
         }
     }
+
     return url;
 }
-
 
 document.addEventListener('DOMContentLoaded', () => {
     fetch('solutions.json')
         .then(response => response.json())
         .then(data => {
-            // Convert all solution and question URLs to raw URLs once
+            // Convert all URLs to raw URLs once
             allSolutions = data.map(sol => ({
                 ...sol,
-                solutionUrl: convertGitHubBlobToRaw(sol.solutionUrl),
-                questionUrl: convertGitHubBlobToRaw(sol.questionUrl)
+                solutionUrl: convertToRawURL(sol.solutionUrl),
+                questionUrl: convertToRawURL(sol.questionUrl)
             }));
 
             currentFilteredSolutions = [...allSolutions];
-
             renderStatistics(allSolutions);
             populateFilters(allSolutions);
             renderTable(allSolutions);
@@ -55,13 +53,11 @@ document.addEventListener('DOMContentLoaded', () => {
 function renderStatistics(solutions) {
     document.getElementById('total-solved').textContent = solutions.length;
     const ratingCounts = {};
-    const ratingCategories = [800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000];
+    const ratingCategories = [800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400,2500,2600,2700,2800,2900,3000];
     ratingCategories.forEach(r => ratingCounts[r] = 0);
-    
+
     solutions.forEach(sol => {
-        if (sol.rating && ratingCounts.hasOwnProperty(sol.rating)) {
-            ratingCounts[sol.rating]++;
-        }
+        if (sol.rating && ratingCounts.hasOwnProperty(sol.rating)) ratingCounts[sol.rating]++;
     });
 
     const ctx = document.getElementById('rating-chart').getContext('2d');
@@ -73,12 +69,7 @@ function renderStatistics(solutions) {
             labels: ratingCategories,
             datasets: [{ label: 'Solved Count', data: Object.values(ratingCounts), backgroundColor: '#3498db' }]
         },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } },
-            plugins: { legend: { display: false } }
-        }
+        options: { responsive: true, maintainAspectRatio: false, scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } }, plugins: { legend: { display: false } } }
     });
 }
 
@@ -93,14 +84,14 @@ function populateFilters(solutions) {
         sol.tags.forEach(tag => tags.add(tag));
     });
 
-    [...ratings].sort((a, b) => a - b).forEach(rating => {
+    [...ratings].sort((a,b)=>a-b).forEach(rating=>{
         const option = document.createElement('option');
         option.value = rating;
         option.textContent = rating;
         ratingFilter.appendChild(option);
     });
 
-    [...tags].sort().forEach(tag => {
+    [...tags].sort().forEach(tag=>{
         const tagItem = document.createElement('label');
         tagItem.className = 'tag-item';
         const checkbox = document.createElement('input');
@@ -117,26 +108,18 @@ function renderTable(solutions) {
     const tableBody = document.getElementById('solutions-table-body');
     tableBody.innerHTML = '';
 
-    solutions.forEach(sol => {
+    solutions.forEach(sol=>{
         const row = document.createElement('tr');
 
-        const idCell = document.createElement('td');
-        idCell.textContent = sol.problemId;
-        row.appendChild(idCell);
-
-        const nameCell = document.createElement('td');
-        nameCell.textContent = sol.problemName;
-        row.appendChild(nameCell);
-
-        const ratingCell = document.createElement('td');
-        ratingCell.textContent = sol.rating || 'N/A';
-        row.appendChild(ratingCell);
+        const idCell = document.createElement('td'); idCell.textContent = sol.problemId; row.appendChild(idCell);
+        const nameCell = document.createElement('td'); nameCell.textContent = sol.problemName; row.appendChild(nameCell);
+        const ratingCell = document.createElement('td'); ratingCell.textContent = sol.rating||'N/A'; row.appendChild(ratingCell);
 
         const tagsCell = document.createElement('td');
-        sol.tags.forEach(tag => {
+        sol.tags.forEach(tag=>{
             const tagSpan = document.createElement('span');
-            tagSpan.className = 'tag';
-            tagSpan.textContent = tag;
+            tagSpan.className='tag';
+            tagSpan.textContent=tag;
             tagsCell.appendChild(tagSpan);
         });
         row.appendChild(tagsCell);
@@ -144,7 +127,7 @@ function renderTable(solutions) {
         const questionCell = document.createElement('td');
         questionCell.innerHTML = `<a href="${sol.questionUrl}" target="_blank" class="link-btn">Question</a>`;
         row.appendChild(questionCell);
-        
+
         const solutionCell = document.createElement('td');
         solutionCell.innerHTML = `<a href="${sol.solutionUrl}" target="_blank" class="link-btn solution">Solution</a>`;
         row.appendChild(solutionCell);
@@ -154,38 +137,36 @@ function renderTable(solutions) {
 }
 
 function applyFilters() {
-    const searchText = document.getElementById('search-box').value.toLowerCase();
-    const selectedRating = document.getElementById('rating-filter').value;
-    const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb => cb.value);
+    const searchText=document.getElementById('search-box').value.toLowerCase();
+    const selectedRating=document.getElementById('rating-filter').value;
+    const selectedTags=[...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb=>cb.value);
 
-    currentFilteredSolutions = allSolutions.filter(sol => {
-        const nameMatch = sol.problemName.toLowerCase().includes(searchText);
-        const ratingMatch = !selectedRating || sol.rating == selectedRating;
-        const tagMatch = selectedTags.every(tag => sol.tags.includes(tag));
+    currentFilteredSolutions=allSolutions.filter(sol=>{
+        const nameMatch=sol.problemName.toLowerCase().includes(searchText);
+        const ratingMatch=!selectedRating||sol.rating==selectedRating;
+        const tagMatch=selectedTags.every(tag=>sol.tags.includes(tag));
         return nameMatch && ratingMatch && tagMatch;
     });
 
-    difficultySortDirection = 'none';
-    document.getElementById('difficulty-header').textContent = 'Difficulty ⇅';
-    
+    difficultySortDirection='none';
+    document.getElementById('difficulty-header').textContent='Difficulty ⇅';
     renderTable(currentFilteredSolutions);
 }
 
 function sortTableByDifficulty() {
-    const header = document.getElementById('difficulty-header');
-    
-    if (difficultySortDirection === 'none' || difficultySortDirection === 'desc') {
-        difficultySortDirection = 'asc';
-        header.textContent = 'Difficulty ↑';
+    const header=document.getElementById('difficulty-header');
+    if(difficultySortDirection==='none'||difficultySortDirection==='desc'){
+        difficultySortDirection='asc';
+        header.textContent='Difficulty ↑';
     } else {
-        difficultySortDirection = 'desc';
-        header.textContent = 'Difficulty ↓';
+        difficultySortDirection='desc';
+        header.textContent='Difficulty ↓';
     }
 
-    currentFilteredSolutions.sort((a, b) => {
-        const ratingA = a.rating || 0;
-        const ratingB = b.rating || 0;
-        return difficultySortDirection === 'asc' ? ratingA - ratingB : ratingB - ratingA;
+    currentFilteredSolutions.sort((a,b)=>{
+        const ratingA=a.rating||0;
+        const ratingB=b.rating||0;
+        return difficultySortDirection==='asc'?ratingA-ratingB:ratingB-ratingA;
     });
 
     renderTable(currentFilteredSolutions);
