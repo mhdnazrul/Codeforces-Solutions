@@ -3,16 +3,30 @@ let currentFilteredSolutions = [];
 let ratingChart = null;
 let difficultySortDirection = 'none';
 
-// Convert GitHub blob URLs to raw URLs
-function convertGitHubBlobToRaw(url) {
+// GitHub blob বা Pages URL কে raw.githubusercontent.com URL এ convert
+function convertToRawURL(url) {
     if (!url) return url;
-    // Example: https://github.com/user/repo/blob/main/file.cpp
-    // Converts to: https://raw.githubusercontent.com/user/repo/main/file.cpp
-    return url.replace(
-        /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/,
-        'https://raw.githubusercontent.com/$1/$2/$3'
-    );
+    // যদি blob URL হয়
+    if (url.includes("github.com") && url.includes("/blob/")) {
+        return url.replace(
+            /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)\/blob\/(.+)$/,
+            'https://raw.githubusercontent.com/$1/$2/$3'
+        );
+    }
+    // যদি GitHub Pages link হয়
+    if (url.includes("github.io")) {
+        // GitHub Pages থেকে raw link বানানো
+        // ধরো: https://username.github.io/repo/file.cpp
+        // হবে: https://raw.githubusercontent.com/username/repo/main/file.cpp
+        let match = url.match(/https:\/\/([^\.]+)\.github\.io\/([^\/]+)\/(.+)/);
+        if (match) {
+            let user = match[1], repo = match[2], path = match[3];
+            return `https://raw.githubusercontent.com/${user}/${repo}/main/${path}`;
+        }
+    }
+    return url;
 }
+
 
 document.addEventListener('DOMContentLoaded', () => {
     fetch('solutions.json')
