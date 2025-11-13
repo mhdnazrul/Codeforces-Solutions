@@ -28,17 +28,17 @@ function renderStatistics(solutions) {
     if (totalSolvedElement) {
         totalSolvedElement.textContent = solutions.length;
     }
-    const ratingCounts = {};
     const ratingCategories = [...new Set(solutions.map(sol => sol.rating).filter(r => r))].sort((a, b) => a - b);
+    const ratingCounts = {};
     ratingCategories.forEach(r => ratingCounts[r] = 0);
     solutions.forEach(sol => {
         if (sol.rating) {
             ratingCounts[sol.rating]++;
         }
     });
-    const canvas = document.getElementById('rating-chart');
-    if (canvas) {
-        const ctx = canvas.getContext('2d');
+    const canvasElement = document.getElementById('rating-chart');
+    if (canvasElement) {
+        const ctx = canvasElement.getContext('2d');
         if (ratingChart) {
             ratingChart.destroy();
         }
@@ -146,7 +146,7 @@ function applyFilters() {
     const selectedTags = [...document.querySelectorAll('#tag-filter input[type="checkbox"]:checked')].map(cb => cb.value);
     currentFilteredSolutions = allSolutions.filter(sol => {
         const nameMatch = sol.problemName.toLowerCase().includes(searchText);
-        const ratingMatch = !selectedRating || sol.rating === parseInt(selectedRating);
+        const ratingMatch = !selectedRating || sol.rating === Number(selectedRating);
         const tagMatch = selectedTags.every(tag => sol.tags.includes(tag));
         return nameMatch && ratingMatch && tagMatch;
     });
