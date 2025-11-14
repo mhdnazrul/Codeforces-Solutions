@@ -106,6 +106,20 @@
         "solutionUrl": "../Solutions/B.%20Cake%20Collection.cpp"
     },
     {
+        "problemName": "Range Operation",
+        "problemId": "2169C",
+        "rating": 800,
+        "tags": [
+            "math",
+            "math",
+            "math",
+            "math",
+            "math"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2169/problem/C",
+        "solutionUrl": "../Solutions/C_Range_Operation.cpp"
+    },
+    {
         "problemName": "Anton and Danik",
         "problemId": "734A",
         "rating": 800,
@@ -814,6 +828,20 @@
         "solutionUrl": "../Solutions/A_Digits_Sum.cpp"
     },
     {
+        "problemName": "Alice and Bob",
+        "problemId": "2169A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "greedy",
+            "greedy",
+            "greedy",
+            "greedy"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2169/problem/A",
+        "solutionUrl": "../Solutions/A_Alice_and_Bob.cpp"
+    },
+    {
         "problemName": "Souvlaki VS. Kalamaki",
         "problemId": "2163A",
         "rating": 800,
@@ -936,6 +964,20 @@
         ],
         "questionUrl": "https://codeforces.com/problemset/problem/266/B",
         "solutionUrl": "../Solutions/B.%20Queue%20at%20the%20School.c.cpp"
+    },
+    {
+        "problemName": "Drifting Away",
+        "problemId": "2169B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "implementation",
+            "implementation",
+            "implementation",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/contest/2169/problem/B",
+        "solutionUrl": "../Solutions/B_Drifting_Away.cpp"
     },
     {
         "problemName": "Lucky?",

@@ -3,9 +3,9 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 205
+* **Total Problems Solved:** 208
 * **Solved by Difficulty:**
- * **800:** 155 problems
+ * **800:** 158 problems
  * **900:** 18 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
@@ -31,6 +31,7 @@
 | 2139A | Maple and Multiplication | 800 | greedy, math | [Question](https://codeforces.com/problemset/problem/2139/A) | [Solution](./Solutions/A.%20Maple%20and%20Multiplication.cpp) |
 | 2094A | Trippi Troppi | 800 | strings | [Question](https://codeforces.com/problemset/problem/2094/A) | [Solution](./Solutions/A_TrippiTroppi.cpp) |
 | 2139B | Cake Collection | 800 | greedy | [Question](https://codeforces.com/problemset/problem/2139/B) | [Solution](./Solutions/B.%20Cake%20Collection.cpp) |
+| 2169C | Range Operation | 800 | math, math, math, math, math | [Question](https://codeforces.com/contest/2169/problem/C) | [Solution](./Solutions/C_Range_Operation.cpp) |
 | 734A | Anton and Danik | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/734/A) | [Solution](./Solutions/B-Anton-and-Danik.cpp) |
 | 959A | Mahmoud and Ehab and the even-odd game | 800 | games, math | [Question](https://codeforces.com/problemset/problem/959/A) | [Solution](./Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
 | 2153A | Circle of Apple Trees | 800 | greedy, sortings | [Question](https://codeforces.com/contest/2153/problem/A) | [Solution](./Solutions/A_Circle_of_Apple_Trees.cpp) |
@@ -96,6 +97,7 @@
 | 268A | Games | 800 | brute force | [Question](https://codeforces.com/problemset/problem/268/A) | [Solution](./Solutions/A_Games.cpp) |
 | 977A | Wrong Subtraction | 800 | implementation | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](./Solutions/A.%20Wrong%20Subtraction.cpp) |
 | 1553A | Digits Sum | 800 | math, number theory | [Question](https://codeforces.com/problemset/problem/1553/A) | [Solution](./Solutions/A_Digits_Sum.cpp) |
+| 2169A | Alice and Bob | 800 | greedy, greedy, greedy, greedy, greedy | [Question](https://codeforces.com/contest/2169/problem/A) | [Solution](./Solutions/A_Alice_and_Bob.cpp) |
 | 2163A | Souvlaki VS. Kalamaki | 800 | brute force, math, sortings | [Question](https://codeforces.com/contest/2163/problem/A) | [Solution](./Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
 | 1498A | GCD Sum | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/1498/A) | [Solution](./Solutions/GCD-Sum.cpp) |
 | 2164B | Even Modulo Pair | 800 | brute force, math, number theory | [Question](https://codeforces.com/contest/2164/problem/B) | [Solution](./Solutions/B_Even_Modulo_Pair.cpp) |
@@ -107,6 +109,7 @@
 | 1791A | Codeforces Checking | 800 | implementation, strings | [Question](https://codeforces.com/problemset/problem/1791/A) | [Solution](./Solutions/A_Codeforces_Checking.cpp) |
 | 1873B | Good Kid | 800 | brute force, greedy, math | [Question](https://codeforces.com/contest/1873/problem/B) | [Solution](./Solutions/B_Good_Kid.cpp) |
 | 266B | Queue at the School | 800 | constructive algorithms, graph matchings, implementation, shortest paths | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](./Solutions/B.%20Queue%20at%20the%20School.c.cpp) |
+| 2169B | Drifting Away | 800 | implementation, implementation, implementation, implementation, implementation | [Question](https://codeforces.com/contest/2169/problem/B) | [Solution](./Solutions/B_Drifting_Away.cpp) |
 | 1676A | Lucky? | 800 | implementation | [Question](https://codeforces.com/problemset/problem/1676/A) | [Solution](./Solutions/A_Lucky.cpp) |
 | 1999C | Showering | 800 | greedy, implementation | [Question](https://codeforces.com/contest/1999/problem/C) | [Solution](./Solutions/C_Showering.cpp) |
 | 4A | Watermelon | 800 | brute force, math | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](./Solutions/A.%20Watermelon.cpp) |
