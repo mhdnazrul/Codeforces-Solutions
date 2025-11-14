@@ -1826,6 +1826,18 @@
         "solutionUrl": "../Solutions/A.%20Football.cpp"
     },
     {
+        "problemName": "Kefa and First Steps",
+        "problemId": "580A",
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+        ],
+        "questionUrl": "https://codeforces.com/problemset/problem/580/A",
+        "solutionUrl": "../Solutions/A_Kefa_and_First_Steps.cpp"
+    },
+    {
         "problemName": "ABC String",
         "problemId": "1494A",
         "rating": 900,

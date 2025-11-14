@@ -3,10 +3,10 @@
 - [Codeforces Solution Archive Website](https://mhdnazrul.github.io/Codeforces-Solutions/)
 - [GitHub](https://github.com/mhdnazrul) | [Codeforces](https://codeforces.com/profile/nazrulislam_7) | [Facebook](https://www.facebook.com/mhdnazrulislam.me/)
 ## 📊 Statistics
-* **Total Problems Solved:** 204
+* **Total Problems Solved:** 205
 * **Solved by Difficulty:**
  * **800:** 155 problems
- * **900:** 17 problems
+ * **900:** 18 problems
  * **1000:** 13 problems
  * **1100:** 7 problems
  * **1200:** 2 problems
@@ -192,6 +192,7 @@
 | 2106B | St. Chroma | 900 | constructive algorithms, greedy, math | [Question](https://codeforces.com/problemset/problem/2106/B) | [Solution](./Solutions/B-St-Chroma.cpp) |
 | 1535B | Array Reodering | 900 | brute force, greedy, math, number theory, sortings | [Question](https://codeforces.com/problemset/problem/1535/B) | [Solution](./Solutions/B-Array-Reodering.cpp) |
 | 96A | Football | 900 | implementation, strings | [Question](https://codeforces.com/problemset/problem/96/A) | [Solution](./Solutions/A.%20Football.cpp) |
+| 580A | Kefa and First Steps | 900 | brute force, dp, implementation | [Question](https://codeforces.com/problemset/problem/580/A) | [Solution](./Solutions/A_Kefa_and_First_Steps.cpp) |
 | 1494A | ABC String | 900 | bitmasks, brute force, implementation | [Question](https://codeforces.com/contest/1494/problem/A) | [Solution](./Solutions/A_ABC_String.cpp) |
 | 1A | Theatre Square | 1000 | math | [Question](https://codeforces.com/problemset/problem/1/A) | [Solution](./Solutions/A_Theatre_Square.cpp) |
 | 122A | Lucky Division | 1000 | brute force, number theory | [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](./Solutions/A_Lucky_Division.cpp) |
