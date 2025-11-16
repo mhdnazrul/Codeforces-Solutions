@@ -1,0 +1,150 @@
+# One-line safe push command (use after adding solutions)
+# git add Solutions/ Gyms/ Groups/ && git commit -m "Add new solutions" && git pull origin main && git push origin main
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.local/
+local.json
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+.vscode/.history
+.vscode/.projects
+.idea/misc.xml
+.idea/workspace.xml
+.idea/tasks.xml
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.backup
+*.cache
+*.orig
+*.rej
+*.stackdump
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Compiled C++/Java files (local compile temp)
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+*.class
+*.jar
+*.out
+*.cph
+*.prob
+
+# Test outputs
+.pytest_cache/
+coverage/
+.coverage.*
+
+# Sensitive data
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# Solution folders temp (local testing)
+Solutions/temp/
+Solutions/build/
+Solutions/cph/
+Solutions/Others/
+Solutions/others/
+Solutions/cp_temp/
+Solutions/test/
+Gyms/temp/
+Gyms/build/
+Groups/temp/
+Groups/build/
+
+# Web build artifacts (exclude generated essentials)
+Web/node_modules/
+Web/npm-debug.log
+Web/yarn-error.log
+Web/.nojekyll  # Keep for Pages, but ignore if regenerated
+Web/dist/
+Web/build/
+Web/_site/
+
+# Generated files (keep these in repo)
+!Web/solutions.json
+!Web/index.html
+!Web/style.css
+!Web/script.js
+!README.md

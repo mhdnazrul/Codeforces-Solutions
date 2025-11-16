@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Nazrul Islam's Codeforces Archive with interactive stats, filters, and sortable table.">
+    <title>Codeforces Archive - Nazrul Islam</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="profile-info">
+                    <h1>CF Archive</h1>
+                    <p class="subtitle">By <strong>Nazrul Islam</strong></p>
+                    <div class="social-mini">
+                        <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="fab fa-github" aria-hidden="true"></i></a>
+                        <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank" rel="noopener noreferrer" aria-label="Codeforces Profile"><i class="fas fa-code" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                <div class="stats-wrapper">
+                    <div class="stat-box">
+                        <span class="stat-label">Solved</span>
+                        <span class="stat-val" id="total-solved">...</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Avg Rating</span>
+                        <span class="stat-val" id="avg-rating">-</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Max Rating</span>
+                        <span class="stat-val" id="max-rating">-</span>
+                    </div>
+                </div>
+                <div class="chart-mini">
+                    <canvas id="ratingChart"></canvas>
+                </div>
+            </div>
+        </header>
+        <div class="sticky-wrapper">
+            <div class="controls-area">
+                <div class="search-box">
+                    <label for="searchInput" class="sr-only">Search Problem ID or Name</label>
+                    <i class="fas fa-search" aria-hidden="true"></i>
+                    <input type="text" id="searchInput" placeholder="Search Problem ID or Name..." aria-label="Search Problem ID or Name">
+                </div>
+                <div class="filter-box">
+                    <label for="difficultyFilter" class="sr-only">Filter by Difficulty</label>
+                    <select id="difficultyFilter" aria-label="Filter by Difficulty">
+                        <option value="all">All Difficulty</option>
+                        <option value="800">800 (Newbie)</option>
+                        <option value="1000">1000 (Newbie)</option>
+                        <option value="1200">1200 (Pupil)</option>
+                        <option value="1400">1400 (Specialist)</option>
+                        <option value="1600">1600 (Expert)</option>
+                        <option value="1800">1800+ (Master)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="table-container" style="overflow-x: auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col" class="sortable" onclick="sortTable('id')" aria-sort="none">ID <i class="fas fa-sort" aria-hidden="true"></i></th>
+                        <th scope="col" class="sortable" onclick="sortTable('name')" aria-sort="none">Problem Name <i class="fas fa-sort" aria-hidden="true"></i></th>
+                        <th scope="col" class="sortable" onclick="sortTable('rating')" aria-sort="none">Difficulty <i class="fas fa-sort" aria-hidden="true"></i></th>
+                        <th scope="col">Tags</th>
+                        <th scope="col" class="center-align">Links</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                </tbody>
+            </table>
+            <div id="no-results" style="display:none; text-align:center; padding:20px;">No problems found.</div>
+        </div>
+        <footer>
+            <p>&copy; 2025 <strong>Nazrul Islam</strong>. Auto-generated Archive.</p>
+            <div class="footer-links">
+                <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer">GitHub</a> •
+                <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank" rel="noopener noreferrer">Codeforces</a> •
+                <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank" rel="noopener noreferrer">Codechef</a> •
+                <a href="https://www.linkedin.com/in/nazrulislam7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+                <a href="https://www.facebook.com/mhdnazrulislam.me/" target="_blank" rel="noopener noreferrer">Facebook</a>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
