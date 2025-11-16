@@ -114,9 +114,9 @@
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/100_A_B.cpp) |
+| N/A | A Same Difference | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Same_Difference.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_AppendAppendAppend.cpp) |
 | N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Range_Minimum_Query.cpp) |
-| N/A | A Same Difference | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Same_Difference.cpp) |
 | 996AA | A Hit the Lottery | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Hit_the_Lottery.cpp) |
 | 977AA | A Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Wrong_Subtraction.cpp) |
 | 96AA | A Football | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/96/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Football.cpp) |
@@ -265,8 +265,8 @@
 | 1613AA | A Long Comparison | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Long_Comparison.cpp) |
 | 160AA | A Twins | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Twins.cpp) |
 | 158BB | B Taxi | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/158/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/B_Taxi.cpp) |
-| 158AA | A Domino piling | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Domino_piling.cpp) |
 | 158AA | A Next Round | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Next_Round.cpp) |
+| 158AA | A Domino piling | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Domino_piling.cpp) |
 | 1553AA | A Digits Sum | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1553/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/A_Digits_Sum.cpp) |
 | 1535BB | B Array Reodering | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1535/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/B_Array_Reodering.cpp) |
 | 1498AA | GCD Sum | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1498/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/GCD_Sum.cpp) |
