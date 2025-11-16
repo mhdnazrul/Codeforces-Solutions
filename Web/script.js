@@ -6,204 +6,134 @@ let ratingChart = null;
 let currentSort = { key: null, dir: 'asc' };
 
 document.addEventListener('DOMContentLoaded', () => {
-    const loadingMsg = document.createElement('div');
-    loadingMsg.textContent = 'Loading...';
-    loadingMsg.style.textAlign = 'center';
-    loadingMsg.style.padding = '20px';
-    const tableContainer = document.querySelector('.table-container');
-    if (tableContainer) tableContainer.appendChild(loadingMsg);
-
     fetch('solutions.json')
-        .then(resp => {
-            if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-            return resp.json();
-        })
+        .then(r => r.ok ? r.json() : [])
         .then(data => {
             allSolutions = (Array.isArray(data) ? data : []).map(normalizeEntry);
             currentFilteredSolutions = [...allSolutions];
             renderStatistics(allSolutions);
             renderTable(currentFilteredSolutions);
-            if (loadingMsg.parentNode) loadingMsg.parentNode.removeChild(loadingMsg);
         })
-        .catch(error => {
-            console.error('Error loading solutions.json:', error);
-            const nr = document.getElementById('no-results');
-            if (nr) {
-                nr.textContent = 'Error loading data. Check console.';
-                nr.style.display = 'block';
-            }
-            if (loadingMsg.parentNode) loadingMsg.parentNode.removeChild(loadingMsg);
-        });
+        .catch(e => console.error(e));
 
     const searchBox = document.getElementById('searchInput');
+    let debounceTimer;
     if (searchBox) {
-        let debounceTimer;
         searchBox.addEventListener('input', () => {
             clearTimeout(debounceTimer);
             debounceTimer = setTimeout(applyFilters, 300);
         });
     }
-    const difficultyFilter = document.getElementById('difficultyFilter');
-    if (difficultyFilter) difficultyFilter.addEventListener('change', applyFilters);
+    document.getElementById('difficultyFilter')?.addEventListener('change', applyFilters);
 });
 
 function normalizeEntry(p) {
-    const relPath = p.sol_path || p.solPath || p.solutionUrl || '';
-    const solutionUrl = p.solutionUrl || (relPath ? `${REPO_URL}/blob/main/${encodeURI(relPath)}` : '#');
-    const questionUrl = p.questionUrl || p.q_link || p.qLink || '#';
-    const id = p.problemId || p.id || p.filename || (relPath ? relPath.split('/').pop() : 'N/A');
-    const name = p.problemName || p.name || id;
-    const rating = Number(p.rating) || 0;
-    const tags = Array.isArray(p.tags) ? p.tags : [];
+    const relPath = p.sol_path || '';
+    const solutionUrl = relPath ? `${REPO_URL}/blob/main/${relPath}` : '#';
     return {
-        problemId: String(id),
-        problemName: String(name),
-        rating,
-        tags,
-        questionUrl,
-        solutionUrl,
+        problemId: String(p.id || 'N/A'),
+        problemName: String(p.name || p.id),
+        rating: Number(p.rating) || 0,
+        tags: Array.isArray(p.tags) ? p.tags : [],
+        questionUrl: p.q_link || '#',
+        solutionUrl: solutionUrl,
         raw: p
     };
 }
 
-function renderStatistics(solutions) {
-    try {
-        const totalElem = document.getElementById('total-solved');
-        const avgElem = document.getElementById('avg-rating');
-        const maxElem = document.getElementById('max-rating');
-        if (totalElem) totalElem.textContent = solutions.length;
-        const ratings = solutions.map(s => s.rating).filter(r => r > 0);
-        const avg = ratings.length ? Math.round(ratings.reduce((a,b)=>a+b,0)/ratings.length) : '-';
-        const max = ratings.length ? Math.max(...ratings) : '-';
-        if (avgElem) avgElem.textContent = avg;
-        if (maxElem) maxElem.textContent = max;
+function renderStatistics(data) {
+    document.getElementById('total-solved').textContent = data.length;
+    const ratings = data.map(s => s.rating).filter(r => r > 0);
+    document.getElementById('avg-rating').textContent = ratings.length ? Math.round(ratings.reduce((a,b)=>a+b,0)/ratings.length) : '-';
+    document.getElementById('max-rating').textContent = ratings.length ? Math.max(...ratings) : '-';
 
-        const ratingCounts = {};
-        ratings.forEach(r => ratingCounts[r] = (ratingCounts[r] || 0) + 1);
-        const categories = Object.keys(ratingCounts).map(Number).sort((a,b)=>a-b);
+    const counts = {};
+    ratings.forEach(r => counts[r] = (counts[r] || 0) + 1);
+    const keys = Object.keys(counts).map(Number).sort((a,b)=>a-b);
 
-        const canvas = document.getElementById('ratingChart');
-        if (canvas) {
-            canvas.height = 160;
-            const ctx = canvas.getContext('2d');
-            if (ratingChart) ratingChart.destroy();
-            ratingChart = new Chart(ctx, {
-                type: 'bar',
-                data: {
-                    labels: categories,
-                    datasets: [{ label: 'Solved', data: categories.map(c => ratingCounts[c] || 0), backgroundColor: '#3498db' }]
-                },
-                options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } } }
-            });
-        }
-    } catch (error) {
-        console.error('Error rendering statistics:', error);
-    }
-}
-
-function renderTable(solutions) {
-    try {
-        const tableBody = document.getElementById('table-body');
-        const noResults = document.getElementById('no-results');
-        if (!tableBody) return;
-        tableBody.innerHTML = '';
-        if (!solutions.length) {
-            if (noResults) noResults.style.display = 'block';
-            return;
-        }
-        if (noResults) noResults.style.display = 'none';
-
-        solutions.forEach(sol => {
-            const tr = document.createElement('tr');
-            const tdId = document.createElement('td'); tdId.textContent = sol.problemId; tr.appendChild(tdId);
-            const tdName = document.createElement('td'); tdName.textContent = sol.problemName; tr.appendChild(tdName);
-            const tdRating = document.createElement('td'); 
-            const ratingBadge = document.createElement('span');
-            ratingBadge.className = `rating-badge lvl-${getLevelClass(sol.rating)}`;
-            ratingBadge.textContent = sol.rating || 'N/A';
-            tdRating.appendChild(ratingBadge);
-            tr.appendChild(tdRating);
-            const tdTags = document.createElement('td');
-            sol.tags.forEach(tag => { 
-                const span = document.createElement('span'); 
-                span.className = 'tag'; 
-                span.textContent = tag; 
-                tdTags.appendChild(span); 
-            });
-            tr.appendChild(tdTags);
-            const tdLinks = document.createElement('td'); tdLinks.className = 'center-align';
-            const qLink = document.createElement('a'); 
-            qLink.href = sol.questionUrl || '#'; 
-            qLink.target = '_blank'; 
-            qLink.rel = 'noopener noreferrer'; 
-            qLink.className = 'action-btn btn-problem'; 
-            qLink.textContent = 'Question';
-            const sLink = document.createElement('a'); 
-            sLink.href = sol.solutionUrl || '#'; 
-            sLink.target = '_blank'; 
-            sLink.rel = 'noopener noreferrer'; 
-            sLink.className = 'action-btn btn-sol'; 
-            sLink.textContent = 'Code';
-            tdLinks.appendChild(qLink); 
-            tdLinks.appendChild(document.createTextNode(' ')); 
-            tdLinks.appendChild(sLink);
-            tr.appendChild(tdLinks);
-            tableBody.appendChild(tr);
+    const ctx = document.getElementById('ratingChart')?.getContext('2d');
+    if (ctx) {
+        if (ratingChart) ratingChart.destroy();
+        ratingChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: keys,
+                datasets: [{ label: 'Solved', data: keys.map(k => counts[k]), backgroundColor: '#2196f3' }]
+            },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } } }
         });
-    } catch (error) {
-        console.error('Error rendering table:', error);
     }
 }
 
-function getLevelClass(rating) {
-    if (rating < 1000) return 'newbie';
-    if (rating < 1200) return 'green';
-    if (rating < 1400) return 'cyan';
-    if (rating < 1600) return 'blue';
+function renderTable(data) {
+    const tbody = document.getElementById('table-body');
+    const noRes = document.getElementById('no-results');
+    tbody.innerHTML = '';
+    
+    if (!data.length) { noRes.style.display = 'block'; return; }
+    noRes.style.display = 'none';
+
+    data.forEach(sol => {
+        const tr = document.createElement('tr');
+        const rClass = getLevelClass(sol.rating);
+        
+        let tagsHtml = '';
+        sol.tags.slice(0, 2).forEach(t => tagsHtml += `<span class="tag">${t}</span>`);
+        
+        tr.innerHTML = `
+            <td>${sol.problemId}</td>
+            <td>${sol.problemName}</td>
+            <td><span class="rating-badge lvl-${rClass}">${sol.rating || 'N/A'}</span></td>
+            <td>${tagsHtml}</td>
+            <td class="center-align">
+                <a href="${sol.questionUrl}" target="_blank" class="action-btn btn-problem"><i class="fas fa-external-link-alt"></i> Prob</a>
+                <a href="${sol.solutionUrl}" target="_blank" class="action-btn btn-sol"><i class="fas fa-code"></i> Code</a>
+            </td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
+
+function getLevelClass(r) {
+    if (r < 1000) return 'newbie';
+    if (r < 1200) return 'green';
+    if (r < 1400) return 'cyan';
+    if (r < 1600) return 'blue';
     return 'violet';
 }
 
 function applyFilters() {
-    const searchInput = document.getElementById('searchInput');
-    const difficultyFilter = document.getElementById('difficultyFilter');
-    if (!searchInput || !difficultyFilter) return;
-    const q = searchInput.value.trim().toLowerCase();
-    const diffVal = difficultyFilter.value;
+    const q = document.getElementById('searchInput').value.trim().toLowerCase();
+    const diff = document.getElementById('difficultyFilter').value;
+    
     currentFilteredSolutions = allSolutions.filter(s => {
-        const matchesQuery = !q || (`${s.problemId} ${s.problemName}`).toLowerCase().includes(q);
-        const matchesDiff = diffVal === 'all' || (s.rating && s.rating >= Number(diffVal));
-        return matchesQuery && matchesDiff;
+        const matchQ = !q || (`${s.problemId} ${s.problemName}`).toLowerCase().includes(q);
+        const matchD = diff === 'all' || (s.rating && s.rating >= Number(diff));
+        return matchQ && matchD;
     });
+    
     if (currentSort.key) sortTable(currentSort.key, false);
-    renderTable(currentFilteredSolutions);
+    else renderTable(currentFilteredSolutions);
 }
 
 function sortTable(key, toggle = true) {
-    try {
-        if (toggle) {
-            if (currentSort.key === key) currentSort.dir = currentSort.dir === 'asc' ? 'desc' : 'asc';
-            else { currentSort.key = key; currentSort.dir = 'asc'; }
-        }
-        const dir = currentSort.dir === 'asc' ? 1 : -1;
-        currentFilteredSolutions.sort((a,b) => {
-            let va = (a[key] !== undefined) ? a[key] : (a.raw && a.raw[key]) || '';
-            let vb = (b[key] !== undefined) ? b[key] : (b.raw && b.raw[key]) || '';
-            if (key === 'rating') {
-                va = Number(va) || 0;
-                vb = Number(vb) || 0;
-                return (va - vb) * dir;
-            }
-            return String(va).localeCompare(String(vb)) * dir;
-        });
-        // Update sort icons
-        document.querySelectorAll('.fa-sort').forEach(icon => icon.style.opacity = '0.5');
-        const activeTh = document.querySelector(`th[onclick="sortTable('${key}')"] .fa-sort`);
-        if (activeTh) {
-            activeTh.style.opacity = '1';
-            activeTh.className = currentSort.dir === 'asc' ? 'fas fa-sort-up' : 'fas fa-sort-down';
-        }
-        renderTable(currentFilteredSolutions);
-    } catch (error) {
-        console.error('Error sorting table:', error);
+    if (toggle) {
+        if (currentSort.key === key) currentSort.dir = currentSort.dir === 'asc' ? 'desc' : 'asc';
+        else { currentSort.key = key; currentSort.dir = 'asc'; }
     }
+    const dir = currentSort.dir === 'asc' ? 1 : -1;
+    
+    currentFilteredSolutions.sort((a,b) => {
+        let va = a[key], vb = b[key];
+        if (key === 'rating') return (va - vb) * dir;
+        if (key === 'problemId' || key === 'id') 
+            return String(va).localeCompare(String(vb), undefined, { numeric: true, sensitivity: 'base' }) * dir;
+        return String(va).localeCompare(String(vb)) * dir;
+    });
+    
+    document.querySelectorAll('.fa-sort, .fa-sort-up, .fa-sort-down').forEach(i => i.className = 'fas fa-sort');
+    const icon = document.querySelector(`th[onclick="sortTable('${key}')"] i`);
+    if (icon) icon.className = currentSort.dir === 'asc' ? 'fas fa-sort-up' : 'fas fa-sort-down';
+    
+    renderTable(currentFilteredSolutions);
 }

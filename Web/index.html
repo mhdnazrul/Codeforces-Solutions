@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Nazrul Islam's Codeforces Archive with interactive stats, filters, and sortable table.">
     <title>Codeforces Archive - Nazrul Islam</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -18,8 +17,8 @@
                     <h1>CF Archive</h1>
                     <p class="subtitle">By <strong>Nazrul Islam</strong></p>
                     <div class="social-mini">
-                        <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile"><i class="fab fa-github" aria-hidden="true"></i></a>
-                        <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank" rel="noopener noreferrer" aria-label="Codeforces Profile"><i class="fas fa-code" aria-hidden="true"></i></a>
+                        <a href="https://github.com/mhdnazrul" target="_blank"><i class="fab fa-github"></i></a>
+                        <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank"><i class="fas fa-code"></i></a>
                     </div>
                 </div>
                 <div class="stats-wrapper">
@@ -41,16 +40,15 @@
                 </div>
             </div>
         </header>
+
         <div class="sticky-wrapper">
             <div class="controls-area">
                 <div class="search-box">
-                    <label for="searchInput" class="sr-only">Search Problem ID or Name</label>
-                    <i class="fas fa-search" aria-hidden="true"></i>
-                    <input type="text" id="searchInput" placeholder="Search Problem ID or Name..." aria-label="Search Problem ID or Name">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search Problem ID or Name...">
                 </div>
                 <div class="filter-box">
-                    <label for="difficultyFilter" class="sr-only">Filter by Difficulty</label>
-                    <select id="difficultyFilter" aria-label="Filter by Difficulty">
+                    <select id="difficultyFilter">
                         <option value="all">All Difficulty</option>
                         <option value="800">800 (Newbie)</option>
                         <option value="1000">1000 (Newbie)</option>
@@ -62,30 +60,29 @@
                 </div>
             </div>
         </div>
-        <div class="table-container" style="overflow-x: auto;">
+
+        <div class="table-container">
             <table>
                 <thead>
                     <tr>
-                        <th scope="col" class="sortable" onclick="sortTable('id')" aria-sort="none">ID <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col" class="sortable" onclick="sortTable('name')" aria-sort="none">Problem Name <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col" class="sortable" onclick="sortTable('rating')" aria-sort="none">Difficulty <i class="fas fa-sort" aria-hidden="true"></i></th>
-                        <th scope="col">Tags</th>
-                        <th scope="col" class="center-align">Links</th>
+                        <th class="sortable" onclick="sortTable('id')" style="width: 12%;">ID <i class="fas fa-sort"></i></th>
+                        <th class="sortable" onclick="sortTable('name')" style="width: 33%;">Problem Name <i class="fas fa-sort"></i></th>
+                        <th class="sortable" onclick="sortTable('rating')" style="width: 15%;">Difficulty <i class="fas fa-sort"></i></th>
+                        <th style="width: 20%;">Tags</th>
+                        <th class="center-align" style="width: 20%;">Links</th>
                     </tr>
                 </thead>
-                <tbody id="table-body">
-                </tbody>
+                <tbody id="table-body"></tbody>
             </table>
             <div id="no-results" style="display:none; text-align:center; padding:20px;">No problems found.</div>
         </div>
+
         <footer>
             <p>&copy; 2025 <strong>Nazrul Islam</strong>. Auto-generated Archive.</p>
             <div class="footer-links">
-                <a href="https://github.com/mhdnazrul" target="_blank" rel="noopener noreferrer">GitHub</a> •
-                <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank" rel="noopener noreferrer">Codeforces</a> •
-                <a href="https://www.codechef.com/users/nazrulislam_7" target="_blank" rel="noopener noreferrer">Codechef</a> •
-                <a href="https://www.linkedin.com/in/nazrulislam7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-                <a href="https://www.facebook.com/mhdnazrulislam.me/" target="_blank" rel="noopener noreferrer">Facebook</a>
+                <a href="https://github.com/mhdnazrul" target="_blank">GitHub</a> •
+                <a href="https://codeforces.com/profile/nazrulislam_7" target="_blank">Codeforces</a> •
+                <a href="https://www.linkedin.com/in/nazrulislam7/" target="_blank">LinkedIn</a>
             </div>
         </footer>
     </div>

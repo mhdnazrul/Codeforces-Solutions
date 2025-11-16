@@ -3,7 +3,7 @@ name: Update Archive & Deploy
 on:
   push:
     branches: [ main ]
-  workflow_dispatch: # গিটহাব থেকে ম্যানুয়ালি বাটন চেপে রান করার অপশন
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,32 +23,26 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      # ১. Python স্ক্রিপ্ট রান (ফাইল রিনেম, JSON জেনারেট, README আপডেট)
       - name: Run Generator Script
         run: python Web/generate.py
 
-      # ২. মেইন ব্রাঞ্চে পরিবর্তন সেভ করা (কপি করার আগে)
-      # এর ফলে ডুপ্লিকেট ফোল্ডার মেইন ব্রাঞ্চে যাবে না
-      - name: Commit and Push Changes to Main
+      - name: Commit Changes to Main
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "🤖 Auto-update: Renamed files & Updated Metadata" || echo "No changes to commit"
+          git commit -m "🤖 Auto-update: Renames & Metadata" || echo "No changes"
           git push
 
-      # ৩. ওয়েবসাইটের জন্য ফাইল রেডি করা (শুধু ডেপ্লয়মেন্টের জন্য)
-      # এই ফোল্ডারগুলো GitHub Pages ব্রাঞ্চে যাবে, মেইন ব্রাঞ্চে নয়
-      - name: Prepare Files for Website
+      - name: Prepare & Deploy Web
         run: |
           cp -r Solutions Web/ || true
           cp -r Gyms Web/ || true
           cp -r Groups Web/ || true
 
-      # ৪. ওয়েবসাইট ডেপ্লয় করা
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./Web
-          force_orphan: true # gh-pages ব্রাঞ্চ ক্লিন রাখবে
+          force_orphan: true
