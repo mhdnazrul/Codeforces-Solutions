@@ -2,6 +2,10 @@
 # git add Solutions/ Gyms/ Groups/ && git commit -m "Add new solutions" && git pull origin main && git push origin main
 
 
+# git add . && git commit -m "Add new solutions" && git pull --rebase origin main && git push origin main
+
+
+
 # Python
 __pycache__/
 *.py[cod]
