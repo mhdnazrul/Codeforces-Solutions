@@ -180,8 +180,8 @@
     "name": "Range Operation",
     "rating": 800,
     "tags": [
-      "math",
-      "two pointers"
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/C",
     "sol_path": "Solutions/C_Range_Operation.cpp",
@@ -872,6 +872,17 @@
     "q_link": "https://codeforces.com/contest/2168/problem/A2",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
+  },
+  {
+    "id": "427A",
+    "name": "Police Recruits",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/427/A",
+    "sol_path": "Solutions/A_Police_Recruits.cpp",
+    "filename": "A_Police_Recruits.cpp"
   },
   {
     "id": "2145A",

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-216-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-217-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -14,13 +14,13 @@
 </p>
 ---
 ## 📊 Statistics
-**Total Problems Solved:** 216
+**Total Problems Solved:** 217
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 142 |
+| 800 | 143 |
 | 900 | 42 |
 | 1000 | 13 |
 | 1100 | 7 |
@@ -45,16 +45,16 @@
 | games | 2 |
 | geometry | 3 |
 | graph matchings | 1 |
-| greedy | 55 |
+| greedy | 56 |
 | hashing | 1 |
-| implementation | 129 |
+| implementation | 130 |
 | interactive | 2 |
 | math | 55 |
 | number theory | 11 |
 | shortest paths | 1 |
 | sortings | 20 |
 | strings | 26 |
-| two pointers | 8 |
+| two pointers | 7 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -172,6 +172,7 @@
 | 469A | I Wanna Be the Guy | 800 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/469/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_I_Wanna_Be_the_Guy.cpp) |
 | 467A | George and Accommodation | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/467/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_George_and_Accommodation.cpp) |
 | 443A | Anton and Letters | 800 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/problemset/problem/443/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Letters.cpp) |
+| 427A | Police Recruits | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/427/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Police_Recruits.cpp) |
 | 41A | Translation | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/41/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Translation.cpp) |
 | 381A | Sereja and Dima | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/381/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sereja_and_Dima.cpp) |
 | 344A | Magnets | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/344/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Magnets.cpp) |
@@ -202,7 +203,7 @@
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2172E | Number Maze | 800 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2172A | ASCII Art Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2172/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ASCII_Art_Contest.cpp) |
-| 2169C | Range Operation | 800 | `math`, `two pointers` | [View](https://codeforces.com/contest/2169/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Range_Operation.cpp) |
+| 2169C | Range Operation | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2169/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Range_Operation.cpp) |
 | 2169B | Drifting Away | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
 | 2169A | Alice and Bob | 800 | `greedy` | [View](https://codeforces.com/contest/2169/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Alice_and_Bob.cpp) |
 | 2168A2 | Encode and Decode (Hard Version) | 800 | `bitmasks`, `interactive`, ... | [View](https://codeforces.com/contest/2168/problem/A2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_2_Encode_and_Decode_Hard_Version.cpp) |
