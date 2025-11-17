@@ -2,10 +2,8 @@
   {
     "id": "2172M",
     "name": "Maximum Distance To Port",
-    "rating": 900,
-    "tags": [
-      "implementation"
-    ],
+    "rating": 1300,
+    "tags": [],
     "q_link": "https://codeforces.com/problemset/problem/2172/M",
     "sol_path": "Solutions/M_Maximum_Distance_To_Port.cpp",
     "filename": "M_Maximum_Distance_To_Port.cpp"
@@ -131,6 +129,18 @@
     "filename": "A_Theatre_Square.cpp"
   },
   {
+    "id": "151A",
+    "name": "Soft Drinking",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/151/A",
+    "sol_path": "Solutions/A_Soft_Drinking.cpp",
+    "filename": "A_Soft_Drinking.cpp"
+  },
+  {
     "id": "1352A",
     "name": "Sum of Round Numbers",
     "rating": 800,
@@ -181,7 +191,8 @@
     "rating": 800,
     "tags": [
       "greedy",
-      "math"
+      "math",
+      "two pointers"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/C",
     "sol_path": "Solutions/C_Range_Operation.cpp",
@@ -190,7 +201,7 @@
   {
     "id": "2172E",
     "name": "Number Maze",
-    "rating": 800,
+    "rating": 1200,
     "tags": [
       "constructive algorithms",
       "implementation"
@@ -586,6 +597,19 @@
     "filename": "Draw_a_Square.cpp"
   },
   {
+    "id": "1703A",
+    "name": "YES or YES?",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1703/A",
+    "sol_path": "Solutions/A_YES_or_YES.cpp",
+    "filename": "A_YES_or_YES.cpp"
+  },
+  {
     "id": "266B",
     "name": "Queue at the School",
     "rating": 800,
@@ -800,6 +824,17 @@
     "q_link": "https://codeforces.com/problemset/problem/2160/A",
     "sol_path": "Solutions/A_MEX_Partition.cpp",
     "filename": "A_MEX_Partition.cpp"
+  },
+  {
+    "id": "155A",
+    "name": "I_love_\\%username\\%",
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/155/A",
+    "sol_path": "Solutions/A_I_love_username.cpp",
+    "filename": "A_I_love_username.cpp"
   },
   {
     "id": "2104A",
@@ -1408,7 +1443,7 @@
   {
     "id": "2164B",
     "name": "Even Modulo Pair",
-    "rating": 800,
+    "rating": 1000,
     "tags": [
       "brute force",
       "math",
