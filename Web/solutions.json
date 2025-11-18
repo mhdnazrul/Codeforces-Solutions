@@ -1823,6 +1823,20 @@
     "filename": "C_Registration_system.cpp"
   },
   {
+    "id": "732A",
+    "name": "Buy a Shovel",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/732/A",
+    "sol_path": "Solutions/A_Buy_a_Shovel.cpp",
+    "filename": "A_Buy_a_Shovel.cpp"
+  },
+  {
     "id": "580A",
     "name": "Kefa and First Steps",
     "rating": 900,
