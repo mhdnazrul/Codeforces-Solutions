@@ -1429,6 +1429,17 @@
     "filename": "A_Souvlaki_VS_Kalamaki.cpp"
   },
   {
+    "id": "466A",
+    "name": "Cheap Travel",
+    "rating": 1200,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/466/A",
+    "sol_path": "Solutions/A_Cheap_Travel.cpp",
+    "filename": "A_Cheap_Travel.cpp"
+  },
+  {
     "id": "2160C",
     "name": "Reverse XOR",
     "rating": 1300,

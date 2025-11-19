@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-223-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-224-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 223
+**Total Problems Solved:** 224
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -26,7 +26,7 @@
 | 900 | 41 |
 | 1000 | 14 |
 | 1100 | 7 |
-| 1200 | 3 |
+| 1200 | 4 |
 | 1300 | 7 |
 | 1400 | 2 |
 | 1500 | 1 |
@@ -50,7 +50,7 @@
 | graphs | 1 |
 | greedy | 57 |
 | hashing | 1 |
-| implementation | 133 |
+| implementation | 134 |
 | interactive | 2 |
 | math | 57 |
 | number theory | 11 |
@@ -76,6 +76,7 @@
 | 2160C | Reverse XOR | 1300 | `bitmasks` | [View](https://codeforces.com/problemset/problem/2160/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Reverse_XOR.cpp) |
 | 2145C | Monocarp's String | 1300 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2145/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Monocarp_s_String.cpp) |
 | 492B | Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
+| 466A | Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2149D | A and B | 1200 | `strings` | [View](https://codeforces.com/contest/2149/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_A_and_B.cpp) |
 | 2162C | Beautiful XOR | 1100 | `bitmasks`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2162/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Beautiful_XOR.cpp) |
