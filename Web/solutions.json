@@ -3,7 +3,10 @@
     "id": "2172M",
     "name": "Maximum Distance To Port",
     "rating": 1300,
-    "tags": [],
+    "tags": [
+      "graphs",
+      "shortest paths"
+    ],
     "q_link": "https://codeforces.com/problemset/problem/2172/M",
     "sol_path": "Solutions/M_Maximum_Distance_To_Port.cpp",
     "filename": "M_Maximum_Distance_To_Port.cpp"
@@ -190,6 +193,7 @@
     "name": "Range Operation",
     "rating": 800,
     "tags": [
+      "dp",
       "greedy",
       "math",
       "two pointers"
@@ -203,7 +207,6 @@
     "name": "Number Maze",
     "rating": 1200,
     "tags": [
-      "constructive algorithms",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2172/problem/E",
@@ -1270,6 +1273,17 @@
     "filename": "A_In_Search_of_an_Easy_Problem.cpp"
   },
   {
+    "id": "1669A",
+    "name": "Division?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1669/A",
+    "sol_path": "Solutions/A_Division.cpp",
+    "filename": "A_Division.cpp"
+  },
+  {
     "id": "268A",
     "name": "Games",
     "rating": 800,
@@ -2076,6 +2090,19 @@
     "q_link": "https://codeforces.com/problemset/problem/339/A",
     "sol_path": "Solutions/Helpful_Maths.cpp",
     "filename": "Helpful_Maths.cpp"
+  },
+  {
+    "id": "2156A",
+    "name": "Pizza Time",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2156/problem/A",
+    "sol_path": "Solutions/A_Pizza_Time.cpp",
+    "filename": "A_Pizza_Time.cpp"
   },
   {
     "id": "58A",
