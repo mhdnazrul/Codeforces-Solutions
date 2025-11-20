@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-224-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-226-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 224
+**Total Problems Solved:** 226
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 147 |
+| 800 | 149 |
 | 900 | 41 |
 | 1000 | 14 |
 | 1100 | 7 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 5 |
 | bitmasks | 6 |
-| brute force | 35 |
+| brute force | 37 |
 | constructive algorithms | 21 |
 | data structures | 4 |
 | dp | 6 |
@@ -49,10 +49,10 @@
 | graph matchings | 1 |
 | graphs | 1 |
 | greedy | 57 |
-| hashing | 1 |
+| hashing | 2 |
 | implementation | 134 |
 | interactive | 2 |
-| math | 57 |
+| math | 59 |
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 20 |
@@ -231,6 +231,7 @@
 | 2153A | Circle of Apple Trees | 800 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2153/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Circle_of_Apple_Trees.cpp) |
 | 2149B | Unconventional Pairs | 800 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2149/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Unconventional_Pairs.cpp) |
 | 2149A | Be Positive | 800 | `math` | [View](https://codeforces.com/contest/2149/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Be_Positive.cpp) |
+| 2148A | Sublime Sequence | 800 | `brute force`, `hashing`, ... | [View](https://codeforces.com/contest/2148/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sublime_Sequence.cpp) |
 | 2147A | Shortest Increasing Path | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2147/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Shortest_Increasing_Path.cpp) |
 | 2146A | Equal Occurrences | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/2146/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Equal_Occurrences.cpp) |
 | 2145A | Candies for Nephews | 800 | `math` | [View](https://codeforces.com/contest/2145/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_for_Nephews.cpp) |
@@ -252,6 +253,7 @@
 | 2074B | The Third Side | 800 | `geometry`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/2074/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/The_Third_Side.cpp) |
 | 2074A | Draw a Square | 800 | `geometry`, `implementation` | [View](https://codeforces.com/problemset/problem/2074/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/Draw_a_Square.cpp) |
 | 2065A | Skibidus and Amog'u | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2065/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Skibidus_and_Amog_u.cpp) |
+| 2044A | Easy Problem | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2044/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Easy_Problem.cpp) |
 | 2024A | Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/Profitable_Interest_Rate.cpp) |
 | 200B | Drinks | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/200/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drinks.cpp) |
 | 1999C | Showering | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/1999/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Showering.cpp) |

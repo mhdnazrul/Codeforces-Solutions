@@ -912,6 +912,19 @@
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
   },
   {
+    "id": "2148A",
+    "name": "Sublime Sequence",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "hashing",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2148/problem/A",
+    "sol_path": "Solutions/A_Sublime_Sequence.cpp",
+    "filename": "A_Sublime_Sequence.cpp"
+  },
+  {
     "id": "427A",
     "name": "Police Recruits",
     "rating": 800,
@@ -1954,6 +1967,18 @@
     "q_link": "https://codeforces.com/contest/2168/problem/A1",
     "sol_path": "Solutions/A_1_Encode_and_Decode_Easy_Version.cpp",
     "filename": "A_1_Encode_and_Decode_Easy_Version.cpp"
+  },
+  {
+    "id": "2044A",
+    "name": "Easy Problem",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2044/problem/A",
+    "sol_path": "Solutions/A_Easy_Problem.cpp",
+    "filename": "A_Easy_Problem.cpp"
   },
   {
     "id": "1791B",
