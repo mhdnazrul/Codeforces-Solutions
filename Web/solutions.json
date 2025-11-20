@@ -792,6 +792,17 @@
     "filename": "A_Sequence_Game.cpp"
   },
   {
+    "id": "N/A",
+    "name": "C 1 Renako Amaori and XOR Game easy version",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "#",
+    "sol_path": "Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp",
+    "filename": "C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp"
+  },
+  {
     "id": "2127A",
     "name": "Mix Mex Max",
     "rating": 800,
@@ -1002,6 +1013,17 @@
     "q_link": "https://codeforces.com/contest/2144/problem/B",
     "sol_path": "Solutions/B_Maximum_Cost_Permutation.cpp",
     "filename": "B_Maximum_Cost_Permutation.cpp"
+  },
+  {
+    "id": "2171A",
+    "name": "A Shizuku Hoshikawa and Farm Legs",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2171/problem/A",
+    "sol_path": "Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp",
+    "filename": "A_Shizuku_Hoshikawa_and_Farm_Legs.cpp"
   },
   {
     "id": "443A",
@@ -1359,7 +1381,8 @@
     "name": "Alice and Bob",
     "rating": 800,
     "tags": [
-      "greedy"
+      "greedy",
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/A",
     "sol_path": "Solutions/A_Alice_and_Bob.cpp",
@@ -1740,6 +1763,17 @@
     "q_link": "https://codeforces.com/contest/2167/problem/B",
     "sol_path": "Solutions/B_Your_Name.cpp",
     "filename": "B_Your_Name.cpp"
+  },
+  {
+    "id": "2171B",
+    "name": "B Yuu Koito and Minimum Absolute Sum",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2171/problem/B",
+    "sol_path": "Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp",
+    "filename": "B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp"
   },
   {
     "id": "492A",
