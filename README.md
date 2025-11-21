@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-229-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-241-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 229
+**Total Problems Solved:** 241
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 152 |
-| 900 | 41 |
+| 800 | 163 |
+| 900 | 42 |
 | 1000 | 14 |
 | 1100 | 7 |
 | 1200 | 4 |
@@ -38,25 +38,26 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 5 |
-| bitmasks | 6 |
+| binary search | 6 |
+| bitmasks | 7 |
 | brute force | 37 |
 | constructive algorithms | 21 |
 | data structures | 4 |
 | dp | 6 |
-| games | 2 |
+| games | 3 |
 | geometry | 3 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 57 |
+| greedy | 58 |
 | hashing | 2 |
-| implementation | 138 |
+| implementation | 147 |
 | interactive | 2 |
-| math | 59 |
+| math | 61 |
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 20 |
 | strings | 27 |
+| ternary search | 1 |
 | two pointers | 8 |
 </details>
 
@@ -105,6 +106,7 @@
 | 580A | Kefa and First Steps | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/580/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kefa_and_First_Steps.cpp) |
 | 405A | Gravity Flip | 900 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/405/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Gravity_Flip.cpp) |
 | 337A | Puzzles | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/337/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Puzzles.cpp) |
+| 326175I | I Lucky Numbers | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/I_Lucky_Numbers.cpp) |
 | 318A | Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 219158Z | Z Hard Compare | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Z_Hard_Compare.cpp) |
 | 219158Y | Y The last 2 digits | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Y_The_last_2_digits.cpp) |
@@ -185,6 +187,8 @@
 | 381A | Sereja and Dima | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/381/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sereja_and_Dima.cpp) |
 | 344A | Magnets | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/344/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Magnets.cpp) |
 | 339A | Helpful Maths | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/339/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/Helpful_Maths.cpp) |
+| 326175H | H Data Type Guessing | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_Data_Type_Guessing.cpp) |
+| 326175G | G Katryoshka | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Katryoshka.cpp) |
 | 326175F | F Adding Bits | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/F_Adding_Bits.cpp) |
 | 326175E | E Interval Sweep | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/E_Interval_Sweep.cpp) |
 | 326175D | D Ali Baba and Puzzles | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/D_Ali_Baba_and_Puzzles.cpp) |
@@ -201,6 +205,13 @@
 | 236A | Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | Is your horseshoe on the other hoof? | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 219432G | G Factorial | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Factorial.cpp) |
+| 219432F | F Multiplication table | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/F_Multiplication_table.cpp) |
+| 219432E | E Max | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/E_Max.cpp) |
+| 219432D | D Fixed Password | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/D_Fixed_Password.cpp) |
+| 219432C | C Even Odd Positive and Negative | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Even_Odd_Positive_and_Negative.cpp) |
+| 219432B | B Even Numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Even_Numbers.cpp) |
+| 219432A | A 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_1_to_N.cpp) |
 | 219158H | H Two numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_Two_numbers.cpp) |
 | 219158G | G Summation from 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Summation_from_1_to_N.cpp) |
 | 219158F | F Digits Summation | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/F_Digits_Summation.cpp) |
@@ -210,8 +221,9 @@
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2172A | ASCII Art Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2172/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ASCII_Art_Contest.cpp) |
-| 2171B | B Yuu Koito and Minimum Absolute Sum | 800 | `implementation` | [View](https://codeforces.com/contest/2171/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp) |
-| 2171A | A Shizuku Hoshikawa and Farm Legs | 800 | `implementation` | [View](https://codeforces.com/contest/2171/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp) |
+| 2171C2 | Renako Amaori and XOR Game (hard version) | 800 | `bitmasks`, `games`, ... | [View](https://codeforces.com/contest/2171/problem/C2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp) |
+| 2171B | Yuu Koito and Minimum Absolute Sum | 800 | `implementation` | [View](https://codeforces.com/contest/2171/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp) |
+| 2171A | Shizuku Hoshikawa and Farm Legs | 800 | `math` | [View](https://codeforces.com/contest/2171/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp) |
 | 2169C | Range Operation | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2169/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Range_Operation.cpp) |
 | 2169B | Drifting Away | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
 | 2169A | Alice and Bob | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Alice_and_Bob.cpp) |
@@ -261,6 +273,7 @@
 | 200B | Drinks | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/200/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drinks.cpp) |
 | 1999C | Showering | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/1999/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Showering.cpp) |
 | 1999A | A+B Again? | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
+| 1996A | Legs | 800 | `binary search`, `math`, ... | [View](https://codeforces.com/contest/1996/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Legs.cpp) |
 | 1926A | Vlad and the Best of Five | 800 | `implementation` | [View](https://codeforces.com/contest/1926/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vlad_and_the_Best_of_Five.cpp) |
 | 1903A | Halloumi Boxes | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1903/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Halloumi_Boxes.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |

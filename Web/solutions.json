@@ -1016,10 +1016,10 @@
   },
   {
     "id": "2171A",
-    "name": "A Shizuku Hoshikawa and Farm Legs",
+    "name": "Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
     "tags": [
-      "implementation"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/A",
     "sol_path": "Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp",
@@ -1224,6 +1224,19 @@
     "q_link": "https://codeforces.com/contest/2137/problem/C",
     "sol_path": "Solutions/C_Maximum_Even_Sum.cpp",
     "filename": "C_Maximum_Even_Sum.cpp"
+  },
+  {
+    "id": "1996A",
+    "name": "Legs",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search"
+    ],
+    "q_link": "https://codeforces.com/contest/1996/problem/A",
+    "sol_path": "Solutions/A_Legs.cpp",
+    "filename": "A_Legs.cpp"
   },
   {
     "id": "2155A",
@@ -1766,7 +1779,7 @@
   },
   {
     "id": "2171B",
-    "name": "B Yuu Koito and Minimum Absolute Sum",
+    "name": "Yuu Koito and Minimum Absolute Sum",
     "rating": 800,
     "tags": [
       "implementation"
@@ -2209,6 +2222,19 @@
     "filename": "A_Fox_And_Snake.cpp"
   },
   {
+    "id": "2171C2",
+    "name": "Renako Amaori and XOR Game (hard version)",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "games",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2171/problem/C2",
+    "sol_path": "Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp",
+    "filename": "C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp"
+  },
+  {
     "id": "2167G",
     "name": "Mukhammadali and the Smooth Array",
     "rating": 1600,
@@ -2298,6 +2324,17 @@
     "filename": "U_Float_or_int.cpp"
   },
   {
+    "id": "219432E",
+    "name": "E Max",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E",
+    "sol_path": "Groups/E_Max.cpp",
+    "filename": "E_Max.cpp"
+  },
+  {
     "id": "219158W",
     "name": "W Mathematical Expression",
     "rating": 900,
@@ -2353,6 +2390,17 @@
     "filename": "I_Welcome_for_you_with_Conditions.cpp"
   },
   {
+    "id": "219432D",
+    "name": "D Fixed Password",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D",
+    "sol_path": "Groups/D_Fixed_Password.cpp",
+    "filename": "D_Fixed_Password.cpp"
+  },
+  {
     "id": "219158L",
     "name": "L The Brothers",
     "rating": 900,
@@ -2373,6 +2421,17 @@
     "q_link": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/C",
     "sol_path": "Groups/C_Resistors_in_Parallel.cpp",
     "filename": "C_Resistors_in_Parallel.cpp"
+  },
+  {
+    "id": "219432A",
+    "name": "A 1 to N",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A",
+    "sol_path": "Groups/A_1_to_N.cpp",
+    "filename": "A_1_to_N.cpp"
   },
   {
     "id": "219158T",
@@ -2485,6 +2544,17 @@
     "filename": "A_Winter_Sale.cpp"
   },
   {
+    "id": "219432B",
+    "name": "B Even Numbers",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B",
+    "sol_path": "Groups/B_Even_Numbers.cpp",
+    "filename": "B_Even_Numbers.cpp"
+  },
+  {
     "id": "219158A",
     "name": "A Say Hello With C",
     "rating": 800,
@@ -2516,6 +2586,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D",
     "sol_path": "Groups/D_Difference.cpp",
     "filename": "D_Difference.cpp"
+  },
+  {
+    "id": "219432C",
+    "name": "C Even Odd Positive and Negative",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C",
+    "sol_path": "Groups/C_Even_Odd_Positive_and_Negative.cpp",
+    "filename": "C_Even_Odd_Positive_and_Negative.cpp"
   },
   {
     "id": "219158R",
@@ -2562,6 +2643,28 @@
     "filename": "Q_Coordinates_of_a_Point.cpp"
   },
   {
+    "id": "326175G",
+    "name": "G Katryoshka",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G",
+    "sol_path": "Groups/G_Katryoshka.cpp",
+    "filename": "G_Katryoshka.cpp"
+  },
+  {
+    "id": "326175H",
+    "name": "H Data Type Guessing",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H",
+    "sol_path": "Groups/H_Data_Type_Guessing.cpp",
+    "filename": "H_Data_Type_Guessing.cpp"
+  },
+  {
     "id": "645209B",
     "name": "B Coin Transformation",
     "rating": 800,
@@ -2571,6 +2674,17 @@
     "q_link": "https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/B",
     "sol_path": "Groups/B_Coin_Transformation.cpp",
     "filename": "B_Coin_Transformation.cpp"
+  },
+  {
+    "id": "219432F",
+    "name": "F Multiplication table",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F",
+    "sol_path": "Groups/F_Multiplication_table.cpp",
+    "filename": "F_Multiplication_table.cpp"
   },
   {
     "id": "219158V",
@@ -2606,6 +2720,17 @@
     "filename": "P_First_digit.cpp"
   },
   {
+    "id": "326175I",
+    "name": "I Lucky Numbers",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I",
+    "sol_path": "Groups/I_Lucky_Numbers.cpp",
+    "filename": "I_Lucky_Numbers.cpp"
+  },
+  {
     "id": "219158C",
     "name": "C Simple Calculator",
     "rating": 800,
@@ -2637,6 +2762,17 @@
     "q_link": "https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/F",
     "sol_path": "Groups/F_New_Year_and_Hurry.cpp",
     "filename": "F_New_Year_and_Hurry.cpp"
+  },
+  {
+    "id": "219432G",
+    "name": "G Factorial",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G",
+    "sol_path": "Groups/G_Factorial.cpp",
+    "filename": "G_Factorial.cpp"
   },
   {
     "id": "326175B",
