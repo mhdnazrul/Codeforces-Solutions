@@ -1,4 +1,4 @@
-// problem link:https://codeforces.com/contest/2171/problem/C2
+// problem link:https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
 // Author: nazrulislam_7
 #include <bits/stdc++.h>
 using namespace std;
@@ -10,28 +10,22 @@ template<class T> void readV(vector<T>& v) { for(auto &x : v) cin >> x; }
 template<class T> void printV(const vector<T>& v) { for(auto x : v) cout << x << ' '; cout << '\n'; }
 
 void solve() {
-    int n, x = 0, bit, idx;
-    cin >> n;
-    vector<int> a(n), b(n);
-    for(int i=0; i<n; i++){
-        cin >> a[i];
-        x ^= a[i];
+    ll n; cin >> n;
+    vector<bool> is_prime(n + 1, true);
+    is_prime[0] = is_prime[1] = false;
+    for (ll i = 2; i * i <= n; i++) {
+        if (is_prime[i]) {
+            for (ll j = i * i; j <= n; j += i) {
+                is_prime[j] = false;
+            }
+        }
     }
-    for(int i=0; i<n; i++){
-        cin >> b[i];
-        x ^= b[i];
+    if (is_prime[n]) {
+        cout << "YES" << nl;
+    } else {
+        cout << "NO" << nl;
     }
-    if(!x){
-        cout << "Tie" << '\n';
-        return;
-    }
-    for(int i=0; i<20; i++)
-        if(x&1<<i)
-            bit = i;
-    for(int i=0; i<n; i++)
-        if((a[i]^b[i])&1<<bit)
-            idx = i;
-    cout << (idx & 1 ? "Mai" : "Ajisai") << '\n';
+
 }
 
 int32_t main() {

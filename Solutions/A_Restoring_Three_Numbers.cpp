@@ -1,4 +1,4 @@
-// problem link:https://codeforces.com/contest/2171/problem/C2
+// problem link:https://codeforces.com/problemset/problem/1154/A
 // Author: nazrulislam_7
 #include <bits/stdc++.h>
 using namespace std;
@@ -10,28 +10,14 @@ template<class T> void readV(vector<T>& v) { for(auto &x : v) cin >> x; }
 template<class T> void printV(const vector<T>& v) { for(auto x : v) cout << x << ' '; cout << '\n'; }
 
 void solve() {
-    int n, x = 0, bit, idx;
-    cin >> n;
-    vector<int> a(n), b(n);
-    for(int i=0; i<n; i++){
-        cin >> a[i];
-        x ^= a[i];
-    }
-    for(int i=0; i<n; i++){
-        cin >> b[i];
-        x ^= b[i];
-    }
-    if(!x){
-        cout << "Tie" << '\n';
-        return;
-    }
-    for(int i=0; i<20; i++)
-        if(x&1<<i)
-            bit = i;
-    for(int i=0; i<n; i++)
-        if((a[i]^b[i])&1<<bit)
-            idx = i;
-    cout << (idx & 1 ? "Mai" : "Ajisai") << '\n';
+    ll x[4];
+    for(int i=0;i<4;i++) if(!(cin>>x[i])) return;
+    sort(x, x+4);
+    ll S = x[3];
+    ll a = S - x[2];
+    ll b = S - x[1];
+    ll c = S - x[0];
+    cout << a << " " << b << " " << c << "\n";
 }
 
 int32_t main() {
