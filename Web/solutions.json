@@ -2380,6 +2380,17 @@
     "filename": "E_Area_of_a_Circle.cpp"
   },
   {
+    "id": "219432Q",
+    "name": "Q Digits",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q",
+    "sol_path": "Groups/Q_Digits.cpp",
+    "filename": "Q_Digits.cpp"
+  },
+  {
     "id": "219158B",
     "name": "B Basic Data Types",
     "rating": 800,
@@ -2389,6 +2400,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B",
     "sol_path": "Groups/B_Basic_Data_Types.cpp",
     "filename": "B_Basic_Data_Types.cpp"
+  },
+  {
+    "id": "219432K",
+    "name": "K Divisors",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K",
+    "sol_path": "Groups/K_Divisors.cpp",
+    "filename": "K_Divisors.cpp"
   },
   {
     "id": "219158I",
@@ -2455,6 +2477,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A",
     "sol_path": "Groups/A_1_to_N.cpp",
     "filename": "A_1_to_N.cpp"
+  },
+  {
+    "id": "219432P",
+    "name": "P Shape 1",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P",
+    "sol_path": "Groups/P_Shape_1.cpp",
+    "filename": "P_Shape_1.cpp"
   },
   {
     "id": "219158T",
@@ -2576,6 +2609,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B",
     "sol_path": "Groups/B_Even_Numbers.cpp",
     "filename": "B_Even_Numbers.cpp"
+  },
+  {
+    "id": "219432N",
+    "name": "N Numbers Histogram",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N",
+    "sol_path": "Groups/N_Numbers_Histogram.cpp",
+    "filename": "N_Numbers_Histogram.cpp"
   },
   {
     "id": "219158A",
@@ -2763,6 +2807,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C",
     "sol_path": "Groups/C_Simple_Calculator.cpp",
     "filename": "C_Simple_Calculator.cpp"
+  },
+  {
+    "id": "219432O",
+    "name": "O Pyramid",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O",
+    "sol_path": "Groups/O_Pyramid.cpp",
+    "filename": "O_Pyramid.cpp"
   },
   {
     "id": "219158M",

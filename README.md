@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-243-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-248-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 243
+**Total Problems Solved:** 248
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 165 |
-| 900 | 42 |
+| 900 | 47 |
 | 1000 | 14 |
 | 1100 | 7 |
 | 1200 | 4 |
@@ -50,7 +50,7 @@
 | graphs | 1 |
 | greedy | 58 |
 | hashing | 2 |
-| implementation | 147 |
+| implementation | 152 |
 | interactive | 2 |
 | math | 63 |
 | number theory | 11 |
@@ -108,6 +108,11 @@
 | 337A | Puzzles | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/337/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Puzzles.cpp) |
 | 326175I | I Lucky Numbers | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/I_Lucky_Numbers.cpp) |
 | 318A | Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
+| 219432Q | Q Digits | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Q_Digits.cpp) |
+| 219432P | P Shape 1 | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/P_Shape_1.cpp) |
+| 219432O | O Pyramid | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/O_Pyramid.cpp) |
+| 219432N | N Numbers Histogram | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/N_Numbers_Histogram.cpp) |
+| 219432K | K Divisors | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/K_Divisors.cpp) |
 | 219158Z | Z Hard Compare | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Z_Hard_Compare.cpp) |
 | 219158Y | Y The last 2 digits | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Y_The_last_2_digits.cpp) |
 | 219158X | X Two intervals | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/X_Two_intervals.cpp) |
