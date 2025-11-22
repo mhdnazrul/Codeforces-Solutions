@@ -1019,6 +1019,7 @@
     "name": "Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
     "tags": [
+      "brute force",
       "math"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/A",
@@ -1585,6 +1586,17 @@
     "filename": "B_Cake_Collection.cpp"
   },
   {
+    "id": "1154A",
+    "name": "Restoring Three Numbers",
+    "rating": 800,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1154/A",
+    "sol_path": "Solutions/A_Restoring_Three_Numbers.cpp",
+    "filename": "A_Restoring_Three_Numbers.cpp"
+  },
+  {
     "id": "977A",
     "name": "Wrong Subtraction",
     "rating": 800,
@@ -1782,7 +1794,7 @@
     "name": "Yuu Koito and Minimum Absolute Sum",
     "rating": 800,
     "tags": [
-      "implementation"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/B",
     "sol_path": "Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp",
@@ -2388,6 +2400,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I",
     "sol_path": "Groups/I_Welcome_for_you_with_Conditions.cpp",
     "filename": "I_Welcome_for_you_with_Conditions.cpp"
+  },
+  {
+    "id": "219432H",
+    "name": "H One Prime",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H",
+    "sol_path": "Groups/H_One_Prime.cpp",
+    "filename": "H_One_Prime.cpp"
   },
   {
     "id": "219432D",
