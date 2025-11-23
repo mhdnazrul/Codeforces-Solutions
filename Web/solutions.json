@@ -2234,6 +2234,17 @@
     "filename": "A_Fox_And_Snake.cpp"
   },
   {
+    "id": "339B",
+    "name": "Xenia and Ringroad",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/339/problem/B",
+    "sol_path": "Solutions/B_Xenia_and_Ringroad.cpp",
+    "filename": "B_Xenia_and_Ringroad.cpp"
+  },
+  {
     "id": "2171C2",
     "name": "Renako Amaori and XOR Game (hard version)",
     "rating": 800,
