@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-249-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-250-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 249
+**Total Problems Solved:** 250
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 165 |
+| 800 | 166 |
 | 900 | 47 |
 | 1000 | 15 |
 | 1100 | 7 |
@@ -48,14 +48,14 @@
 | geometry | 3 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 58 |
+| greedy | 59 |
 | hashing | 2 |
-| implementation | 153 |
+| implementation | 154 |
 | interactive | 2 |
 | math | 63 |
 | number theory | 11 |
 | shortest paths | 2 |
-| sortings | 20 |
+| sortings | 21 |
 | strings | 27 |
 | ternary search | 1 |
 | two pointers | 8 |
@@ -246,6 +246,7 @@
 | 2162A | Beautiful Average | 800 | `brute force`, `greedy` | [View](https://codeforces.com/contest/2162/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Beautiful_Average.cpp) |
 | 2161A | Round Trip | 800 | `games`, `greedy`, ... | [View](https://codeforces.com/contest/2161/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Round_Trip.cpp) |
 | 2160A | MEX Partition | 800 | `math` | [View](https://codeforces.com/problemset/problem/2160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_MEX_Partition.cpp) |
+| 2157A | Dungeon Equilibrium | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2157/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dungeon_Equilibrium.cpp) |
 | 2156A | Pizza Time | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2156/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Pizza_Time.cpp) |
 | 2155A | El fucho | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2155/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_El_fucho.cpp) |
 | 2154A | Notelock | 800 | `greedy`, `two pointers` | [View](https://codeforces.com/contest/2154/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Notelock.cpp) |

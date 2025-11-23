@@ -1552,6 +1552,19 @@
     "filename": "A_Divisibility_Problem.cpp"
   },
   {
+    "id": "2157A",
+    "name": "Dungeon Equilibrium",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2157/problem/A",
+    "sol_path": "Solutions/A_Dungeon_Equilibrium.cpp",
+    "filename": "A_Dungeon_Equilibrium.cpp"
+  },
+  {
     "id": "112A",
     "name": "Petya and Strings",
     "rating": 800,
