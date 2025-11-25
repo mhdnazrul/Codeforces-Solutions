@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-251-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-253-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 251
+**Total Problems Solved:** 253
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,8 +24,8 @@
 | :--- | :--- |
 | 800 | 164 |
 | 900 | 47 |
-| 1000 | 15 |
-| 1100 | 7 |
+| 1000 | 16 |
+| 1100 | 8 |
 | 1200 | 5 |
 | 1300 | 9 |
 | 1400 | 2 |
@@ -38,19 +38,19 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 6 |
-| bitmasks | 7 |
+| binary search | 7 |
+| bitmasks | 8 |
 | brute force | 40 |
 | constructive algorithms | 21 |
 | data structures | 4 |
-| dp | 7 |
+| dp | 8 |
 | games | 3 |
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
 | greedy | 59 |
 | hashing | 2 |
-| implementation | 153 |
+| implementation | 154 |
 | interactive | 2 |
 | math | 63 |
 | number theory | 11 |
@@ -83,6 +83,7 @@
 | 466A | Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2149D | A and B | 1200 | `strings` | [View](https://codeforces.com/contest/2149/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_A_and_B.cpp) |
+| 706B | Interesting drink | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/706/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_drink.cpp) |
 | 2162C | Beautiful XOR | 1100 | `bitmasks`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2162/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Beautiful_XOR.cpp) |
 | 2160B | Distinct Elements | 1100 | `greedy`, `math` | [View](https://codeforces.com/contest/2160/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Distinct_Elements.cpp) |
 | 2146B | Merging the Sets | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2146/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Merging_the_Sets.cpp) |
@@ -91,6 +92,7 @@
 | 2065C1 | Skibidus and Fanum Tax (easy version) | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/contest/2065/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp) |
 | 158B | Taxi | 1100 | `*special`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/158/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Taxi.cpp) |
 | 58A | Chat room | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/58/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chat_room.cpp) |
+| 579A | Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
 | 339B | Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
 | 2167D | Yet Another Array Problem | 1000 | `brute force`, `implementation`, ... | [View](https://codeforces.com/contest/2167/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Yet_Another_Array_Problem.cpp) |

@@ -1079,6 +1079,19 @@
     "filename": "A_Anton_and_Letters.cpp"
   },
   {
+    "id": "706B",
+    "name": "Interesting drink",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/706/B",
+    "sol_path": "Solutions/B_Interesting_drink.cpp",
+    "filename": "B_Interesting_drink.cpp"
+  },
+  {
     "id": "1791C",
     "name": "Prepend and Append",
     "rating": 800,
@@ -1566,6 +1579,17 @@
     "q_link": "https://codeforces.com/problemset/problem/1535/B",
     "sol_path": "Solutions/B_Array_Reodering.cpp",
     "filename": "B_Array_Reodering.cpp"
+  },
+  {
+    "id": "579A",
+    "name": "Raising Bacteria",
+    "rating": 1000,
+    "tags": [
+      "bitmasks"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/579/A",
+    "sol_path": "Solutions/A_Raising_Bacteria.cpp",
+    "filename": "A_Raising_Bacteria.cpp"
   },
   {
     "id": "2164B",
