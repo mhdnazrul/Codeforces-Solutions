@@ -1,4 +1,4 @@
-// problem link:https://codeforces.com/problemset/problem/870/B
+// problem link:https://codeforces.com/problemset/problem/189/A
 // Author: nazrulislam_7
 #include <bits/stdc++.h>
 using namespace std;
@@ -9,23 +9,24 @@ using ll = long long;
 template<class T> void readV(vector<T>& v) { for(auto &x : v) cin >> x; }
 template<class T> void printV(const vector<T>& v) { for(auto x : v) cout << x << ' '; cout << '\n'; }
 
-void solve() {
-    int n ,k;   cin>> n >> k;
-    vector<int> a(n);
-    int mn=INT_MAX, mx=INT_MIN;
-    for(int i=0; i<n; i++){
-        cin>> a[i];
-        mn = min(mn, a[i]);
-        mx = max(mx, a[i]);
-    }
-    if(k==2){mx = max(a[0], a[n-1]);}
-    cout<<(k==1? mn:mx)<<nl;
+void solve(){
+   ll n; cin>>n;
+   vector<ll>v(3); readV(v);
+   vector<ll>dp(n+1,0);
+   for(ll  i=0;i<3;i++){
+   	for(ll j=v[i];j<=n;j++){
+   	   if(dp[j-v[i]]==0&&j-v[i]!=0); 
+	   else  dp[j]=max(dp[j],dp[j-v[i]]+1);	
+	   }
+   }	
+   cout<<dp[n]<<nl;
 }
+
 
 int32_t main() {
     ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
     int test_cases = 1;
-    //cin >> test_cases;
+    //if(!(cin>>test_cases)) return 0;
     for(int tc = 1; tc <= test_cases; tc++){
     //  cout << "Case #" << tc << ": ";
         solve();
