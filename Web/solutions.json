@@ -614,18 +614,6 @@
     "filename": "C_Monocarp_s_String.cpp"
   },
   {
-    "id": "2074A",
-    "name": "Draw a Square",
-    "rating": 800,
-    "tags": [
-      "geometry",
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2074/A",
-    "sol_path": "Solutions/Draw_a_Square.cpp",
-    "filename": "Draw_a_Square.cpp"
-  },
-  {
     "id": "1703A",
     "name": "YES or YES?",
     "rating": 800,
@@ -1744,6 +1732,18 @@
     "q_link": "https://codeforces.com/problemset/problem/2137/A",
     "sol_path": "Solutions/A_Collatz_Conjecture.cpp",
     "filename": "A_Collatz_Conjecture.cpp"
+  },
+  {
+    "id": "2074A",
+    "name": "Draw a Square",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2074/A",
+    "sol_path": "Solutions/A_Draw_a_Square.cpp",
+    "filename": "A_Draw_a_Square.cpp"
   },
   {
     "id": "1676A",

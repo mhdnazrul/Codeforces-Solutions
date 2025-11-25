@@ -275,7 +275,7 @@
 | 2094A | Trippi Troppi | 800 | `strings` | [View](https://codeforces.com/problemset/problem/2094/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_TrippiTroppi.cpp) |
 | 2093A | Ideal Generator | 800 | `math` | [View](https://codeforces.com/problemset/problem/2093/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ideal_Generator.cpp) |
 | 2092A | Kamilka and the Sheep | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/problemset/problem/2092/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kamilka_and_the_Sheep.cpp) |
-| 2074A | Draw a Square | 800 | `geometry`, `implementation` | [View](https://codeforces.com/problemset/problem/2074/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/Draw_a_Square.cpp) |
+| 2074A | Draw a Square | 800 | `geometry`, `implementation` | [View](https://codeforces.com/problemset/problem/2074/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Draw_a_Square.cpp) |
 | 2065A | Skibidus and Amog'u | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2065/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Skibidus_and_Amog_u.cpp) |
 | 2044A | Easy Problem | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2044/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Easy_Problem.cpp) |
 | 2024A | Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Profitable_Interest_Rate.cpp) |
