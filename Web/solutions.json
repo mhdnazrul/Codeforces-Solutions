@@ -298,6 +298,20 @@
     "filename": "A_Boy_or_Girl.cpp"
   },
   {
+    "id": "2092A",
+    "name": "Kamilka and the Sheep",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2092/A",
+    "sol_path": "Solutions/A_Kamilka_and_the_Sheep.cpp",
+    "filename": "A_Kamilka_and_the_Sheep.cpp"
+  },
+  {
     "id": "617A",
     "name": "Elephant",
     "rating": 800,
@@ -898,6 +912,20 @@
     "filename": "A_Anton_and_Polyhedrons.cpp"
   },
   {
+    "id": "2092B",
+    "name": "Lady Bug",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2092/B",
+    "sol_path": "Solutions/B_Lady_Bug.cpp",
+    "filename": "B_Lady_Bug.cpp"
+  },
+  {
     "id": "25A",
     "name": "IQ test",
     "rating": 1300,
@@ -1251,6 +1279,18 @@
     "filename": "C_Maximum_Even_Sum.cpp"
   },
   {
+    "id": "2024A",
+    "name": "Profitable Interest Rate",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2024/A",
+    "sol_path": "Solutions/A_Profitable_Interest_Rate.cpp",
+    "filename": "A_Profitable_Interest_Rate.cpp"
+  },
+  {
     "id": "1996A",
     "name": "Legs",
     "rating": 800,
@@ -1368,18 +1408,6 @@
     "filename": "A_Games.cpp"
   },
   {
-    "id": "1498A",
-    "name": "GCD Sum",
-    "rating": 800,
-    "tags": [
-      "brute force",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/1498/A",
-    "sol_path": "Solutions/GCD_Sum.cpp",
-    "filename": "GCD_Sum.cpp"
-  },
-  {
     "id": "271A",
     "name": "Beautiful Year",
     "rating": 800,
@@ -1425,6 +1453,18 @@
     "q_link": "https://codeforces.com/contest/2169/problem/A",
     "sol_path": "Solutions/A_Alice_and_Bob.cpp",
     "filename": "A_Alice_and_Bob.cpp"
+  },
+  {
+    "id": "1498A",
+    "name": "GCD Sum",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1498/A",
+    "sol_path": "Solutions/A_GCD_Sum.cpp",
+    "filename": "A_GCD_Sum.cpp"
   },
   {
     "id": "208A",
@@ -1682,20 +1722,6 @@
     "filename": "A_cAPS_lOCK.cpp"
   },
   {
-    "id": "2092B",
-    "name": "Lady Bug",
-    "rating": 1000,
-    "tags": [
-      "brute force",
-      "constructive algorithms",
-      "implementation",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2092/B",
-    "sol_path": "Solutions/Lady_Bug.cpp",
-    "filename": "Lady_Bug.cpp"
-  },
-  {
     "id": "2169B",
     "name": "Drifting Away",
     "rating": 800,
@@ -1895,20 +1921,6 @@
     "filename": "A_Hit_the_Lottery.cpp"
   },
   {
-    "id": "2092A",
-    "name": "Kamilka and the Sheep",
-    "rating": 800,
-    "tags": [
-      "greedy",
-      "math",
-      "number theory",
-      "sortings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2092/A",
-    "sol_path": "Solutions/Kamilka_and_the_Sheep.cpp",
-    "filename": "Kamilka_and_the_Sheep.cpp"
-  },
-  {
     "id": "2130B",
     "name": "Pathless",
     "rating": 1100,
@@ -2101,19 +2113,6 @@
     "filename": "A_A_B_Again.cpp"
   },
   {
-    "id": "2074B",
-    "name": "The Third Side",
-    "rating": 800,
-    "tags": [
-      "geometry",
-      "greedy",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2074/B",
-    "sol_path": "Solutions/The_Third_Side.cpp",
-    "filename": "The_Third_Side.cpp"
-  },
-  {
     "id": "1926A",
     "name": "Vlad and the Best of Five",
     "rating": 800,
@@ -2174,18 +2173,6 @@
     "filename": "A_I_Wanna_Be_the_Guy.cpp"
   },
   {
-    "id": "2024A",
-    "name": "Profitable Interest Rate",
-    "rating": 800,
-    "tags": [
-      "greedy",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2024/A",
-    "sol_path": "Solutions/Profitable_Interest_Rate.cpp",
-    "filename": "Profitable_Interest_Rate.cpp"
-  },
-  {
     "id": "2166B",
     "name": "Tab Closing",
     "rating": 800,
@@ -2208,20 +2195,6 @@
     "q_link": "https://codeforces.com/contest/1494/problem/A",
     "sol_path": "Solutions/A_ABC_String.cpp",
     "filename": "A_ABC_String.cpp"
-  },
-  {
-    "id": "339A",
-    "name": "Helpful Maths",
-    "rating": 800,
-    "tags": [
-      "greedy",
-      "implementation",
-      "sortings",
-      "strings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/339/A",
-    "sol_path": "Solutions/Helpful_Maths.cpp",
-    "filename": "Helpful_Maths.cpp"
   },
   {
     "id": "2156A",
@@ -2305,6 +2278,20 @@
     "q_link": "https://codeforces.com/contest/2167/problem/G",
     "sol_path": "Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp",
     "filename": "G_Mukhammadali_and_the_Smooth_Array.cpp"
+  },
+  {
+    "id": "339A",
+    "name": "Helpful Maths",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/339/A",
+    "sol_path": "Solutions/A_Helpful_Maths.cpp",
+    "filename": "A_Helpful_Maths.cpp"
   },
   {
     "id": "105940I",
