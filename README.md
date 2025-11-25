@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-250-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-252-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,18 +16,18 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 250
+**Total Problems Solved:** 252
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 166 |
+| 800 | 165 |
 | 900 | 47 |
 | 1000 | 15 |
 | 1100 | 7 |
-| 1200 | 4 |
-| 1300 | 7 |
+| 1200 | 5 |
+| 1300 | 9 |
 | 1400 | 2 |
 | 1500 | 1 |
 | 1600 | 1 |
@@ -40,19 +40,19 @@
 | *special | 3 |
 | binary search | 6 |
 | bitmasks | 7 |
-| brute force | 38 |
+| brute force | 40 |
 | constructive algorithms | 21 |
 | data structures | 4 |
-| dp | 6 |
+| dp | 7 |
 | games | 3 |
 | geometry | 3 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 59 |
+| greedy | 60 |
 | hashing | 2 |
-| implementation | 154 |
+| implementation | 153 |
 | interactive | 2 |
-| math | 63 |
+| math | 64 |
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 21 |
@@ -76,6 +76,9 @@
 | 2172M | Maximum Distance To Port | 1300 | `graphs`, `shortest paths` | [View](https://codeforces.com/problemset/problem/2172/M) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/M_Maximum_Distance_To_Port.cpp) |
 | 2160C | Reverse XOR | 1300 | `bitmasks` | [View](https://codeforces.com/problemset/problem/2160/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Reverse_XOR.cpp) |
 | 2145C | Monocarp's String | 1300 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2145/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Monocarp_s_String.cpp) |
+| 189B | Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
+| 189A | Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
+| 870B | Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 492B | Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
 | 466A | Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
@@ -157,7 +160,6 @@
 | 996A | Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
 | 977A | Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Wrong_Subtraction.cpp) |
 | 959A | Mahmoud and Ehab and the even-odd game | 800 | `games`, `math` | [View](https://codeforces.com/problemset/problem/959/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
-| 872B | B Maximum of Maximums of Minimums | 800 | `implementation` | [View](https://codeforces.com/contest/872/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 791A | Bear and Big Brother | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/791/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Bear_and_Big_Brother.cpp) |
 | 785A | Anton and Polyhedrons | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/785/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Polyhedrons.cpp) |
 | 734A | Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Danik.cpp) |

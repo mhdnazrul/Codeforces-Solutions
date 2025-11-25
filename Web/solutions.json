@@ -541,13 +541,13 @@
     "filename": "A_Sum.cpp"
   },
   {
-    "id": "872B",
-    "name": "B Maximum of Maximums of Minimums",
-    "rating": 800,
+    "id": "870B",
+    "name": "Maximum of Maximums of Minimums",
+    "rating": 1200,
     "tags": [
-      "implementation"
+      "greedy"
     ],
-    "q_link": "https://codeforces.com/contest/872/problem/B",
+    "q_link": "https://codeforces.com/problemset/problem/870/B",
     "sol_path": "Solutions/B_Maximum_of_Maximums_of_Minimums.cpp",
     "filename": "B_Maximum_of_Maximums_of_Minimums.cpp"
   },
@@ -573,6 +573,18 @@
     "q_link": "https://codeforces.com/contest/2172/problem/A",
     "sol_path": "Solutions/A_ASCII_Art_Contest.cpp",
     "filename": "A_ASCII_Art_Contest.cpp"
+  },
+  {
+    "id": "189B",
+    "name": "Counting Rhombi",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/189/problem/B",
+    "sol_path": "Solutions/B_Counting_Rhombi.cpp",
+    "filename": "B_Counting_Rhombi.cpp"
   },
   {
     "id": "2145C",
@@ -814,6 +826,18 @@
     "q_link": "https://codeforces.com/problemset/problem/2127/A",
     "sol_path": "Solutions/A_Mix_Mex_Max.cpp",
     "filename": "A_Mix_Mex_Max.cpp"
+  },
+  {
+    "id": "189A",
+    "name": "Cut Ribbon",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "dp"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/189/A",
+    "sol_path": "Solutions/A_Cut_Ribbon.cpp",
+    "filename": "A_Cut_Ribbon.cpp"
   },
   {
     "id": "141A",
