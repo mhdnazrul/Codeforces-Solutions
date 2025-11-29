@@ -191,7 +191,7 @@
   {
     "id": "2169C",
     "name": "Range Operation",
-    "rating": 800,
+    "rating": 1300,
     "tags": [
       "dp",
       "greedy",
@@ -1446,7 +1446,7 @@
   {
     "id": "2169A",
     "name": "Alice and Bob",
-    "rating": 800,
+    "rating": 900,
     "tags": [
       "greedy",
       "implementation"
@@ -1590,6 +1590,18 @@
     "q_link": "https://codeforces.com/problemset/problem/579/A",
     "sol_path": "Solutions/A_Raising_Bacteria.cpp",
     "filename": "A_Raising_Bacteria.cpp"
+  },
+  {
+    "id": "2170A",
+    "name": "Maximum Neighborhood",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2170/problem/A",
+    "sol_path": "Solutions/A_Maximum_Neighborhood.cpp",
+    "filename": "A_Maximum_Neighborhood.cpp"
   },
   {
     "id": "2164B",
@@ -1736,7 +1748,7 @@
   {
     "id": "2169B",
     "name": "Drifting Away",
-    "rating": 800,
+    "rating": 1100,
     "tags": [
       "greedy",
       "implementation"
@@ -1879,7 +1891,7 @@
   {
     "id": "2171B",
     "name": "Yuu Koito and Minimum Absolute Sum",
-    "rating": 800,
+    "rating": 900,
     "tags": [
       "math"
     ],
@@ -2199,7 +2211,7 @@
   {
     "id": "2166B",
     "name": "Tab Closing",
-    "rating": 800,
+    "rating": 900,
     "tags": [
       "math"
     ],
@@ -2281,7 +2293,7 @@
   {
     "id": "2171C2",
     "name": "Renako Amaori and XOR Game (hard version)",
-    "rating": 800,
+    "rating": 1400,
     "tags": [
       "bitmasks",
       "games",
