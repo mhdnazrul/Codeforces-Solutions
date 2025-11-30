@@ -986,6 +986,18 @@
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
   },
   {
+    "id": "514A",
+    "name": "Chewba\u0441ca and Number",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/514/A",
+    "sol_path": "Solutions/A_Chewba_ca_and_Number.cpp",
+    "filename": "A_Chewba_ca_and_Number.cpp"
+  },
+  {
     "id": "2148A",
     "name": "Sublime Sequence",
     "rating": 800,

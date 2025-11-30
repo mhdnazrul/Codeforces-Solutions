@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-258-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-259-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 258
+**Total Problems Solved:** 259
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -26,7 +26,7 @@
 | 900 | 51 |
 | 1000 | 17 |
 | 1100 | 9 |
-| 1200 | 5 |
+| 1200 | 6 |
 | 1300 | 10 |
 | 1400 | 3 |
 | 1500 | 1 |
@@ -48,9 +48,9 @@
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 62 |
+| greedy | 63 |
 | hashing | 2 |
-| implementation | 155 |
+| implementation | 156 |
 | interactive | 2 |
 | math | 66 |
 | number theory | 11 |
@@ -81,6 +81,7 @@
 | 189B | Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
 | 189A | Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
 | 870B | Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
+| 514A | Chewbaсca and Number | 1200 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/514/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chewba_ca_and_Number.cpp) |
 | 492B | Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
 | 466A | Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
