@@ -179,6 +179,17 @@
     "filename": "A_Bit.cpp"
   },
   {
+    "id": "43A",
+    "name": "Football",
+    "rating": 1000,
+    "tags": [
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/43/A",
+    "sol_path": "Solutions/96A_Football.cpp",
+    "filename": "96A_Football.cpp"
+  },
+  {
     "id": "2094A",
     "name": "Trippi Troppi",
     "rating": 800,
