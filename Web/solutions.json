@@ -71,6 +71,18 @@
     "filename": "A_Four_Coprimes.cpp"
   },
   {
+    "id": "2158A",
+    "name": "Suspension",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2158/problem/A",
+    "sol_path": "Solutions/A_Suspension.cpp",
+    "filename": "A_Suspension.cpp"
+  },
+  {
     "id": "598A",
     "name": "Tricky Sum",
     "rating": 900,
@@ -1596,6 +1608,7 @@
     "name": "Maximum Neighborhood",
     "rating": 800,
     "tags": [
+      "brute force",
       "greedy",
       "math"
     ],
@@ -1887,6 +1900,19 @@
     "q_link": "https://codeforces.com/contest/2167/problem/B",
     "sol_path": "Solutions/B_Your_Name.cpp",
     "filename": "B_Your_Name.cpp"
+  },
+  {
+    "id": "2158B",
+    "name": "Split",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2158/problem/B",
+    "sol_path": "Solutions/B_Split.cpp",
+    "filename": "B_Split.cpp"
   },
   {
     "id": "2171B",

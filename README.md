@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-254-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-256-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 254
+**Total Problems Solved:** 256
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 159 |
+| 800 | 161 |
 | 900 | 50 |
 | 1000 | 16 |
 | 1100 | 9 |
@@ -40,19 +40,19 @@
 | *special | 3 |
 | binary search | 7 |
 | bitmasks | 8 |
-| brute force | 40 |
-| constructive algorithms | 21 |
+| brute force | 41 |
+| constructive algorithms | 22 |
 | data structures | 4 |
 | dp | 8 |
 | games | 3 |
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 60 |
+| greedy | 62 |
 | hashing | 2 |
 | implementation | 154 |
 | interactive | 2 |
-| math | 64 |
+| math | 66 |
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 21 |
@@ -239,7 +239,7 @@
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2172A | ASCII Art Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2172/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ASCII_Art_Contest.cpp) |
 | 2171A | Shizuku Hoshikawa and Farm Legs | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2171/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp) |
-| 2170A | Maximum Neighborhood | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2170/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Maximum_Neighborhood.cpp) |
+| 2170A | Maximum Neighborhood | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2170/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Maximum_Neighborhood.cpp) |
 | 2168A2 | Encode and Decode (Hard Version) | 800 | `bitmasks`, `interactive`, ... | [View](https://codeforces.com/contest/2168/problem/A2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_2_Encode_and_Decode_Hard_Version.cpp) |
 | 2168A1 | Encode and Decode (Easy Version) | 800 | `constructive algorithms`, `interactive` | [View](https://codeforces.com/contest/2168/problem/A1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_1_Encode_and_Decode_Easy_Version.cpp) |
 | 2167C | Isamatdin and His Magic Wand! | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2167/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Isamatdin_and_His_Magic_Wand.cpp) |
@@ -251,6 +251,8 @@
 | 2162A | Beautiful Average | 800 | `brute force`, `greedy` | [View](https://codeforces.com/contest/2162/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Beautiful_Average.cpp) |
 | 2161A | Round Trip | 800 | `games`, `greedy`, ... | [View](https://codeforces.com/contest/2161/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Round_Trip.cpp) |
 | 2160A | MEX Partition | 800 | `math` | [View](https://codeforces.com/problemset/problem/2160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_MEX_Partition.cpp) |
+| 2158B | Split | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Split.cpp) |
+| 2158A | Suspension | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Suspension.cpp) |
 | 2157A | Dungeon Equilibrium | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2157/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dungeon_Equilibrium.cpp) |
 | 2156A | Pizza Time | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2156/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Pizza_Time.cpp) |
 | 2155A | El fucho | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2155/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_El_fucho.cpp) |
