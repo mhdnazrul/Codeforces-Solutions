@@ -999,6 +999,17 @@
     "filename": "A_Police_Recruits.cpp"
   },
   {
+    "id": "451A",
+    "name": "Game With Sticks",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/451/A",
+    "sol_path": "Solutions/A_Game_With_Sticks.cpp",
+    "filename": "A_Game_With_Sticks.cpp"
+  },
+  {
     "id": "2145A",
     "name": "Candies for Nephews",
     "rating": 800,
