@@ -75,8 +75,42 @@
     "name": "Suspension",
     "rating": 800,
     "tags": [
+      "2-sat",
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "expression parsing",
+      "fft",
+      "flows",
+      "games",
+      "geometry",
+      "graph matchings",
+      "graphs",
       "greedy",
-      "math"
+      "hashing",
+      "implementation",
+      "interactive",
+      "math",
+      "matrices",
+      "meet-in-the-middle",
+      "number theory",
+      "probabilities",
+      "schedules",
+      "shortest paths",
+      "sortings",
+      "string suffix structures",
+      "strings",
+      "ternary search",
+      "trees",
+      "two pointers"
     ],
     "q_link": "https://codeforces.com/contest/2158/problem/A",
     "sol_path": "Solutions/A_Suspension.cpp",
@@ -865,6 +899,18 @@
     "filename": "A_Cut_Ribbon.cpp"
   },
   {
+    "id": "514A",
+    "name": "Chewba\u0441ca and Number",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/514/A",
+    "sol_path": "Solutions/A_Chewba_ca_and_Number.cpp",
+    "filename": "A_Chewba_ca_and_Number.cpp"
+  },
+  {
     "id": "141A",
     "name": "Amusing Joke",
     "rating": 800,
@@ -962,6 +1008,17 @@
     "filename": "B_Vanya_and_Lanterns.cpp"
   },
   {
+    "id": "1374B",
+    "name": "Multiply by 2, divide by 6",
+    "rating": 900,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1374/B",
+    "sol_path": "Solutions/B_Multiply_by_2_divide_by_6.cpp",
+    "filename": "B_Multiply_by_2_divide_by_6.cpp"
+  },
+  {
     "id": "116A",
     "name": "Tram",
     "rating": 800,
@@ -984,18 +1041,6 @@
     "q_link": "https://codeforces.com/contest/2168/problem/A2",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
-  },
-  {
-    "id": "514A",
-    "name": "Chewba\u0441ca and Number",
-    "rating": 1200,
-    "tags": [
-      "greedy",
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/514/A",
-    "sol_path": "Solutions/A_Chewba_ca_and_Number.cpp",
-    "filename": "A_Chewba_ca_and_Number.cpp"
   },
   {
     "id": "2148A",
@@ -1338,6 +1383,18 @@
     "filename": "A_Profitable_Interest_Rate.cpp"
   },
   {
+    "id": "1352C",
+    "name": "K-th Not Divisible by n",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1352/C",
+    "sol_path": "Solutions/C_K_th_Not_Divisible_by_n.cpp",
+    "filename": "C_K_th_Not_Divisible_by_n.cpp"
+  },
+  {
     "id": "1996A",
     "name": "Legs",
     "rating": 800,
@@ -1642,8 +1699,10 @@
     "name": "Maximum Neighborhood",
     "rating": 800,
     "tags": [
+      "bitmasks",
       "brute force",
       "greedy",
+      "implementation",
       "math"
     ],
     "q_link": "https://codeforces.com/contest/2170/problem/A",
