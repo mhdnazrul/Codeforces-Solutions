@@ -75,42 +75,9 @@
     "name": "Suspension",
     "rating": 800,
     "tags": [
-      "2-sat",
-      "binary search",
-      "bitmasks",
-      "brute force",
-      "chinese remainder theorem",
-      "combinatorics",
       "constructive algorithms",
-      "data structures",
-      "dfs and similar",
-      "divide and conquer",
-      "dp",
-      "dsu",
-      "expression parsing",
-      "fft",
-      "flows",
-      "games",
-      "geometry",
-      "graph matchings",
-      "graphs",
       "greedy",
-      "hashing",
-      "implementation",
-      "interactive",
-      "math",
-      "matrices",
-      "meet-in-the-middle",
-      "number theory",
-      "probabilities",
-      "schedules",
-      "shortest paths",
-      "sortings",
-      "string suffix structures",
-      "strings",
-      "ternary search",
-      "trees",
-      "two pointers"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2158/problem/A",
     "sol_path": "Solutions/A_Suspension.cpp",
@@ -1343,6 +1310,18 @@
     "q_link": "https://codeforces.com/problemset/problem/133/A",
     "sol_path": "Solutions/A_HQ_9.cpp",
     "filename": "A_HQ_9.cpp"
+  },
+  {
+    "id": "34B",
+    "name": "Sale",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/34/B",
+    "sol_path": "Solutions/B_Sale.cpp",
+    "filename": "B_Sale.cpp"
   },
   {
     "id": "1475A",
@@ -2733,6 +2712,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H",
     "sol_path": "Groups/H_Two_numbers.cpp",
     "filename": "H_Two_numbers.cpp"
+  },
+  {
+    "id": "219432I",
+    "name": "I Palindrome",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I",
+    "sol_path": "Groups/I_Palindrome.cpp",
+    "filename": "I_Palindrome.cpp"
   },
   {
     "id": "219158G",
