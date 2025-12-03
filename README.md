@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-263-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-264-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 263
+**Total Problems Solved:** 264
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 161 |
+| 800 | 162 |
 | 900 | 54 |
 | 1000 | 17 |
 | 1100 | 9 |
@@ -50,9 +50,9 @@
 | graphs | 1 |
 | greedy | 64 |
 | hashing | 2 |
-| implementation | 158 |
+| implementation | 159 |
 | interactive | 2 |
-| math | 68 |
+| math | 69 |
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 22 |
@@ -192,6 +192,7 @@
 | 643604B | B Ski Sum | 800 | `implementation` | [View](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Ski_Sum.cpp) |
 | 643604A | A Free Palestine | 800 | `implementation` | [View](https://codeforces.com/group/YiaGPYJsA1/contest/643604/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Free_Palestine.cpp) |
 | 630A | Again Twenty Five! | 800 | `number theory` | [View](https://codeforces.com/problemset/problem/630/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Again_Twenty_Five.cpp) |
+| 620A | Professor GukiZ's Robot | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/620/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Professor_GukiZ_s_Robot.cpp) |
 | 61A | Ultra-Fast Mathematician | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/61/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ultra_Fast_Mathematician.cpp) |
 | 617A | Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
 | 617A | Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_2050.cpp) |

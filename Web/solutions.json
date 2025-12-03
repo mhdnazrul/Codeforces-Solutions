@@ -519,6 +519,18 @@
     "filename": "B_Anton_and_Danik.cpp"
   },
   {
+    "id": "620A",
+    "name": "Professor GukiZ's Robot",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/620/problem/A",
+    "sol_path": "Solutions/A_Professor_GukiZ_s_Robot.cpp",
+    "filename": "A_Professor_GukiZ_s_Robot.cpp"
+  },
+  {
     "id": "520A",
     "name": "Pangram",
     "rating": 800,
