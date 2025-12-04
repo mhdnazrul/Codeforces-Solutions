@@ -2649,6 +2649,17 @@
     "filename": "C_Resistors_in_Parallel.cpp"
   },
   {
+    "id": "219432M",
+    "name": "M Lucky Numbers",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M",
+    "sol_path": "Groups/M_Lucky_Numbers.cpp",
+    "filename": "M_Lucky_Numbers.cpp"
+  },
+  {
     "id": "219432A",
     "name": "A 1 to N",
     "rating": 800,

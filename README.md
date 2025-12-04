@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-264-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-265-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 264
+**Total Problems Solved:** 265
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 162 |
-| 900 | 54 |
+| 900 | 55 |
 | 1000 | 17 |
 | 1100 | 9 |
 | 1200 | 7 |
@@ -50,7 +50,7 @@
 | graphs | 1 |
 | greedy | 64 |
 | hashing | 2 |
-| implementation | 159 |
+| implementation | 160 |
 | interactive | 2 |
 | math | 69 |
 | number theory | 11 |
@@ -126,6 +126,7 @@
 | 219432P | P Shape 1 | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/P_Shape_1.cpp) |
 | 219432O | O Pyramid | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/O_Pyramid.cpp) |
 | 219432N | N Numbers Histogram | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/N_Numbers_Histogram.cpp) |
+| 219432M | M Lucky Numbers | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/M_Lucky_Numbers.cpp) |
 | 219432K | K Divisors | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/K_Divisors.cpp) |
 | 219432I | I Palindrome | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/I_Palindrome.cpp) |
 | 219158Z | Z Hard Compare | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Z_Hard_Compare.cpp) |
