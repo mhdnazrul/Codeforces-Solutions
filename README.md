@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-265-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-266-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 265
+**Total Problems Solved:** 266
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -25,7 +25,7 @@
 | 800 | 162 |
 | 900 | 55 |
 | 1000 | 17 |
-| 1100 | 9 |
+| 1100 | 10 |
 | 1200 | 7 |
 | 1300 | 10 |
 | 1400 | 3 |
@@ -55,7 +55,7 @@
 | math | 69 |
 | number theory | 11 |
 | shortest paths | 2 |
-| sortings | 22 |
+| sortings | 23 |
 | strings | 28 |
 | ternary search | 1 |
 | two pointers | 8 |
@@ -88,6 +88,7 @@
 | 2149D | A and B | 1200 | `strings` | [View](https://codeforces.com/contest/2149/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_A_and_B.cpp) |
 | 1352C | K-th Not Divisible by n | 1200 | `binary search`, `math` | [View](https://codeforces.com/problemset/problem/1352/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_K_th_Not_Divisible_by_n.cpp) |
 | 706B | Interesting drink | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/706/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_drink.cpp) |
+| 456A | Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 2169B | Drifting Away | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
 | 2162C | Beautiful XOR | 1100 | `bitmasks`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2162/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Beautiful_XOR.cpp) |
 | 2160B | Distinct Elements | 1100 | `greedy`, `math` | [View](https://codeforces.com/contest/2160/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Distinct_Elements.cpp) |

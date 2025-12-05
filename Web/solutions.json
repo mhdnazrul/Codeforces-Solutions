@@ -1926,6 +1926,17 @@
     "filename": "A_Puzzles.cpp"
   },
   {
+    "id": "456A",
+    "name": "Laptops",
+    "rating": 1100,
+    "tags": [
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/456/A",
+    "sol_path": "Solutions/A_Laptops.cpp",
+    "filename": "A_Laptops.cpp"
+  },
+  {
     "id": "2166C",
     "name": "C Cyclic Merging",
     "rating": 800,
