@@ -2492,6 +2492,17 @@
     "filename": "B_T_primes.cpp"
   },
   {
+    "id": "1883B",
+    "name": "Chemistry",
+    "rating": 900,
+    "tags": [
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1883/B",
+    "sol_path": "Solutions/B_Chemistry.cpp",
+    "filename": "B_Chemistry.cpp"
+  },
+  {
     "id": "469A",
     "name": "I Wanna Be the Guy",
     "rating": 800,

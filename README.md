@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-280-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-281-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 280
+**Total Problems Solved:** 281
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 176 |
-| 900 | 55 |
+| 900 | 56 |
 | 1000 | 17 |
 | 1100 | 10 |
 | 1200 | 7 |
@@ -56,7 +56,7 @@
 | number theory | 11 |
 | shortest paths | 2 |
 | sortings | 28 |
-| strings | 30 |
+| strings | 31 |
 | ternary search | 1 |
 | two pointers | 8 |
 </details>
@@ -157,6 +157,7 @@
 | 2093B | Expensive Number | 900 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2093/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Expensive_Number.cpp) |
 | 208A | Dubstep | 900 | `strings` | [View](https://codeforces.com/problemset/problem/208/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dubstep.cpp) |
 | 1927B | Following the String | 900 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1927/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_the_String.cpp) |
+| 1883B | Chemistry | 900 | `strings` | [View](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Chemistry.cpp) |
 | 1720A | Burenka Plays with Fractions | 900 | `math`, `number theory` | [View](https://codeforces.com/contest/1720/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
 | 160A | Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |
