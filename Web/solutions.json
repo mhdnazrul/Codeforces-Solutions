@@ -84,6 +84,17 @@
     "filename": "A_Suspension.cpp"
   },
   {
+    "id": "N/A",
+    "name": "B ICPC Balloons",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "#",
+    "sol_path": "Solutions/B_ICPC_Balloons.cpp",
+    "filename": "B_ICPC_Balloons.cpp"
+  },
+  {
     "id": "598A",
     "name": "Tricky Sum",
     "rating": 900,
@@ -431,6 +442,17 @@
     "filename": "C_1_Skibidus_and_Fanum_Tax_easy_version.cpp"
   },
   {
+    "id": "1722A",
+    "name": "Spell Check",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1722/A",
+    "sol_path": "Solutions/A_Spell_Check.cpp",
+    "filename": "A_Spell_Check.cpp"
+  },
+  {
     "id": "2161A",
     "name": "Round Trip",
     "rating": 800,
@@ -493,6 +515,18 @@
     "q_link": "https://codeforces.com/contest/2143/problem/A",
     "sol_path": "Solutions/A_All_Lengths_Subtraction.cpp",
     "filename": "A_All_Lengths_Subtraction.cpp"
+  },
+  {
+    "id": "1692B",
+    "name": "All Distinct",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1692/B",
+    "sol_path": "Solutions/B_All_Distinct.cpp",
+    "filename": "B_All_Distinct.cpp"
   },
   {
     "id": "281A",
@@ -703,6 +737,17 @@
     "filename": "A_Sereja_and_Dima.cpp"
   },
   {
+    "id": "1722B",
+    "name": "Colourblindness",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1722/B",
+    "sol_path": "Solutions/B_Colourblindness.cpp",
+    "filename": "B_Colourblindness.cpp"
+  },
+  {
     "id": "2065A",
     "name": "Skibidus and Amog'u",
     "rating": 800,
@@ -728,6 +773,19 @@
     "q_link": "https://codeforces.com/problemset/problem/200/B",
     "sol_path": "Solutions/B_Drinks.cpp",
     "filename": "B_Drinks.cpp"
+  },
+  {
+    "id": "1760B",
+    "name": "Atilla's Favorite Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1760/B",
+    "sol_path": "Solutions/B_Atilla_s_Favorite_Problem.cpp",
+    "filename": "B_Atilla_s_Favorite_Problem.cpp"
   },
   {
     "id": "2162C",
@@ -891,6 +949,17 @@
     "filename": "A_Mix_Mex_Max.cpp"
   },
   {
+    "id": "1692A",
+    "name": "Marathon",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1692/A",
+    "sol_path": "Solutions/A_Marathon.cpp",
+    "filename": "A_Marathon.cpp"
+  },
+  {
     "id": "189A",
     "name": "Cut Ribbon",
     "rating": 1300,
@@ -1010,6 +1079,20 @@
     "q_link": "https://codeforces.com/problemset/problem/492/B",
     "sol_path": "Solutions/B_Vanya_and_Lanterns.cpp",
     "filename": "B_Vanya_and_Lanterns.cpp"
+  },
+  {
+    "id": "1669C",
+    "name": "Odd/Even Increments",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1669/C",
+    "sol_path": "Solutions/C_Odd_Even_Increments.cpp",
+    "filename": "C_Odd_Even_Increments.cpp"
   },
   {
     "id": "1374B",
@@ -1484,6 +1567,18 @@
     "filename": "A_Ideal_Generator.cpp"
   },
   {
+    "id": "1760A",
+    "name": "Medium Number",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1760/A",
+    "sol_path": "Solutions/A_Medium_Number.cpp",
+    "filename": "A_Medium_Number.cpp"
+  },
+  {
     "id": "2149A",
     "name": "Be Positive",
     "rating": 800,
@@ -1709,6 +1804,18 @@
     "q_link": "https://codeforces.com/problemset/problem/579/A",
     "sol_path": "Solutions/A_Raising_Bacteria.cpp",
     "filename": "A_Raising_Bacteria.cpp"
+  },
+  {
+    "id": "1669B",
+    "name": "Triple",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1669/B",
+    "sol_path": "Solutions/B_Triple.cpp",
+    "filename": "B_Triple.cpp"
   },
   {
     "id": "2170A",
@@ -2069,6 +2176,19 @@
     "filename": "C_Simple_Repetition.cpp"
   },
   {
+    "id": "1742B",
+    "name": "Increasing",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1742/B",
+    "sol_path": "Solutions/B_Increasing.cpp",
+    "filename": "B_Increasing.cpp"
+  },
+  {
     "id": "26B",
     "name": "Regular Bracket Sequence",
     "rating": 1400,
@@ -2235,6 +2355,22 @@
     "filename": "A_Presents.cpp"
   },
   {
+    "id": "1676C",
+    "name": "Most Similar Words",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "implementation",
+      "math",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1676/C",
+    "sol_path": "Solutions/C_Most_Similar_Words.cpp",
+    "filename": "C_Most_Similar_Words.cpp"
+  },
+  {
     "id": "231A",
     "name": "Team",
     "rating": 800,
@@ -2269,6 +2405,19 @@
     "q_link": "https://codeforces.com/contest/2044/problem/A",
     "sol_path": "Solutions/A_Easy_Problem.cpp",
     "filename": "A_Easy_Problem.cpp"
+  },
+  {
+    "id": "1676B",
+    "name": "Equal Candies",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1676/B",
+    "sol_path": "Solutions/B_Equal_Candies.cpp",
+    "filename": "B_Equal_Candies.cpp"
   },
   {
     "id": "1791B",

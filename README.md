@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-268-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-280-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 268
+**Total Problems Solved:** 280
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 164 |
+| 800 | 176 |
 | 900 | 55 |
 | 1000 | 17 |
 | 1100 | 10 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 8 |
 | bitmasks | 9 |
-| brute force | 41 |
+| brute force | 42 |
 | constructive algorithms | 23 |
 | data structures | 4 |
 | dp | 9 |
@@ -48,15 +48,15 @@
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 66 |
+| greedy | 73 |
 | hashing | 2 |
-| implementation | 161 |
+| implementation | 172 |
 | interactive | 2 |
-| math | 70 |
+| math | 73 |
 | number theory | 11 |
 | shortest paths | 2 |
-| sortings | 23 |
-| strings | 28 |
+| sortings | 28 |
+| strings | 30 |
 | ternary search | 1 |
 | two pointers | 8 |
 </details>
@@ -169,6 +169,7 @@
 | 105981C | C Echoes of the Runes | 900 | `implementation` | [View](https://codeforces.com/gym/105981/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/C_Echoes_of_the_Runes.cpp) |
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
+| N/A | B ICPC Balloons | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_ICPC_Balloons.cpp) |
 | N/A | C 1 Renako Amaori and XOR Game easy version | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp) |
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
 | N/A | A Same Difference | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Same_Difference.cpp) |
@@ -308,11 +309,22 @@
 | 1791C | Prepend and Append | 800 | `implementation`, `two pointers` | [View](https://codeforces.com/contest/1791/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Prepend_and_Append.cpp) |
 | 1791B | Following Directions | 800 | `geometry`, `implementation` | [View](https://codeforces.com/contest/1791/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_Directions.cpp) |
 | 1791A | Codeforces Checking | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1791/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Codeforces_Checking.cpp) |
+| 1760B | Atilla's Favorite Problem | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1760/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Atilla_s_Favorite_Problem.cpp) |
+| 1760A | Medium Number | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1760/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Medium_Number.cpp) |
 | 1746B | Rebellion | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/1746/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Rebellion.cpp) |
+| 1742B | Increasing | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1742/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Increasing.cpp) |
 | 1742A | Sum | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1742/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum.cpp) |
+| 1722B | Colourblindness | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1722/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Colourblindness.cpp) |
+| 1722A | Spell Check | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1722/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Spell_Check.cpp) |
 | 1720B | Interesting Sum | 800 | `brute force`, `data structures`, ... | [View](https://codeforces.com/contest/1720/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_Sum.cpp) |
 | 1703A | YES or YES? | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1703/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_YES_or_YES.cpp) |
+| 1692B | All Distinct | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1692/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_All_Distinct.cpp) |
+| 1692A | Marathon | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1692/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Marathon.cpp) |
+| 1676C | Most Similar Words | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1676/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Most_Similar_Words.cpp) |
+| 1676B | Equal Candies | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/problemset/problem/1676/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Equal_Candies.cpp) |
 | 1676A | Lucky? | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1676/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lucky.cpp) |
+| 1669C | Odd/Even Increments | 800 | `greedy`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1669/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Odd_Even_Increments.cpp) |
+| 1669B | Triple | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1669/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Triple.cpp) |
 | 1669A | Division? | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1669/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Division.cpp) |
 | 158A | Next Round | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Next_Round.cpp) |
 | 158A | Next Round | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Domino_piling.cpp) |
