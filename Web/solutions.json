@@ -322,6 +322,19 @@
     "filename": "A_Boy_or_Girl.cpp"
   },
   {
+    "id": "2173B",
+    "name": "Niko's Tactical Cards",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2173/problem/B",
+    "sol_path": "Solutions/B_Niko_s_Tactical_Cards.cpp",
+    "filename": "B_Niko_s_Tactical_Cards.cpp"
+  },
+  {
     "id": "2092A",
     "name": "Kamilka and the Sheep",
     "rating": 800,
@@ -816,6 +829,18 @@
     "q_link": "https://codeforces.com/problemset/problem/59/A",
     "sol_path": "Solutions/A_Word.cpp",
     "filename": "A_Word.cpp"
+  },
+  {
+    "id": "2173A",
+    "name": "Sleeping Through Classes",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2173/problem/A",
+    "sol_path": "Solutions/A_Sleeping_Through_Classes.cpp",
+    "filename": "A_Sleeping_Through_Classes.cpp"
   },
   {
     "id": "2139A",
