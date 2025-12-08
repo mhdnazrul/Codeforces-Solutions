@@ -2845,6 +2845,17 @@
     "filename": "C_Resistors_in_Parallel.cpp"
   },
   {
+    "id": "219432L",
+    "name": "L GCD",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L",
+    "sol_path": "Groups/L_GCD.cpp",
+    "filename": "L_GCD.cpp"
+  },
+  {
     "id": "219432M",
     "name": "M Lucky Numbers",
     "rating": 900,
