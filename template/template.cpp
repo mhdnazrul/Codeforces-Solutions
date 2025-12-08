@@ -17,9 +17,9 @@ const char nl='\n';
 #define fastio() ios::sync_with_stdio(false); cin.tie(nullptr)
 
 template<class T> void in(T &x){cin>>x;}
-template<class T> void in(vector<T> &v){for(auto &x:v) cin>>x;}
+template<class T> void inV(vector<T> &v){for(auto &x:v) cin>>x;}
 template<class T> void out(const T &x){cout<<x<<'\n';}
-template<class T> void out(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
+template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
     
