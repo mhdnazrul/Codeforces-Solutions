@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-281-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-282-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 281
+**Total Problems Solved:** 282
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 176 |
-| 900 | 56 |
+| 900 | 57 |
 | 1000 | 17 |
 | 1100 | 10 |
 | 1200 | 7 |
@@ -50,7 +50,7 @@
 | graphs | 1 |
 | greedy | 73 |
 | hashing | 2 |
-| implementation | 172 |
+| implementation | 173 |
 | interactive | 2 |
 | math | 73 |
 | number theory | 11 |
@@ -129,6 +129,7 @@
 | 219432N | N Numbers Histogram | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/N_Numbers_Histogram.cpp) |
 | 219432M | M Lucky Numbers | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/M_Lucky_Numbers.cpp) |
 | 219432K | K Divisors | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/K_Divisors.cpp) |
+| 219432J | J Primes from 1 to n | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/J_Primes_from_1_to_n.cpp) |
 | 219432I | I Palindrome | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/I_Palindrome.cpp) |
 | 219158Z | Z Hard Compare | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Z_Hard_Compare.cpp) |
 | 219158Y | Y The last 2 digits | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/Y_The_last_2_digits.cpp) |

@@ -3142,6 +3142,17 @@
     "filename": "B_Coin_Transformation.cpp"
   },
   {
+    "id": "219432J",
+    "name": "J Primes from 1 to n",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J",
+    "sol_path": "Groups/J_Primes_from_1_to_n.cpp",
+    "filename": "J_Primes_from_1_to_n.cpp"
+  },
+  {
     "id": "219432F",
     "name": "F Multiplication table",
     "rating": 800,
