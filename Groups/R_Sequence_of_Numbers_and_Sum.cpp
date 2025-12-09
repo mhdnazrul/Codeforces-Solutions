@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
-  │                        >   Handle:- nazrulislam_7             
+  │                        >   Handle:- nazrulislam_7           
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: 
+  │Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,12 +20,24 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    
+  int a, b;
+  while (cin >> a >> b) {
+      int mn = min(a, b), mx = max(a, b);
+      if (mn <= 0 || mx <= 0) break;
+
+      int sum = 0;
+      for (int i = mn; i <= mx; i++) {
+          cout << i << " ";
+          sum += i;
+      }
+      cout << "sum =" << sum << nl;
+  }
 }
+
 
 int32_t main(){
     fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
+    //if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }

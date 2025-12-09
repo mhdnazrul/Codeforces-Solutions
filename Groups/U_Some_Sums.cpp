@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: 
+  │Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -19,13 +19,33 @@ template<class T> void inV(vector<T> &v){for(auto &x:v) cin>>x;}
 template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
-void run_case(){
-    
+void run_case() {
+  int n, a, b;
+  cin >> n >> a >> b;
+
+  int sum = 0;
+
+  for (int i = 1; i <= n; i++) {
+      int temp = i;
+      int digitSum = 0;
+
+      while (temp > 0) {
+          digitSum += temp % 10;
+          temp /= 10;
+      }
+
+      if (digitSum >= a && digitSum <= b) {
+          sum += i; 
+      }
+  }
+
+  cout << sum << nl;
 }
+
 
 int32_t main(){
     fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
+    //if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }
