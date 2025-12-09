@@ -2702,6 +2702,17 @@
     "filename": "S_Interval.cpp"
   },
   {
+    "id": "219432S",
+    "name": "S Sum of Consecutive Odd Numbers",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S",
+    "sol_path": "Groups/S_Sum_of_Consecutive_Odd_Numbers.cpp",
+    "filename": "S_Sum_of_Consecutive_Odd_Numbers.cpp"
+  },
+  {
     "id": "219158U",
     "name": "U Float or int",
     "rating": 900,
@@ -3054,6 +3065,17 @@
     "filename": "E_Interval_Sweep.cpp"
   },
   {
+    "id": "219432R",
+    "name": "R Sequence of Numbers and Sum",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R",
+    "sol_path": "Groups/R_Sequence_of_Numbers_and_Sum.cpp",
+    "filename": "R_Sequence_of_Numbers_and_Sum.cpp"
+  },
+  {
     "id": "219158D",
     "name": "D Difference",
     "rating": 800,
@@ -3239,6 +3261,17 @@
     "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O",
     "sol_path": "Groups/O_Pyramid.cpp",
     "filename": "O_Pyramid.cpp"
+  },
+  {
+    "id": "219432U",
+    "name": "U Some Sums",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U",
+    "sol_path": "Groups/U_Some_Sums.cpp",
+    "filename": "U_Some_Sums.cpp"
   },
   {
     "id": "219158M",
