@@ -972,6 +972,18 @@
     "filename": "A_Cut_Ribbon.cpp"
   },
   {
+    "id": "313A",
+    "name": "Ilya and Bank Account",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/313/problem/A",
+    "sol_path": "Solutions/A_Ilya_and_Bank_Account.cpp",
+    "filename": "A_Ilya_and_Bank_Account.cpp"
+  },
+  {
     "id": "514A",
     "name": "Chewba\u0441ca and Number",
     "rating": 1200,
