@@ -615,6 +615,18 @@
     "filename": "A_Next_Round.cpp"
   },
   {
+    "id": "2176A",
+    "name": "Operations with Inversions",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2176/problem/A",
+    "sol_path": "Solutions/A_Operations_with_Inversions.cpp",
+    "filename": "A_Operations_with_Inversions.cpp"
+  },
+  {
     "id": "2147A",
     "name": "Shortest Increasing Path",
     "rating": 800,
