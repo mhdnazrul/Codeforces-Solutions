@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-288-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-289-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 288
+**Total Problems Solved:** 289
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -25,7 +25,7 @@
 | 800 | 177 |
 | 900 | 62 |
 | 1000 | 17 |
-| 1100 | 10 |
+| 1100 | 11 |
 | 1200 | 7 |
 | 1300 | 10 |
 | 1400 | 3 |
@@ -40,10 +40,10 @@
 | *special | 3 |
 | binary search | 8 |
 | bitmasks | 9 |
-| brute force | 42 |
+| brute force | 43 |
 | constructive algorithms | 23 |
 | data structures | 4 |
-| dp | 9 |
+| dp | 10 |
 | games | 3 |
 | geometry | 2 |
 | graph matchings | 1 |
@@ -52,7 +52,7 @@
 | hashing | 2 |
 | implementation | 179 |
 | interactive | 2 |
-| math | 73 |
+| math | 74 |
 | number theory | 12 |
 | shortest paths | 2 |
 | sortings | 28 |
@@ -89,6 +89,7 @@
 | 1352C | K-th Not Divisible by n | 1200 | `binary search`, `math` | [View](https://codeforces.com/problemset/problem/1352/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_K_th_Not_Divisible_by_n.cpp) |
 | 706B | Interesting drink | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/706/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_drink.cpp) |
 | 456A | Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
+| 363B | Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 2169B | Drifting Away | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
 | 2162C | Beautiful XOR | 1100 | `bitmasks`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2162/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Beautiful_XOR.cpp) |
 | 2160B | Distinct Elements | 1100 | `greedy`, `math` | [View](https://codeforces.com/contest/2160/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Distinct_Elements.cpp) |
@@ -255,7 +256,7 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
-| 2176A | Operations with Inversions | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
+| 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173B | Niko's Tactical Cards | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
 | 2173A | Sleeping Through Classes | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2173/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sleeping_Through_Classes.cpp) |
 | 2172A | ASCII Art Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2172/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ASCII_Art_Contest.cpp) |

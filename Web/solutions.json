@@ -620,7 +620,8 @@
     "rating": 800,
     "tags": [
       "greedy",
-      "implementation"
+      "implementation",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2176/problem/A",
     "sol_path": "Solutions/A_Operations_with_Inversions.cpp",
@@ -1656,6 +1657,18 @@
     "q_link": "https://codeforces.com/problemset/problem/271/A",
     "sol_path": "Solutions/A_Beautiful_Year.cpp",
     "filename": "A_Beautiful_Year.cpp"
+  },
+  {
+    "id": "363B",
+    "name": "Fence",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "dp"
+    ],
+    "q_link": "https://codeforces.com/contest/363/problem/B",
+    "sol_path": "Solutions/B_Fence.cpp",
+    "filename": "B_Fence.cpp"
   },
   {
     "id": "2106A",
