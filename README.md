@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-289-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-290-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 289
+**Total Problems Solved:** 290
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 177 |
+| 800 | 178 |
 | 900 | 62 |
 | 1000 | 17 |
 | 1100 | 11 |
@@ -39,7 +39,7 @@
 | :--- | :--- |
 | *special | 3 |
 | binary search | 8 |
-| bitmasks | 9 |
+| bitmasks | 10 |
 | brute force | 43 |
 | constructive algorithms | 23 |
 | data structures | 4 |
@@ -48,7 +48,7 @@
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 74 |
+| greedy | 75 |
 | hashing | 2 |
 | implementation | 179 |
 | interactive | 2 |
@@ -56,7 +56,7 @@
 | number theory | 12 |
 | shortest paths | 2 |
 | sortings | 28 |
-| strings | 31 |
+| strings | 32 |
 | ternary search | 1 |
 | two pointers | 8 |
 </details>
@@ -256,6 +256,7 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
+| 2176B | Optimal Shifts | 800 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
 | 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173B | Niko's Tactical Cards | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
 | 2173A | Sleeping Through Classes | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2173/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sleeping_Through_Classes.cpp) |

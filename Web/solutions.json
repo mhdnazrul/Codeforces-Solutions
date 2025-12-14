@@ -1719,6 +1719,19 @@
     "filename": "A_GCD_Sum.cpp"
   },
   {
+    "id": "2176B",
+    "name": "Optimal Shifts",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/2176/problem/B",
+    "sol_path": "Solutions/B_Optimal_Shifts.cpp",
+    "filename": "B_Optimal_Shifts.cpp"
+  },
+  {
     "id": "208A",
     "name": "Dubstep",
     "rating": 900,
