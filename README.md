@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-290-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-291-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 290
+**Total Problems Solved:** 291
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 178 |
+| 800 | 179 |
 | 900 | 62 |
 | 1000 | 17 |
 | 1100 | 11 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 8 |
 | bitmasks | 10 |
-| brute force | 43 |
+| brute force | 44 |
 | constructive algorithms | 23 |
 | data structures | 4 |
 | dp | 10 |
@@ -50,7 +50,7 @@
 | graphs | 1 |
 | greedy | 75 |
 | hashing | 2 |
-| implementation | 179 |
+| implementation | 180 |
 | interactive | 2 |
 | math | 74 |
 | number theory | 12 |
@@ -211,6 +211,7 @@
 | 546A | Soldier and Bananas | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/546/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soldier_and_Bananas.cpp) |
 | 520A | Pangram | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/520/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Pangram.cpp) |
 | 510A | Fox And Snake | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/510/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Fox_And_Snake.cpp) |
+| 509A | Maximum in Table | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/509/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Maximum_in_Table.cpp) |
 | 4A | Watermelon | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/4/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Watermelon.cpp) |
 | 492A | Vanya and Cubes | 800 | `implementation` | [View](https://codeforces.com/contest/492/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vanya_and_Cubes.cpp) |
 | 486A | Calculating Function | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/486/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Calculating_Function.cpp) |

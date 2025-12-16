@@ -2505,6 +2505,18 @@
     "filename": "A_Vlad_and_the_Best_of_Five.cpp"
   },
   {
+    "id": "509A",
+    "name": "Maximum in Table",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/509/problem/A",
+    "sol_path": "Solutions/A_Maximum_in_Table.cpp",
+    "filename": "A_Maximum_in_Table.cpp"
+  },
+  {
     "id": "2149D",
     "name": "A and B",
     "rating": 1200,
