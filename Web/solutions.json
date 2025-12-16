@@ -1495,6 +1495,17 @@
     "filename": "C_Maximum_Even_Sum.cpp"
   },
   {
+    "id": "N/A",
+    "name": "A Vasya the Hipster",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "#",
+    "sol_path": "Solutions/A_Vasya_the_Hipster.cpp",
+    "filename": "A_Vasya_the_Hipster.cpp"
+  },
+  {
     "id": "2024A",
     "name": "Profitable Interest Rate",
     "rating": 800,
