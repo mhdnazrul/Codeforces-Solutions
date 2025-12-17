@@ -1495,13 +1495,14 @@
     "filename": "C_Maximum_Even_Sum.cpp"
   },
   {
-    "id": "N/A",
-    "name": "A Vasya the Hipster",
+    "id": "581A",
+    "name": "Vasya the Hipster",
     "rating": 800,
     "tags": [
-      "implementation"
+      "implementation",
+      "math"
     ],
-    "q_link": "#",
+    "q_link": "https://codeforces.com/contest/581/problem/A",
     "sol_path": "Solutions/A_Vasya_the_Hipster.cpp",
     "filename": "A_Vasya_the_Hipster.cpp"
   },
@@ -2403,6 +2404,17 @@
     "q_link": "https://codeforces.com/problemset/problem/228/A",
     "sol_path": "Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp",
     "filename": "A_Is_your_horseshoe_on_the_other_hoof.cpp"
+  },
+  {
+    "id": "1807A",
+    "name": "Plus or Minus",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1807/A",
+    "sol_path": "Solutions/A_Plus_or_Minus.cpp",
+    "filename": "A_Plus_or_Minus.cpp"
   },
   {
     "id": "136A",
