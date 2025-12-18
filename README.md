@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-293-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-294-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 293
+**Total Problems Solved:** 294
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 181 |
+| 800 | 182 |
 | 900 | 62 |
 | 1000 | 17 |
 | 1100 | 11 |
@@ -44,7 +44,7 @@
 | constructive algorithms | 23 |
 | data structures | 4 |
 | dp | 10 |
-| games | 3 |
+| games | 4 |
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
@@ -52,8 +52,8 @@
 | hashing | 2 |
 | implementation | 182 |
 | interactive | 2 |
-| math | 75 |
-| number theory | 12 |
+| math | 76 |
+| number theory | 13 |
 | shortest paths | 2 |
 | sortings | 28 |
 | strings | 32 |
@@ -315,6 +315,7 @@
 | 1996A | Legs | 800 | `binary search`, `math`, ... | [View](https://codeforces.com/contest/1996/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Legs.cpp) |
 | 1926A | Vlad and the Best of Five | 800 | `implementation` | [View](https://codeforces.com/contest/1926/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vlad_and_the_Best_of_Five.cpp) |
 | 1903A | Halloumi Boxes | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1903/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Halloumi_Boxes.cpp) |
+| 1899A | Game with Integers | 800 | `games`, `math`, ... | [View](https://codeforces.com/contest/1899/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_with_Integers.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |
 | 1873B | Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |

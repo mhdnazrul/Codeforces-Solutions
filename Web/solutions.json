@@ -2025,6 +2025,19 @@
     "filename": "B_Good_Kid.cpp"
   },
   {
+    "id": "1899A",
+    "name": "Game with Integers",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/1899/problem/A",
+    "sol_path": "Solutions/A_Game_with_Integers.cpp",
+    "filename": "A_Game_with_Integers.cpp"
+  },
+  {
     "id": "131A",
     "name": "cAPS lOCK",
     "rating": 1000,
