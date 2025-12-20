@@ -973,6 +973,18 @@
     "filename": "A_Marathon.cpp"
   },
   {
+    "id": "1409A",
+    "name": "Yet Another Two Integers Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1409/A",
+    "sol_path": "Solutions/A_Yet_Another_Two_Integers_Problem.cpp",
+    "filename": "A_Yet_Another_Two_Integers_Problem.cpp"
+  },
+  {
     "id": "189A",
     "name": "Cut Ribbon",
     "rating": 1300,
