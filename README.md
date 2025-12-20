@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-295-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-299-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 295
+**Total Problems Solved:** 299
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -25,11 +25,11 @@
 | 800 | 183 |
 | 900 | 62 |
 | 1000 | 17 |
-| 1100 | 11 |
-| 1200 | 7 |
+| 1100 | 12 |
+| 1200 | 8 |
 | 1300 | 10 |
-| 1400 | 3 |
-| 1500 | 1 |
+| 1400 | 4 |
+| 1500 | 2 |
 | 1600 | 1 |
 </details>
 
@@ -38,27 +38,28 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 8 |
+| binary search | 10 |
 | bitmasks | 10 |
 | brute force | 44 |
 | constructive algorithms | 23 |
-| data structures | 4 |
-| dp | 10 |
-| games | 4 |
+| data structures | 8 |
+| dp | 11 |
+| games | 5 |
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 1 |
-| greedy | 76 |
+| greedy | 78 |
 | hashing | 2 |
-| implementation | 182 |
+| implementation | 184 |
 | interactive | 2 |
 | math | 77 |
 | number theory | 13 |
 | shortest paths | 2 |
-| sortings | 28 |
-| strings | 32 |
+| sortings | 29 |
+| strings | 33 |
 | ternary search | 1 |
-| two pointers | 8 |
+| trees | 1 |
+| two pointers | 9 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -66,7 +67,9 @@
 | Problem ID | Problem Name | Difficulty ⇅ | Tags | Question | Solution |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | 2167G | Mukhammadali and the Smooth Array | 1600 | `data structures`, `dp` | [View](https://codeforces.com/contest/2167/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp) |
+| 821C | Okabe and Boxes | 1500 | `data structures`, `greedy`, ... | [View](https://codeforces.com/contest/821/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Okabe_and_Boxes.cpp) |
 | 2106D | Flower Boy | 1500 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/2106/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Flower_Boy.cpp) |
+| 816B | Karen and Coffee | 1400 | `binary search`, `data structures`, ... | [View](https://codeforces.com/contest/816/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Karen_and_Coffee.cpp) |
 | 26B | Regular Bracket Sequence | 1400 | `greedy` | [View](https://codeforces.com/problemset/problem/26/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Regular_Bracket_Sequence.cpp) |
 | 2171C2 | Renako Amaori and XOR Game (hard version) | 1400 | `bitmasks`, `games`, ... | [View](https://codeforces.com/contest/2171/problem/C2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp) |
 | 1095C | Powers Of Two | 1400 | `bitmasks`, `greedy` | [View](https://codeforces.com/problemset/problem/1095/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Powers_Of_Two.cpp) |
@@ -80,6 +83,7 @@
 | 2145C | Monocarp's String | 1300 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2145/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Monocarp_s_String.cpp) |
 | 189B | Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
 | 189A | Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
+| 961B | Lecture Sleep | 1200 | `data structures`, `dp`, ... | [View](https://codeforces.com/contest/961/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lecture_Sleep.cpp) |
 | 870B | Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 514A | Chewbaсca and Number | 1200 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/514/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chewba_ca_and_Number.cpp) |
 | 492B | Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
@@ -87,6 +91,7 @@
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2149D | A and B | 1200 | `strings` | [View](https://codeforces.com/contest/2149/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_A_and_B.cpp) |
 | 1352C | K-th Not Divisible by n | 1200 | `binary search`, `math` | [View](https://codeforces.com/problemset/problem/1352/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_K_th_Not_Divisible_by_n.cpp) |
+| 755B | PolandBall and Game | 1100 | `binary search`, `data structures`, ... | [View](https://codeforces.com/contest/755/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_PolandBall_and_Game.cpp) |
 | 706B | Interesting drink | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/706/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_drink.cpp) |
 | 456A | Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |

@@ -737,6 +737,19 @@
     "filename": "B_Queue_at_the_School_c.cpp"
   },
   {
+    "id": "816B",
+    "name": "Karen and Coffee",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/816/problem/B",
+    "sol_path": "Solutions/B_Karen_and_Coffee.cpp",
+    "filename": "B_Karen_and_Coffee.cpp"
+  },
+  {
     "id": "381A",
     "name": "Sereja and Dima",
     "rating": 800,
@@ -875,6 +888,20 @@
     "q_link": "https://codeforces.com/problemset/problem/617/A",
     "sol_path": "Solutions/A_Sum_of_2050.cpp",
     "filename": "A_Sum_of_2050.cpp"
+  },
+  {
+    "id": "961B",
+    "name": "Lecture Sleep",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/contest/961/problem/B",
+    "sol_path": "Solutions/B_Lecture_Sleep.cpp",
+    "filename": "B_Lecture_Sleep.cpp"
   },
   {
     "id": "1999B",
@@ -1233,6 +1260,19 @@
     "q_link": "#",
     "sol_path": "Solutions/100_A_B.cpp",
     "filename": "100_A_B.cpp"
+  },
+  {
+    "id": "821C",
+    "name": "Okabe and Boxes",
+    "rating": 1500,
+    "tags": [
+      "data structures",
+      "greedy",
+      "trees"
+    ],
+    "q_link": "https://codeforces.com/contest/821/problem/C",
+    "sol_path": "Solutions/C_Okabe_and_Boxes.cpp",
+    "filename": "C_Okabe_and_Boxes.cpp"
   },
   {
     "id": "1873A",
@@ -1765,6 +1805,22 @@
     "q_link": "https://codeforces.com/problemset/problem/208/A",
     "sol_path": "Solutions/A_Dubstep.cpp",
     "filename": "A_Dubstep.cpp"
+  },
+  {
+    "id": "755B",
+    "name": "PolandBall and Game",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "sortings",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/755/problem/B",
+    "sol_path": "Solutions/B_PolandBall_and_Game.cpp",
+    "filename": "B_PolandBall_and_Game.cpp"
   },
   {
     "id": "405A",
