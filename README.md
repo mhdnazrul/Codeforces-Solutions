@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-300-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-302-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 300
+**Total Problems Solved:** 302
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 183 |
 | 900 | 62 |
-| 1000 | 17 |
+| 1000 | 19 |
 | 1100 | 12 |
 | 1200 | 9 |
 | 1300 | 10 |
@@ -43,20 +43,21 @@
 | brute force | 44 |
 | constructive algorithms | 23 |
 | data structures | 9 |
+| dfs and similar | 1 |
 | dp | 11 |
 | games | 5 |
 | geometry | 2 |
 | graph matchings | 1 |
-| graphs | 1 |
-| greedy | 78 |
+| graphs | 2 |
+| greedy | 79 |
 | hashing | 3 |
-| implementation | 184 |
+| implementation | 185 |
 | interactive | 2 |
 | math | 78 |
 | number theory | 13 |
 | shortest paths | 2 |
 | sortings | 29 |
-| strings | 33 |
+| strings | 34 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 9 |
@@ -106,6 +107,7 @@
 | 158B | Taxi | 1100 | `*special`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/158/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Taxi.cpp) |
 | 58A | Chat room | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/58/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chat_room.cpp) |
 | 579A | Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
+| 500A | New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
 | 43A | Football | 1000 | `strings` | [View](https://codeforces.com/problemset/problem/43/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/96A_Football.cpp) |
 | 339B | Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
@@ -118,6 +120,7 @@
 | 2092B | Lady Bug | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2092/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lady_Bug.cpp) |
 | 1A | Theatre Square | 1000 | `math` | [View](https://codeforces.com/problemset/problem/1/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Theatre_Square.cpp) |
 | 1999B | Card Game | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/1999/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Card_Game.cpp) |
+| 1374C | Move Brackets | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/1374/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Move_Brackets.cpp) |
 | 131A | cAPS lOCK | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/131/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_cAPS_lOCK.cpp) |
 | 122A | Lucky Division | 1000 | `brute force`, `number theory` | [View](https://codeforces.com/problemset/problem/122/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lucky_Division.cpp) |
 | 118A | String Task | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/118/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_String_Task.cpp) |

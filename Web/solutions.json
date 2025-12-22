@@ -1311,6 +1311,19 @@
     "filename": "A_Same_Difference.cpp"
   },
   {
+    "id": "500A",
+    "name": "New Year Transportation",
+    "rating": 1000,
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/500/A",
+    "sol_path": "Solutions/A_New_Year_Transportation.cpp",
+    "filename": "A_New_Year_Transportation.cpp"
+  },
+  {
     "id": "2144B",
     "name": "Maximum Cost Permutation",
     "rating": 1000,
@@ -2487,6 +2500,18 @@
     "q_link": "https://codeforces.com/problemset/problem/158/A",
     "sol_path": "Solutions/A_Domino_piling.cpp",
     "filename": "A_Domino_piling.cpp"
+  },
+  {
+    "id": "1374C",
+    "name": "Move Brackets",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1374/C",
+    "sol_path": "Solutions/C_Move_Brackets.cpp",
+    "filename": "C_Move_Brackets.cpp"
   },
   {
     "id": "228A",
