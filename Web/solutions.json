@@ -662,6 +662,19 @@
     "filename": "B_Maximum_of_Maximums_of_Minimums.cpp"
   },
   {
+    "id": "1520D",
+    "name": "Same Differences",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "hashing",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1520/D",
+    "sol_path": "Solutions/D_Same_Differences.cpp",
+    "filename": "D_Same_Differences.cpp"
+  },
+  {
     "id": "1720A",
     "name": "Burenka Plays with Fractions",
     "rating": 900,
