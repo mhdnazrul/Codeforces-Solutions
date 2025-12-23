@@ -1050,7 +1050,7 @@
   },
   {
     "id": "2179B",
-    "name": "B Blackslex and Showering",
+    "name": "Blackslex and Showering",
     "rating": 800,
     "tags": [
       "implementation"
@@ -1229,6 +1229,20 @@
     "q_link": "https://codeforces.com/contest/2148/problem/A",
     "sol_path": "Solutions/A_Sublime_Sequence.cpp",
     "filename": "A_Sublime_Sequence.cpp"
+  },
+  {
+    "id": "2179C",
+    "name": "Blackslex and Number Theory",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory",
+      "sortings",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2179/problem/C",
+    "sol_path": "Solutions/C_Blackslex_and_Number_Theory.cpp",
+    "filename": "C_Blackslex_and_Number_Theory.cpp"
   },
   {
     "id": "427A",
@@ -2659,10 +2673,11 @@
   },
   {
     "id": "2179A",
-    "name": "A Blackslex and Password",
+    "name": "Blackslex and Password",
     "rating": 800,
     "tags": [
-      "implementation"
+      "math",
+      "strings"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/A",
     "sol_path": "Solutions/A_Blackslex_and_Password.cpp",
