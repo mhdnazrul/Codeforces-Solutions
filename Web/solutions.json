@@ -1049,6 +1049,17 @@
     "filename": "A_Ilya_and_Bank_Account.cpp"
   },
   {
+    "id": "2179B",
+    "name": "B Blackslex and Showering",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2179/problem/B",
+    "sol_path": "Solutions/B_Blackslex_and_Showering.cpp",
+    "filename": "B_Blackslex_and_Showering.cpp"
+  },
+  {
     "id": "514A",
     "name": "Chewba\u0441ca and Number",
     "rating": 1200,
@@ -2645,6 +2656,17 @@
     "q_link": "https://codeforces.com/contest/1926/problem/A",
     "sol_path": "Solutions/A_Vlad_and_the_Best_of_Five.cpp",
     "filename": "A_Vlad_and_the_Best_of_Five.cpp"
+  },
+  {
+    "id": "2179A",
+    "name": "A Blackslex and Password",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2179/problem/A",
+    "sol_path": "Solutions/A_Blackslex_and_Password.cpp",
+    "filename": "A_Blackslex_and_Password.cpp"
   },
   {
     "id": "509A",
