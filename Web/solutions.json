@@ -2066,6 +2066,19 @@
     "filename": "A_Dungeon_Equilibrium.cpp"
   },
   {
+    "id": "1475B",
+    "name": "New Year's Number",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "dp",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1475/B",
+    "sol_path": "Solutions/B_New_Year_s_Number.cpp",
+    "filename": "B_New_Year_s_Number.cpp"
+  },
+  {
     "id": "112A",
     "name": "Petya and Strings",
     "rating": 800,

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-306-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-307-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 306
+**Total Problems Solved:** 307
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 187 |
-| 900 | 62 |
+| 900 | 63 |
 | 1000 | 19 |
 | 1100 | 12 |
 | 1200 | 9 |
@@ -40,11 +40,11 @@
 | *special | 3 |
 | binary search | 10 |
 | bitmasks | 10 |
-| brute force | 44 |
+| brute force | 45 |
 | constructive algorithms | 23 |
 | data structures | 9 |
 | dfs and similar | 1 |
-| dp | 12 |
+| dp | 13 |
 | games | 5 |
 | geometry | 2 |
 | graph matchings | 1 |
@@ -53,7 +53,7 @@
 | hashing | 3 |
 | implementation | 188 |
 | interactive | 2 |
-| math | 80 |
+| math | 81 |
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 31 |
@@ -179,6 +179,7 @@
 | 160A | Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |
 | 1535B | Array Reodering | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1535/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Array_Reodering.cpp) |
 | 1494A | ABC String | 900 | `bitmasks`, `brute force`, ... | [View](https://codeforces.com/contest/1494/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ABC_String.cpp) |
+| 1475B | New Year's Number | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/1475/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_s_Number.cpp) |
 | 1475A | Odd Divisor | 900 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1475/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Odd_Divisor.cpp) |
 | 1374B | Multiply by 2, divide by 6 | 900 | `math` | [View](https://codeforces.com/problemset/problem/1374/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Multiply_by_2_divide_by_6.cpp) |
 | 133A | HQ9+ | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/133/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_HQ_9.cpp) |
