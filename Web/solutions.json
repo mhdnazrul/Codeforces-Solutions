@@ -1053,6 +1053,8 @@
     "name": "Blackslex and Showering",
     "rating": 800,
     "tags": [
+      "dp",
+      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/B",
@@ -1235,6 +1237,7 @@
     "name": "Blackslex and Number Theory",
     "rating": 800,
     "tags": [
+      "implementation",
       "math",
       "number theory",
       "sortings",
@@ -2694,6 +2697,17 @@
     "q_link": "https://codeforces.com/contest/509/problem/A",
     "sol_path": "Solutions/A_Maximum_in_Table.cpp",
     "filename": "A_Maximum_in_Table.cpp"
+  },
+  {
+    "id": "N/A",
+    "name": "B Worms",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "#",
+    "sol_path": "Solutions/B_Worms.cpp",
+    "filename": "B_Worms.cpp"
   },
   {
     "id": "2149D",

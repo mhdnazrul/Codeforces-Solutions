@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-305-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-306-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 305
+**Total Problems Solved:** 306
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 186 |
+| 800 | 187 |
 | 900 | 62 |
 | 1000 | 19 |
 | 1100 | 12 |
@@ -44,14 +44,14 @@
 | constructive algorithms | 23 |
 | data structures | 9 |
 | dfs and similar | 1 |
-| dp | 11 |
+| dp | 12 |
 | games | 5 |
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 2 |
-| greedy | 79 |
+| greedy | 80 |
 | hashing | 3 |
-| implementation | 186 |
+| implementation | 188 |
 | interactive | 2 |
 | math | 80 |
 | number theory | 14 |
@@ -192,6 +192,7 @@
 | N/A | A Same Difference | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Same_Difference.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_AppendAppendAppend.cpp) |
 | N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
+| N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
 | 996A | Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
 | 977A | Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Wrong_Subtraction.cpp) |
 | 959A | Mahmoud and Ehab and the even-odd game | 800 | `games`, `math` | [View](https://codeforces.com/problemset/problem/959/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
@@ -267,8 +268,8 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
-| 2179C | Blackslex and Number Theory | 800 | `math`, `number theory`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
-| 2179B | Blackslex and Showering | 800 | `implementation` | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
+| 2179C | Blackslex and Number Theory | 800 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
+| 2179B | Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
 | 2179A | Blackslex and Password | 800 | `math`, `strings` | [View](https://codeforces.com/contest/2179/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Blackslex_and_Password.cpp) |
 | 2176B | Optimal Shifts | 800 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
 | 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
