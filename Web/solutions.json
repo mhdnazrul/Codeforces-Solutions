@@ -1553,6 +1553,18 @@
     "filename": "A_Dragons.cpp"
   },
   {
+    "id": "2178A",
+    "name": "Yes or Yes",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/2178/problem/A",
+    "sol_path": "Solutions/A_Yes_or_Yes_2178.cpp",
+    "filename": "A_Yes_or_Yes_2178.cpp"
+  },
+  {
     "id": "N/A",
     "name": "A AppendAppendAppend",
     "rating": 800,

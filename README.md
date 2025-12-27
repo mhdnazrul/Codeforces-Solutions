@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-311-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-312-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 311
+**Total Problems Solved:** 312
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 191 |
+| 800 | 192 |
 | 900 | 63 |
 | 1000 | 19 |
 | 1100 | 12 |
@@ -49,7 +49,7 @@
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 2 |
-| greedy | 82 |
+| greedy | 83 |
 | hashing | 3 |
 | implementation | 190 |
 | interactive | 2 |
@@ -57,7 +57,7 @@
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 32 |
-| strings | 35 |
+| strings | 36 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 10 |
@@ -273,6 +273,7 @@
 | 2179B | Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
 | 2179A | Blackslex and Password | 800 | `math`, `strings` | [View](https://codeforces.com/contest/2179/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Blackslex_and_Password.cpp) |
 | 2178B | Impost or Sus | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2178/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Impost_or_Sus.cpp) |
+| 2178A | Yes or Yes | 800 | `greedy`, `strings` | [View](https://codeforces.com/contest/2178/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yes_or_Yes_2178.cpp) |
 | 2176B | Optimal Shifts | 800 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
 | 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173B | Niko's Tactical Cards | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
