@@ -978,6 +978,18 @@
     "filename": "A_Sequence_Game.cpp"
   },
   {
+    "id": "2178B",
+    "name": "Impost or Sus",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2178/problem/B",
+    "sol_path": "Solutions/B_Impost_or_Sus.cpp",
+    "filename": "B_Impost_or_Sus.cpp"
+  },
+  {
     "id": "N/A",
     "name": "C 1 Renako Amaori and XOR Game easy version",
     "rating": 800,
@@ -2268,6 +2280,17 @@
     "filename": "A_Puzzles.cpp"
   },
   {
+    "id": "2050A",
+    "name": "Line Breaks",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2050/problem/A",
+    "sol_path": "Solutions/A_Line_Breaks.cpp",
+    "filename": "A_Line_Breaks.cpp"
+  },
+  {
     "id": "456A",
     "name": "Laptops",
     "rating": 1100,
@@ -2361,6 +2384,17 @@
     "q_link": "https://codeforces.com/contest/2171/problem/B",
     "sol_path": "Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp",
     "filename": "B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp"
+  },
+  {
+    "id": "2000B",
+    "name": "Seating in a Bus",
+    "rating": 800,
+    "tags": [
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2000/B",
+    "sol_path": "Solutions/B_Seating_in_a_Bus.cpp",
+    "filename": "B_Seating_in_a_Bus.cpp"
   },
   {
     "id": "492A",
@@ -2781,6 +2815,18 @@
     "q_link": "https://codeforces.com/problemset/problem/469/A",
     "sol_path": "Solutions/A_I_Wanna_Be_the_Guy.cpp",
     "filename": "A_I_Wanna_Be_the_Guy.cpp"
+  },
+  {
+    "id": "2036B",
+    "name": "Startup",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2036/B",
+    "sol_path": "Solutions/B_Startup.cpp",
+    "filename": "B_Startup.cpp"
   },
   {
     "id": "2166B",

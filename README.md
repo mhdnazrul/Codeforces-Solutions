@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-307-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-311-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 307
+**Total Problems Solved:** 311
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 187 |
+| 800 | 191 |
 | 900 | 63 |
 | 1000 | 19 |
 | 1100 | 12 |
@@ -49,18 +49,18 @@
 | geometry | 2 |
 | graph matchings | 1 |
 | graphs | 2 |
-| greedy | 80 |
+| greedy | 82 |
 | hashing | 3 |
-| implementation | 188 |
+| implementation | 190 |
 | interactive | 2 |
 | math | 81 |
 | number theory | 14 |
 | shortest paths | 2 |
-| sortings | 31 |
+| sortings | 32 |
 | strings | 35 |
 | ternary search | 1 |
 | trees | 1 |
-| two pointers | 9 |
+| two pointers | 10 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -272,6 +272,7 @@
 | 2179C | Blackslex and Number Theory | 800 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
 | 2179B | Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
 | 2179A | Blackslex and Password | 800 | `math`, `strings` | [View](https://codeforces.com/contest/2179/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Blackslex_and_Password.cpp) |
+| 2178B | Impost or Sus | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2178/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Impost_or_Sus.cpp) |
 | 2176B | Optimal Shifts | 800 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
 | 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173B | Niko's Tactical Cards | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
@@ -321,9 +322,12 @@
 | 2092A | Kamilka and the Sheep | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/problemset/problem/2092/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kamilka_and_the_Sheep.cpp) |
 | 2074A | Draw a Square | 800 | `geometry`, `implementation` | [View](https://codeforces.com/problemset/problem/2074/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Draw_a_Square.cpp) |
 | 2065A | Skibidus and Amog'u | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2065/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Skibidus_and_Amog_u.cpp) |
+| 2050A | Line Breaks | 800 | `implementation` | [View](https://codeforces.com/contest/2050/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Line_Breaks.cpp) |
 | 2044A | Easy Problem | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2044/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Easy_Problem.cpp) |
+| 2036B | Startup | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/2036/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Startup.cpp) |
 | 2024A | Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Profitable_Interest_Rate.cpp) |
 | 200B | Drinks | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/200/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drinks.cpp) |
+| 2000B | Seating in a Bus | 800 | `two pointers` | [View](https://codeforces.com/problemset/problem/2000/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seating_in_a_Bus.cpp) |
 | 1999C | Showering | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/1999/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Showering.cpp) |
 | 1999A | A+B Again? | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
 | 1996A | Legs | 800 | `binary search`, `math`, ... | [View](https://codeforces.com/contest/1996/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Legs.cpp) |
