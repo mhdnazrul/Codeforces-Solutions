@@ -335,7 +335,7 @@
   {
     "id": "2173B",
     "name": "Niko's Tactical Cards",
-    "rating": 800,
+    "rating": 1100,
     "tags": [
       "dp",
       "greedy",
@@ -982,8 +982,10 @@
     "name": "Impost or Sus",
     "rating": 800,
     "tags": [
+      "dp",
       "greedy",
-      "implementation"
+      "implementation",
+      "strings"
     ],
     "q_link": "https://codeforces.com/contest/2178/problem/B",
     "sol_path": "Solutions/B_Impost_or_Sus.cpp",
@@ -1376,6 +1378,17 @@
     "filename": "B_Maximum_Cost_Permutation.cpp"
   },
   {
+    "id": "2182B",
+    "name": "B New Year Cake",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2182/problem/B",
+    "sol_path": "Solutions/B_New_Year_Cake.cpp",
+    "filename": "B_New_Year_Cake.cpp"
+  },
+  {
     "id": "2171A",
     "name": "Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
@@ -1558,6 +1571,7 @@
     "rating": 800,
     "tags": [
       "greedy",
+      "string suffix structures",
       "strings"
     ],
     "q_link": "https://codeforces.com/contest/2178/problem/A",
@@ -1863,7 +1877,7 @@
   {
     "id": "2176B",
     "name": "Optimal Shifts",
-    "rating": 800,
+    "rating": 1000,
     "tags": [
       "bitmasks",
       "greedy",
@@ -2376,7 +2390,7 @@
   {
     "id": "2158B",
     "name": "Split",
-    "rating": 800,
+    "rating": 1200,
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -2756,6 +2770,17 @@
     "q_link": "https://codeforces.com/contest/509/problem/A",
     "sol_path": "Solutions/A_Maximum_in_Table.cpp",
     "filename": "A_Maximum_in_Table.cpp"
+  },
+  {
+    "id": "2182A",
+    "name": "A New Year String",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2182/problem/A",
+    "sol_path": "Solutions/A_New_Year_String.cpp",
+    "filename": "A_New_Year_String.cpp"
   },
   {
     "id": "N/A",
