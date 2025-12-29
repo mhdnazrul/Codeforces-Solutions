@@ -917,6 +917,18 @@
     "filename": "B_Lecture_Sleep.cpp"
   },
   {
+    "id": "2182C",
+    "name": "Production of Snowmen",
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "dp"
+    ],
+    "q_link": "https://codeforces.com/contest/2182/problem/C",
+    "sol_path": "Solutions/C_Production_of_Snowmen.cpp",
+    "filename": "C_Production_of_Snowmen.cpp"
+  },
+  {
     "id": "1999B",
     "name": "Card Game",
     "rating": 1000,
@@ -1254,7 +1266,6 @@
       "implementation",
       "math",
       "number theory",
-      "sortings",
       "sortings"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/C",
@@ -1379,9 +1390,10 @@
   },
   {
     "id": "2182B",
-    "name": "B New Year Cake",
+    "name": "New Year Cake",
     "rating": 800,
     "tags": [
+      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/B",
@@ -2773,10 +2785,13 @@
   },
   {
     "id": "2182A",
-    "name": "A New Year String",
+    "name": "New Year String",
     "rating": 800,
     "tags": [
-      "implementation"
+      "chinese remainder theorem",
+      "greedy",
+      "implementation",
+      "strings"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/A",
     "sol_path": "Solutions/A_New_Year_String.cpp",
@@ -2985,6 +3000,17 @@
     "q_link": "https://codeforces.com/problemset/problem/339/A",
     "sol_path": "Solutions/A_Helpful_Maths.cpp",
     "filename": "A_Helpful_Maths.cpp"
+  },
+  {
+    "id": "N/A",
+    "name": "ZA Subarray Sums I",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "#",
+    "sol_path": "Gyms/ZA_Subarray_Sums_I.cpp",
+    "filename": "ZA_Subarray_Sums_I.cpp"
   },
   {
     "id": "105940I",
