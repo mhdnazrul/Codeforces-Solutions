@@ -921,6 +921,7 @@
     "name": "Production of Snowmen",
     "rating": 800,
     "tags": [
+      "brute force",
       "combinatorics",
       "dp"
     ],
@@ -2482,6 +2483,20 @@
     "filename": "B_Regular_Bracket_Sequence.cpp"
   },
   {
+    "id": "1850D",
+    "name": "Balanced Round",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1850/D",
+    "sol_path": "Solutions/D_Balanced_Round.cpp",
+    "filename": "D_Balanced_Round.cpp"
+  },
+  {
     "id": "1452C",
     "name": "Two Brackets",
     "rating": 800,
@@ -2788,7 +2803,6 @@
     "name": "New Year String",
     "rating": 800,
     "tags": [
-      "chinese remainder theorem",
       "greedy",
       "implementation",
       "strings"
