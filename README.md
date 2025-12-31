@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-317-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-318-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 317
+**Total Problems Solved:** 318
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -26,7 +26,7 @@
 | 900 | 65 |
 | 1000 | 20 |
 | 1100 | 13 |
-| 1200 | 10 |
+| 1200 | 11 |
 | 1300 | 10 |
 | 1400 | 4 |
 | 1500 | 2 |
@@ -44,25 +44,25 @@
 | combinatorics | 1 |
 | constructive algorithms | 23 |
 | data structures | 9 |
-| dfs and similar | 1 |
-| dp | 15 |
+| dfs and similar | 2 |
+| dp | 16 |
 | games | 5 |
 | geometry | 2 |
-| graph matchings | 1 |
+| graph matchings | 2 |
 | graphs | 2 |
-| greedy | 85 |
+| greedy | 86 |
 | hashing | 3 |
 | implementation | 194 |
 | interactive | 2 |
 | math | 81 |
 | number theory | 14 |
 | shortest paths | 2 |
-| sortings | 32 |
+| sortings | 33 |
 | string suffix structures | 1 |
 | strings | 38 |
 | ternary search | 1 |
 | trees | 1 |
-| two pointers | 10 |
+| two pointers | 11 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -90,6 +90,7 @@
 | 870B | Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 514A | Chewbaсca and Number | 1200 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/514/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chewba_ca_and_Number.cpp) |
 | 492B | Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
+| 489B | BerSU Ball | 1200 | `dfs and similar`, `dp`, ... | [View](https://codeforces.com/problemset/problem/489/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_BerSU_Ball.cpp) |
 | 466A | Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
 | 2172E | Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2158B | Split | 1200 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Split.cpp) |

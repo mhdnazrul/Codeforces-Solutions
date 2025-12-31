@@ -1509,6 +1509,22 @@
     "filename": "B_Bobritto_Bandito.cpp"
   },
   {
+    "id": "489B",
+    "name": "BerSU Ball",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/489/B",
+    "sol_path": "Solutions/B_BerSU_Ball.cpp",
+    "filename": "B_BerSU_Ball.cpp"
+  },
+  {
     "id": "2106B",
     "name": "St. Chroma",
     "rating": 900,
