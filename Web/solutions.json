@@ -1173,6 +1173,18 @@
     "filename": "B_Lady_Bug.cpp"
   },
   {
+    "id": "451B",
+    "name": "Sort the Array",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/451/B",
+    "sol_path": "Solutions/B_Sort_the_Array.cpp",
+    "filename": "B_Sort_the_Array.cpp"
+  },
+  {
     "id": "25A",
     "name": "IQ test",
     "rating": 1300,
@@ -1600,7 +1612,6 @@
     "rating": 800,
     "tags": [
       "greedy",
-      "string suffix structures",
       "strings"
     ],
     "q_link": "https://codeforces.com/contest/2178/problem/A",
@@ -2819,6 +2830,7 @@
     "name": "New Year String",
     "rating": 800,
     "tags": [
+      "constructive algorithms",
       "greedy",
       "implementation",
       "strings"

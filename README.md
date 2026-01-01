@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-318-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-319-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 318
+**Total Problems Solved:** 319
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -27,7 +27,7 @@
 | 1000 | 20 |
 | 1100 | 13 |
 | 1200 | 11 |
-| 1300 | 10 |
+| 1300 | 11 |
 | 1400 | 4 |
 | 1500 | 2 |
 | 1600 | 1 |
@@ -42,7 +42,7 @@
 | bitmasks | 10 |
 | brute force | 48 |
 | combinatorics | 1 |
-| constructive algorithms | 23 |
+| constructive algorithms | 24 |
 | data structures | 9 |
 | dfs and similar | 2 |
 | dp | 16 |
@@ -52,13 +52,12 @@
 | graphs | 2 |
 | greedy | 86 |
 | hashing | 3 |
-| implementation | 194 |
+| implementation | 195 |
 | interactive | 2 |
 | math | 81 |
 | number theory | 14 |
 | shortest paths | 2 |
-| sortings | 33 |
-| string suffix structures | 1 |
+| sortings | 34 |
 | strings | 38 |
 | ternary search | 1 |
 | trees | 1 |
@@ -77,6 +76,7 @@
 | 2171C2 | Renako Amaori and XOR Game (hard version) | 1400 | `bitmasks`, `games`, ... | [View](https://codeforces.com/contest/2171/problem/C2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp) |
 | 1095C | Powers Of Two | 1400 | `bitmasks`, `greedy` | [View](https://codeforces.com/problemset/problem/1095/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Powers_Of_Two.cpp) |
 | 4C | Registration System | 1300 | `data structures`, `hashing`, ... | [View](https://codeforces.com/problemset/problem/4/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Registration_system.cpp) |
+| 451B | Sort the Array | 1300 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/451/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sort_the_Array.cpp) |
 | 318B | Strings of Power | 1300 | `implementation`, `strings`, ... | [View](https://codeforces.com/contest/318/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Strings_of_Power.cpp) |
 | 25A | IQ test | 1300 | `brute force` | [View](https://codeforces.com/problemset/problem/25/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_IQ_test.cpp) |
 | 230B | T-primes | 1300 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/230/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_T_primes.cpp) |
@@ -279,12 +279,12 @@
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2182C | Production of Snowmen | 800 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2182B | New Year Cake | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |
-| 2182A | New Year String | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2182/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_String.cpp) |
+| 2182A | New Year String | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2182/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_String.cpp) |
 | 2179C | Blackslex and Number Theory | 800 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
 | 2179B | Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
 | 2179A | Blackslex and Password | 800 | `math`, `strings` | [View](https://codeforces.com/contest/2179/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Blackslex_and_Password.cpp) |
 | 2178B | Impost or Sus | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2178/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Impost_or_Sus.cpp) |
-| 2178A | Yes or Yes | 800 | `greedy`, `string suffix structures`, ... | [View](https://codeforces.com/contest/2178/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yes_or_Yes_2178.cpp) |
+| 2178A | Yes or Yes | 800 | `greedy`, `strings` | [View](https://codeforces.com/contest/2178/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yes_or_Yes_2178.cpp) |
 | 2176A | Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173A | Sleeping Through Classes | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2173/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sleeping_Through_Classes.cpp) |
 | 2172A | ASCII Art Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2172/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ASCII_Art_Contest.cpp) |
