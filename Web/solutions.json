@@ -36,6 +36,18 @@
     "filename": "A_Notelock.cpp"
   },
   {
+    "id": "491A",
+    "name": "Up the hill",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/491/problem/A",
+    "sol_path": "Solutions/A_Up_the_hill.cpp",
+    "filename": "A_Up_the_hill.cpp"
+  },
+  {
     "id": "486A",
     "name": "Calculating Function",
     "rating": 800,
@@ -93,6 +105,19 @@
     "q_link": "#",
     "sol_path": "Solutions/B_ICPC_Balloons.cpp",
     "filename": "B_ICPC_Balloons.cpp"
+  },
+  {
+    "id": "120A",
+    "name": "Elevator",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/120/problem/A",
+    "sol_path": "Solutions/A_Elevator.cpp",
+    "filename": "A_Elevator.cpp"
   },
   {
     "id": "598A",
@@ -1809,6 +1834,17 @@
     "q_link": "https://codeforces.com/problemset/problem/1760/A",
     "sol_path": "Solutions/A_Medium_Number.cpp",
     "filename": "A_Medium_Number.cpp"
+  },
+  {
+    "id": "125B",
+    "name": "Simple XML",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/125/problem/B",
+    "sol_path": "Solutions/B_Simple_XML.cpp",
+    "filename": "B_Simple_XML.cpp"
   },
   {
     "id": "2149A",

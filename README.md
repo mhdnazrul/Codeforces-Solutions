@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-320-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-323-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 320
+**Total Problems Solved:** 323
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 192 |
 | 900 | 66 |
-| 1000 | 20 |
+| 1000 | 23 |
 | 1100 | 13 |
 | 1200 | 11 |
 | 1300 | 11 |
@@ -40,9 +40,9 @@
 | *special | 3 |
 | binary search | 10 |
 | bitmasks | 10 |
-| brute force | 48 |
+| brute force | 49 |
 | combinatorics | 1 |
-| constructive algorithms | 24 |
+| constructive algorithms | 25 |
 | data structures | 9 |
 | dfs and similar | 2 |
 | dp | 16 |
@@ -52,9 +52,9 @@
 | graphs | 2 |
 | greedy | 86 |
 | hashing | 3 |
-| implementation | 196 |
+| implementation | 199 |
 | interactive | 2 |
-| math | 81 |
+| math | 82 |
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 34 |
@@ -113,6 +113,7 @@
 | 58A | Chat room | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/58/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chat_room.cpp) |
 | 579A | Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
 | 500A | New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
+| 491A | Up the hill | 1000 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/491/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Up_the_hill.cpp) |
 | 43A | Football | 1000 | `strings` | [View](https://codeforces.com/problemset/problem/43/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/96A_Football.cpp) |
 | 339B | Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
@@ -128,7 +129,9 @@
 | 1999B | Card Game | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/1999/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Card_Game.cpp) |
 | 1374C | Move Brackets | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/1374/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Move_Brackets.cpp) |
 | 131A | cAPS lOCK | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/131/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_cAPS_lOCK.cpp) |
+| 125B | Simple XML | 1000 | `implementation` | [View](https://codeforces.com/contest/125/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Simple_XML.cpp) |
 | 122A | Lucky Division | 1000 | `brute force`, `number theory` | [View](https://codeforces.com/problemset/problem/122/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lucky_Division.cpp) |
+| 120A | Elevator | 1000 | `brute force`, `implementation`, ... | [View](https://codeforces.com/contest/120/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elevator.cpp) |
 | 118A | String Task | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/118/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_String_Task.cpp) |
 | N/A | ZA Subarray Sums I | 900 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/ZA_Subarray_Sums_I.cpp) |
 | 96A | Football | 900 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/96/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Football.cpp) |
