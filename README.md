@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-319-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-320-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 319
+**Total Problems Solved:** 320
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 192 |
-| 900 | 65 |
+| 900 | 66 |
 | 1000 | 20 |
 | 1100 | 13 |
 | 1200 | 11 |
@@ -52,7 +52,7 @@
 | graphs | 2 |
 | greedy | 86 |
 | hashing | 3 |
-| implementation | 195 |
+| implementation | 196 |
 | interactive | 2 |
 | math | 81 |
 | number theory | 14 |
@@ -134,6 +134,7 @@
 | 96A | Football | 900 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/96/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Football.cpp) |
 | 598A | Tricky Sum | 900 | `math` | [View](https://codeforces.com/problemset/problem/598/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tricky_Sum.cpp) |
 | 580A | Kefa and First Steps | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/580/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kefa_and_First_Steps.cpp) |
+| 474A | Keyboard | 900 | `implementation` | [View](https://codeforces.com/contest/474/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Keyboard.cpp) |
 | 451A | Game With Sticks | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/451/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_With_Sticks.cpp) |
 | 405A | Gravity Flip | 900 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/405/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Gravity_Flip.cpp) |
 | 34B | Sale | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/34/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sale.cpp) |

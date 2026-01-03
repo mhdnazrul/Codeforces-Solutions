@@ -628,6 +628,17 @@
     "filename": "A_Operations_with_Inversions.cpp"
   },
   {
+    "id": "474A",
+    "name": "Keyboard",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/474/problem/A",
+    "sol_path": "Solutions/A_Keyboard.cpp",
+    "filename": "A_Keyboard.cpp"
+  },
+  {
     "id": "2147A",
     "name": "Shortest Increasing Path",
     "rating": 800,
