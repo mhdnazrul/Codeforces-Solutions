@@ -1442,8 +1442,7 @@
     "name": "New Year Cake",
     "rating": 800,
     "tags": [
-      "brute force",
-      "implementation"
+      "brute force"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/B",
     "sol_path": "Solutions/B_New_Year_Cake.cpp",
@@ -1584,6 +1583,18 @@
     "q_link": "https://codeforces.com/problemset/problem/2106/B",
     "sol_path": "Solutions/B_St_Chroma.cpp",
     "filename": "B_St_Chroma.cpp"
+  },
+  {
+    "id": "1343A",
+    "name": "Candies",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1343/problem/A",
+    "sol_path": "Solutions/A_Candies.cpp",
+    "filename": "A_Candies.cpp"
   },
   {
     "id": "144A",

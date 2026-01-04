@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-323-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-324-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 323
+**Total Problems Solved:** 324
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 192 |
-| 900 | 66 |
+| 900 | 67 |
 | 1000 | 23 |
 | 1100 | 13 |
 | 1200 | 11 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 10 |
 | bitmasks | 10 |
-| brute force | 49 |
+| brute force | 50 |
 | combinatorics | 1 |
 | constructive algorithms | 25 |
 | data structures | 9 |
@@ -52,9 +52,9 @@
 | graphs | 2 |
 | greedy | 86 |
 | hashing | 3 |
-| implementation | 199 |
+| implementation | 198 |
 | interactive | 2 |
-| math | 82 |
+| math | 83 |
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 34 |
@@ -194,6 +194,7 @@
 | 1475B | New Year's Number | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/1475/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_s_Number.cpp) |
 | 1475A | Odd Divisor | 900 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1475/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Odd_Divisor.cpp) |
 | 1374B | Multiply by 2, divide by 6 | 900 | `math` | [View](https://codeforces.com/problemset/problem/1374/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Multiply_by_2_divide_by_6.cpp) |
+| 1343A | Candies | 900 | `brute force`, `math` | [View](https://codeforces.com/contest/1343/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies.cpp) |
 | 133A | HQ9+ | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/133/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_HQ_9.cpp) |
 | 106188A | A Einstein s Calculator | 900 | `implementation` | [View](https://codeforces.com/gym/106188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/A_Einstein_s_Calculator.cpp) |
 | 105981C | C Echoes of the Runes | 900 | `implementation` | [View](https://codeforces.com/gym/105981/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/C_Echoes_of_the_Runes.cpp) |
@@ -282,7 +283,7 @@
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2182C | Production of Snowmen | 800 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
-| 2182B | New Year Cake | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |
+| 2182B | New Year Cake | 800 | `brute force` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |
 | 2182A | New Year String | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2182/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_String.cpp) |
 | 2179C | Blackslex and Number Theory | 800 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
 | 2179B | Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
