@@ -1810,6 +1810,18 @@
     "filename": "B_Distinct_Elements.cpp"
   },
   {
+    "id": "1399A",
+    "name": "Remove Smallest",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1399/A",
+    "sol_path": "Solutions/A_Remove_Smallest.cpp",
+    "filename": "A_Remove_Smallest.cpp"
+  },
+  {
     "id": "2133A",
     "name": "Redstone?",
     "rating": 800,

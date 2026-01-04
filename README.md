@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-324-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-325-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 324
+**Total Problems Solved:** 325
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 192 |
+| 800 | 193 |
 | 900 | 67 |
 | 1000 | 23 |
 | 1100 | 13 |
@@ -50,14 +50,14 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 2 |
-| greedy | 86 |
+| greedy | 87 |
 | hashing | 3 |
 | implementation | 198 |
 | interactive | 2 |
 | math | 83 |
 | number theory | 14 |
 | shortest paths | 2 |
-| sortings | 34 |
+| sortings | 35 |
 | strings | 38 |
 | ternary search | 1 |
 | trees | 1 |
@@ -383,6 +383,7 @@
 | 144A | Arrival of the General | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/144/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Arrival_of_the_General.cpp) |
 | 141A | Amusing Joke | 800 | `implementation`, `sortings`, ... | [View](https://codeforces.com/problemset/problem/141/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Amusing_Joke.cpp) |
 | 1409A | Yet Another Two Integers Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1409/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yet_Another_Two_Integers_Problem.cpp) |
+| 1399A | Remove Smallest | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1399/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Remove_Smallest.cpp) |
 | 136A | Presents | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/136/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Presents.cpp) |
 | 1352A | Sum of Round Numbers | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1352/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Round_Numbers.cpp) |
 | 1335A | Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
