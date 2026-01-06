@@ -3114,6 +3114,17 @@
     "filename": "A_Helpful_Maths.cpp"
   },
   {
+    "id": "1878C",
+    "name": "Vasilije in Cacak",
+    "rating": 900,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1878/C",
+    "sol_path": "Solutions/C_Vasilije_in_Cacak.cpp",
+    "filename": "C_Vasilije_in_Cacak.cpp"
+  },
+  {
     "id": "N/A",
     "name": "ZA Subarray Sums I",
     "rating": 900,
