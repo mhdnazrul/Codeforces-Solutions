@@ -1333,6 +1333,17 @@
     "filename": "A_Police_Recruits.cpp"
   },
   {
+    "id": "2183A",
+    "name": "A Binary Array Game",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2183/problem/A",
+    "sol_path": "Solutions/A_Binary_Array_Game.cpp",
+    "filename": "A_Binary_Array_Game.cpp"
+  },
+  {
     "id": "451A",
     "name": "Game With Sticks",
     "rating": 900,
