@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-327-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-329-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,15 +16,15 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 327
+**Total Problems Solved:** 329
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 194 |
+| 800 | 195 |
 | 900 | 68 |
-| 1000 | 23 |
+| 1000 | 24 |
 | 1100 | 13 |
 | 1200 | 11 |
 | 1300 | 11 |
@@ -42,11 +42,11 @@
 | bitmasks | 10 |
 | brute force | 50 |
 | combinatorics | 1 |
-| constructive algorithms | 25 |
+| constructive algorithms | 26 |
 | data structures | 9 |
 | dfs and similar | 2 |
 | dp | 16 |
-| games | 5 |
+| games | 6 |
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 2 |
@@ -115,6 +115,7 @@
 | 500A | New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
 | 491A | Up the hill | 1000 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/491/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Up_the_hill.cpp) |
 | 43A | Football | 1000 | `strings` | [View](https://codeforces.com/problemset/problem/43/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/96A_Football.cpp) |
+| 379A | New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
 | 2176B | Optimal Shifts | 1000 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
@@ -283,7 +284,8 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
-| 2183A | A Binary Array Game | 800 | `implementation` | [View](https://codeforces.com/contest/2183/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Binary_Array_Game.cpp) |
+| 2183B | Yet Another MEX Problem | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
+| 2183A | Binary Array Game | 800 | `games` | [View](https://codeforces.com/contest/2183/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Binary_Array_Game.cpp) |
 | 2182C | Production of Snowmen | 800 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2182B | New Year Cake | 800 | `brute force` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |
 | 2182A | New Year String | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2182/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_String.cpp) |

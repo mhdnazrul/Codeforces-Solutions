@@ -1334,10 +1334,10 @@
   },
   {
     "id": "2183A",
-    "name": "A Binary Array Game",
+    "name": "Binary Array Game",
     "rating": 800,
     "tags": [
-      "implementation"
+      "games"
     ],
     "q_link": "https://codeforces.com/contest/2183/problem/A",
     "sol_path": "Solutions/A_Binary_Array_Game.cpp",
@@ -2368,6 +2368,17 @@
     "filename": "A_Collatz_Conjecture.cpp"
   },
   {
+    "id": "2183B",
+    "name": "Yet Another MEX Problem",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/contest/2183/problem/B",
+    "sol_path": "Solutions/B_Yet_Another_MEX_Problem.cpp",
+    "filename": "B_Yet_Another_MEX_Problem.cpp"
+  },
+  {
     "id": "2074A",
     "name": "Draw a Square",
     "rating": 800,
@@ -2637,6 +2648,17 @@
     "q_link": "https://codeforces.com/contest/2130/problem/B",
     "sol_path": "Solutions/B_Pathless.cpp",
     "filename": "B_Pathless.cpp"
+  },
+  {
+    "id": "379A",
+    "name": "New Year Candles",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/379/A",
+    "sol_path": "Solutions/A_New_Year_Candles.cpp",
+    "filename": "A_New_Year_Candles.cpp"
   },
   {
     "id": "1335A",
