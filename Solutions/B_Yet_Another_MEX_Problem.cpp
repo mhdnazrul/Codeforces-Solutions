@@ -20,34 +20,18 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    int n, k;    cin >> n >> k;
-    vi a(n);    inV(a);
-    vector<int> freq(n + 2, 0);
-    int crr_mx = 0;
-    for (int i = 0; i < k; i++) {
-        if (a[i] <= n) freq[a[i]]++;
+    int n,k;        cin>>n>>k;
+    set<int> st;
+    for(int i=0; i<n;i++){
+        int x;  cin>>x;
+        st.insert(x);
     }
-    while (freq[crr_mx] > 0)crr_mx++;
-
-    int mx = crr_mx;
-    for (int i = k; i < n; i++) {
-        int tp = a[i];
-        int re = a[i - k];
-        if (tp <= n) freq[tp]++;
-        if (re <= n) {
-            freq[re]--;
-            if (freq[re] == 0 && re < crr_mx) {
-                crr_mx = re;
-            }
-        }
-        while (freq[crr_mx] > 0) {
-            crr_mx++;
-        }
-        
-        mx = max(mx, crr_mx);
+    int ans=0;
+    for(int i=0; i<k-1; i++){
+        if(st.count(i)) ans++;
+        else break;
     }
-    if (mx >= k) out(k-1);
-    else out(mx);
+    out(ans);
 }
 
 int32_t main(){
@@ -56,4 +40,3 @@ int32_t main(){
     while(T--)     run_case();
     return 0;
 }
-
