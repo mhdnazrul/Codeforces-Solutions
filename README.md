@@ -50,7 +50,7 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 2 |
-| greedy | 87 |
+| greedy | 88 |
 | hashing | 3 |
 | implementation | 199 |
 | interactive | 2 |
@@ -284,7 +284,7 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
-| 2183B | Yet Another MEX Problem | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
+| 2183B | Yet Another MEX Problem | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
 | 2183A | Binary Array Game | 800 | `games` | [View](https://codeforces.com/contest/2183/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Binary_Array_Game.cpp) |
 | 2182C | Production of Snowmen | 800 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2182B | New Year Cake | 800 | `brute force` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |

@@ -2372,7 +2372,8 @@
     "name": "Yet Another MEX Problem",
     "rating": 800,
     "tags": [
-      "constructive algorithms"
+      "constructive algorithms",
+      "greedy"
     ],
     "q_link": "https://codeforces.com/contest/2183/problem/B",
     "sol_path": "Solutions/B_Yet_Another_MEX_Problem.cpp",
