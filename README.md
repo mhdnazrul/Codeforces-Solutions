@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-329-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-331-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,18 +16,18 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 329
+**Total Problems Solved:** 331
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 195 |
-| 900 | 68 |
+| 900 | 69 |
 | 1000 | 24 |
 | 1100 | 13 |
 | 1200 | 11 |
-| 1300 | 11 |
+| 1300 | 12 |
 | 1400 | 4 |
 | 1500 | 2 |
 | 1600 | 1 |
@@ -43,7 +43,7 @@
 | brute force | 50 |
 | combinatorics | 1 |
 | constructive algorithms | 26 |
-| data structures | 9 |
+| data structures | 10 |
 | dfs and similar | 2 |
 | dp | 16 |
 | games | 6 |
@@ -52,9 +52,9 @@
 | graphs | 2 |
 | greedy | 88 |
 | hashing | 3 |
-| implementation | 199 |
+| implementation | 201 |
 | interactive | 2 |
-| math | 84 |
+| math | 85 |
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 35 |
@@ -86,6 +86,7 @@
 | 2145C | Monocarp's String | 1300 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2145/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Monocarp_s_String.cpp) |
 | 189B | Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
 | 189A | Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
+| 1203C | Common Divisors | 1300 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1203/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Common_Divisors.cpp) |
 | 961B | Lecture Sleep | 1200 | `data structures`, `dp`, ... | [View](https://codeforces.com/contest/961/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lecture_Sleep.cpp) |
 | 870B | Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 514A | Chewbaсca and Number | 1200 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/514/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chewba_ca_and_Number.cpp) |
@@ -188,6 +189,7 @@
 | 1883B | Chemistry | 900 | `strings` | [View](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Chemistry.cpp) |
 | 1878C | Vasilije in Cacak | 900 | `math` | [View](https://codeforces.com/problemset/problem/1878/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Vasilije_in_Cacak.cpp) |
 | 1850D | Balanced Round | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1850/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Balanced_Round.cpp) |
+| 1807D | Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
 | 1720A | Burenka Plays with Fractions | 900 | `math`, `number theory` | [View](https://codeforces.com/contest/1720/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Burenka_Plays_with_Fractions.cpp) |
 | 1613A | Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
 | 160A | Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |

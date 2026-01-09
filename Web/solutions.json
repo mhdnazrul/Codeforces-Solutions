@@ -120,6 +120,18 @@
     "filename": "A_Elevator.cpp"
   },
   {
+    "id": "1203C",
+    "name": "Common Divisors",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1203/C",
+    "sol_path": "Solutions/C_Common_Divisors.cpp",
+    "filename": "C_Common_Divisors.cpp"
+  },
+  {
     "id": "598A",
     "name": "Tricky Sum",
     "rating": 900,
@@ -2684,6 +2696,18 @@
     "q_link": "https://codeforces.com/problemset/problem/148/A",
     "sol_path": "Solutions/A_Insomnia_cure.cpp",
     "filename": "A_Insomnia_cure.cpp"
+  },
+  {
+    "id": "1807D",
+    "name": "Odd Queries",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1807/D",
+    "sol_path": "Solutions/D_Odd_Queries.cpp",
+    "filename": "D_Odd_Queries.cpp"
   },
   {
     "id": "4C",
