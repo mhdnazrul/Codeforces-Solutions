@@ -112,7 +112,7 @@ build/
 *.out
 *.cph
 *.prob
-
+*.bin
 # Test outputs
 .pytest_cache/
 coverage/
