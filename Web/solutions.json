@@ -542,6 +542,19 @@
     "filename": "D_Flower_Boy.cpp"
   },
   {
+    "id": "460A",
+    "name": "Vasya and Socks",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/460/problem/A",
+    "sol_path": "Solutions/A_Vasya_and_Socks.cpp",
+    "filename": "A_Vasya_and_Socks.cpp"
+  },
+  {
     "id": "2143A",
     "name": "All Lengths Subtraction",
     "rating": 800,
@@ -1913,6 +1926,17 @@
     "q_link": "https://codeforces.com/problemset/problem/1030/A",
     "sol_path": "Solutions/A_In_Search_of_an_Easy_Problem.cpp",
     "filename": "A_In_Search_of_an_Easy_Problem.cpp"
+  },
+  {
+    "id": "584A",
+    "name": "Olesya and Rodion",
+    "rating": 1000,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/584/A",
+    "sol_path": "Solutions/A_Olesya_and_Rodion.cpp",
+    "filename": "A_Olesya_and_Rodion.cpp"
   },
   {
     "id": "1669A",

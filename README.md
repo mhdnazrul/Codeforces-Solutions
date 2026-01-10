@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-331-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-333-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,15 +16,15 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 331
+**Total Problems Solved:** 333
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 195 |
-| 900 | 69 |
-| 1000 | 24 |
+| 900 | 70 |
+| 1000 | 25 |
 | 1100 | 13 |
 | 1200 | 11 |
 | 1300 | 12 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 10 |
 | bitmasks | 10 |
-| brute force | 50 |
+| brute force | 51 |
 | combinatorics | 1 |
 | constructive algorithms | 26 |
 | data structures | 10 |
@@ -52,9 +52,9 @@
 | graphs | 2 |
 | greedy | 88 |
 | hashing | 3 |
-| implementation | 201 |
+| implementation | 202 |
 | interactive | 2 |
-| math | 85 |
+| math | 87 |
 | number theory | 14 |
 | shortest paths | 2 |
 | sortings | 35 |
@@ -112,6 +112,7 @@
 | 2065C1 | Skibidus and Fanum Tax (easy version) | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/contest/2065/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp) |
 | 158B | Taxi | 1100 | `*special`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/158/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Taxi.cpp) |
 | 58A | Chat room | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/58/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chat_room.cpp) |
+| 584A | Olesya and Rodion | 1000 | `math` | [View](https://codeforces.com/problemset/problem/584/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Olesya_and_Rodion.cpp) |
 | 579A | Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
 | 500A | New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
 | 491A | Up the hill | 1000 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/491/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Up_the_hill.cpp) |
@@ -140,6 +141,7 @@
 | 598A | Tricky Sum | 900 | `math` | [View](https://codeforces.com/problemset/problem/598/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tricky_Sum.cpp) |
 | 580A | Kefa and First Steps | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/580/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kefa_and_First_Steps.cpp) |
 | 474A | Keyboard | 900 | `implementation` | [View](https://codeforces.com/contest/474/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Keyboard.cpp) |
+| 460A | Vasya and Socks | 900 | `brute force`, `implementation`, ... | [View](https://codeforces.com/contest/460/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vasya_and_Socks.cpp) |
 | 451A | Game With Sticks | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/451/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_With_Sticks.cpp) |
 | 405A | Gravity Flip | 900 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/405/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Gravity_Flip.cpp) |
 | 34B | Sale | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/34/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sale.cpp) |
