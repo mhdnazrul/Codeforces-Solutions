@@ -712,6 +712,18 @@
     "filename": "A_Sum.cpp"
   },
   {
+    "id": "977B",
+    "name": "Two-gram",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/977/B",
+    "sol_path": "Solutions/B_Two_gram.cpp",
+    "filename": "B_Two_gram.cpp"
+  },
+  {
     "id": "870B",
     "name": "Maximum of Maximums of Minimums",
     "rating": 1200,
@@ -2056,6 +2068,17 @@
     "filename": "A_Dubstep.cpp"
   },
   {
+    "id": "2184B",
+    "name": "Hourglass",
+    "rating": 800,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2184/problem/B",
+    "sol_path": "Solutions/B_Hourglass.cpp",
+    "filename": "B_Hourglass.cpp"
+  },
+  {
     "id": "755B",
     "name": "PolandBall and Game",
     "rating": 1100,
@@ -2518,6 +2541,19 @@
     "q_link": "https://codeforces.com/contest/1999/problem/C",
     "sol_path": "Solutions/C_Showering.cpp",
     "filename": "C_Showering.cpp"
+  },
+  {
+    "id": "742A",
+    "name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/742/A",
+    "sol_path": "Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp",
+    "filename": "A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp"
   },
   {
     "id": "71A",
@@ -3014,6 +3050,17 @@
     "filename": "D_A_and_B.cpp"
   },
   {
+    "id": "1913A",
+    "name": "Rating Increase",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/1913/problem/A",
+    "sol_path": "Solutions/A_Rating_Increase.cpp",
+    "filename": "A_Rating_Increase.cpp"
+  },
+  {
     "id": "96A",
     "name": "Football",
     "rating": 900,
@@ -3049,6 +3096,17 @@
     "q_link": "https://codeforces.com/problemset/problem/1883/B",
     "sol_path": "Solutions/B_Chemistry.cpp",
     "filename": "B_Chemistry.cpp"
+  },
+  {
+    "id": "2184A",
+    "name": "Social Experiment",
+    "rating": 800,
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2184/problem/A",
+    "sol_path": "Solutions/A_Social_Experiment.cpp",
+    "filename": "A_Social_Experiment.cpp"
   },
   {
     "id": "469A",
