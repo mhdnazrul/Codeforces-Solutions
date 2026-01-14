@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-338-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-339-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 338
+**Total Problems Solved:** 339
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 198 |
 | 900 | 71 |
-| 1000 | 26 |
+| 1000 | 27 |
 | 1100 | 13 |
 | 1200 | 11 |
 | 1300 | 12 |
@@ -52,9 +52,9 @@
 | graphs | 2 |
 | greedy | 88 |
 | hashing | 3 |
-| implementation | 205 |
+| implementation | 206 |
 | interactive | 2 |
-| math | 90 |
+| math | 91 |
 | number theory | 15 |
 | shortest paths | 2 |
 | sortings | 35 |
@@ -117,6 +117,7 @@
 | 579A | Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
 | 500A | New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
 | 491A | Up the hill | 1000 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/491/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Up_the_hill.cpp) |
+| 476A | Dreamoon and Stairs | 1000 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/476/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dreamoon_and_Stairs.cpp) |
 | 43A | Football | 1000 | `strings` | [View](https://codeforces.com/problemset/problem/43/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/96A_Football.cpp) |
 | 379A | New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |

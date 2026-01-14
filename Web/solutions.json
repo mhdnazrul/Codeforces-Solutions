@@ -783,6 +783,18 @@
     "filename": "B_Counting_Rhombi.cpp"
   },
   {
+    "id": "476A",
+    "name": "Dreamoon and Stairs",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/476/A",
+    "sol_path": "Solutions/A_Dreamoon_and_Stairs.cpp",
+    "filename": "A_Dreamoon_and_Stairs.cpp"
+  },
+  {
     "id": "2145C",
     "name": "Monocarp's String",
     "rating": 1300,
