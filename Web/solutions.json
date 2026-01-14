@@ -132,6 +132,17 @@
     "filename": "C_Common_Divisors.cpp"
   },
   {
+    "id": "1913B",
+    "name": "Swap and Delete",
+    "rating": 1000,
+    "tags": [
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/1913/problem/B",
+    "sol_path": "Solutions/B_Swap_and_Delete.cpp",
+    "filename": "B_Swap_and_Delete.cpp"
+  },
+  {
     "id": "598A",
     "name": "Tricky Sum",
     "rating": 900,
@@ -3203,6 +3214,21 @@
     "q_link": "https://codeforces.com/problemset/problem/110/A",
     "sol_path": "Solutions/A_Nearly_Lucky_Number.cpp",
     "filename": "A_Nearly_Lucky_Number.cpp"
+  },
+  {
+    "id": "2184C",
+    "name": "Huge Pile",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2184/problem/C",
+    "sol_path": "Solutions/C_Huge_Pile.cpp",
+    "filename": "C_Huge_Pile.cpp"
   },
   {
     "id": "510A",

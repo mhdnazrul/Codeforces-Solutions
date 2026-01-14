@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-339-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-341-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,15 +16,15 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 339
+**Total Problems Solved:** 341
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 198 |
+| 800 | 199 |
 | 900 | 71 |
-| 1000 | 27 |
+| 1000 | 28 |
 | 1100 | 13 |
 | 1200 | 11 |
 | 1300 | 12 |
@@ -38,27 +38,27 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 10 |
+| binary search | 11 |
 | bitmasks | 10 |
 | brute force | 51 |
 | combinatorics | 1 |
 | constructive algorithms | 26 |
 | data structures | 10 |
-| dfs and similar | 2 |
-| dp | 16 |
+| dfs and similar | 3 |
+| dp | 17 |
 | games | 6 |
 | geometry | 2 |
 | graph matchings | 2 |
-| graphs | 2 |
+| graphs | 3 |
 | greedy | 88 |
 | hashing | 3 |
 | implementation | 206 |
 | interactive | 2 |
-| math | 91 |
+| math | 92 |
 | number theory | 15 |
 | shortest paths | 2 |
 | sortings | 35 |
-| strings | 39 |
+| strings | 40 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 11 |
@@ -132,6 +132,7 @@
 | 2092B | Lady Bug | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2092/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lady_Bug.cpp) |
 | 1A | Theatre Square | 1000 | `math` | [View](https://codeforces.com/problemset/problem/1/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Theatre_Square.cpp) |
 | 1999B | Card Game | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/1999/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Card_Game.cpp) |
+| 1913B | Swap and Delete | 1000 | `strings` | [View](https://codeforces.com/contest/1913/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Swap_and_Delete.cpp) |
 | 1374C | Move Brackets | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/1374/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Move_Brackets.cpp) |
 | 131A | cAPS lOCK | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/131/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_cAPS_lOCK.cpp) |
 | 125B | Simple XML | 1000 | `implementation` | [View](https://codeforces.com/contest/125/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Simple_XML.cpp) |
@@ -291,6 +292,7 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
+| 2184C | Huge Pile | 800 | `binary search`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2184/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Huge_Pile.cpp) |
 | 2184B | Hourglass | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Hourglass.cpp) |
 | 2184A | Social Experiment | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Social_Experiment.cpp) |
 | 2183B | Yet Another MEX Problem | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
