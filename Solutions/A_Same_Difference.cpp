@@ -1,48 +1,42 @@
+/*┌────────────────────────────────────────────────────────────────────────────────────┐
+  │                        >   Handle:- nazrulislam_7             
+  │                        >   Author:- Nazrul Islam                   
+  │Problem Link: https://codeforces.com/problemset/problem/2166/A
+  └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
+using ll=long long;      using ld=long double;
+using vi=vector<int>;    using vll=vector<ll>;
+using pii=pair<int,int>; using pll=pair<ll,ll>;
+constexpr ll INF=4e18;   constexpr int MOD=1e9+7;
+const char nl='\n';
+#define sz(x) (int)(x.size())
+#define all(x) begin(x),end(x)
+#define rall(x) rbegin(x),rend(x)
+#define fastio() ios::sync_with_stdio(false); cin.tie(nullptr)
+template<class T> void in(T &x){cin>>x;}
+template<class T> void inV(vector<T> &v){for(auto &x:v) cin>>x;}
+template<class T> void out(const T &x){cout<<x<<'\n';}
+template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
+void solve() {
+    int n;    cin >> n;
+    string s;    cin >> s;
+    char c = s[n-1];  
+    int ans = 0;
 
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
-    int t;
-    cin >> t;
-    while (t--) {
-        int n;
-        cin >> n;
-        string s;
-        cin >> s;
-
-        int ans = 1e9;
-
-        for (char c = 'a'; c <= 'z'; c++) {
-
-            vector<int> pos;
-            for (int i = 0; i < n; i++)
-                if (s[i] == c)
-                    pos.push_back(i);
-
-            if (pos.empty()) continue;
-
-            int cost = 0;
-            bool ok = true;
-
-            for (int i = 0; i < n; i++) {
-                if (s[i] == c) continue;
-
-                int j = lower_bound(pos.begin(), pos.end(), i) - pos.begin();
-
-                if (j == (int)pos.size()) {
-                    ok = false;
-                    break;
-                }
-
-                cost += pos[j] - i;
-            }
-
-            if (ok) ans = min(ans, cost);
-        }
-
-        cout << ans << "\n";
+    for(int i=0; i<n-1; i++){
+        if(s[i] != c) ans++;
     }
+    cout << ans << "\n";
+}
+
+int32_t main() {
+    ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+    int test_cases = 1;
+    if(!(cin>>test_cases)) return 0;
+    for(int tc = 1; tc <= test_cases; tc++){
+    //  cout << "Case #" << tc << ": ";
+        solve();
+    }
+    return 0;
 }
