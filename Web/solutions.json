@@ -600,6 +600,18 @@
     "filename": "D_Flower_Boy.cpp"
   },
   {
+    "id": "1837B",
+    "name": "B Comparison String",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1837/B",
+    "sol_path": "Solutions/B_Comparison_String.cpp",
+    "filename": "B_Comparison_String.cpp"
+  },
+  {
     "id": "460A",
     "name": "A Vasya and Socks",
     "rating": 900,
@@ -2641,6 +2653,18 @@
     "q_link": "https://codeforces.com/problemset/problem/131/A",
     "sol_path": "Solutions/A_cAPS_lOCK.cpp",
     "filename": "A_cAPS_lOCK.cpp"
+  },
+  {
+    "id": "1373B",
+    "name": "B 01 Game",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "games"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1373/B",
+    "sol_path": "Solutions/B_01_Game.cpp",
+    "filename": "B_01_Game.cpp"
   },
   {
     "id": "2169B",
