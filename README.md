@@ -22,10 +22,10 @@
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 199 |
+| 800 | 198 |
 | 900 | 71 |
 | 1000 | 28 |
-| 1100 | 13 |
+| 1100 | 14 |
 | 1200 | 11 |
 | 1300 | 12 |
 | 1400 | 4 |
@@ -39,26 +39,26 @@
 | :--- | :--- |
 | *special | 3 |
 | binary search | 11 |
-| bitmasks | 10 |
-| brute force | 51 |
+| bitmasks | 11 |
+| brute force | 52 |
 | combinatorics | 1 |
 | constructive algorithms | 26 |
-| data structures | 10 |
+| data structures | 11 |
 | dfs and similar | 3 |
 | dp | 17 |
-| games | 6 |
+| games | 7 |
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
-| greedy | 88 |
+| greedy | 90 |
 | hashing | 3 |
-| implementation | 206 |
+| implementation | 204 |
 | interactive | 2 |
 | math | 92 |
 | number theory | 15 |
 | shortest paths | 2 |
 | sortings | 35 |
-| strings | 40 |
+| strings | 41 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 11 |
@@ -103,6 +103,7 @@
 | 456A | Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 2173B | Niko's Tactical Cards | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
+| 2171C1 | Renako Amaori and XOR Game (easy version) | 1100 | `bitmasks`, `games`, ... | [View](https://codeforces.com/problemset/problem/2171/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp) |
 | 2169B | Drifting Away | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
 | 2162C | Beautiful XOR | 1100 | `bitmasks`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/2162/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Beautiful_XOR.cpp) |
 | 2160B | Distinct Elements | 1100 | `greedy`, `math` | [View](https://codeforces.com/contest/2160/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Distinct_Elements.cpp) |
@@ -210,10 +211,7 @@
 | 105981C | C Echoes of the Runes | 900 | `implementation` | [View](https://codeforces.com/gym/105981/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/C_Echoes_of_the_Runes.cpp) |
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
-| N/A | B ICPC Balloons | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_ICPC_Balloons.cpp) |
-| N/A | C 1 Renako Amaori and XOR Game easy version | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp) |
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
-| N/A | A Same Difference | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Same_Difference.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_AppendAppendAppend.cpp) |
 | N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
 | N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
@@ -316,6 +314,7 @@
 | 2167B | Your Name | 800 | `sortings`, `strings` | [View](https://codeforces.com/contest/2167/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Your_Name.cpp) |
 | 2167A | Square? | 800 | `math`, `sortings` | [View](https://codeforces.com/contest/2167/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Square.cpp) |
 | 2166C | C Cyclic Merging | 800 | `implementation` | [View](https://codeforces.com/contest/2166/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Cyclic_Merging.cpp) |
+| 2166A | Same Difference | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/2166/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Same_Difference.cpp) |
 | 2164A | Sequence Game | 800 | `brute force`, `sortings` | [View](https://codeforces.com/contest/2164/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sequence_Game.cpp) |
 | 2163A | Souvlaki VS. Kalamaki | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2163/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Souvlaki_VS_Kalamaki.cpp) |
 | 2162A | Beautiful Average | 800 | `brute force`, `greedy` | [View](https://codeforces.com/contest/2162/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Beautiful_Average.cpp) |
@@ -379,6 +378,7 @@
 | 1722B | Colourblindness | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1722/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Colourblindness.cpp) |
 | 1722A | Spell Check | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1722/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Spell_Check.cpp) |
 | 1720B | Interesting Sum | 800 | `brute force`, `data structures`, ... | [View](https://codeforces.com/contest/1720/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_Sum.cpp) |
+| 1703B | ICPC Balloons | 800 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1703/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_ICPC_Balloons.cpp) |
 | 1703A | YES or YES? | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1703/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_YES_or_YES.cpp) |
 | 1692B | All Distinct | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1692/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_All_Distinct.cpp) |
 | 1692A | Marathon | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1692/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Marathon.cpp) |

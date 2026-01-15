@@ -96,13 +96,14 @@
     "filename": "A_Suspension.cpp"
   },
   {
-    "id": "N/A",
-    "name": "B ICPC Balloons",
+    "id": "1703B",
+    "name": "ICPC Balloons",
     "rating": 800,
     "tags": [
+      "data structures",
       "implementation"
     ],
-    "q_link": "#",
+    "q_link": "https://codeforces.com/problemset/problem/1703/B",
     "sol_path": "Solutions/B_ICPC_Balloons.cpp",
     "filename": "B_ICPC_Balloons.cpp"
   },
@@ -1101,13 +1102,15 @@
     "filename": "B_Impost_or_Sus.cpp"
   },
   {
-    "id": "N/A",
-    "name": "C 1 Renako Amaori and XOR Game easy version",
-    "rating": 800,
+    "id": "2171C1",
+    "name": "Renako Amaori and XOR Game (easy version)",
+    "rating": 1100,
     "tags": [
-      "implementation"
+      "bitmasks",
+      "games",
+      "greedy"
     ],
-    "q_link": "#",
+    "q_link": "https://codeforces.com/problemset/problem/2171/C1",
     "sol_path": "Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp",
     "filename": "C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp"
   },
@@ -1473,13 +1476,15 @@
     "filename": "A_Short_Sort.cpp"
   },
   {
-    "id": "N/A",
-    "name": "A Same Difference",
+    "id": "2166A",
+    "name": "Same Difference",
     "rating": 800,
     "tags": [
-      "implementation"
+      "brute force",
+      "greedy",
+      "strings"
     ],
-    "q_link": "#",
+    "q_link": "https://codeforces.com/problemset/problem/2166/A",
     "sol_path": "Solutions/A_Same_Difference.cpp",
     "filename": "A_Same_Difference.cpp"
   },
