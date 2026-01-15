@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/problemset/problem/1624/B
+  │Problem Link: https://codeforces.com/contest/556/problem/A
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,12 +20,21 @@ template<class T> void out(const T &x){cout<<x<<'\n';}
 template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
 
 void run_case(){
-    
+    int n;      cin>>n;
+    string s;   cin>>s;
+    int ones=0,zero=0;
+    for(auto x: s){
+        if(x=='0')zero++;
+        else ones++;
+    }
+    int rem = min(ones,ones);
+    int ans = max(0, abs(n - (2*rem)));
+    out(ans);
 }
 
 int32_t main(){
     fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
+    //if(!(cin>>T))  return 0;
     while(T--)     run_case();
     return 0;
 }

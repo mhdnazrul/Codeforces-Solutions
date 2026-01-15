@@ -5,27 +5,31 @@
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
-using ll=long long;      using ld=long double;
-using vi=vector<int>;    using vll=vector<ll>;
+using ll=long long;       using ld=long double;
+using vi=vector<int>;     using vll=vector<ll>;
 using pii=pair<int,int>; using pll=pair<ll,ll>;
-constexpr ll INF=4e18;   constexpr int MOD=1e9+7;
-const char nl='\n';
-#define sz(x) (int)(x.size())
-#define all(x) begin(x),end(x)
+const ll INF = 2e18;   const int MOD = 1e9 + 7; 
+#define per(i,a,b)  for(int i=(b)-1;i>=(a);--i)
+#define rep(i,a,b)  for(int i=(a);i<(b);++i)
+#define trav(a, x)     for (auto &a : x)
+#define forr(i, n)       rep(i, 0, n)
+#define all(x) (x).begin(),(x).end()
 #define rall(x) rbegin(x),rend(x)
-#define fastio() ios::sync_with_stdio(false); cin.tie(nullptr)
-template<class T> void in(T &x){cin>>x;}
-template<class T> void inV(vector<T> &v){for(auto &x:v) cin>>x;}
-template<class T> void out(const T &x){cout<<x<<'\n';}
-template<class T> void outV(const vector<T> &v){for(int i=0;i<(int)v.size();i++) cout<<v[i]<<(i+1<(int)v.size()?' ':'\n');}
+#define sz(x) (int)(x).size()
+const char nl = '\n';
+template<class T>    void inV(vector<T> &v){for(auto &x:v) cin>>x;}
+template<typename T> void outV(const vector<T>& v) {if (v.empty()) return;
+    for (int i = 0; i < sz(v); ++i)cout << v[i] << " \n"[i == sz(v) - 1];}
 
 void run_case(){
     
 }
 
 int32_t main(){
-    fastio();      int T=1; 
-    if(!(cin>>T))  return 0;
-    while(T--)     run_case();
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);          int T=1;
+    if(!(cin >> T))     return 0;
+    while(T--)        run_case();
     return 0;
 }
+
