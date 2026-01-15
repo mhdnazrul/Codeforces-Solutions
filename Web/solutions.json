@@ -1,8 +1,9 @@
 [
   {
     "id": "2172M",
-    "name": "Maximum Distance To Port",
+    "name": "M Maximum Distance To Port",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "graphs",
       "shortest paths"
@@ -13,8 +14,9 @@
   },
   {
     "id": "4A",
-    "name": "Watermelon",
+    "name": "A Watermelon",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -25,8 +27,9 @@
   },
   {
     "id": "2154A",
-    "name": "Notelock",
+    "name": "A Notelock",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "two pointers"
@@ -37,8 +40,9 @@
   },
   {
     "id": "491A",
-    "name": "Up the hill",
+    "name": "A Up the hill",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "implementation"
@@ -49,8 +53,9 @@
   },
   {
     "id": "486A",
-    "name": "Calculating Function",
+    "name": "A Calculating Function",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -61,8 +66,9 @@
   },
   {
     "id": "734A",
-    "name": "Anton and Danik",
+    "name": "A Anton and Danik",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -75,6 +81,7 @@
     "id": "644977A",
     "name": "A Four Coprimes",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -84,8 +91,9 @@
   },
   {
     "id": "2158A",
-    "name": "Suspension",
+    "name": "A Suspension",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -97,8 +105,9 @@
   },
   {
     "id": "1703B",
-    "name": "ICPC Balloons",
+    "name": "B ICPC Balloons",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "implementation"
@@ -109,8 +118,9 @@
   },
   {
     "id": "120A",
-    "name": "Elevator",
+    "name": "A Elevator",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -122,8 +132,9 @@
   },
   {
     "id": "1203C",
-    "name": "Common Divisors",
+    "name": "C Common Divisors",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -134,8 +145,9 @@
   },
   {
     "id": "1913B",
-    "name": "Swap and Delete",
+    "name": "B Swap and Delete",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -145,8 +157,9 @@
   },
   {
     "id": "598A",
-    "name": "Tricky Sum",
+    "name": "A Tricky Sum",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -156,8 +169,9 @@
   },
   {
     "id": "2146A",
-    "name": "Equal Occurrences",
+    "name": "A Equal Occurrences",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -169,8 +183,9 @@
   },
   {
     "id": "1927B",
-    "name": "Following the String",
+    "name": "B Following the String",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -182,8 +197,9 @@
   },
   {
     "id": "1903A",
-    "name": "Halloumi Boxes",
+    "name": "A Halloumi Boxes",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -195,8 +211,9 @@
   },
   {
     "id": "1A",
-    "name": "Theatre Square",
+    "name": "A Theatre Square",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -206,8 +223,9 @@
   },
   {
     "id": "151A",
-    "name": "Soft Drinking",
+    "name": "A Soft Drinking",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -218,8 +236,9 @@
   },
   {
     "id": "1352A",
-    "name": "Sum of Round Numbers",
+    "name": "A Sum of Round Numbers",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -230,8 +249,9 @@
   },
   {
     "id": "282A",
-    "name": "Bit++",
+    "name": "A Bit",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -241,8 +261,9 @@
   },
   {
     "id": "43A",
-    "name": "Football",
+    "name": "96A Football",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -252,8 +273,9 @@
   },
   {
     "id": "2094A",
-    "name": "Trippi Troppi",
+    "name": "A TrippiTroppi",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -263,8 +285,9 @@
   },
   {
     "id": "61A",
-    "name": "Ultra-Fast Mathematician",
+    "name": "A Ultra Fast Mathematician",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -274,8 +297,9 @@
   },
   {
     "id": "2169C",
-    "name": "Range Operation",
+    "name": "C Range Operation",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy",
@@ -288,8 +312,9 @@
   },
   {
     "id": "2172E",
-    "name": "Number Maze",
+    "name": "E Number Maze",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -299,8 +324,9 @@
   },
   {
     "id": "959A",
-    "name": "Mahmoud and Ehab and the even-odd game",
+    "name": "A Mahmoud and Ehab and the even odd game",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "games",
       "math"
@@ -311,8 +337,9 @@
   },
   {
     "id": "2153A",
-    "name": "Circle of Apple Trees",
+    "name": "A Circle of Apple Trees",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -323,8 +350,9 @@
   },
   {
     "id": "2162A",
-    "name": "Beautiful Average",
+    "name": "A Beautiful Average",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy"
@@ -335,8 +363,9 @@
   },
   {
     "id": "344A",
-    "name": "Magnets",
+    "name": "A Magnets",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -346,8 +375,9 @@
   },
   {
     "id": "122A",
-    "name": "Lucky Division",
+    "name": "A Lucky Division",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "number theory"
@@ -358,8 +388,9 @@
   },
   {
     "id": "160A",
-    "name": "Twins",
+    "name": "A Twins",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -370,8 +401,9 @@
   },
   {
     "id": "236A",
-    "name": "Boy or Girl",
+    "name": "A Boy or Girl",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -383,8 +415,9 @@
   },
   {
     "id": "2173B",
-    "name": "Niko's Tactical Cards",
+    "name": "B Niko s Tactical Cards",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy",
@@ -396,8 +429,9 @@
   },
   {
     "id": "2092A",
-    "name": "Kamilka and the Sheep",
+    "name": "A Kamilka and the Sheep",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math",
@@ -410,8 +444,9 @@
   },
   {
     "id": "617A",
-    "name": "Elephant",
+    "name": "A Elephant",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -421,8 +456,9 @@
   },
   {
     "id": "467A",
-    "name": "George and Accommodation",
+    "name": "A George and Accommodation",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -432,8 +468,9 @@
   },
   {
     "id": "2153B",
-    "name": "Bitwise Reversion",
+    "name": "B Bitwise Reversion",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "greedy"
@@ -444,8 +481,9 @@
   },
   {
     "id": "2146B",
-    "name": "Merging the Sets",
+    "name": "B Merging the Sets",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -456,8 +494,9 @@
   },
   {
     "id": "2128A",
-    "name": "Recycling Center",
+    "name": "A Recycling Center",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -468,8 +507,9 @@
   },
   {
     "id": "2110B",
-    "name": "Down with Brackets",
+    "name": "B Down with Brackets",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -479,8 +519,9 @@
   },
   {
     "id": "2065C1",
-    "name": "Skibidus and Fanum Tax (easy version)",
+    "name": "C 1 Skibidus and Fanum Tax easy version",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "dp",
@@ -492,8 +533,9 @@
   },
   {
     "id": "1722A",
-    "name": "Spell Check",
+    "name": "A Spell Check",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -503,8 +545,9 @@
   },
   {
     "id": "2161A",
-    "name": "Round Trip",
+    "name": "A Round Trip",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "games",
       "greedy",
@@ -517,8 +560,9 @@
   },
   {
     "id": "2162B",
-    "name": "Beautiful String",
+    "name": "B Beautiful String",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms"
@@ -529,8 +573,9 @@
   },
   {
     "id": "1613A",
-    "name": "Long Comparison",
+    "name": "A Long Comparison",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -541,8 +586,9 @@
   },
   {
     "id": "2106D",
-    "name": "Flower Boy",
+    "name": "D Flower Boy",
     "rating": 1500,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "dp",
@@ -555,8 +601,9 @@
   },
   {
     "id": "460A",
-    "name": "Vasya and Socks",
+    "name": "A Vasya and Socks",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -568,8 +615,9 @@
   },
   {
     "id": "2143A",
-    "name": "All Lengths Subtraction",
+    "name": "A All Lengths Subtraction",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "two pointers"
@@ -580,8 +628,9 @@
   },
   {
     "id": "1692B",
-    "name": "All Distinct",
+    "name": "B All Distinct",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -592,8 +641,9 @@
   },
   {
     "id": "281A",
-    "name": "Word Capitalization",
+    "name": "A Word Capitalization",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -604,8 +654,9 @@
   },
   {
     "id": "1746B",
-    "name": "Rebellion",
+    "name": "B Rebellion",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -617,8 +668,9 @@
   },
   {
     "id": "734A",
-    "name": "Anton and Danik",
+    "name": "B Anton and Danik",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -629,8 +681,9 @@
   },
   {
     "id": "620A",
-    "name": "Professor GukiZ's Robot",
+    "name": "A Professor GukiZ s Robot",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -641,8 +694,9 @@
   },
   {
     "id": "520A",
-    "name": "Pangram",
+    "name": "A Pangram",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -653,8 +707,9 @@
   },
   {
     "id": "546A",
-    "name": "Soldier and Bananas",
+    "name": "A Soldier and Bananas",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -666,8 +721,9 @@
   },
   {
     "id": "158A",
-    "name": "Next Round",
+    "name": "A Next Round",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "*special",
       "implementation"
@@ -678,8 +734,9 @@
   },
   {
     "id": "2176A",
-    "name": "Operations with Inversions",
+    "name": "A Operations with Inversions",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -691,8 +748,9 @@
   },
   {
     "id": "474A",
-    "name": "Keyboard",
+    "name": "A Keyboard",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -702,8 +760,9 @@
   },
   {
     "id": "2147A",
-    "name": "Shortest Increasing Path",
+    "name": "A Shortest Increasing Path",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy"
@@ -714,8 +773,9 @@
   },
   {
     "id": "1742A",
-    "name": "Sum",
+    "name": "A Sum",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -725,8 +785,9 @@
   },
   {
     "id": "977B",
-    "name": "Two-gram",
+    "name": "B Two gram",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -737,8 +798,9 @@
   },
   {
     "id": "870B",
-    "name": "Maximum of Maximums of Minimums",
+    "name": "B Maximum of Maximums of Minimums",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -748,8 +810,9 @@
   },
   {
     "id": "1520D",
-    "name": "Same Differences",
+    "name": "D Same Differences",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "hashing",
@@ -761,8 +824,9 @@
   },
   {
     "id": "1720A",
-    "name": "Burenka Plays with Fractions",
+    "name": "A Burenka Plays with Fractions",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math",
       "number theory"
@@ -773,8 +837,9 @@
   },
   {
     "id": "2172A",
-    "name": "ASCII Art Contest",
+    "name": "A ASCII Art Contest",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -784,8 +849,9 @@
   },
   {
     "id": "189B",
-    "name": "Counting Rhombi",
+    "name": "B Counting Rhombi",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -796,8 +862,9 @@
   },
   {
     "id": "476A",
-    "name": "Dreamoon and Stairs",
+    "name": "A Dreamoon and Stairs",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -808,8 +875,9 @@
   },
   {
     "id": "2145C",
-    "name": "Monocarp's String",
+    "name": "C Monocarp s String",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "greedy",
@@ -821,8 +889,9 @@
   },
   {
     "id": "1703A",
-    "name": "YES or YES?",
+    "name": "A YES or YES",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -834,8 +903,9 @@
   },
   {
     "id": "266B",
-    "name": "Queue at the School",
+    "name": "B Queue at the School c",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "graph matchings",
@@ -848,8 +918,9 @@
   },
   {
     "id": "816B",
-    "name": "Karen and Coffee",
+    "name": "B Karen and Coffee",
     "rating": 1400,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "data structures",
@@ -861,8 +932,9 @@
   },
   {
     "id": "381A",
-    "name": "Sereja and Dima",
+    "name": "A Sereja and Dima",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -874,8 +946,9 @@
   },
   {
     "id": "1722B",
-    "name": "Colourblindness",
+    "name": "B Colourblindness",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -885,8 +958,9 @@
   },
   {
     "id": "2065A",
-    "name": "Skibidus and Amog'u",
+    "name": "A Skibidus and Amog u",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms",
@@ -900,8 +974,9 @@
   },
   {
     "id": "200B",
-    "name": "Drinks",
+    "name": "B Drinks",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -912,8 +987,9 @@
   },
   {
     "id": "1760B",
-    "name": "Atilla's Favorite Problem",
+    "name": "B Atilla s Favorite Problem",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -925,8 +1001,9 @@
   },
   {
     "id": "2162C",
-    "name": "Beautiful XOR",
+    "name": "C Beautiful XOR",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "constructive algorithms",
@@ -938,8 +1015,9 @@
   },
   {
     "id": "1720B",
-    "name": "Interesting Sum",
+    "name": "B Interesting Sum",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "data structures",
@@ -953,8 +1031,9 @@
   },
   {
     "id": "158B",
-    "name": "Taxi",
+    "name": "B Taxi",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "*special",
       "greedy",
@@ -966,8 +1045,9 @@
   },
   {
     "id": "266A",
-    "name": "Stones on the Table",
+    "name": "A Stones on the Table",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -977,8 +1057,9 @@
   },
   {
     "id": "318B",
-    "name": "Strings of Power",
+    "name": "B Strings of Power",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings",
@@ -990,8 +1071,9 @@
   },
   {
     "id": "617A",
-    "name": "Elephant",
+    "name": "A Sum of 2050",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1001,8 +1083,9 @@
   },
   {
     "id": "961B",
-    "name": "Lecture Sleep",
+    "name": "B Lecture Sleep",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "dp",
@@ -1015,8 +1098,9 @@
   },
   {
     "id": "2182C",
-    "name": "Production of Snowmen",
+    "name": "C Production of Snowmen",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "brute force",
       "combinatorics",
@@ -1028,8 +1112,9 @@
   },
   {
     "id": "1999B",
-    "name": "Card Game",
+    "name": "B Card Game",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms",
@@ -1041,8 +1126,9 @@
   },
   {
     "id": "59A",
-    "name": "Word",
+    "name": "A Word",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -1053,8 +1139,9 @@
   },
   {
     "id": "2173A",
-    "name": "Sleeping Through Classes",
+    "name": "A Sleeping Through Classes",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -1065,8 +1152,9 @@
   },
   {
     "id": "2139A",
-    "name": "Maple and Multiplication",
+    "name": "A Maple and Multiplication",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -1077,8 +1165,9 @@
   },
   {
     "id": "2164A",
-    "name": "Sequence Game",
+    "name": "A Sequence Game",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "sortings"
@@ -1089,8 +1178,9 @@
   },
   {
     "id": "2178B",
-    "name": "Impost or Sus",
+    "name": "B Impost or Sus",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "dp",
       "greedy",
@@ -1103,8 +1193,9 @@
   },
   {
     "id": "2171C1",
-    "name": "Renako Amaori and XOR Game (easy version)",
+    "name": "C 1 Renako Amaori and XOR Game easy version",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "games",
@@ -1116,8 +1207,9 @@
   },
   {
     "id": "2127A",
-    "name": "Mix Mex Max",
+    "name": "A Mix Mex Max",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -1129,8 +1221,9 @@
   },
   {
     "id": "1692A",
-    "name": "Marathon",
+    "name": "A Marathon",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1140,8 +1233,9 @@
   },
   {
     "id": "1409A",
-    "name": "Yet Another Two Integers Problem",
+    "name": "A Yet Another Two Integers Problem",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -1152,8 +1246,9 @@
   },
   {
     "id": "189A",
-    "name": "Cut Ribbon",
+    "name": "A Cut Ribbon",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "dp"
@@ -1164,8 +1259,9 @@
   },
   {
     "id": "313A",
-    "name": "Ilya and Bank Account",
+    "name": "A Ilya and Bank Account",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "number theory"
@@ -1176,8 +1272,9 @@
   },
   {
     "id": "2179B",
-    "name": "Blackslex and Showering",
+    "name": "B Blackslex and Showering",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "dp",
       "greedy",
@@ -1189,8 +1286,9 @@
   },
   {
     "id": "514A",
-    "name": "Chewba\u0441ca and Number",
+    "name": "A Chewba ca and Number",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -1201,8 +1299,9 @@
   },
   {
     "id": "141A",
-    "name": "Amusing Joke",
+    "name": "A Amusing Joke",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings",
@@ -1214,8 +1313,9 @@
   },
   {
     "id": "2160A",
-    "name": "MEX Partition",
+    "name": "A MEX Partition",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1225,8 +1325,9 @@
   },
   {
     "id": "155A",
-    "name": "I_love_\\%username\\%",
+    "name": "A I love username",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force"
     ],
@@ -1236,8 +1337,9 @@
   },
   {
     "id": "2104A",
-    "name": "Three Decks",
+    "name": "A Three Decks",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1247,8 +1349,9 @@
   },
   {
     "id": "785A",
-    "name": "Anton and Polyhedrons",
+    "name": "A Anton and Polyhedrons",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -1259,8 +1362,9 @@
   },
   {
     "id": "2092B",
-    "name": "Lady Bug",
+    "name": "B Lady Bug",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms",
@@ -1273,8 +1377,9 @@
   },
   {
     "id": "451B",
-    "name": "Sort the Array",
+    "name": "B Sort the Array",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings"
@@ -1285,8 +1390,9 @@
   },
   {
     "id": "25A",
-    "name": "IQ test",
+    "name": "A IQ test",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "brute force"
     ],
@@ -1296,8 +1402,9 @@
   },
   {
     "id": "492B",
-    "name": "Vanya and Lanterns",
+    "name": "B Vanya and Lanterns",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "implementation",
@@ -1310,8 +1417,9 @@
   },
   {
     "id": "1669C",
-    "name": "Odd/Even Increments",
+    "name": "C Odd Even Increments",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "greedy",
@@ -1324,8 +1432,9 @@
   },
   {
     "id": "1374B",
-    "name": "Multiply by 2, divide by 6",
+    "name": "B Multiply by 2 divide by 6",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1335,8 +1444,9 @@
   },
   {
     "id": "116A",
-    "name": "Tram",
+    "name": "A Tram",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1346,8 +1456,9 @@
   },
   {
     "id": "2168A2",
-    "name": "Encode and Decode (Hard Version)",
+    "name": "A 2 Encode and Decode Hard Version",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "bitmasks",
       "interactive",
@@ -1359,8 +1470,9 @@
   },
   {
     "id": "2148A",
-    "name": "Sublime Sequence",
+    "name": "A Sublime Sequence",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "hashing",
@@ -1372,8 +1484,9 @@
   },
   {
     "id": "2179C",
-    "name": "Blackslex and Number Theory",
+    "name": "C Blackslex and Number Theory",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation",
       "math",
@@ -1386,8 +1499,9 @@
   },
   {
     "id": "427A",
-    "name": "Police Recruits",
+    "name": "A Police Recruits",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1397,8 +1511,9 @@
   },
   {
     "id": "2183A",
-    "name": "Binary Array Game",
+    "name": "A Binary Array Game",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "games"
     ],
@@ -1408,8 +1523,9 @@
   },
   {
     "id": "451A",
-    "name": "Game With Sticks",
+    "name": "A Game With Sticks",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1419,8 +1535,9 @@
   },
   {
     "id": "2145A",
-    "name": "Candies for Nephews",
+    "name": "A Candies for Nephews",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1430,8 +1547,9 @@
   },
   {
     "id": "677A",
-    "name": "Vanya and Fence",
+    "name": "A Vanya and Fence",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1443,6 +1561,7 @@
     "id": "N/A",
     "name": "100 A B",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1452,8 +1571,9 @@
   },
   {
     "id": "821C",
-    "name": "Okabe and Boxes",
+    "name": "C Okabe and Boxes",
     "rating": 1500,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "greedy",
@@ -1465,8 +1585,9 @@
   },
   {
     "id": "1873A",
-    "name": "Short Sort",
+    "name": "A Short Sort",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation"
@@ -1477,8 +1598,9 @@
   },
   {
     "id": "2166A",
-    "name": "Same Difference",
+    "name": "A Same Difference",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -1490,8 +1612,9 @@
   },
   {
     "id": "500A",
-    "name": "New Year Transportation",
+    "name": "A New Year Transportation",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "dfs and similar",
       "graphs",
@@ -1503,8 +1626,9 @@
   },
   {
     "id": "2144B",
-    "name": "Maximum Cost Permutation",
+    "name": "B Maximum Cost Permutation",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy"
@@ -1515,8 +1639,9 @@
   },
   {
     "id": "2182B",
-    "name": "New Year Cake",
+    "name": "B New Year Cake",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "brute force"
     ],
@@ -1526,8 +1651,9 @@
   },
   {
     "id": "2171A",
-    "name": "Shizuku Hoshikawa and Farm Legs",
+    "name": "A Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -1538,8 +1664,9 @@
   },
   {
     "id": "443A",
-    "name": "Anton and Letters",
+    "name": "A Anton and Letters",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "implementation"
@@ -1550,8 +1677,9 @@
   },
   {
     "id": "706B",
-    "name": "Interesting drink",
+    "name": "B Interesting drink",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "dp",
@@ -1563,8 +1691,9 @@
   },
   {
     "id": "1791C",
-    "name": "Prepend and Append",
+    "name": "C Prepend and Append",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "two pointers"
@@ -1575,8 +1704,9 @@
   },
   {
     "id": "2149B",
-    "name": "Unconventional Pairs",
+    "name": "B Unconventional Pairs",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -1587,8 +1717,9 @@
   },
   {
     "id": "2093B",
-    "name": "Expensive Number",
+    "name": "B Expensive Number",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -1599,8 +1730,9 @@
   },
   {
     "id": "263A",
-    "name": "Beautiful Matrix",
+    "name": "A Beautiful Matrix",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1610,8 +1742,9 @@
   },
   {
     "id": "2149C",
-    "name": "MEX rose",
+    "name": "C MEX rose",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -1621,8 +1754,9 @@
   },
   {
     "id": "2094B",
-    "name": "Bobritto Bandito",
+    "name": "B Bobritto Bandito",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms"
@@ -1633,8 +1767,9 @@
   },
   {
     "id": "489B",
-    "name": "BerSU Ball",
+    "name": "B BerSU Ball",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "dfs and similar",
       "dp",
@@ -1649,8 +1784,9 @@
   },
   {
     "id": "2106B",
-    "name": "St. Chroma",
+    "name": "B St Chroma",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -1662,8 +1798,9 @@
   },
   {
     "id": "1343A",
-    "name": "Candies",
+    "name": "A Candies",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -1674,8 +1811,9 @@
   },
   {
     "id": "144A",
-    "name": "Arrival of the General",
+    "name": "A Arrival of the General",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1685,8 +1823,9 @@
   },
   {
     "id": "41A",
-    "name": "Translation",
+    "name": "A Translation",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -1699,6 +1838,7 @@
     "id": "1880A",
     "name": "A Sorted Identity",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1708,8 +1848,9 @@
   },
   {
     "id": "318A",
-    "name": "Even Odds",
+    "name": "A Even Odds",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1719,8 +1860,9 @@
   },
   {
     "id": "230A",
-    "name": "Dragons",
+    "name": "A Dragons",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -1731,8 +1873,9 @@
   },
   {
     "id": "2178A",
-    "name": "Yes or Yes",
+    "name": "A Yes or Yes 2178",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "greedy",
       "strings"
@@ -1745,6 +1888,7 @@
     "id": "N/A",
     "name": "A AppendAppendAppend",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1754,8 +1898,9 @@
   },
   {
     "id": "133A",
-    "name": "HQ9+",
+    "name": "A HQ 9",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1765,8 +1910,9 @@
   },
   {
     "id": "34B",
-    "name": "Sale",
+    "name": "B Sale",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -1777,8 +1923,9 @@
   },
   {
     "id": "1475A",
-    "name": "Odd Divisor",
+    "name": "A Odd Divisor",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math",
       "number theory"
@@ -1789,8 +1936,9 @@
   },
   {
     "id": "2137C",
-    "name": "Maximum Even Sum",
+    "name": "C Maximum Even Sum",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -1803,8 +1951,9 @@
   },
   {
     "id": "581A",
-    "name": "Vasya the Hipster",
+    "name": "A Vasya the Hipster",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -1815,8 +1964,9 @@
   },
   {
     "id": "2024A",
-    "name": "Profitable Interest Rate",
+    "name": "A Profitable Interest Rate",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -1827,8 +1977,9 @@
   },
   {
     "id": "1352C",
-    "name": "K-th Not Divisible by n",
+    "name": "C K th Not Divisible by n",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "math"
@@ -1839,8 +1990,9 @@
   },
   {
     "id": "1996A",
-    "name": "Legs",
+    "name": "A Legs",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "math",
@@ -1852,8 +2004,9 @@
   },
   {
     "id": "2155A",
-    "name": "El fucho",
+    "name": "A El fucho",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -1864,8 +2017,9 @@
   },
   {
     "id": "630A",
-    "name": "Again Twenty Five!",
+    "name": "A Again Twenty Five",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "number theory"
     ],
@@ -1875,8 +2029,9 @@
   },
   {
     "id": "2160B",
-    "name": "Distinct Elements",
+    "name": "B Distinct Elements",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -1887,8 +2042,9 @@
   },
   {
     "id": "1399A",
-    "name": "Remove Smallest",
+    "name": "A Remove Smallest",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -1899,8 +2055,9 @@
   },
   {
     "id": "2133A",
-    "name": "Redstone?",
+    "name": "A Redstone",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "data structures",
@@ -1913,8 +2070,9 @@
   },
   {
     "id": "2093A",
-    "name": "Ideal Generator",
+    "name": "A Ideal Generator",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1924,8 +2082,9 @@
   },
   {
     "id": "1760A",
-    "name": "Medium Number",
+    "name": "A Medium Number",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings"
@@ -1936,8 +2095,9 @@
   },
   {
     "id": "125B",
-    "name": "Simple XML",
+    "name": "B Simple XML",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1947,8 +2107,9 @@
   },
   {
     "id": "2149A",
-    "name": "Be Positive",
+    "name": "A Be Positive",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1958,8 +2119,9 @@
   },
   {
     "id": "1030A",
-    "name": "In Search of an Easy Problem",
+    "name": "A In Search of an Easy Problem",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1969,8 +2131,9 @@
   },
   {
     "id": "584A",
-    "name": "Olesya and Rodion",
+    "name": "A Olesya and Rodion",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -1980,8 +2143,9 @@
   },
   {
     "id": "1669A",
-    "name": "Division?",
+    "name": "A Division",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -1991,8 +2155,9 @@
   },
   {
     "id": "268A",
-    "name": "Games",
+    "name": "A Games",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force"
     ],
@@ -2002,8 +2167,9 @@
   },
   {
     "id": "271A",
-    "name": "Beautiful Year",
+    "name": "A Beautiful Year",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force"
     ],
@@ -2013,8 +2179,9 @@
   },
   {
     "id": "363B",
-    "name": "Fence",
+    "name": "B Fence",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "dp"
@@ -2025,8 +2192,9 @@
   },
   {
     "id": "2106A",
-    "name": "Dr. TC",
+    "name": "A Dr TC",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -2037,8 +2205,9 @@
   },
   {
     "id": "1553A",
-    "name": "Digits Sum",
+    "name": "A Digits Sum",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math",
       "number theory"
@@ -2049,8 +2218,9 @@
   },
   {
     "id": "2169A",
-    "name": "Alice and Bob",
+    "name": "A Alice and Bob",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -2061,8 +2231,9 @@
   },
   {
     "id": "1498A",
-    "name": "GCD Sum",
+    "name": "A GCD Sum",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -2073,8 +2244,9 @@
   },
   {
     "id": "2176B",
-    "name": "Optimal Shifts",
+    "name": "B Optimal Shifts",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "greedy",
@@ -2086,8 +2258,9 @@
   },
   {
     "id": "208A",
-    "name": "Dubstep",
+    "name": "A Dubstep",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -2097,8 +2270,9 @@
   },
   {
     "id": "2184B",
-    "name": "Hourglass",
+    "name": "B Hourglass",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "math"
     ],
@@ -2108,8 +2282,9 @@
   },
   {
     "id": "755B",
-    "name": "PolandBall and Game",
+    "name": "B PolandBall and Game",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "data structures",
@@ -2124,8 +2299,9 @@
   },
   {
     "id": "405A",
-    "name": "Gravity Flip",
+    "name": "A Gravity Flip",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -2137,8 +2313,9 @@
   },
   {
     "id": "2130A",
-    "name": "Submission is All You Need",
+    "name": "A Submission is All You Need",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -2149,8 +2326,9 @@
   },
   {
     "id": "118A",
-    "name": "String Task",
+    "name": "A String Task",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -2161,8 +2339,9 @@
   },
   {
     "id": "2167D",
-    "name": "Yet Another Array Problem",
+    "name": "D Yet Another Array Problem",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation",
@@ -2175,8 +2354,9 @@
   },
   {
     "id": "2163A",
-    "name": "Souvlaki VS. Kalamaki",
+    "name": "A Souvlaki VS Kalamaki",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2189,8 +2369,9 @@
   },
   {
     "id": "466A",
-    "name": "Cheap Travel",
+    "name": "A Cheap Travel",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2200,8 +2381,9 @@
   },
   {
     "id": "2160C",
-    "name": "Reverse XOR",
+    "name": "C Reverse XOR",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "bitmasks"
     ],
@@ -2211,8 +2393,9 @@
   },
   {
     "id": "1535B",
-    "name": "Array Reodering",
+    "name": "B Array Reodering",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2226,8 +2409,9 @@
   },
   {
     "id": "579A",
-    "name": "Raising Bacteria",
+    "name": "A Raising Bacteria",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "bitmasks"
     ],
@@ -2237,8 +2421,9 @@
   },
   {
     "id": "1669B",
-    "name": "Triple",
+    "name": "B Triple",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings"
@@ -2249,8 +2434,9 @@
   },
   {
     "id": "2170A",
-    "name": "Maximum Neighborhood",
+    "name": "A Maximum Neighborhood",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "brute force",
@@ -2264,8 +2450,9 @@
   },
   {
     "id": "2164B",
-    "name": "Even Modulo Pair",
+    "name": "B Even Modulo Pair",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math",
@@ -2277,8 +2464,9 @@
   },
   {
     "id": "2167A",
-    "name": "Square?",
+    "name": "A Square",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math",
       "sortings"
@@ -2289,8 +2477,9 @@
   },
   {
     "id": "1328A",
-    "name": "Divisibility Problem",
+    "name": "A Divisibility Problem",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -2300,8 +2489,9 @@
   },
   {
     "id": "2157A",
-    "name": "Dungeon Equilibrium",
+    "name": "A Dungeon Equilibrium",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -2313,8 +2503,9 @@
   },
   {
     "id": "1475B",
-    "name": "New Year's Number",
+    "name": "B New Year s Number",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "dp",
@@ -2326,8 +2517,9 @@
   },
   {
     "id": "112A",
-    "name": "Petya and Strings",
+    "name": "A Petya and Strings",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -2340,6 +2532,7 @@
     "id": "N/A",
     "name": "A Range Minimum Query",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2349,8 +2542,9 @@
   },
   {
     "id": "2139B",
-    "name": "Cake Collection",
+    "name": "B Cake Collection",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -2360,8 +2554,9 @@
   },
   {
     "id": "1154A",
-    "name": "Restoring Three Numbers",
+    "name": "A Restoring Three Numbers",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -2371,8 +2566,9 @@
   },
   {
     "id": "977A",
-    "name": "Wrong Subtraction",
+    "name": "A Wrong Subtraction",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2382,8 +2578,9 @@
   },
   {
     "id": "1791A",
-    "name": "Codeforces Checking",
+    "name": "A Codeforces Checking",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -2394,8 +2591,9 @@
   },
   {
     "id": "1873B",
-    "name": "Good Kid",
+    "name": "B Good Kid",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2407,8 +2605,9 @@
   },
   {
     "id": "1899A",
-    "name": "Game with Integers",
+    "name": "A Game with Integers",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "games",
       "math",
@@ -2420,8 +2619,9 @@
   },
   {
     "id": "131A",
-    "name": "cAPS lOCK",
+    "name": "A cAPS lOCK",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -2432,8 +2632,9 @@
   },
   {
     "id": "2169B",
-    "name": "Drifting Away",
+    "name": "B Drifting Away",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -2444,8 +2645,9 @@
   },
   {
     "id": "2137A",
-    "name": "Collatz Conjecture",
+    "name": "A Collatz Conjecture",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "math"
@@ -2456,8 +2658,9 @@
   },
   {
     "id": "2183B",
-    "name": "Yet Another MEX Problem",
+    "name": "B Yet Another MEX Problem",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "constructive algorithms",
       "greedy"
@@ -2468,8 +2671,9 @@
   },
   {
     "id": "2074A",
-    "name": "Draw a Square",
+    "name": "A Draw a Square",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "geometry",
       "implementation"
@@ -2480,8 +2684,9 @@
   },
   {
     "id": "1676A",
-    "name": "Lucky?",
+    "name": "A Lucky",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2491,8 +2696,9 @@
   },
   {
     "id": "2106C",
-    "name": "Cherry Bomb",
+    "name": "C Cherry Bomb",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math",
@@ -2504,8 +2710,9 @@
   },
   {
     "id": "1095C",
-    "name": "Powers Of Two",
+    "name": "C Powers Of Two",
     "rating": 1400,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "greedy"
@@ -2516,8 +2723,9 @@
   },
   {
     "id": "337A",
-    "name": "Puzzles",
+    "name": "A Puzzles",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -2527,8 +2735,9 @@
   },
   {
     "id": "2050A",
-    "name": "Line Breaks",
+    "name": "A Line Breaks",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2538,8 +2747,9 @@
   },
   {
     "id": "456A",
-    "name": "Laptops",
+    "name": "A Laptops",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "sortings"
     ],
@@ -2551,6 +2761,7 @@
     "id": "2166C",
     "name": "C Cyclic Merging",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2560,8 +2771,9 @@
   },
   {
     "id": "1999C",
-    "name": "Showering",
+    "name": "C Showering",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -2572,8 +2784,9 @@
   },
   {
     "id": "742A",
-    "name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "name": "A Arpa s hard exam and Mehrdad s naive cheat",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math",
@@ -2585,8 +2798,9 @@
   },
   {
     "id": "71A",
-    "name": "Way Too Long Words",
+    "name": "A Way Too Long Words",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -2596,8 +2810,9 @@
   },
   {
     "id": "2167C",
-    "name": "Isamatdin and His Magic Wand!",
+    "name": "C Isamatdin and His Magic Wand",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -2610,8 +2825,9 @@
   },
   {
     "id": "2167B",
-    "name": "Your Name",
+    "name": "B Your Name",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "sortings",
       "strings"
@@ -2622,8 +2838,9 @@
   },
   {
     "id": "2158B",
-    "name": "Split",
+    "name": "B Split",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -2635,8 +2852,9 @@
   },
   {
     "id": "2171B",
-    "name": "Yuu Koito and Minimum Absolute Sum",
+    "name": "B Yuu Koito and Minimum Absolute Sum",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -2646,8 +2864,9 @@
   },
   {
     "id": "2000B",
-    "name": "Seating in a Bus",
+    "name": "B Seating in a Bus",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "two pointers"
     ],
@@ -2657,8 +2876,9 @@
   },
   {
     "id": "492A",
-    "name": "Vanya and Cubes",
+    "name": "A Vanya and Cubes",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2668,8 +2888,9 @@
   },
   {
     "id": "2093C",
-    "name": "Simple Repetition",
+    "name": "C Simple Repetition",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "math",
       "number theory"
@@ -2680,8 +2901,9 @@
   },
   {
     "id": "1742B",
-    "name": "Increasing",
+    "name": "B Increasing",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -2693,8 +2915,9 @@
   },
   {
     "id": "26B",
-    "name": "Regular Bracket Sequence",
+    "name": "B Regular Bracket Sequence",
     "rating": 1400,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -2704,8 +2927,9 @@
   },
   {
     "id": "1850D",
-    "name": "Balanced Round",
+    "name": "D Balanced Round",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2718,8 +2942,9 @@
   },
   {
     "id": "1452C",
-    "name": "Two Brackets",
+    "name": "C Two Brackets",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -2729,8 +2954,9 @@
   },
   {
     "id": "996A",
-    "name": "Hit the Lottery",
+    "name": "A Hit the Lottery",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy"
@@ -2741,8 +2967,9 @@
   },
   {
     "id": "2130B",
-    "name": "Pathless",
+    "name": "B Pathless",
     "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms"
     ],
@@ -2752,8 +2979,9 @@
   },
   {
     "id": "379A",
-    "name": "New Year Candles",
+    "name": "A New Year Candles",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2763,8 +2991,9 @@
   },
   {
     "id": "1335A",
-    "name": "Candies and Two Sisters",
+    "name": "A Candies and Two Sisters",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -2774,8 +3003,9 @@
   },
   {
     "id": "148A",
-    "name": "Insomnia cure",
+    "name": "A Insomnia cure",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "implementation",
@@ -2787,8 +3017,9 @@
   },
   {
     "id": "1807D",
-    "name": "Odd Queries",
+    "name": "D Odd Queries",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "implementation"
@@ -2799,8 +3030,9 @@
   },
   {
     "id": "4C",
-    "name": "Registration System",
+    "name": "C Registration system",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "hashing",
@@ -2812,8 +3044,9 @@
   },
   {
     "id": "732A",
-    "name": "Buy a Shovel",
+    "name": "A Buy a Shovel",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms",
@@ -2826,8 +3059,9 @@
   },
   {
     "id": "580A",
-    "name": "Kefa and First Steps",
+    "name": "A Kefa and First Steps",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "dp",
@@ -2839,8 +3073,9 @@
   },
   {
     "id": "791A",
-    "name": "Bear and Big Brother",
+    "name": "A Bear and Big Brother",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2850,8 +3085,9 @@
   },
   {
     "id": "2140A",
-    "name": "Shift Sort",
+    "name": "A Shift Sort",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -2862,8 +3098,9 @@
   },
   {
     "id": "158A",
-    "name": "Next Round",
+    "name": "A Domino piling",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "*special",
       "implementation"
@@ -2874,8 +3111,9 @@
   },
   {
     "id": "1374C",
-    "name": "Move Brackets",
+    "name": "C Move Brackets",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "strings"
@@ -2886,8 +3124,9 @@
   },
   {
     "id": "228A",
-    "name": "Is your horseshoe on the other hoof?",
+    "name": "A Is your horseshoe on the other hoof",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2897,8 +3136,9 @@
   },
   {
     "id": "1807A",
-    "name": "Plus or Minus",
+    "name": "A Plus or Minus",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2908,8 +3148,9 @@
   },
   {
     "id": "136A",
-    "name": "Presents",
+    "name": "A Presents",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -2919,8 +3160,9 @@
   },
   {
     "id": "1676C",
-    "name": "Most Similar Words",
+    "name": "C Most Similar Words",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2935,8 +3177,9 @@
   },
   {
     "id": "231A",
-    "name": "Team",
+    "name": "A Team",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy"
@@ -2947,8 +3190,9 @@
   },
   {
     "id": "2168A1",
-    "name": "Encode and Decode (Easy Version)",
+    "name": "A 1 Encode and Decode Easy Version",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "constructive algorithms",
       "interactive"
@@ -2959,8 +3203,9 @@
   },
   {
     "id": "2044A",
-    "name": "Easy Problem",
+    "name": "A Easy Problem",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -2971,8 +3216,9 @@
   },
   {
     "id": "1676B",
-    "name": "Equal Candies",
+    "name": "B Equal Candies",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math",
@@ -2984,8 +3230,9 @@
   },
   {
     "id": "1791B",
-    "name": "Following Directions",
+    "name": "B Following Directions",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "geometry",
       "implementation"
@@ -2996,8 +3243,9 @@
   },
   {
     "id": "1999A",
-    "name": "A+B Again?",
+    "name": "A A B Again",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -3008,8 +3256,9 @@
   },
   {
     "id": "1926A",
-    "name": "Vlad and the Best of Five",
+    "name": "A Vlad and the Best of Five",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -3019,8 +3268,9 @@
   },
   {
     "id": "2179A",
-    "name": "Blackslex and Password",
+    "name": "A Blackslex and Password",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "math",
       "strings"
@@ -3031,8 +3281,9 @@
   },
   {
     "id": "509A",
-    "name": "Maximum in Table",
+    "name": "A Maximum in Table",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation"
@@ -3043,8 +3294,9 @@
   },
   {
     "id": "2182A",
-    "name": "New Year String",
+    "name": "A New Year String",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -3059,6 +3311,7 @@
     "id": "N/A",
     "name": "B Worms",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3068,8 +3321,9 @@
   },
   {
     "id": "2149D",
-    "name": "A and B",
+    "name": "D A and B",
     "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -3079,8 +3333,9 @@
   },
   {
     "id": "1913A",
-    "name": "Rating Increase",
+    "name": "A Rating Increase",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -3090,8 +3345,9 @@
   },
   {
     "id": "96A",
-    "name": "Football",
+    "name": "A Football",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "strings"
@@ -3102,8 +3358,9 @@
   },
   {
     "id": "230B",
-    "name": "T-primes",
+    "name": "B T primes",
     "rating": 1300,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "implementation",
@@ -3116,8 +3373,9 @@
   },
   {
     "id": "1883B",
-    "name": "Chemistry",
+    "name": "B Chemistry",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "strings"
     ],
@@ -3127,8 +3385,9 @@
   },
   {
     "id": "2184A",
-    "name": "Social Experiment",
+    "name": "A Social Experiment",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "math"
     ],
@@ -3138,8 +3397,9 @@
   },
   {
     "id": "469A",
-    "name": "I Wanna Be the Guy",
+    "name": "A I Wanna Be the Guy",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -3150,8 +3410,9 @@
   },
   {
     "id": "2036B",
-    "name": "Startup",
+    "name": "B Startup",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -3162,8 +3423,9 @@
   },
   {
     "id": "2166B",
-    "name": "Tab Closing",
+    "name": "B Tab Closing",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -3173,8 +3435,9 @@
   },
   {
     "id": "1494A",
-    "name": "ABC String",
+    "name": "A ABC String",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "brute force",
@@ -3186,8 +3449,9 @@
   },
   {
     "id": "2156A",
-    "name": "Pizza Time",
+    "name": "A Pizza Time",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "constructive algorithms",
@@ -3199,8 +3463,9 @@
   },
   {
     "id": "58A",
-    "name": "Chat room",
+    "name": "A Chat room",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "strings"
@@ -3211,8 +3476,9 @@
   },
   {
     "id": "110A",
-    "name": "Nearly Lucky Number",
+    "name": "A Nearly Lucky Number",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -3222,8 +3488,9 @@
   },
   {
     "id": "2184C",
-    "name": "Huge Pile",
+    "name": "C Huge Pile",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "binary search",
       "dfs and similar",
@@ -3237,8 +3504,9 @@
   },
   {
     "id": "510A",
-    "name": "Fox And Snake",
+    "name": "A Fox And Snake",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -3248,8 +3516,9 @@
   },
   {
     "id": "339B",
-    "name": "Xenia and Ringroad",
+    "name": "B Xenia and Ringroad",
     "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "implementation"
     ],
@@ -3259,8 +3528,9 @@
   },
   {
     "id": "2171C2",
-    "name": "Renako Amaori and XOR Game (hard version)",
+    "name": "C 2 Renako Amaori and XOR Game hard version",
     "rating": 1400,
+    "rating_source": "api",
     "tags": [
       "bitmasks",
       "games",
@@ -3272,8 +3542,9 @@
   },
   {
     "id": "2167G",
-    "name": "Mukhammadali and the Smooth Array",
+    "name": "G Mukhammadali and the Smooth Array",
     "rating": 1600,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "dp"
@@ -3284,8 +3555,9 @@
   },
   {
     "id": "339A",
-    "name": "Helpful Maths",
+    "name": "A Helpful Maths",
     "rating": 800,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -3298,8 +3570,9 @@
   },
   {
     "id": "1878C",
-    "name": "Vasilije in Cacak",
+    "name": "C Vasilije in Cacak",
     "rating": 900,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -3311,6 +3584,7 @@
     "id": "N/A",
     "name": "ZA Subarray Sums I",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3322,6 +3596,7 @@
     "id": "105940I",
     "name": "I The Youngest in ASZoo",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3333,6 +3608,7 @@
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3344,6 +3620,7 @@
     "id": "105940G",
     "name": "G Cheetahs Hunting Deers Easy",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3355,6 +3632,7 @@
     "id": "105981C",
     "name": "C Echoes of the Runes",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3366,6 +3644,7 @@
     "id": "643604A",
     "name": "A Free Palestine",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3377,6 +3656,7 @@
     "id": "219158S",
     "name": "S Interval",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3388,6 +3668,7 @@
     "id": "219432S",
     "name": "S Sum of Consecutive Odd Numbers",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3399,6 +3680,7 @@
     "id": "219158U",
     "name": "U Float or int",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3410,6 +3692,7 @@
     "id": "219432E",
     "name": "E Max",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3421,6 +3704,7 @@
     "id": "219158W",
     "name": "W Mathematical Expression",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3432,6 +3716,7 @@
     "id": "219158N",
     "name": "N Char",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3443,6 +3728,7 @@
     "id": "219158E",
     "name": "E Area of a Circle",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3454,6 +3740,7 @@
     "id": "219432Q",
     "name": "Q Digits",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3465,6 +3752,7 @@
     "id": "219158B",
     "name": "B Basic Data Types",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3476,6 +3764,7 @@
     "id": "219432K",
     "name": "K Divisors",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3487,6 +3776,7 @@
     "id": "219158I",
     "name": "I Welcome for you with Conditions",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3498,6 +3788,7 @@
     "id": "219432H",
     "name": "H One Prime",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3509,6 +3800,7 @@
     "id": "219432D",
     "name": "D Fixed Password",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3520,6 +3812,7 @@
     "id": "219158L",
     "name": "L The Brothers",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3531,6 +3824,7 @@
     "id": "643604C",
     "name": "C Resistors in Parallel",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3542,6 +3836,7 @@
     "id": "219432L",
     "name": "L GCD",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3553,6 +3848,7 @@
     "id": "219432M",
     "name": "M Lucky Numbers",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3564,6 +3860,7 @@
     "id": "219432A",
     "name": "A 1 to N",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3575,6 +3872,7 @@
     "id": "219432P",
     "name": "P Shape 1",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3586,6 +3884,7 @@
     "id": "219158T",
     "name": "T Sort Numbers",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3597,6 +3896,7 @@
     "id": "219158J",
     "name": "J Multiples",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3608,6 +3908,7 @@
     "id": "219158O",
     "name": "O Calculator",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3619,6 +3920,7 @@
     "id": "219158F",
     "name": "F Digits Summation",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3630,6 +3932,7 @@
     "id": "219158H",
     "name": "H Two numbers",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3641,6 +3944,7 @@
     "id": "219432I",
     "name": "I Palindrome",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3652,6 +3956,7 @@
     "id": "219158G",
     "name": "G Summation from 1 to N",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3663,6 +3968,7 @@
     "id": "219158Y",
     "name": "Y The last 2 digits",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3674,6 +3980,7 @@
     "id": "326175D",
     "name": "D Ali Baba and Puzzles",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3685,6 +3992,7 @@
     "id": "645209C",
     "name": "C Journey",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3696,6 +4004,7 @@
     "id": "326175A",
     "name": "A Winter Sale",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3707,6 +4016,7 @@
     "id": "219432B",
     "name": "B Even Numbers",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3718,6 +4028,7 @@
     "id": "219432N",
     "name": "N Numbers Histogram",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3729,6 +4040,7 @@
     "id": "219158A",
     "name": "A Say Hello With C",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3740,6 +4052,7 @@
     "id": "326175E",
     "name": "E Interval Sweep",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3751,6 +4064,7 @@
     "id": "219432R",
     "name": "R Sequence of Numbers and Sum",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3762,6 +4076,7 @@
     "id": "219158D",
     "name": "D Difference",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3773,6 +4088,7 @@
     "id": "219432C",
     "name": "C Even Odd Positive and Negative",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3784,6 +4100,7 @@
     "id": "219158R",
     "name": "R Age in Days",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3795,6 +4112,7 @@
     "id": "326175F",
     "name": "F Adding Bits",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3806,6 +4124,7 @@
     "id": "326175C",
     "name": "C Next Alphabet",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3817,6 +4136,7 @@
     "id": "219158Q",
     "name": "Q Coordinates of a Point",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3828,6 +4148,7 @@
     "id": "326175G",
     "name": "G Katryoshka",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3839,6 +4160,7 @@
     "id": "326175H",
     "name": "H Data Type Guessing",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3850,6 +4172,7 @@
     "id": "645209B",
     "name": "B Coin Transformation",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3861,6 +4184,7 @@
     "id": "219432J",
     "name": "J Primes from 1 to n",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3872,6 +4196,7 @@
     "id": "219432F",
     "name": "F Multiplication table",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3883,6 +4208,7 @@
     "id": "219158V",
     "name": "V Comparison",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3894,6 +4220,7 @@
     "id": "643604B",
     "name": "B Ski Sum",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3905,6 +4232,7 @@
     "id": "219158P",
     "name": "P First digit",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3916,6 +4244,7 @@
     "id": "326175I",
     "name": "I Lucky Numbers",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3927,6 +4256,7 @@
     "id": "219158C",
     "name": "C Simple Calculator",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3938,6 +4268,7 @@
     "id": "219432O",
     "name": "O Pyramid",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3949,6 +4280,7 @@
     "id": "219432U",
     "name": "U Some Sums",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3960,6 +4292,7 @@
     "id": "219158M",
     "name": "M Capital or Small or Digit",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3971,6 +4304,7 @@
     "id": "643604F",
     "name": "F New Year and Hurry",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3982,6 +4316,7 @@
     "id": "219432G",
     "name": "G Factorial",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3993,6 +4328,7 @@
     "id": "326175B",
     "name": "B Memo and Momo",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4004,6 +4340,7 @@
     "id": "219158Z",
     "name": "Z Hard Compare",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4015,6 +4352,7 @@
     "id": "643604E",
     "name": "E The New Year Meeting Friends",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4026,6 +4364,7 @@
     "id": "219158X",
     "name": "X Two intervals",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4037,6 +4376,7 @@
     "id": "219158K",
     "name": "K Max and Min",
     "rating": 900,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4048,6 +4388,7 @@
     "id": "645209A",
     "name": "A I m an easy problem",
     "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
