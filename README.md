@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-341-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-342-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 341
+**Total Problems Solved:** 342
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 198 |
-| 900 | 71 |
+| 900 | 72 |
 | 1000 | 28 |
 | 1100 | 14 |
 | 1200 | 11 |
@@ -50,7 +50,7 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
-| greedy | 90 |
+| greedy | 91 |
 | hashing | 3 |
 | implementation | 204 |
 | interactive | 2 |
@@ -145,6 +145,7 @@
 | 96A | A Football | 900 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/96/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Football.cpp) |
 | 598A | A Tricky Sum | 900 | `math` | [View](https://codeforces.com/problemset/problem/598/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tricky_Sum.cpp) |
 | 580A | A Kefa and First Steps | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/580/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kefa_and_First_Steps.cpp) |
+| 556A | A Case of the Zeros and Ones | 900 | `greedy` | [View](https://codeforces.com/contest/556/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Case_of_the_Zeros_and_Ones.cpp) |
 | 474A | A Keyboard | 900 | `implementation` | [View](https://codeforces.com/contest/474/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Keyboard.cpp) |
 | 460A | A Vasya and Socks | 900 | `brute force`, `implementation`, ... | [View](https://codeforces.com/contest/460/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vasya_and_Socks.cpp) |
 | 451A | A Game With Sticks | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/451/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_With_Sticks.cpp) |

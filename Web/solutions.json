@@ -2230,6 +2230,18 @@
     "filename": "A_Alice_and_Bob.cpp"
   },
   {
+    "id": "556A",
+    "name": "A Case of the Zeros and Ones",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/556/problem/A",
+    "sol_path": "Solutions/A_Case_of_the_Zeros_and_Ones.cpp",
+    "filename": "A_Case_of_the_Zeros_and_Ones.cpp"
+  },
+  {
     "id": "1498A",
     "name": "A GCD Sum",
     "rating": 800,
