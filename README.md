@@ -388,8 +388,8 @@
 | 1669C | C Odd Even Increments | 800 | `greedy`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1669/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Odd_Even_Increments.cpp) |
 | 1669B | B Triple | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1669/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Triple.cpp) |
 | 1669A | A Division | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1669/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Division.cpp) |
-| 158A | A Domino piling | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Domino_piling.cpp) |
 | 158A | A Next Round | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Next_Round.cpp) |
+| 158A | A Domino piling | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Domino_piling.cpp) |
 | 155A | A I love username | 800 | `brute force` | [View](https://codeforces.com/problemset/problem/155/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_I_love_username.cpp) |
 | 1553A | A Digits Sum | 800 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1553/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Digits_Sum.cpp) |
 | 151A | A Soft Drinking | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/151/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soft_Drinking.cpp) |
