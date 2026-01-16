@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-344-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-345-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 344
+**Total Problems Solved:** 345
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -25,7 +25,7 @@
 | 800 | 198 |
 | 900 | 74 |
 | 1000 | 28 |
-| 1100 | 14 |
+| 1100 | 15 |
 | 1200 | 11 |
 | 1300 | 12 |
 | 1400 | 4 |
@@ -45,14 +45,14 @@
 | constructive algorithms | 26 |
 | data structures | 11 |
 | dfs and similar | 3 |
-| dp | 17 |
+| dp | 18 |
 | games | 8 |
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
 | greedy | 92 |
 | hashing | 3 |
-| implementation | 204 |
+| implementation | 205 |
 | interactive | 2 |
 | math | 92 |
 | number theory | 15 |
@@ -102,6 +102,7 @@
 | 706B | B Interesting drink | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/706/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Interesting_drink.cpp) |
 | 456A | A Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | B Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
+| 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
 | 2173B | B Niko s Tactical Cards | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
 | 2171C1 | C 1 Renako Amaori and XOR Game easy version | 1100 | `bitmasks`, `games`, ... | [View](https://codeforces.com/problemset/problem/2171/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp) |
 | 2169B | B Drifting Away | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |

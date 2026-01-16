@@ -3329,6 +3329,19 @@
     "filename": "A_Maximum_in_Table.cpp"
   },
   {
+    "id": "313B",
+    "name": "B Ilya and Queries",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "dp",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/313/problem/B",
+    "sol_path": "Solutions/B_Ilya_and_Queries.cpp",
+    "filename": "B_Ilya_and_Queries.cpp"
+  },
+  {
     "id": "2182A",
     "name": "A New Year String",
     "rating": 800,
