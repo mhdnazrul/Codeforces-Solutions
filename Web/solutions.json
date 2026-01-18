@@ -296,6 +296,19 @@
     "filename": "A_Ultra_Fast_Mathematician.cpp"
   },
   {
+    "id": "2191B",
+    "name": "B MEX Reordering",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2191/problem/B",
+    "sol_path": "Solutions/B_MEX_Reordering.cpp",
+    "filename": "B_MEX_Reordering.cpp"
+  },
+  {
     "id": "2169C",
     "name": "C Range Operation",
     "rating": 1300,
@@ -858,6 +871,18 @@
     "q_link": "https://codeforces.com/contest/2172/problem/A",
     "sol_path": "Solutions/A_ASCII_Art_Contest.cpp",
     "filename": "A_ASCII_Art_Contest.cpp"
+  },
+  {
+    "id": "2191A",
+    "name": "A Array Coloring",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/contest/2191/problem/A",
+    "sol_path": "Solutions/A_Array_Coloring.cpp",
+    "filename": "A_Array_Coloring.cpp"
   },
   {
     "id": "189B",
@@ -1441,6 +1466,18 @@
     "q_link": "https://codeforces.com/problemset/problem/1669/C",
     "sol_path": "Solutions/C_Odd_Even_Increments.cpp",
     "filename": "C_Odd_Even_Increments.cpp"
+  },
+  {
+    "id": "2191D1",
+    "name": "D 1 Sub RBS Easy Version",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2191/problem/D1",
+    "sol_path": "Solutions/D_1_Sub_RBS_Easy_Version.cpp",
+    "filename": "D_1_Sub_RBS_Easy_Version.cpp"
   },
   {
     "id": "1374B",
@@ -2975,6 +3012,18 @@
     "q_link": "https://codeforces.com/problemset/problem/1850/D",
     "sol_path": "Solutions/D_Balanced_Round.cpp",
     "filename": "D_Balanced_Round.cpp"
+  },
+  {
+    "id": "2191C",
+    "name": "C Sorting Game",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2191/problem/C",
+    "sol_path": "Solutions/C_Sorting_Game.cpp",
+    "filename": "C_Sorting_Game.cpp"
   },
   {
     "id": "1452C",

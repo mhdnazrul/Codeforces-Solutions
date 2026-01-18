@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-345-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-349-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 345
+**Total Problems Solved:** 349
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 198 |
+| 800 | 202 |
 | 900 | 74 |
 | 1000 | 28 |
 | 1100 | 15 |
@@ -42,7 +42,7 @@
 | bitmasks | 11 |
 | brute force | 52 |
 | combinatorics | 1 |
-| constructive algorithms | 26 |
+| constructive algorithms | 28 |
 | data structures | 11 |
 | dfs and similar | 3 |
 | dp | 18 |
@@ -52,12 +52,12 @@
 | graphs | 3 |
 | greedy | 92 |
 | hashing | 3 |
-| implementation | 205 |
+| implementation | 207 |
 | interactive | 2 |
 | math | 92 |
 | number theory | 15 |
 | shortest paths | 2 |
-| sortings | 35 |
+| sortings | 36 |
 | strings | 41 |
 | ternary search | 1 |
 | trees | 1 |
@@ -286,6 +286,10 @@
 | 219432C | C Even Odd Positive and Negative | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Even_Odd_Positive_and_Negative.cpp) |
 | 219432B | B Even Numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Even_Numbers.cpp) |
 | 219432A | A 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_1_to_N.cpp) |
+| 2191D1 | D 1 Sub RBS Easy Version | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/D1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_1_Sub_RBS_Easy_Version.cpp) |
+| 2191C | C Sorting Game | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Sorting_Game.cpp) |
+| 2191B | B MEX Reordering | 800 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
+| 2191A | A Array Coloring | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2191/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
 | 219158H | H Two numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_Two_numbers.cpp) |
 | 219158G | G Summation from 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Summation_from_1_to_N.cpp) |
 | 219158F | F Digits Summation | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/F_Digits_Summation.cpp) |
