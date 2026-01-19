@@ -182,6 +182,53 @@
     "filename": "A_Equal_Occurrences.cpp"
   },
   {
+    "id": "2185A",
+    "name": "A Perfect Root",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "2-sat",
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "expression parsing",
+      "fft",
+      "flows",
+      "games",
+      "geometry",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "hashing",
+      "implementation",
+      "interactive",
+      "math",
+      "matrices",
+      "meet-in-the-middle",
+      "number theory",
+      "probabilities",
+      "schedules",
+      "shortest paths",
+      "sortings",
+      "string suffix structures",
+      "strings",
+      "ternary search",
+      "trees",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/contest/2185/problem/A",
+    "sol_path": "Solutions/A_Perfect_Root.cpp",
+    "filename": "A_Perfect_Root.cpp"
+  },
+  {
     "id": "1927B",
     "name": "B Following the String",
     "rating": 900,
@@ -625,6 +672,19 @@
     "filename": "B_Comparison_String.cpp"
   },
   {
+    "id": "2185C",
+    "name": "C Shifted MEX",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2185/problem/C",
+    "sol_path": "Solutions/C_Shifted_MEX.cpp",
+    "filename": "C_Shifted_MEX.cpp"
+  },
+  {
     "id": "460A",
     "name": "A Vasya and Socks",
     "rating": 900,
@@ -1051,6 +1111,18 @@
     "filename": "C_Beautiful_XOR.cpp"
   },
   {
+    "id": "2185B",
+    "name": "B Prefix Max",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2185/problem/B",
+    "sol_path": "Solutions/B_Prefix_Max.cpp",
+    "filename": "B_Prefix_Max.cpp"
+  },
+  {
     "id": "1720B",
     "name": "B Interesting Sum",
     "rating": 800,
@@ -1413,6 +1485,21 @@
     "filename": "B_Lady_Bug.cpp"
   },
   {
+    "id": "2185D",
+    "name": "D OutOfMemoryError",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/contest/2185/problem/D",
+    "sol_path": "Solutions/D_OutOfMemoryError.cpp",
+    "filename": "D_OutOfMemoryError.cpp"
+  },
+  {
     "id": "451B",
     "name": "B Sort the Array",
     "rating": 1300,
@@ -1466,18 +1553,6 @@
     "q_link": "https://codeforces.com/problemset/problem/1669/C",
     "sol_path": "Solutions/C_Odd_Even_Increments.cpp",
     "filename": "C_Odd_Even_Increments.cpp"
-  },
-  {
-    "id": "2191D1",
-    "name": "D 1 Sub RBS Easy Version",
-    "rating": 800,
-    "rating_source": "fallback",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/2191/problem/D1",
-    "sol_path": "Solutions/D_1_Sub_RBS_Easy_Version.cpp",
-    "filename": "D_1_Sub_RBS_Easy_Version.cpp"
   },
   {
     "id": "1374B",

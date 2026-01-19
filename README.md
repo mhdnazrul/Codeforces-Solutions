@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-349-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-352-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 349
+**Total Problems Solved:** 352
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 202 |
+| 800 | 205 |
 | 900 | 74 |
 | 1000 | 28 |
 | 1100 | 15 |
@@ -38,30 +38,42 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 11 |
-| bitmasks | 11 |
-| brute force | 52 |
-| combinatorics | 1 |
-| constructive algorithms | 28 |
-| data structures | 11 |
-| dfs and similar | 3 |
-| dp | 18 |
-| games | 8 |
-| geometry | 2 |
-| graph matchings | 2 |
-| graphs | 3 |
-| greedy | 92 |
-| hashing | 3 |
-| implementation | 207 |
-| interactive | 2 |
-| math | 92 |
-| number theory | 15 |
-| shortest paths | 2 |
-| sortings | 36 |
-| strings | 41 |
-| ternary search | 1 |
-| trees | 1 |
-| two pointers | 11 |
+| 2-sat | 1 |
+| binary search | 12 |
+| bitmasks | 12 |
+| brute force | 53 |
+| chinese remainder theorem | 1 |
+| combinatorics | 2 |
+| constructive algorithms | 29 |
+| data structures | 13 |
+| dfs and similar | 4 |
+| divide and conquer | 1 |
+| dp | 19 |
+| dsu | 1 |
+| expression parsing | 1 |
+| fft | 1 |
+| flows | 1 |
+| games | 9 |
+| geometry | 3 |
+| graph matchings | 3 |
+| graphs | 4 |
+| greedy | 94 |
+| hashing | 4 |
+| implementation | 209 |
+| interactive | 3 |
+| math | 94 |
+| matrices | 1 |
+| meet-in-the-middle | 1 |
+| number theory | 16 |
+| probabilities | 1 |
+| schedules | 1 |
+| shortest paths | 3 |
+| sortings | 38 |
+| string suffix structures | 1 |
+| strings | 42 |
+| ternary search | 2 |
+| trees | 2 |
+| two pointers | 13 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -286,7 +298,6 @@
 | 219432C | C Even Odd Positive and Negative | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Even_Odd_Positive_and_Negative.cpp) |
 | 219432B | B Even Numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Even_Numbers.cpp) |
 | 219432A | A 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_1_to_N.cpp) |
-| 2191D1 | D 1 Sub RBS Easy Version | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/D1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_1_Sub_RBS_Easy_Version.cpp) |
 | 2191C | C Sorting Game | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Sorting_Game.cpp) |
 | 2191B | B MEX Reordering | 800 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
 | 2191A | A Array Coloring | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2191/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
@@ -298,6 +309,10 @@
 | 219158C | C Simple Calculator | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Simple_Calculator.cpp) |
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
+| 2185D | D OutOfMemoryError | 800 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
+| 2185C | C Shifted MEX | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2185/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Shifted_MEX.cpp) |
+| 2185B | B Prefix Max | 800 | `greedy` | [View](https://codeforces.com/contest/2185/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Prefix_Max.cpp) |
+| 2185A | A Perfect Root | 800 | `2-sat`, `binary search`, ... | [View](https://codeforces.com/contest/2185/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Perfect_Root.cpp) |
 | 2184C | C Huge Pile | 800 | `binary search`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2184/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Huge_Pile.cpp) |
 | 2184B | B Hourglass | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Hourglass.cpp) |
 | 2184A | A Social Experiment | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Social_Experiment.cpp) |
