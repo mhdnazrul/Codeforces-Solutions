@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/contest/2191/problem/D1
+  │Problem Link: https://codeforces.com/contest/2185/problem/C
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -22,37 +22,19 @@ template<typename T> void outV(const vector<T>& v) {if (v.empty()) return;
     for (int i = 0; i < sz(v); ++i)cout << v[i] << " \n"[i == sz(v) - 1];}
 
 void run_case(){
-    int n;          cin >> n;
-    string s;       cin >> s;
-    stack<int> st;
-    vector<int> v(n);
-    for (int i = 0; i < n; i++) {
-        if (s[i] == '(') {
-            st.push(i);
-        } else {
-            int lf = st.top();
-            st.pop();
-            v[lf] = i;
-        }
+    int n;    cin >> n;
+    vi a(n);  inV(a);
+    sort(all(a));
+    a.erase(unique(all(a)), a.end());
+    int mx = 0, curr = 0;
+    //outV(a);
+    for (int i = 0; i < a.size(); ++i) {
+        if (i > 0 && a[i] == a[i - 1] + 1)curr++;
+        else curr = 1;
+        mx = max(mx, curr);
     }
-    int mn = 1e9;
-    bool ok = 0;
 
-    int lnt = 0;
-    for (int i = 0; i < n; i++) {
-        if (s[i] == '(') {
-            int lt = i;
-            int rt = v[i];
-            int ln = rt - lt + 1;
-            if (lnt > 0 && rt + 1 < n && s[rt + 1] == '(') {
-                mn = min(mn, ln);
-                ok = 1;
-            }            
-            lnt++;
-        } else lnt--;
-    }
-    if(!ok) cout<<-1<<nl;
-    else cout<<n-mn<<nl;
+    cout<<(a.empty() ? 0 : mx)<<nl;
 }
 
 int32_t main(){
@@ -62,4 +44,3 @@ int32_t main(){
     while(T--)        run_case();
     return 0;
 }
-
