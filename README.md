@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-355-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-356-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 355
+**Total Problems Solved:** 356
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 205 |
-| 900 | 75 |
+| 900 | 76 |
 | 1000 | 29 |
 | 1100 | 16 |
 | 1200 | 11 |
@@ -52,9 +52,9 @@
 | graphs | 3 |
 | greedy | 94 |
 | hashing | 3 |
-| implementation | 208 |
+| implementation | 209 |
 | interactive | 2 |
-| math | 96 |
+| math | 97 |
 | number theory | 15 |
 | shortest paths | 2 |
 | sortings | 37 |
@@ -113,7 +113,7 @@
 | 2130B | B Pathless | 1100 | `constructive algorithms` | [View](https://codeforces.com/contest/2130/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Pathless.cpp) |
 | 2065C1 | C 1 Skibidus and Fanum Tax easy version | 1100 | `binary search`, `dp`, ... | [View](https://codeforces.com/contest/2065/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp) |
 | 158B | B Taxi | 1100 | `*special`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/158/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Taxi.cpp) |
-| 1327A | A Sum of Odd Integers | 1100 | `math` | [View](https://codeforces.com/problemset/problem/1327/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Odd_Integers.cpp) |
+| 1327A | A Sum of Odd Integers | 1100 | `math` | [View](https://codeforces.com/contest/1327/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Odd_Integers.cpp) |
 | 742A | A Arpa s hard exam and Mehrdad s naive cheat | 1000 | `implementation`, `math`, ... | [View](https://codeforces.com/problemset/problem/742/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp) |
 | 58A | A Chat room | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/58/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chat_room.cpp) |
 | 584A | A Olesya and Rodion | 1000 | `math` | [View](https://codeforces.com/problemset/problem/584/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Olesya_and_Rodion.cpp) |
@@ -204,6 +204,7 @@
 | 1837B | B Comparison String | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Comparison_String.cpp) |
 | 1807D | D Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
 | 1720A | A Burenka Plays with Fractions | 900 | `math`, `number theory` | [View](https://codeforces.com/contest/1720/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Burenka_Plays_with_Fractions.cpp) |
+| 1624B | B Make AP | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1624/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Make_AP.cpp) |
 | 1613A | A Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
 | 160A | A Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |
 | 1535B | B Array Reodering | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1535/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Array_Reodering.cpp) |

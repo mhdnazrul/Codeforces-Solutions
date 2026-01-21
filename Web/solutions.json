@@ -2483,6 +2483,19 @@
     "filename": "A_Souvlaki_VS_Kalamaki.cpp"
   },
   {
+    "id": "1624B",
+    "name": "B Make AP",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1624/problem/B",
+    "sol_path": "Solutions/B_Make_AP.cpp",
+    "filename": "B_Make_AP.cpp"
+  },
+  {
     "id": "466A",
     "name": "A Cheap Travel",
     "rating": 1200,
@@ -2585,7 +2598,7 @@
     "tags": [
       "math"
     ],
-    "q_link": "https://codeforces.com/problemset/problem/1327/A",
+    "q_link": "https://codeforces.com/contest/1327/problem/A",
     "sol_path": "Solutions/A_Sum_of_Odd_Integers.cpp",
     "filename": "A_Sum_of_Odd_Integers.cpp"
   },
