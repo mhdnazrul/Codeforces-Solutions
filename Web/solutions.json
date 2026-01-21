@@ -187,42 +187,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "2-sat",
-      "binary search",
-      "bitmasks",
-      "brute force",
-      "chinese remainder theorem",
-      "combinatorics",
       "constructive algorithms",
-      "data structures",
-      "dfs and similar",
-      "divide and conquer",
-      "dp",
-      "dsu",
-      "expression parsing",
-      "fft",
-      "flows",
-      "games",
-      "geometry",
-      "graph matchings",
-      "graphs",
-      "greedy",
-      "hashing",
-      "implementation",
-      "interactive",
-      "math",
-      "matrices",
-      "meet-in-the-middle",
-      "number theory",
-      "probabilities",
-      "schedules",
-      "shortest paths",
-      "sortings",
-      "string suffix structures",
-      "strings",
-      "ternary search",
-      "trees",
-      "two pointers"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2185/problem/A",
     "sol_path": "Solutions/A_Perfect_Root.cpp",
@@ -1299,6 +1265,19 @@
     "q_link": "https://codeforces.com/contest/2178/problem/B",
     "sol_path": "Solutions/B_Impost_or_Sus.cpp",
     "filename": "B_Impost_or_Sus.cpp"
+  },
+  {
+    "id": "320A",
+    "name": "A Magic Numbers",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/320/A",
+    "sol_path": "Solutions/A_Magic_Numbers.cpp",
+    "filename": "A_Magic_Numbers.cpp"
   },
   {
     "id": "2171C1",
@@ -2599,6 +2578,18 @@
     "filename": "B_Even_Modulo_Pair.cpp"
   },
   {
+    "id": "1327A",
+    "name": "A Sum of Odd Integers",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1327/A",
+    "sol_path": "Solutions/A_Sum_of_Odd_Integers.cpp",
+    "filename": "A_Sum_of_Odd_Integers.cpp"
+  },
+  {
     "id": "2167A",
     "name": "A Square",
     "rating": 800,
@@ -3425,6 +3416,18 @@
     "q_link": "https://codeforces.com/contest/1926/problem/A",
     "sol_path": "Solutions/A_Vlad_and_the_Best_of_Five.cpp",
     "filename": "A_Vlad_and_the_Best_of_Five.cpp"
+  },
+  {
+    "id": "124A",
+    "name": "A The number of positions",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/124/problem/A",
+    "sol_path": "Solutions/A_The_number_of_positions.cpp",
+    "filename": "A_The_number_of_positions.cpp"
   },
   {
     "id": "2179A",
