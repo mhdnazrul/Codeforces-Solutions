@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/problemset/problem/1327/A
+  │Problem Link: https://codeforces.com/contest/1327/problem/A
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
