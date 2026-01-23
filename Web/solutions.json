@@ -2092,6 +2092,19 @@
     "filename": "C_K_th_Not_Divisible_by_n.cpp"
   },
   {
+    "id": "1342B",
+    "name": "B Binary Period",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/1342/problem/B",
+    "sol_path": "Solutions/B_Binary_Period.cpp",
+    "filename": "B_Binary_Period.cpp"
+  },
+  {
     "id": "1996A",
     "name": "A Legs",
     "rating": 800,
