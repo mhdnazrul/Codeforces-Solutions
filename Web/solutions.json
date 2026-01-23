@@ -3323,6 +3323,19 @@
     "filename": "A_Presents.cpp"
   },
   {
+    "id": "1342A",
+    "name": "A Road To Zero",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1342/problem/A",
+    "sol_path": "Solutions/A_Road_To_Zero.cpp",
+    "filename": "A_Road_To_Zero.cpp"
+  },
+  {
     "id": "1676C",
     "name": "C Most Similar Words",
     "rating": 800,
