@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-359-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-360-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 359
+**Total Problems Solved:** 360
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 205 |
+| 800 | 206 |
 | 900 | 76 |
 | 1000 | 30 |
 | 1100 | 17 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 53 |
+| brute force | 54 |
 | combinatorics | 1 |
 | constructive algorithms | 30 |
 | data structures | 12 |
@@ -54,7 +54,7 @@
 | hashing | 3 |
 | implementation | 209 |
 | interactive | 2 |
-| math | 98 |
+| math | 99 |
 | number theory | 15 |
 | shortest paths | 2 |
 | sortings | 38 |
@@ -293,6 +293,7 @@
 | 219432C | C Even Odd Positive and Negative | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Even_Odd_Positive_and_Negative.cpp) |
 | 219432B | B Even Numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Even_Numbers.cpp) |
 | 219432A | A 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_1_to_N.cpp) |
+| 2193A | A DBMB and the Array | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2193/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_DBMB_and_the_Array.cpp) |
 | 2191C | C Sorting Game | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Sorting_Game.cpp) |
 | 2191B | B MEX Reordering | 800 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
 | 2191A | A Array Coloring | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2191/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |

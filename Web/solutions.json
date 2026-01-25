@@ -2065,6 +2065,19 @@
     "filename": "C_Maximum_Even_Sum.cpp"
   },
   {
+    "id": "2193A",
+    "name": "A DBMB and the Array",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2193/problem/A",
+    "sol_path": "Solutions/A_DBMB_and_the_Array.cpp",
+    "filename": "A_DBMB_and_the_Array.cpp"
+  },
+  {
     "id": "581A",
     "name": "A Vasya the Hipster",
     "rating": 800,
