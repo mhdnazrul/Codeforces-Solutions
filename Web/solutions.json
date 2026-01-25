@@ -691,6 +691,18 @@
     "filename": "B_All_Distinct.cpp"
   },
   {
+    "id": "977C",
+    "name": "C Less or Equal",
+    "rating": 1200,
+    "rating_source": "api",
+    "tags": [
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/977/problem/C",
+    "sol_path": "Solutions/C_Less_or_Equal.cpp",
+    "filename": "C_Less_or_Equal.cpp"
+  },
+  {
     "id": "281A",
     "name": "A Word Capitalization",
     "rating": 800,

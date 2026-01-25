@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-358-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-359-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 358
+**Total Problems Solved:** 359
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -26,7 +26,7 @@
 | 900 | 76 |
 | 1000 | 30 |
 | 1100 | 17 |
-| 1200 | 11 |
+| 1200 | 12 |
 | 1300 | 12 |
 | 1400 | 4 |
 | 1500 | 2 |
@@ -57,7 +57,7 @@
 | math | 98 |
 | number theory | 15 |
 | shortest paths | 2 |
-| sortings | 37 |
+| sortings | 38 |
 | strings | 42 |
 | ternary search | 1 |
 | trees | 1 |
@@ -87,6 +87,7 @@
 | 189B | B Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
 | 189A | A Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
 | 1203C | C Common Divisors | 1300 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1203/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Common_Divisors.cpp) |
+| 977C | C Less or Equal | 1200 | `sortings` | [View](https://codeforces.com/contest/977/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Less_or_Equal.cpp) |
 | 961B | B Lecture Sleep | 1200 | `data structures`, `dp`, ... | [View](https://codeforces.com/contest/961/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lecture_Sleep.cpp) |
 | 870B | B Maximum of Maximums of Minimums | 1200 | `greedy` | [View](https://codeforces.com/problemset/problem/870/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Maximum_of_Maximums_of_Minimums.cpp) |
 | 514A | A Chewba ca and Number | 1200 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/514/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Chewba_ca_and_Number.cpp) |
