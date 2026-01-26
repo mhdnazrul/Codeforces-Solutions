@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-360-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-361-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 360
+**Total Problems Solved:** 361
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 206 |
+| 800 | 207 |
 | 900 | 76 |
 | 1000 | 30 |
 | 1100 | 17 |
@@ -52,7 +52,7 @@
 | graphs | 3 |
 | greedy | 95 |
 | hashing | 3 |
-| implementation | 209 |
+| implementation | 210 |
 | interactive | 2 |
 | math | 99 |
 | number theory | 15 |
@@ -261,6 +261,7 @@
 | 486A | A Calculating Function | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/486/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Calculating_Function.cpp) |
 | 469A | A I Wanna Be the Guy | 800 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/469/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_I_Wanna_Be_the_Guy.cpp) |
 | 467A | A George and Accommodation | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/467/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_George_and_Accommodation.cpp) |
+| 450Ahttps | A Jzzhu and Children | 800 | `implementation` | [View](https://codeforces.com/contest/450/problem/Ahttps) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jzzhu_and_Children.cpp) |
 | 443A | A Anton and Letters | 800 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/problemset/problem/443/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Letters.cpp) |
 | 427A | A Police Recruits | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/427/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Police_Recruits.cpp) |
 | 41A | A Translation | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/41/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Translation.cpp) |

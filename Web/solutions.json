@@ -2195,6 +2195,18 @@
     "filename": "A_Remove_Smallest.cpp"
   },
   {
+    "id": "450Ahttps",
+    "name": "A Jzzhu and Children",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/450/problem/Ahttps",
+    "sol_path": "Solutions/A_Jzzhu_and_Children.cpp",
+    "filename": "A_Jzzhu_and_Children.cpp"
+  },
+  {
     "id": "2133A",
     "name": "A Redstone",
     "rating": 800,
