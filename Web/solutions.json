@@ -1740,6 +1740,19 @@
     "filename": "A_New_Year_Transportation.cpp"
   },
   {
+    "id": "2189A",
+    "name": "A Table with Numbers",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2189/problem/A",
+    "sol_path": "Solutions/A_Table_with_Numbers.cpp",
+    "filename": "A_Table_with_Numbers.cpp"
+  },
+  {
     "id": "2144B",
     "name": "B Maximum Cost Permutation",
     "rating": 1000,
