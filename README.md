@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-362-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-365-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,18 +16,18 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 362
+**Total Problems Solved:** 365
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 208 |
+| 800 | 210 |
 | 900 | 76 |
 | 1000 | 30 |
 | 1100 | 17 |
 | 1200 | 12 |
-| 1300 | 12 |
+| 1300 | 13 |
 | 1400 | 4 |
 | 1500 | 2 |
 | 1600 | 1 |
@@ -52,10 +52,10 @@
 | graphs | 3 |
 | greedy | 96 |
 | hashing | 3 |
-| implementation | 211 |
+| implementation | 213 |
 | interactive | 2 |
-| math | 99 |
-| number theory | 15 |
+| math | 100 |
+| number theory | 16 |
 | shortest paths | 2 |
 | sortings | 38 |
 | strings | 42 |
@@ -86,6 +86,7 @@
 | 2145C | C Monocarp s String | 1300 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2145/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Monocarp_s_String.cpp) |
 | 189B | B Counting Rhombi | 1300 | `brute force`, `math` | [View](https://codeforces.com/contest/189/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Counting_Rhombi.cpp) |
 | 189A | A Cut Ribbon | 1300 | `brute force`, `dp` | [View](https://codeforces.com/problemset/problem/189/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cut_Ribbon.cpp) |
+| 1360D | D Buying Shovels | 1300 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1360/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Buying_Shovels.cpp) |
 | 1203C | C Common Divisors | 1300 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1203/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Common_Divisors.cpp) |
 | 977C | C Less or Equal | 1200 | `sortings` | [View](https://codeforces.com/contest/977/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Less_or_Equal.cpp) |
 | 961B | B Lecture Sleep | 1200 | `data structures`, `dp`, ... | [View](https://codeforces.com/contest/961/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lecture_Sleep.cpp) |
@@ -307,6 +308,8 @@
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2189A | A Table with Numbers | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2189/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Table_with_Numbers.cpp) |
+| 2188B | B Seats | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
+| 2188A | A Divisible Permutation | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisible_Permutation.cpp) |
 | 2185D | D OutOfMemoryError | 800 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
 | 2185C | C Shifted MEX | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2185/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Shifted_MEX.cpp) |
 | 2185B | B Prefix Max | 800 | `greedy` | [View](https://codeforces.com/contest/2185/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Prefix_Max.cpp) |

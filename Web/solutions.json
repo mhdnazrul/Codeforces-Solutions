@@ -691,6 +691,19 @@
     "filename": "B_All_Distinct.cpp"
   },
   {
+    "id": "1360D",
+    "name": "D Buying Shovels",
+    "rating": 1300,
+    "rating_source": "api",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1360/D",
+    "sol_path": "Solutions/D_Buying_Shovels.cpp",
+    "filename": "D_Buying_Shovels.cpp"
+  },
+  {
     "id": "977C",
     "name": "C Less or Equal",
     "rating": 1200,
@@ -2435,6 +2448,18 @@
     "filename": "B_Optimal_Shifts.cpp"
   },
   {
+    "id": "2188A",
+    "name": "A Divisible Permutation",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2188/problem/A",
+    "sol_path": "Solutions/A_Divisible_Permutation.cpp",
+    "filename": "A_Divisible_Permutation.cpp"
+  },
+  {
     "id": "208A",
     "name": "A Dubstep",
     "rating": 900,
@@ -3335,6 +3360,18 @@
     "q_link": "https://codeforces.com/problemset/problem/158/A",
     "sol_path": "Solutions/A_Domino_piling.cpp",
     "filename": "A_Domino_piling.cpp"
+  },
+  {
+    "id": "2188B",
+    "name": "B Seats",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2188/problem/B",
+    "sol_path": "Solutions/B_Seats.cpp",
+    "filename": "B_Seats.cpp"
   },
   {
     "id": "1374C",
