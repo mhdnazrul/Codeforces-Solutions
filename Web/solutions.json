@@ -65,6 +65,19 @@
     "filename": "A_Calculating_Function.cpp"
   },
   {
+    "id": "1875A",
+    "name": "A Jellyfish and Undertale",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/1875/problem/A",
+    "sol_path": "Solutions/A_Jellyfish_and_Undertale.cpp",
+    "filename": "A_Jellyfish_and_Undertale.cpp"
+  },
+  {
     "id": "734A",
     "name": "A Anton and Danik",
     "rating": 800,
@@ -2453,7 +2466,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms"
     ],
     "q_link": "https://codeforces.com/contest/2188/problem/A",
     "sol_path": "Solutions/A_Divisible_Permutation.cpp",
@@ -3310,6 +3323,18 @@
     "filename": "A_Buy_a_Shovel.cpp"
   },
   {
+    "id": "2188C",
+    "name": "C Restricted Sorting",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2188/problem/C",
+    "sol_path": "Solutions/C_Restricted_Sorting.cpp",
+    "filename": "C_Restricted_Sorting.cpp"
+  },
+  {
     "id": "580A",
     "name": "A Kefa and First Steps",
     "rating": 900,
@@ -3367,7 +3392,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy"
     ],
     "q_link": "https://codeforces.com/contest/2188/problem/B",
     "sol_path": "Solutions/B_Seats.cpp",

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-365-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-367-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 365
+**Total Problems Solved:** 367
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 210 |
-| 900 | 76 |
+| 800 | 211 |
+| 900 | 77 |
 | 1000 | 30 |
 | 1100 | 17 |
 | 1200 | 12 |
@@ -40,9 +40,9 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 54 |
+| brute force | 55 |
 | combinatorics | 1 |
-| constructive algorithms | 30 |
+| constructive algorithms | 31 |
 | data structures | 12 |
 | dfs and similar | 3 |
 | dp | 18 |
@@ -50,9 +50,9 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
-| greedy | 96 |
+| greedy | 98 |
 | hashing | 3 |
-| implementation | 213 |
+| implementation | 212 |
 | interactive | 2 |
 | math | 100 |
 | number theory | 16 |
@@ -204,6 +204,7 @@
 | 1927B | B Following the String | 900 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1927/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_the_String.cpp) |
 | 1883B | B Chemistry | 900 | `strings` | [View](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Chemistry.cpp) |
 | 1878C | C Vasilije in Cacak | 900 | `math` | [View](https://codeforces.com/problemset/problem/1878/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Vasilije_in_Cacak.cpp) |
+| 1875A | A Jellyfish and Undertale | 900 | `brute force`, `greedy` | [View](https://codeforces.com/contest/1875/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jellyfish_and_Undertale.cpp) |
 | 1850D | D Balanced Round | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1850/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Balanced_Round.cpp) |
 | 1837B | B Comparison String | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Comparison_String.cpp) |
 | 1807D | D Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
@@ -308,8 +309,9 @@
 | 219158B | B Basic Data Types | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Basic_Data_Types.cpp) |
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2189A | A Table with Numbers | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2189/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Table_with_Numbers.cpp) |
-| 2188B | B Seats | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
-| 2188A | A Divisible Permutation | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisible_Permutation.cpp) |
+| 2188C | C Restricted Sorting | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Restricted_Sorting.cpp) |
+| 2188B | B Seats | 800 | `greedy` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
+| 2188A | A Divisible Permutation | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisible_Permutation.cpp) |
 | 2185D | D OutOfMemoryError | 800 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
 | 2185C | C Shifted MEX | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2185/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Shifted_MEX.cpp) |
 | 2185B | B Prefix Max | 800 | `greedy` | [View](https://codeforces.com/contest/2185/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Prefix_Max.cpp) |
