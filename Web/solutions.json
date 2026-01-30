@@ -989,6 +989,18 @@
     "filename": "C_Monocarp_s_String.cpp"
   },
   {
+    "id": "26A",
+    "name": "A Almost Prime",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/26/problem/A",
+    "sol_path": "Solutions/A_Almost_Prime.cpp",
+    "filename": "A_Almost_Prime.cpp"
+  },
+  {
     "id": "1703A",
     "name": "A YES or YES",
     "rating": 800,

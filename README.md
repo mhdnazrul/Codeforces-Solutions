@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-367-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-368-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 367
+**Total Problems Solved:** 368
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 211 |
-| 900 | 77 |
+| 900 | 78 |
 | 1000 | 30 |
 | 1100 | 17 |
 | 1200 | 12 |
@@ -55,7 +55,7 @@
 | implementation | 212 |
 | interactive | 2 |
 | math | 100 |
-| number theory | 16 |
+| number theory | 17 |
 | shortest paths | 2 |
 | sortings | 38 |
 | strings | 42 |
@@ -163,6 +163,7 @@
 | 320A | A Magic Numbers | 900 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/320/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Magic_Numbers.cpp) |
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
+| 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
 | 219432U | U Some Sums | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/U_Some_Sums.cpp) |
 | 219432S | S Sum of Consecutive Odd Numbers | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/S_Sum_of_Consecutive_Odd_Numbers.cpp) |
 | 219432R | R Sequence of Numbers and Sum | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/R_Sequence_of_Numbers_and_Sum.cpp) |
