@@ -274,6 +274,18 @@
     "filename": "A_Sum_of_Round_Numbers.cpp"
   },
   {
+    "id": "1985C",
+    "name": "C Good Prefixes",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/1985/problem/C",
+    "sol_path": "Solutions/C_Good_Prefixes.cpp",
+    "filename": "C_Good_Prefixes.cpp"
+  },
+  {
     "id": "282A",
     "name": "A Bit",
     "rating": 800,
