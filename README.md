@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-369-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-370-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 369
+**Total Problems Solved:** 370
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 211 |
 | 900 | 78 |
-| 1000 | 31 |
+| 1000 | 32 |
 | 1100 | 17 |
 | 1200 | 12 |
 | 1300 | 13 |
@@ -54,7 +54,7 @@
 | hashing | 3 |
 | implementation | 212 |
 | interactive | 2 |
-| math | 100 |
+| math | 101 |
 | number theory | 17 |
 | shortest paths | 2 |
 | sortings | 38 |
@@ -141,6 +141,7 @@
 | 1985C | C Good Prefixes | 1000 | `greedy` | [View](https://codeforces.com/contest/1985/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Good_Prefixes.cpp) |
 | 1913B | B Swap and Delete | 1000 | `strings` | [View](https://codeforces.com/contest/1913/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Swap_and_Delete.cpp) |
 | 1374C | C Move Brackets | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/1374/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Move_Brackets.cpp) |
+| 1353C | C Board Moves | 1000 | `math` | [View](https://codeforces.com/contest/1353/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Board_Moves.cpp) |
 | 1342A | A Road To Zero | 1000 | `greedy`, `math` | [View](https://codeforces.com/contest/1342/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Road_To_Zero.cpp) |
 | 131A | A cAPS lOCK | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/131/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_cAPS_lOCK.cpp) |
 | 125B | B Simple XML | 1000 | `implementation` | [View](https://codeforces.com/contest/125/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Simple_XML.cpp) |

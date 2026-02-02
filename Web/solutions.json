@@ -181,6 +181,18 @@
     "filename": "A_Tricky_Sum.cpp"
   },
   {
+    "id": "1353C",
+    "name": "C Board Moves",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1353/problem/C",
+    "sol_path": "Solutions/C_Board_Moves.cpp",
+    "filename": "C_Board_Moves.cpp"
+  },
+  {
     "id": "2146A",
     "name": "A Equal Occurrences",
     "rating": 800,
