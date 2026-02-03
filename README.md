@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-370-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-371-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 370
+**Total Problems Solved:** 371
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 211 |
-| 900 | 78 |
+| 900 | 79 |
 | 1000 | 32 |
 | 1100 | 17 |
 | 1200 | 12 |
@@ -52,7 +52,7 @@
 | graphs | 3 |
 | greedy | 99 |
 | hashing | 3 |
-| implementation | 212 |
+| implementation | 213 |
 | interactive | 2 |
 | math | 101 |
 | number theory | 17 |
@@ -204,6 +204,7 @@
 | 2106B | B St Chroma | 900 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/2106/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_St_Chroma.cpp) |
 | 2093B | B Expensive Number | 900 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2093/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Expensive_Number.cpp) |
 | 208A | A Dubstep | 900 | `strings` | [View](https://codeforces.com/problemset/problem/208/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dubstep.cpp) |
+| 1971C | C Clock and Strings | 900 | `implementation` | [View](https://codeforces.com/contest/1971/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Clock_and_Strings.cpp) |
 | 1927B | B Following the String | 900 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1927/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_the_String.cpp) |
 | 1883B | B Chemistry | 900 | `strings` | [View](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Chemistry.cpp) |
 | 1878C | C Vasilije in Cacak | 900 | `math` | [View](https://codeforces.com/problemset/problem/1878/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Vasilije_in_Cacak.cpp) |

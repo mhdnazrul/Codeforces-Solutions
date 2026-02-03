@@ -1039,6 +1039,18 @@
     "filename": "A_YES_or_YES.cpp"
   },
   {
+    "id": "1971C",
+    "name": "C Clock and Strings",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/1971/problem/C",
+    "sol_path": "Solutions/C_Clock_and_Strings.cpp",
+    "filename": "C_Clock_and_Strings.cpp"
+  },
+  {
     "id": "266B",
     "name": "B Queue at the School c",
     "rating": 800,
