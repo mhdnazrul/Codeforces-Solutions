@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-372-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-373-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 372
+**Total Problems Solved:** 373
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 211 |
+| 800 | 212 |
 | 900 | 80 |
 | 1000 | 32 |
 | 1100 | 17 |
@@ -46,13 +46,14 @@
 | data structures | 13 |
 | dfs and similar | 3 |
 | dp | 18 |
+| expression parsing | 1 |
 | games | 8 |
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
 | greedy | 99 |
 | hashing | 3 |
-| implementation | 213 |
+| implementation | 214 |
 | interactive | 2 |
 | math | 101 |
 | number theory | 17 |
@@ -275,6 +276,7 @@
 | 381A | A Sereja and Dima | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/381/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sereja_and_Dima.cpp) |
 | 344A | A Magnets | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/344/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Magnets.cpp) |
 | 339A | A Helpful Maths | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/339/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Helpful_Maths.cpp) |
+| 32B | B Borze | 800 | `expression parsing`, `implementation` | [View](https://codeforces.com/contest/32/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Borze.cpp) |
 | 326175H | H Data Type Guessing | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_Data_Type_Guessing.cpp) |
 | 326175G | G Katryoshka | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Katryoshka.cpp) |
 | 326175F | F Adding Bits | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/F_Adding_Bits.cpp) |

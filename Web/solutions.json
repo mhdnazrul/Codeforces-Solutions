@@ -910,6 +910,19 @@
     "filename": "A_Sum.cpp"
   },
   {
+    "id": "32B",
+    "name": "B Borze",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "expression parsing",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/32/problem/B",
+    "sol_path": "Solutions/B_Borze.cpp",
+    "filename": "B_Borze.cpp"
+  },
+  {
     "id": "977B",
     "name": "B Two gram",
     "rating": 900,
