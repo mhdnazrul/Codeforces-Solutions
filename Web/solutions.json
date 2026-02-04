@@ -885,6 +885,19 @@
     "filename": "A_Shortest_Increasing_Path.cpp"
   },
   {
+    "id": "1380A",
+    "name": "A Three Indices",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "data structures"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1380/A",
+    "sol_path": "Solutions/A_Three_Indices.cpp",
+    "filename": "A_Three_Indices.cpp"
+  },
+  {
     "id": "1742A",
     "name": "A Sum",
     "rating": 800,

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-371-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-372-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 371
+**Total Problems Solved:** 372
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 211 |
-| 900 | 79 |
+| 900 | 80 |
 | 1000 | 32 |
 | 1100 | 17 |
 | 1200 | 12 |
@@ -40,10 +40,10 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 55 |
+| brute force | 56 |
 | combinatorics | 1 |
 | constructive algorithms | 31 |
-| data structures | 12 |
+| data structures | 13 |
 | dfs and similar | 3 |
 | dp | 18 |
 | games | 8 |
@@ -220,6 +220,7 @@
 | 1494A | A ABC String | 900 | `bitmasks`, `brute force`, ... | [View](https://codeforces.com/contest/1494/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ABC_String.cpp) |
 | 1475B | B New Year s Number | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/1475/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_s_Number.cpp) |
 | 1475A | A Odd Divisor | 900 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1475/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Odd_Divisor.cpp) |
+| 1380A | A Three Indices | 900 | `brute force`, `data structures` | [View](https://codeforces.com/problemset/problem/1380/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Three_Indices.cpp) |
 | 1374B | B Multiply by 2 divide by 6 | 900 | `math` | [View](https://codeforces.com/problemset/problem/1374/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Multiply_by_2_divide_by_6.cpp) |
 | 1373B | B 01 Game | 900 | `games` | [View](https://codeforces.com/problemset/problem/1373/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_01_Game.cpp) |
 | 1343A | A Candies | 900 | `brute force`, `math` | [View](https://codeforces.com/contest/1343/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies.cpp) |
