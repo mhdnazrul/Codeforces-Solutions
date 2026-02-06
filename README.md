@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-373-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-374-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,17 +16,17 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 373
+**Total Problems Solved:** 374
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 212 |
-| 900 | 80 |
-| 1000 | 32 |
-| 1100 | 17 |
-| 1200 | 12 |
+| 800 | 203 |
+| 900 | 82 |
+| 1000 | 34 |
+| 1100 | 22 |
+| 1200 | 13 |
 | 1300 | 13 |
 | 1400 | 4 |
 | 1500 | 2 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 56 |
+| brute force | 57 |
 | combinatorics | 1 |
 | constructive algorithms | 31 |
 | data structures | 13 |
@@ -53,7 +53,7 @@
 | graphs | 3 |
 | greedy | 99 |
 | hashing | 3 |
-| implementation | 214 |
+| implementation | 215 |
 | interactive | 2 |
 | math | 101 |
 | number theory | 17 |
@@ -96,6 +96,7 @@
 | 492B | B Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
 | 489B | B BerSU Ball | 1200 | `dfs and similar`, `dp`, ... | [View](https://codeforces.com/problemset/problem/489/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_BerSU_Ball.cpp) |
 | 466A | A Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
+| 2182C | C Production of Snowmen | 1200 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2172E | E Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2158B | B Split | 1200 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Split.cpp) |
 | 2149D | D A and B | 1200 | `strings` | [View](https://codeforces.com/contest/2149/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_A_and_B.cpp) |
@@ -106,6 +107,11 @@
 | 456A | A Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | B Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
+| 2185D | D OutOfMemoryError | 1100 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
+| 2184C | C Huge Pile | 1100 | `binary search`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2184/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Huge_Pile.cpp) |
+| 2184B | B Hourglass | 1100 | `math` | [View](https://codeforces.com/contest/2184/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Hourglass.cpp) |
+| 2183B | B Yet Another MEX Problem | 1100 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
+| 2179C | C Blackslex and Number Theory | 1100 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
 | 2173B | B Niko s Tactical Cards | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2173/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Niko_s_Tactical_Cards.cpp) |
 | 2171C1 | C 1 Renako Amaori and XOR Game easy version | 1100 | `bitmasks`, `games`, ... | [View](https://codeforces.com/problemset/problem/2171/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp) |
 | 2169B | B Drifting Away | 1100 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drifting_Away.cpp) |
@@ -129,6 +135,8 @@
 | 379A | A New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
+| 2191B | B MEX Reordering | 1000 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
+| 2188B | B Seats | 1000 | `greedy` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
 | 2176B | B Optimal Shifts | 1000 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |
 | 2167D | D Yet Another Array Problem | 1000 | `brute force`, `implementation`, ... | [View](https://codeforces.com/contest/2167/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Yet_Another_Array_Problem.cpp) |
 | 2164B | B Even Modulo Pair | 1000 | `brute force`, `math`, ... | [View](https://codeforces.com/contest/2164/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Even_Modulo_Pair.cpp) |
@@ -197,6 +205,8 @@
 | 219158K | K Max and Min | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/K_Max_and_Min.cpp) |
 | 219158J | J Multiples | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/J_Multiples.cpp) |
 | 219158I | I Welcome for you with Conditions | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/I_Welcome_for_you_with_Conditions.cpp) |
+| 2185C | C Shifted MEX | 900 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2185/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Shifted_MEX.cpp) |
+| 2178B | B Impost or Sus | 900 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2178/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Impost_or_Sus.cpp) |
 | 2171B | B Yuu Koito and Minimum Absolute Sum | 900 | `math` | [View](https://codeforces.com/contest/2171/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp) |
 | 2169A | A Alice and Bob | 900 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2169/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Alice_and_Bob.cpp) |
 | 2166B | B Tab Closing | 900 | `math` | [View](https://codeforces.com/contest/2166/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Tab_Closing.cpp) |
@@ -305,7 +315,6 @@
 | 219432A | A 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_1_to_N.cpp) |
 | 2193A | A DBMB and the Array | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2193/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_DBMB_and_the_Array.cpp) |
 | 2191C | C Sorting Game | 800 | `implementation` | [View](https://codeforces.com/contest/2191/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Sorting_Game.cpp) |
-| 2191B | B MEX Reordering | 800 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
 | 2191A | A Array Coloring | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2191/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
 | 219158H | H Two numbers | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_Two_numbers.cpp) |
 | 219158G | G Summation from 1 to N | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Summation_from_1_to_N.cpp) |
@@ -317,24 +326,15 @@
 | 219158A | A Say Hello With C | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/A_Say_Hello_With_C.cpp) |
 | 2189A | A Table with Numbers | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2189/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Table_with_Numbers.cpp) |
 | 2188C | C Restricted Sorting | 800 | `implementation` | [View](https://codeforces.com/contest/2188/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Restricted_Sorting.cpp) |
-| 2188B | B Seats | 800 | `greedy` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
 | 2188A | A Divisible Permutation | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisible_Permutation.cpp) |
-| 2185D | D OutOfMemoryError | 800 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
-| 2185C | C Shifted MEX | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2185/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Shifted_MEX.cpp) |
 | 2185B | B Prefix Max | 800 | `greedy` | [View](https://codeforces.com/contest/2185/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Prefix_Max.cpp) |
 | 2185A | A Perfect Root | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/2185/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Perfect_Root.cpp) |
-| 2184C | C Huge Pile | 800 | `binary search`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2184/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Huge_Pile.cpp) |
-| 2184B | B Hourglass | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Hourglass.cpp) |
 | 2184A | A Social Experiment | 800 | `math` | [View](https://codeforces.com/contest/2184/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Social_Experiment.cpp) |
-| 2183B | B Yet Another MEX Problem | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2183/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Yet_Another_MEX_Problem.cpp) |
 | 2183A | A Binary Array Game | 800 | `games` | [View](https://codeforces.com/contest/2183/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Binary_Array_Game.cpp) |
-| 2182C | C Production of Snowmen | 800 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2182B | B New Year Cake | 800 | `brute force` | [View](https://codeforces.com/contest/2182/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_Cake.cpp) |
 | 2182A | A New Year String | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2182/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_String.cpp) |
-| 2179C | C Blackslex and Number Theory | 800 | `implementation`, `math`, ... | [View](https://codeforces.com/contest/2179/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Blackslex_and_Number_Theory.cpp) |
 | 2179B | B Blackslex and Showering | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2179/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blackslex_and_Showering.cpp) |
 | 2179A | A Blackslex and Password | 800 | `math`, `strings` | [View](https://codeforces.com/contest/2179/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Blackslex_and_Password.cpp) |
-| 2178B | B Impost or Sus | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2178/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Impost_or_Sus.cpp) |
 | 2178A | A Yes or Yes 2178 | 800 | `greedy`, `strings` | [View](https://codeforces.com/contest/2178/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yes_or_Yes_2178.cpp) |
 | 2176A | A Operations with Inversions | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2176/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Operations_with_Inversions.cpp) |
 | 2173A | A Sleeping Through Classes | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2173/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sleeping_Through_Classes.cpp) |
@@ -426,6 +426,7 @@
 | 155A | A I love username | 800 | `brute force` | [View](https://codeforces.com/problemset/problem/155/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_I_love_username.cpp) |
 | 1553A | A Digits Sum | 800 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1553/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Digits_Sum.cpp) |
 | 151A | A Soft Drinking | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/151/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soft_Drinking.cpp) |
+| 1512A | A Spy Detected | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/1512/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Spy_Detected.cpp) |
 | 1498A | A GCD Sum | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/1498/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_GCD_Sum.cpp) |
 | 148A | A Insomnia cure | 800 | `constructive algorithms`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/148/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Insomnia_cure.cpp) |
 | 1452C | C Two Brackets | 800 | `greedy` | [View](https://codeforces.com/contest/1452/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Two_Brackets.cpp) |

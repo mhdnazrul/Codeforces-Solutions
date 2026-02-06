@@ -210,7 +210,7 @@
     "id": "2185A",
     "name": "A Perfect Root",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "math"
@@ -348,8 +348,8 @@
   {
     "id": "2191B",
     "name": "B MEX Reordering",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "sortings"
@@ -677,8 +677,8 @@
   {
     "id": "2185C",
     "name": "C Shifted MEX",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings"
@@ -990,7 +990,7 @@
     "id": "2191A",
     "name": "A Array Coloring",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms"
     ],
@@ -1192,7 +1192,7 @@
     "id": "2185B",
     "name": "B Prefix Max",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -1286,8 +1286,8 @@
   {
     "id": "2182C",
     "name": "C Production of Snowmen",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "combinatorics",
@@ -1366,8 +1366,8 @@
   {
     "id": "2178B",
     "name": "B Impost or Sus",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy",
@@ -1474,7 +1474,7 @@
     "id": "2179B",
     "name": "B Blackslex and Showering",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy",
@@ -1578,8 +1578,8 @@
   {
     "id": "2185D",
     "name": "D OutOfMemoryError",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "data structures",
       "implementation",
@@ -1700,8 +1700,8 @@
   {
     "id": "2179C",
     "name": "C Blackslex and Number Theory",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math",
@@ -1728,7 +1728,7 @@
     "id": "2183A",
     "name": "A Binary Array Game",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "games"
     ],
@@ -1843,7 +1843,7 @@
     "id": "2189A",
     "name": "A Table with Numbers",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -1869,7 +1869,7 @@
     "id": "2182B",
     "name": "B New Year Cake",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force"
     ],
@@ -2103,7 +2103,7 @@
     "id": "2178A",
     "name": "A Yes or Yes 2178",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "strings"
@@ -2181,7 +2181,7 @@
     "id": "2193A",
     "name": "A DBMB and the Array",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -2538,7 +2538,7 @@
     "id": "2188A",
     "name": "A Divisible Permutation",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms"
     ],
@@ -2561,8 +2561,8 @@
   {
     "id": "2184B",
     "name": "B Hourglass",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -2986,8 +2986,8 @@
   {
     "id": "2183B",
     "name": "B Yet Another MEX Problem",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy"
@@ -3463,8 +3463,8 @@
   {
     "id": "2188B",
     "name": "B Seats",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -3533,6 +3533,19 @@
     "q_link": "https://codeforces.com/contest/1342/problem/A",
     "sol_path": "Solutions/A_Road_To_Zero.cpp",
     "filename": "A_Road_To_Zero.cpp"
+  },
+  {
+    "id": "1512A",
+    "name": "A Spy Detected",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/1512/problem/A",
+    "sol_path": "Solutions/A_Spy_Detected.cpp",
+    "filename": "A_Spy_Detected.cpp"
   },
   {
     "id": "1676C",
@@ -3658,7 +3671,7 @@
     "id": "2179A",
     "name": "A Blackslex and Password",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "math",
       "strings"
@@ -3697,7 +3710,7 @@
     "id": "2182A",
     "name": "A New Year String",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -3788,7 +3801,7 @@
     "id": "2184A",
     "name": "A Social Experiment",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "math"
     ],
@@ -3890,8 +3903,8 @@
   {
     "id": "2184C",
     "name": "C Huge Pile",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "dfs and similar",
