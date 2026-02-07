@@ -987,14 +987,15 @@
     "filename": "A_ASCII_Art_Contest.cpp"
   },
   {
-    "id": "2191A",
+    "id": "1857A",
     "name": "A Array Coloring",
     "rating": 800,
     "rating_source": "api",
     "tags": [
-      "constructive algorithms"
+      "greedy",
+      "math"
     ],
-    "q_link": "https://codeforces.com/contest/2191/problem/A",
+    "q_link": "https://codeforces.com/problemset/problem/1857/A",
     "sol_path": "Solutions/A_Array_Coloring.cpp",
     "filename": "A_Array_Coloring.cpp"
   },
@@ -3846,6 +3847,18 @@
     "q_link": "https://codeforces.com/contest/2166/problem/B",
     "sol_path": "Solutions/B_Tab_Closing.cpp",
     "filename": "B_Tab_Closing.cpp"
+  },
+  {
+    "id": "1878A",
+    "name": "A How Much Does Daytona Cost",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1878/A",
+    "sol_path": "Solutions/A_How_Much_Does_Daytona_Cost.cpp",
+    "filename": "A_How_Much_Does_Daytona_Cost.cpp"
   },
   {
     "id": "1494A",
