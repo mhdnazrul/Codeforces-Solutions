@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/problemset/problem/1857/A
+  │Problem Link: https://codeforces.com/problemset/problem/1878/A
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -22,13 +22,13 @@ template<typename T> void outV(const vector<T>& v) {if (v.empty()) return;
     for (int i = 0; i < sz(v); ++i)cout << v[i] << " \n"[i == sz(v) - 1];}
 
 void run_case(){
-    int n,x;      cin>>n;
-    ll sum = 0;
+    int n,k,x;        cin>>n>>k;
+    bool ok=0;
     for(int i=0; i<n; i++){
         cin>>x;
-        sum+=x;
+        if(x==k)ok=1;
     }
-    cout<<(sum%2==0? "YES\n":"NO\n");
+    cout<<(ok?"YES\n":"NO\n");
 }
 
 int32_t main(){
