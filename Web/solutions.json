@@ -1605,6 +1605,18 @@
     "filename": "B_Sort_the_Array.cpp"
   },
   {
+    "id": "1560A",
+    "name": "A Dislike of Threes",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1560/A",
+    "sol_path": "Solutions/A_Dislike_of_Threes.cpp",
+    "filename": "A_Dislike_of_Threes.cpp"
+  },
+  {
     "id": "25A",
     "name": "A IQ test",
     "rating": 1300,
