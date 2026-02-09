@@ -728,6 +728,19 @@
     "filename": "B_All_Distinct.cpp"
   },
   {
+    "id": "2194A",
+    "name": "A Lawn Mower",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2194/problem/A",
+    "sol_path": "Solutions/A_Lawn_Mower.cpp",
+    "filename": "A_Lawn_Mower.cpp"
+  },
+  {
     "id": "1360D",
     "name": "D Buying Shovels",
     "rating": 1300,
