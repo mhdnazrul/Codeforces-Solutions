@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-377-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-378-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 377
+**Total Problems Solved:** 378
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 206 |
+| 800 | 207 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 57 |
+| brute force | 58 |
 | combinatorics | 1 |
 | constructive algorithms | 30 |
 | data structures | 13 |
@@ -247,6 +247,7 @@
 | 996A | A Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
 | 977A | A Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Wrong_Subtraction.cpp) |
 | 959A | A Mahmoud and Ehab and the even odd game | 800 | `games`, `math` | [View](https://codeforces.com/problemset/problem/959/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
+| 80A | A Panoramix s Prediction | 800 | `brute force` | [View](https://codeforces.com/contest/80/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Panoramix_s_Prediction.cpp) |
 | 791A | A Bear and Big Brother | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/791/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Bear_and_Big_Brother.cpp) |
 | 785A | A Anton and Polyhedrons | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/785/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Polyhedrons.cpp) |
 | 734A | A Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Danik.cpp) |

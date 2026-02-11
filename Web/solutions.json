@@ -1352,6 +1352,18 @@
     "filename": "A_Sleeping_Through_Classes.cpp"
   },
   {
+    "id": "80A",
+    "name": "A Panoramix s Prediction",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force"
+    ],
+    "q_link": "https://codeforces.com/contest/80/problem/A",
+    "sol_path": "Solutions/A_Panoramix_s_Prediction.cpp",
+    "filename": "A_Panoramix_s_Prediction.cpp"
+  },
+  {
     "id": "2139A",
     "name": "A Maple and Multiplication",
     "rating": 800,
