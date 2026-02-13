@@ -530,7 +530,6 @@
     "rating_source": "api",
     "tags": [
       "greedy",
-      "greedy",
       "implementation",
       "math"
     ],
@@ -1321,6 +1320,19 @@
     "filename": "B_Swap_and_Delete.cpp"
   },
   {
+    "id": "1821A",
+    "name": "A Matching",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "combinatorics",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1821/problem/A",
+    "sol_path": "Solutions/A_Matching.cpp",
+    "filename": "A_Matching.cpp"
+  },
+  {
     "id": "125B",
     "name": "B Simple XML",
     "rating": 1000,
@@ -1511,7 +1523,6 @@
     "tags": [
       "brute force",
       "greedy",
-      "implementation",
       "implementation",
       "math",
       "strings"
@@ -3520,6 +3531,19 @@
     "q_link": "https://codeforces.com/contest/2147/problem/A",
     "sol_path": "Solutions/A_Shortest_Increasing_Path.cpp",
     "filename": "A_Shortest_Increasing_Path.cpp"
+  },
+  {
+    "id": "2197A",
+    "name": "A Friendly Numbers",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2197/A",
+    "sol_path": "Solutions/A_Friendly_Numbers.cpp",
+    "filename": "A_Friendly_Numbers.cpp"
   },
   {
     "id": "1873A",

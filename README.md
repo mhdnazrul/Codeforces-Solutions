@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-379-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-381-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 379
+**Total Problems Solved:** 381
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 208 |
+| 800 | 210 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -40,8 +40,8 @@
 | *special | 3 |
 | binary search | 11 |
 | bitmasks | 11 |
-| brute force | 58 |
-| combinatorics | 1 |
+| brute force | 59 |
+| combinatorics | 2 |
 | communication | 2 |
 | constructive algorithms | 30 |
 | data structures | 13 |
@@ -52,11 +52,11 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 3 |
-| greedy | 102 |
+| greedy | 101 |
 | hashing | 3 |
-| implementation | 217 |
+| implementation | 216 |
 | interactive | 2 |
-| math | 103 |
+| math | 105 |
 | number theory | 17 |
 | shortest paths | 2 |
 | sortings | 38 |
@@ -308,6 +308,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 2197A | A Friendly Numbers | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/2197/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Friendly_Numbers.cpp) |
 | 2194A | A Lawn Mower | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2194/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lawn_Mower.cpp) |
 | 219432H | H One Prime | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_One_Prime.cpp) |
 | 219432G | G Factorial | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Factorial.cpp) |
@@ -404,6 +405,7 @@
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
+| 1821A | A Matching | 800 | `combinatorics`, `math` | [View](https://codeforces.com/contest/1821/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Matching.cpp) |
 | 1807A | A Plus or Minus | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1807/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Plus_or_Minus.cpp) |
 | 1791C | C Prepend and Append | 800 | `implementation`, `two pointers` | [View](https://codeforces.com/contest/1791/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Prepend_and_Append.cpp) |
 | 1791B | B Following Directions | 800 | `geometry`, `implementation` | [View](https://codeforces.com/contest/1791/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_Directions.cpp) |
@@ -423,7 +425,7 @@
 | 1676C | C Most Similar Words | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1676/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Most_Similar_Words.cpp) |
 | 1676B | B Equal Candies | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/problemset/problem/1676/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Equal_Candies.cpp) |
 | 1676A | A Lucky | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1676/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lucky.cpp) |
-| 1669C | C Odd Even Increments | 800 | `greedy`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1669/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Odd_Even_Increments.cpp) |
+| 1669C | C Odd Even Increments | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1669/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Odd_Even_Increments.cpp) |
 | 1669B | B Triple | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1669/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Triple.cpp) |
 | 1669A | A Division | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1669/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Division.cpp) |
 | 158A | A Domino piling | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Domino_piling.cpp) |
