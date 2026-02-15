@@ -1357,6 +1357,18 @@
     "filename": "B_Regular_Bracket_Sequence.cpp"
   },
   {
+    "id": "2195B",
+    "name": "B Heapify 1",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2195/problem/B",
+    "sol_path": "Solutions/B_Heapify_1.cpp",
+    "filename": "B_Heapify_1.cpp"
+  },
+  {
     "id": "703A",
     "name": "A Mishka and Game",
     "rating": 800,
@@ -2326,6 +2338,18 @@
     "q_link": "https://codeforces.com/problemset/problem/1703/A",
     "sol_path": "Solutions/A_YES_or_YES.cpp",
     "filename": "A_YES_or_YES.cpp"
+  },
+  {
+    "id": "2195A",
+    "name": "A Sieve of Erato 67 henes",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2195/problem/A",
+    "sol_path": "Solutions/A_Sieve_of_Erato_67_henes.cpp",
+    "filename": "A_Sieve_of_Erato_67_henes.cpp"
   },
   {
     "id": "2185D",
@@ -3538,6 +3562,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
+      "binary search",
       "brute force",
       "math"
     ],
