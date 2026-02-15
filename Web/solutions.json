@@ -1882,6 +1882,18 @@
     "filename": "B_Binary_Period.cpp"
   },
   {
+    "id": "2195C",
+    "name": "C Dice Roll Sequence",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2195/problem/C",
+    "sol_path": "Solutions/C_Dice_Roll_Sequence.cpp",
+    "filename": "C_Dice_Roll_Sequence.cpp"
+  },
+  {
     "id": "2171C1",
     "name": "C 1 Renako Amaori and XOR Game easy version",
     "rating": 1100,
