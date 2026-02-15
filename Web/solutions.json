@@ -564,6 +564,18 @@
     "filename": "C_Move_Brackets.cpp"
   },
   {
+    "id": "1829B",
+    "name": "B Blank Space",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1829/B",
+    "sol_path": "Solutions/B_Blank_Space.cpp",
+    "filename": "B_Blank_Space.cpp"
+  },
+  {
     "id": "268A",
     "name": "A Games",
     "rating": 800,
@@ -1887,7 +1899,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "dp"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/C",
     "sol_path": "Solutions/C_Dice_Roll_Sequence.cpp",
@@ -2357,7 +2369,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/A",
     "sol_path": "Solutions/A_Sieve_of_Erato_67_henes.cpp",

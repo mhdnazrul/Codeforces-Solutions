@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-384-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-385-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 384
+**Total Problems Solved:** 385
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 213 |
+| 800 | 214 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -46,7 +46,7 @@
 | constructive algorithms | 30 |
 | data structures | 13 |
 | dfs and similar | 3 |
-| dp | 18 |
+| dp | 19 |
 | expression parsing | 1 |
 | games | 8 |
 | geometry | 2 |
@@ -54,9 +54,9 @@
 | graphs | 3 |
 | greedy | 101 |
 | hashing | 3 |
-| implementation | 219 |
+| implementation | 218 |
 | interactive | 2 |
-| math | 105 |
+| math | 106 |
 | number theory | 17 |
 | shortest paths | 2 |
 | sortings | 38 |
@@ -309,9 +309,9 @@
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
 | 2197A | A Friendly Numbers | 800 | `binary search`, `brute force`, ... | [View](https://codeforces.com/problemset/problem/2197/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Friendly_Numbers.cpp) |
-| 2195C | C Dice Roll Sequence | 800 | `implementation` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
+| 2195C | C Dice Roll Sequence | 800 | `dp` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
 | 2195B | B Heapify 1 | 800 | `implementation` | [View](https://codeforces.com/contest/2195/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Heapify_1.cpp) |
-| 2195A | A Sieve of Erato 67 henes | 800 | `implementation` | [View](https://codeforces.com/contest/2195/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sieve_of_Erato_67_henes.cpp) |
+| 2195A | A Sieve of Erato 67 henes | 800 | `math` | [View](https://codeforces.com/contest/2195/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sieve_of_Erato_67_henes.cpp) |
 | 2194A | A Lawn Mower | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2194/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lawn_Mower.cpp) |
 | 219432H | H One Prime | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/H_One_Prime.cpp) |
 | 219432G | G Factorial | 800 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/G_Factorial.cpp) |
@@ -408,6 +408,7 @@
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
+| 1829B | B Blank Space | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1829/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blank_Space.cpp) |
 | 1821A | A Matching | 800 | `combinatorics`, `math` | [View](https://codeforces.com/contest/1821/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Matching.cpp) |
 | 1807A | A Plus or Minus | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1807/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Plus_or_Minus.cpp) |
 | 1791C | C Prepend and Append | 800 | `implementation`, `two pointers` | [View](https://codeforces.com/contest/1791/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Prepend_and_Append.cpp) |
