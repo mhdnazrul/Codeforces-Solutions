@@ -1899,7 +1899,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "dp"
+      "dp",
+      "greedy"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/C",
     "sol_path": "Solutions/C_Dice_Roll_Sequence.cpp",
@@ -2369,7 +2370,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "math"
+      "math",
+      "number theory"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/A",
     "sol_path": "Solutions/A_Sieve_of_Erato_67_henes.cpp",
@@ -3568,6 +3570,18 @@
     "filename": "C_Good_Prefixes.cpp"
   },
   {
+    "id": "1896A",
+    "name": "A Jagged Swaps",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/1896/problem/A",
+    "sol_path": "Solutions/A_Jagged_Swaps.cpp",
+    "filename": "A_Jagged_Swaps.cpp"
+  },
+  {
     "id": "2147A",
     "name": "A Shortest Increasing Path",
     "rating": 800,
@@ -3588,7 +3602,9 @@
     "tags": [
       "binary search",
       "brute force",
-      "math"
+      "expression parsing",
+      "math",
+      "schedules"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2197/A",
     "sol_path": "Solutions/A_Friendly_Numbers.cpp",
