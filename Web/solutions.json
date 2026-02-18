@@ -396,6 +396,21 @@
     "filename": "A_Blackslex_and_Password.cpp"
   },
   {
+    "id": "279B",
+    "name": "B Books",
+    "rating": 1400,
+    "rating_source": "api",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/279/B",
+    "sol_path": "Solutions/B_Books.cpp",
+    "filename": "B_Books.cpp"
+  },
+  {
     "id": "2145A",
     "name": "A Candies for Nephews",
     "rating": 800,
@@ -3088,6 +3103,18 @@
     "q_link": "https://codeforces.com/problemset/problem/489/B",
     "sol_path": "Solutions/B_BerSU_Ball.cpp",
     "filename": "B_BerSU_Ball.cpp"
+  },
+  {
+    "id": "455A",
+    "name": "A Boredom",
+    "rating": 1500,
+    "rating_source": "api",
+    "tags": [
+      "dp"
+    ],
+    "q_link": "https://codeforces.com/contest/455/problem/A",
+    "sol_path": "Solutions/A_Boredom.cpp",
+    "filename": "A_Boredom.cpp"
   },
   {
     "id": "1996A",

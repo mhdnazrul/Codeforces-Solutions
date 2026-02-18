@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-386-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-388-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 386
+**Total Problems Solved:** 388
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -28,8 +28,8 @@
 | 1100 | 22 |
 | 1200 | 13 |
 | 1300 | 13 |
-| 1400 | 4 |
-| 1500 | 2 |
+| 1400 | 5 |
+| 1500 | 3 |
 | 1600 | 1 |
 </details>
 
@@ -38,15 +38,15 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 3 |
-| binary search | 12 |
+| binary search | 13 |
 | bitmasks | 11 |
-| brute force | 59 |
+| brute force | 60 |
 | combinatorics | 2 |
 | communication | 2 |
 | constructive algorithms | 30 |
 | data structures | 13 |
 | dfs and similar | 3 |
-| dp | 19 |
+| dp | 20 |
 | expression parsing | 2 |
 | games | 8 |
 | geometry | 2 |
@@ -54,7 +54,7 @@
 | graphs | 3 |
 | greedy | 102 |
 | hashing | 3 |
-| implementation | 218 |
+| implementation | 219 |
 | interactive | 2 |
 | math | 106 |
 | number theory | 18 |
@@ -64,7 +64,7 @@
 | strings | 42 |
 | ternary search | 1 |
 | trees | 1 |
-| two pointers | 12 |
+| two pointers | 13 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -73,8 +73,10 @@
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | 2167G | G Mukhammadali and the Smooth Array | 1600 | `data structures`, `dp` | [View](https://codeforces.com/contest/2167/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp) |
 | 821C | C Okabe and Boxes | 1500 | `data structures`, `greedy`, ... | [View](https://codeforces.com/contest/821/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Okabe_and_Boxes.cpp) |
+| 455A | A Boredom | 1500 | `dp` | [View](https://codeforces.com/contest/455/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boredom.cpp) |
 | 2106D | D Flower Boy | 1500 | `binary search`, `dp`, ... | [View](https://codeforces.com/problemset/problem/2106/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Flower_Boy.cpp) |
 | 816B | B Karen and Coffee | 1400 | `binary search`, `data structures`, ... | [View](https://codeforces.com/contest/816/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Karen_and_Coffee.cpp) |
+| 279B | B Books | 1400 | `binary search`, `brute force`, ... | [View](https://codeforces.com/problemset/problem/279/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Books.cpp) |
 | 26B | B Regular Bracket Sequence | 1400 | `greedy` | [View](https://codeforces.com/problemset/problem/26/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Regular_Bracket_Sequence.cpp) |
 | 2171C2 | C 2 Renako Amaori and XOR Game hard version | 1400 | `bitmasks`, `games`, ... | [View](https://codeforces.com/contest/2171/problem/C2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp) |
 | 1095C | C Powers Of Two | 1400 | `bitmasks`, `greedy` | [View](https://codeforces.com/problemset/problem/1095/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Powers_Of_Two.cpp) |
