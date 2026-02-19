@@ -1389,7 +1389,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "implementation",
+      "sortings"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/B",
     "sol_path": "Solutions/B_Heapify_1.cpp",
@@ -3417,6 +3418,23 @@
     "q_link": "https://codeforces.com/problemset/problem/706/B",
     "sol_path": "Solutions/B_Interesting_drink.cpp",
     "filename": "B_Interesting_drink.cpp"
+  },
+  {
+    "id": "520B",
+    "name": "B Two Buttons",
+    "rating": 1400,
+    "rating_source": "api",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "shortest paths"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/520/B",
+    "sol_path": "Solutions/B_Two_Buttons.cpp",
+    "filename": "B_Two_Buttons.cpp"
   },
   {
     "id": "2166A",
