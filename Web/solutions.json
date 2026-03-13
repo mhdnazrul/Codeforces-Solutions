@@ -294,6 +294,19 @@
     "filename": "B_Cake_Collection.cpp"
   },
   {
+    "id": "1915A",
+    "name": "A Odd One Out",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "bitmasks",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1915/A",
+    "sol_path": "Solutions/A_Odd_One_Out.cpp",
+    "filename": "A_Odd_One_Out.cpp"
+  },
+  {
     "id": "617A",
     "name": "A Elephant",
     "rating": 800,
