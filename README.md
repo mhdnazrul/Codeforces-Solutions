@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-390-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-391-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 390
+**Total Problems Solved:** 391
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -27,7 +27,7 @@
 | 1000 | 34 |
 | 1100 | 22 |
 | 1200 | 13 |
-| 1300 | 13 |
+| 1300 | 14 |
 | 1400 | 6 |
 | 1500 | 3 |
 | 1600 | 1 |
@@ -41,7 +41,7 @@
 | binary search | 13 |
 | bitmasks | 12 |
 | brute force | 60 |
-| combinatorics | 2 |
+| combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 30 |
 | data structures | 13 |
@@ -54,13 +54,13 @@
 | graphs | 4 |
 | greedy | 103 |
 | hashing | 3 |
-| implementation | 221 |
+| implementation | 222 |
 | interactive | 2 |
 | math | 107 |
 | number theory | 18 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 40 |
+| sortings | 41 |
 | strings | 42 |
 | ternary search | 1 |
 | trees | 1 |
@@ -82,6 +82,7 @@
 | 2171C2 | C 2 Renako Amaori and XOR Game hard version | 1400 | `bitmasks`, `games`, ... | [View](https://codeforces.com/contest/2171/problem/C2) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp) |
 | 1095C | C Powers Of Two | 1400 | `bitmasks`, `greedy` | [View](https://codeforces.com/problemset/problem/1095/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Powers_Of_Two.cpp) |
 | 4C | C Registration system | 1300 | `data structures`, `hashing`, ... | [View](https://codeforces.com/problemset/problem/4/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Registration_system.cpp) |
+| 459B | B Pashmak and Flowers | 1300 | `combinatorics`, `implementation`, ... | [View](https://codeforces.com/contest/459/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Pashmak_and_Flowers.cpp) |
 | 451B | B Sort the Array | 1300 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/451/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sort_the_Array.cpp) |
 | 318B | B Strings of Power | 1300 | `implementation`, `strings`, ... | [View](https://codeforces.com/contest/318/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Strings_of_Power.cpp) |
 | 25A | A IQ test | 1300 | `brute force` | [View](https://codeforces.com/problemset/problem/25/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_IQ_test.cpp) |

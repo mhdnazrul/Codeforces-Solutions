@@ -1462,6 +1462,20 @@
     "filename": "B_Sort_the_Array.cpp"
   },
   {
+    "id": "459B",
+    "name": "B Pashmak and Flowers",
+    "rating": 1300,
+    "rating_source": "api",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/459/problem/B",
+    "sol_path": "Solutions/B_Pashmak_and_Flowers.cpp",
+    "filename": "B_Pashmak_and_Flowers.cpp"
+  },
+  {
     "id": "2194A",
     "name": "A Lawn Mower",
     "rating": 800,
