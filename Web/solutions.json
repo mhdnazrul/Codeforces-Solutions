@@ -1207,6 +1207,19 @@
     "filename": "A_Maple_and_Multiplication.cpp"
   },
   {
+    "id": "758A",
+    "name": "A Holiday Of Equality",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/758/problem/A",
+    "sol_path": "Solutions/A_Holiday_Of_Equality.cpp",
+    "filename": "A_Holiday_Of_Equality.cpp"
+  },
+  {
     "id": "1560A",
     "name": "A Dislike of Threes",
     "rating": 800,
