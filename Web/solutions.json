@@ -1165,6 +1165,19 @@
     "filename": "B_St_Chroma.cpp"
   },
   {
+    "id": "1850A",
+    "name": "A To My Critics",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1850/A",
+    "sol_path": "Solutions/A_To_My_Critics.cpp",
+    "filename": "A_To_My_Critics.cpp"
+  },
+  {
     "id": "2169C",
     "name": "C Range Operation",
     "rating": 1300,
@@ -1487,6 +1500,19 @@
     "q_link": "https://codeforces.com/contest/459/problem/B",
     "sol_path": "Solutions/B_Pashmak_and_Flowers.cpp",
     "filename": "B_Pashmak_and_Flowers.cpp"
+  },
+  {
+    "id": "2009A",
+    "name": "A Minimize",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2009/A",
+    "sol_path": "Solutions/A_Minimize.cpp",
+    "filename": "A_Minimize.cpp"
   },
   {
     "id": "2194A",

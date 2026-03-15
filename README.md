@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-392-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-394-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 392
+**Total Problems Solved:** 394
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 217 |
+| 800 | 219 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -40,7 +40,7 @@
 | *special | 3 |
 | binary search | 13 |
 | bitmasks | 12 |
-| brute force | 60 |
+| brute force | 61 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 30 |
@@ -54,13 +54,13 @@
 | graphs | 4 |
 | greedy | 103 |
 | hashing | 3 |
-| implementation | 223 |
+| implementation | 224 |
 | interactive | 2 |
-| math | 108 |
+| math | 109 |
 | number theory | 18 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 41 |
+| sortings | 42 |
 | strings | 42 |
 | ternary search | 1 |
 | trees | 1 |
@@ -401,6 +401,7 @@
 | 2036B | B Startup | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/2036/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Startup.cpp) |
 | 2024A | A Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Profitable_Interest_Rate.cpp) |
 | 200B | B Drinks | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/200/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drinks.cpp) |
+| 2009A | A Minimize | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/2009/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minimize.cpp) |
 | 2000B | B Seating in a Bus | 800 | `two pointers` | [View](https://codeforces.com/problemset/problem/2000/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seating_in_a_Bus.cpp) |
 | 1999C | C Showering | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/1999/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Showering.cpp) |
 | 1999A | A A B Again | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
@@ -416,6 +417,7 @@
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
+| 1850A | A To My Critics | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1850/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_To_My_Critics.cpp) |
 | 1829B | B Blank Space | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1829/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blank_Space.cpp) |
 | 1821A | A Matching | 800 | `combinatorics`, `math` | [View](https://codeforces.com/contest/1821/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Matching.cpp) |
 | 1807A | A Plus or Minus | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1807/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Plus_or_Minus.cpp) |
