@@ -1988,19 +1988,6 @@
     "filename": "A_Dragons.cpp"
   },
   {
-    "id": "2009A",
-    "name": "Minimize",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "brute force",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/2009/A",
-    "sol_path": "Solutions/2009A_Minimize.cpp",
-    "filename": "2009A_Minimize.cpp"
-  },
-  {
     "id": "1669B",
     "name": "B Triple",
     "rating": 800,
@@ -3368,32 +3355,6 @@
     "filename": "B_Following_Directions.cpp"
   },
   {
-    "id": "758A",
-    "name": "Holiday Of Equality",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "implementation",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/contest/758/problem/A",
-    "sol_path": "Solutions/758A_Holiday_Of_Equality.cpp",
-    "filename": "758A_Holiday_Of_Equality.cpp"
-  },
-  {
-    "id": "2195C",
-    "name": "Dice Roll Sequence",
-    "rating": 800,
-    "rating_source": "fallback",
-    "tags": [
-      "dp",
-      "greedy"
-    ],
-    "q_link": "https://codeforces.com/contest/2195/problem/C",
-    "sol_path": "Solutions/2195C_Dice_Roll_Sequence.cpp",
-    "filename": "2195C_Dice_Roll_Sequence.cpp"
-  },
-  {
     "id": "2167B",
     "name": "B Your Name",
     "rating": 800,
@@ -3695,20 +3656,6 @@
     "q_link": "https://codeforces.com/problemset/problem/996/A",
     "sol_path": "Solutions/A_Hit_the_Lottery.cpp",
     "filename": "A_Hit_the_Lottery.cpp"
-  },
-  {
-    "id": "459B",
-    "name": "Pashmak and Flowers",
-    "rating": 1300,
-    "rating_source": "api",
-    "tags": [
-      "combinatorics",
-      "implementation",
-      "sortings"
-    ],
-    "q_link": "https://codeforces.com/contest/459/problem/B",
-    "sol_path": "Solutions/459B_Pashmak_and_Flowers.cpp",
-    "filename": "459B_Pashmak_and_Flowers.cpp"
   },
   {
     "id": "581A",

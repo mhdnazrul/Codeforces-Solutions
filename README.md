@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-405-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-401-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,18 +16,18 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 405
+**Total Problems Solved:** 401
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 229 |
+| 800 | 226 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
 | 1200 | 13 |
-| 1300 | 15 |
+| 1300 | 14 |
 | 1400 | 6 |
 | 1500 | 3 |
 | 1600 | 1 |
@@ -40,28 +40,28 @@
 | *special | 3 |
 | binary search | 13 |
 | bitmasks | 12 |
-| brute force | 62 |
-| combinatorics | 4 |
+| brute force | 61 |
+| combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 30 |
 | data structures | 13 |
 | dfs and similar | 4 |
-| dp | 21 |
+| dp | 20 |
 | expression parsing | 2 |
 | games | 8 |
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 4 |
-| greedy | 106 |
+| greedy | 105 |
 | hashing | 3 |
-| implementation | 230 |
+| implementation | 228 |
 | interactive | 2 |
-| math | 114 |
+| math | 112 |
 | number theory | 19 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 45 |
+| sortings | 44 |
 | strings | 44 |
 | ternary search | 1 |
 | trees | 1 |
@@ -84,7 +84,6 @@
 | 1095C | C Powers Of Two | 1400 | `bitmasks`, `greedy` | [View](https://codeforces.com/problemset/problem/1095/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Powers_Of_Two.cpp) |
 | 4C | C Registration system | 1300 | `data structures`, `hashing`, ... | [View](https://codeforces.com/problemset/problem/4/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Registration_system.cpp) |
 | 459B | B Pashmak and Flowers | 1300 | `combinatorics`, `implementation`, ... | [View](https://codeforces.com/contest/459/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Pashmak_and_Flowers.cpp) |
-| 459B | Pashmak and Flowers | 1300 | `combinatorics`, `implementation`, ... | [View](https://codeforces.com/contest/459/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/459B_Pashmak_and_Flowers.cpp) |
 | 451B | B Sort the Array | 1300 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/451/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sort_the_Array.cpp) |
 | 318B | B Strings of Power | 1300 | `implementation`, `strings`, ... | [View](https://codeforces.com/contest/318/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Strings_of_Power.cpp) |
 | 25A | A IQ test | 1300 | `brute force` | [View](https://codeforces.com/problemset/problem/25/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_IQ_test.cpp) |
@@ -260,7 +259,6 @@
 | 791A | A Bear and Big Brother | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/791/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Bear_and_Big_Brother.cpp) |
 | 785A | A Anton and Polyhedrons | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/785/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Polyhedrons.cpp) |
 | 758A | A Holiday Of Equality | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/758/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Holiday_Of_Equality.cpp) |
-| 758A | Holiday Of Equality | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/758/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/758A_Holiday_Of_Equality.cpp) |
 | 734A | A Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Danik.cpp) |
 | 734A | B Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Anton_and_Danik.cpp) |
 | 732A | A Buy a Shovel | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/732/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Buy_a_Shovel.cpp) |
@@ -322,7 +320,6 @@
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
 | 2197A | A Friendly Numbers | 800 | `binary search`, `brute force`, ... | [View](https://codeforces.com/problemset/problem/2197/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Friendly_Numbers.cpp) |
 | 2195C | C Dice Roll Sequence | 800 | `dp`, `greedy` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
-| 2195C | Dice Roll Sequence | 800 | `dp`, `greedy` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2195C_Dice_Roll_Sequence.cpp) |
 | 2195B | B Heapify 1 | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2195/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Heapify_1.cpp) |
 | 2195A | A Sieve of Erato 67 henes | 800 | `math`, `number theory` | [View](https://codeforces.com/contest/2195/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sieve_of_Erato_67_henes.cpp) |
 | 2194A | A Lawn Mower | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2194/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lawn_Mower.cpp) |
@@ -409,7 +406,6 @@
 | 2024A | A Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Profitable_Interest_Rate.cpp) |
 | 200B | B Drinks | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/200/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Drinks.cpp) |
 | 2009A | A Minimize | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/2009/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minimize.cpp) |
-| 2009A | Minimize | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/2009/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2009A_Minimize.cpp) |
 | 2000B | B Seating in a Bus | 800 | `two pointers` | [View](https://codeforces.com/problemset/problem/2000/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seating_in_a_Bus.cpp) |
 | 1999C | C Showering | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/1999/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Showering.cpp) |
 | 1999A | A A B Again | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
