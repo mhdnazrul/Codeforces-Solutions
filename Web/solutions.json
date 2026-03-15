@@ -566,6 +566,19 @@
     "filename": "C_Odd_Even_Increments.cpp"
   },
   {
+    "id": "472A",
+    "name": "Design Tutorial Learn from Math",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/472/A",
+    "sol_path": "Solutions/472A_Design_Tutorial_Learn_from_Math.cpp",
+    "filename": "472A_Design_Tutorial_Learn_from_Math.cpp"
+  },
+  {
     "id": "2171A",
     "name": "A Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
@@ -577,6 +590,19 @@
     "q_link": "https://codeforces.com/contest/2171/problem/A",
     "sol_path": "Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp",
     "filename": "A_Shizuku_Hoshikawa_and_Farm_Legs.cpp"
+  },
+  {
+    "id": "1901A",
+    "name": "Line Trip",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1901/problem/A",
+    "sol_path": "Solutions/1901A_Line_Trip.cpp",
+    "filename": "1901A_Line_Trip.cpp"
   },
   {
     "id": "1374C",
@@ -602,6 +628,19 @@
     "q_link": "https://codeforces.com/problemset/problem/1829/B",
     "sol_path": "Solutions/B_Blank_Space.cpp",
     "filename": "B_Blank_Space.cpp"
+  },
+  {
+    "id": "1829A",
+    "name": "Love Story",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1829/A",
+    "sol_path": "Solutions/1829A_Love_Story.cpp",
+    "filename": "1829A_Love_Story.cpp"
   },
   {
     "id": "268A",
@@ -705,6 +744,19 @@
     "q_link": "https://codeforces.com/problemset/problem/1878/C",
     "sol_path": "Solutions/C_Vasilije_in_Cacak.cpp",
     "filename": "C_Vasilije_in_Cacak.cpp"
+  },
+  {
+    "id": "1985A",
+    "name": "Creating Words",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1985/A",
+    "sol_path": "Solutions/1985A_Creating_Words.cpp",
+    "filename": "1985A_Creating_Words.cpp"
   },
   {
     "id": "2169B",
@@ -1936,6 +1988,19 @@
     "filename": "A_Dragons.cpp"
   },
   {
+    "id": "2009A",
+    "name": "Minimize",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2009/A",
+    "sol_path": "Solutions/2009A_Minimize.cpp",
+    "filename": "2009A_Minimize.cpp"
+  },
+  {
     "id": "1669B",
     "name": "B Triple",
     "rating": 800,
@@ -2846,6 +2911,20 @@
     "filename": "B_Counting_Rhombi.cpp"
   },
   {
+    "id": "490A",
+    "name": "Team Olympiad",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/490/A",
+    "sol_path": "Solutions/490A_Team_Olympiad.cpp",
+    "filename": "490A_Team_Olympiad.cpp"
+  },
+  {
     "id": "2193A",
     "name": "A DBMB and the Array",
     "rating": 800,
@@ -3276,6 +3355,32 @@
     "filename": "B_Following_Directions.cpp"
   },
   {
+    "id": "758A",
+    "name": "Holiday Of Equality",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/758/problem/A",
+    "sol_path": "Solutions/758A_Holiday_Of_Equality.cpp",
+    "filename": "758A_Holiday_Of_Equality.cpp"
+  },
+  {
+    "id": "2195C",
+    "name": "Dice Roll Sequence",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2195/problem/C",
+    "sol_path": "Solutions/2195C_Dice_Roll_Sequence.cpp",
+    "filename": "2195C_Dice_Roll_Sequence.cpp"
+  },
+  {
     "id": "2167B",
     "name": "B Your Name",
     "rating": 800,
@@ -3341,6 +3446,19 @@
     "q_link": "https://codeforces.com/contest/620/problem/A",
     "sol_path": "Solutions/A_Professor_GukiZ_s_Robot.cpp",
     "filename": "A_Professor_GukiZ_s_Robot.cpp"
+  },
+  {
+    "id": "1850A",
+    "name": "To My Critics",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1850/A",
+    "sol_path": "Solutions/1850A_To_My_Critics.cpp",
+    "filename": "1850A_To_My_Critics.cpp"
   },
   {
     "id": "491A",
@@ -3564,6 +3682,20 @@
     "q_link": "https://codeforces.com/problemset/problem/996/A",
     "sol_path": "Solutions/A_Hit_the_Lottery.cpp",
     "filename": "A_Hit_the_Lottery.cpp"
+  },
+  {
+    "id": "459B",
+    "name": "Pashmak and Flowers",
+    "rating": 1300,
+    "rating_source": "api",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/459/problem/B",
+    "sol_path": "Solutions/459B_Pashmak_and_Flowers.cpp",
+    "filename": "459B_Pashmak_and_Flowers.cpp"
   },
   {
     "id": "581A",
