@@ -3303,6 +3303,19 @@
     "filename": "A_Panoramix_s_Prediction.cpp"
   },
   {
+    "id": "9A",
+    "name": "Die Roll",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math",
+      "probabilities"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/9/A",
+    "sol_path": "Solutions/9A_Die_Roll.cpp",
+    "filename": "9A_Die_Roll.cpp"
+  },
+  {
     "id": "2036B",
     "name": "B Startup",
     "rating": 800,

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-404-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-405-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 404
+**Total Problems Solved:** 405
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 228 |
+| 800 | 229 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -56,8 +56,9 @@
 | hashing | 3 |
 | implementation | 230 |
 | interactive | 2 |
-| math | 113 |
+| math | 114 |
 | number theory | 19 |
+| probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 45 |
@@ -251,6 +252,7 @@
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
 | N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
 | N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
+| 9A | Die Roll | 800 | `math`, `probabilities` | [View](https://codeforces.com/problemset/problem/9/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/9A_Die_Roll.cpp) |
 | 996A | A Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
 | 977A | A Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Wrong_Subtraction.cpp) |
 | 959A | A Mahmoud and Ehab and the even odd game | 800 | `games`, `math` | [View](https://codeforces.com/problemset/problem/959/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp) |
