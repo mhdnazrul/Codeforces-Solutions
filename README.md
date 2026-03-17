@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-405-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-406-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 405
+**Total Problems Solved:** 406
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 230 |
+| 800 | 231 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 107 |
 | hashing | 3 |
-| implementation | 232 |
+| implementation | 233 |
 | interactive | 2 |
 | math | 113 |
 | number theory | 19 |
@@ -62,7 +62,7 @@
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 46 |
-| strings | 44 |
+| strings | 45 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -469,6 +469,7 @@
 | 1409A | A Yet Another Two Integers Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1409/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yet_Another_Two_Integers_Problem.cpp) |
 | 1399A | A Remove Smallest | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1399/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Remove_Smallest.cpp) |
 | 136A | A Presents | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/136/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Presents.cpp) |
+| 1367A | Short Substrings | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1367/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1367A_Short_Substrings.cpp) |
 | 1352A | A Sum of Round Numbers | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1352/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Round_Numbers.cpp) |
 | 1335A | A Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 1328A | A Divisibility Problem | 800 | `math` | [View](https://codeforces.com/problemset/problem/1328/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisibility_Problem.cpp) |

@@ -3330,6 +3330,19 @@
     "filename": "9A_Die_Roll.cpp"
   },
   {
+    "id": "1367A",
+    "name": "Short Substrings",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1367/A",
+    "sol_path": "Solutions/1367A_Short_Substrings.cpp",
+    "filename": "1367A_Short_Substrings.cpp"
+  },
+  {
     "id": "2036B",
     "name": "B Startup",
     "rating": 800,
