@@ -3609,6 +3609,18 @@
     "filename": "B_Two_Buttons.cpp"
   },
   {
+    "id": "1950A",
+    "name": "Stair Peak or Neither",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1950/A",
+    "sol_path": "Solutions/1950A_Stair_Peak_or_Neither.cpp",
+    "filename": "1950A_Stair_Peak_or_Neither.cpp"
+  },
+  {
     "id": "2166A",
     "name": "A Same Difference",
     "rating": 800,
@@ -3657,6 +3669,20 @@
     "q_link": "https://codeforces.com/problemset/problem/1807/A",
     "sol_path": "Solutions/A_Plus_or_Minus.cpp",
     "filename": "A_Plus_or_Minus.cpp"
+  },
+  {
+    "id": "432A",
+    "name": "Choosing Teams",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/432/A",
+    "sol_path": "Solutions/432A_Choosing_Teams.cpp",
+    "filename": "432A_Choosing_Teams.cpp"
   },
   {
     "id": "996A",

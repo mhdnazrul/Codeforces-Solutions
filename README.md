@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-402-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-404-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 402
+**Total Problems Solved:** 404
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 227 |
+| 800 | 229 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -52,16 +52,16 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 4 |
-| greedy | 106 |
+| greedy | 107 |
 | hashing | 3 |
-| implementation | 229 |
+| implementation | 231 |
 | interactive | 2 |
 | math | 112 |
 | number theory | 19 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 45 |
+| sortings | 46 |
 | strings | 44 |
 | ternary search | 1 |
 | trees | 1 |
@@ -295,6 +295,7 @@
 | 450Ahttps | A Jzzhu and Children | 800 | `implementation` | [View](https://codeforces.com/contest/450/problem/Ahttps) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jzzhu_and_Children.cpp) |
 | 443A | A Anton and Letters | 800 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/problemset/problem/443/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Letters.cpp) |
 | 432A | A Choosing Teams | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/432/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Choosing_Teams.cpp) |
+| 432A | Choosing Teams | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/432/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/432A_Choosing_Teams.cpp) |
 | 427A | A Police Recruits | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/427/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Police_Recruits.cpp) |
 | 41A | A Translation | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/41/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Translation.cpp) |
 | 381A | A Sereja and Dima | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/381/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sereja_and_Dima.cpp) |
@@ -412,6 +413,7 @@
 | 1999A | A A B Again | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
 | 1996A | A Legs | 800 | `binary search`, `math`, ... | [View](https://codeforces.com/contest/1996/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Legs.cpp) |
 | 1985A | Creating Words | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1985/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1985A_Creating_Words.cpp) |
+| 1950A | Stair Peak or Neither | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1950/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1950A_Stair_Peak_or_Neither.cpp) |
 | 1926A | A Vlad and the Best of Five | 800 | `implementation` | [View](https://codeforces.com/contest/1926/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vlad_and_the_Best_of_Five.cpp) |
 | 1915A | A Odd One Out | 800 | `bitmasks`, `implementation` | [View](https://codeforces.com/problemset/problem/1915/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Odd_One_Out.cpp) |
 | 1913A | A Rating Increase | 800 | `implementation` | [View](https://codeforces.com/contest/1913/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Rating_Increase.cpp) |
