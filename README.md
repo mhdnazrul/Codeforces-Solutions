@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-404-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-405-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 404
+**Total Problems Solved:** 405
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 229 |
+| 800 | 230 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -54,9 +54,9 @@
 | graphs | 4 |
 | greedy | 107 |
 | hashing | 3 |
-| implementation | 231 |
+| implementation | 232 |
 | interactive | 2 |
-| math | 112 |
+| math | 113 |
 | number theory | 19 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -423,6 +423,7 @@
 | 1896A | A Jagged Swaps | 800 | `sortings` | [View](https://codeforces.com/contest/1896/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jagged_Swaps.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |
 | 1878A | A How Much Does Daytona Cost | 800 | `greedy` | [View](https://codeforces.com/problemset/problem/1878/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_How_Much_Does_Daytona_Cost.cpp) |
+| 1873C | Target Practice | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1873/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1873C_Target_Practice.cpp) |
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |

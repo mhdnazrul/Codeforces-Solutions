@@ -3144,6 +3144,19 @@
     "filename": "A_Domino_piling.cpp"
   },
   {
+    "id": "1873C",
+    "name": "Target Practice",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1873/problem/C",
+    "sol_path": "Solutions/1873C_Target_Practice.cpp",
+    "filename": "1873C_Target_Practice.cpp"
+  },
+  {
     "id": "2166C",
     "name": "C Cyclic Merging",
     "rating": 800,
