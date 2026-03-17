@@ -552,6 +552,20 @@
     "filename": "A_Beautiful_Matrix.cpp"
   },
   {
+    "id": "432A",
+    "name": "A Choosing Teams",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/432/A",
+    "sol_path": "Solutions/A_Choosing_Teams.cpp",
+    "filename": "A_Choosing_Teams.cpp"
+  },
+  {
     "id": "1669C",
     "name": "C Odd Even Increments",
     "rating": 800,
