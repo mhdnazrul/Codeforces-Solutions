@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-406-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-407-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 406
+**Total Problems Solved:** 407
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 231 |
+| 800 | 232 |
 | 900 | 82 |
 | 1000 | 34 |
 | 1100 | 22 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 107 |
 | hashing | 3 |
-| implementation | 233 |
+| implementation | 234 |
 | interactive | 2 |
 | math | 113 |
 | number theory | 19 |
@@ -296,6 +296,7 @@
 | 443A | A Anton and Letters | 800 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/problemset/problem/443/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Letters.cpp) |
 | 432A | A Choosing Teams | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/432/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Choosing_Teams.cpp) |
 | 432A | Choosing Teams | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/432/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/432A_Choosing_Teams.cpp) |
+| 431A | A Black Square | 800 | `implementation` | [View](https://codeforces.com/contest/431/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Black_Square.cpp) |
 | 427A | A Police Recruits | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/427/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Police_Recruits.cpp) |
 | 41A | A Translation | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/41/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Translation.cpp) |
 | 381A | A Sereja and Dima | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/381/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sereja_and_Dima.cpp) |

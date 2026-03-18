@@ -849,6 +849,18 @@
     "filename": "B_Atilla_s_Favorite_Problem.cpp"
   },
   {
+    "id": "431A",
+    "name": "A Black Square",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/431/problem/A",
+    "sol_path": "Solutions/A_Black_Square.cpp",
+    "filename": "A_Black_Square.cpp"
+  },
+  {
     "id": "1927B",
     "name": "B Following the String",
     "rating": 900,
