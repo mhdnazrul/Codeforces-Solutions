@@ -1503,8 +1503,8 @@
   {
     "id": "2195B",
     "name": "B Heapify 1",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
       "implementation",
       "sortings"
@@ -1596,7 +1596,7 @@
     "id": "2194A",
     "name": "A Lawn Mower",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -2056,8 +2056,8 @@
   {
     "id": "2195C",
     "name": "C Dice Roll Sequence",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy"
@@ -2528,7 +2528,7 @@
     "id": "2195A",
     "name": "A Sieve of Erato 67 henes",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "math",
       "number theory"
@@ -2922,6 +2922,21 @@
     "q_link": "https://codeforces.com/contest/189/problem/B",
     "sol_path": "Solutions/B_Counting_Rhombi.cpp",
     "filename": "B_Counting_Rhombi.cpp"
+  },
+  {
+    "id": "1370A",
+    "name": "A Maximum GCD",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1370/A",
+    "sol_path": "Solutions/A_Maximum_GCD.cpp",
+    "filename": "A_Maximum_GCD.cpp"
   },
   {
     "id": "490A",
@@ -3879,7 +3894,7 @@
     "id": "2197A",
     "name": "A Friendly Numbers",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "binary search",
       "brute force",
