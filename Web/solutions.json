@@ -2898,6 +2898,18 @@
     "filename": "A_Beautiful_Year.cpp"
   },
   {
+    "id": "1283A",
+    "name": "A Minutes Before the New Year",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1283/problem/A",
+    "sol_path": "Solutions/A_Minutes_Before_the_New_Year.cpp",
+    "filename": "A_Minutes_Before_the_New_Year.cpp"
+  },
+  {
     "id": "1380A",
     "name": "A Three Indices",
     "rating": 900,
