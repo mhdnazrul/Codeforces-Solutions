@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-409-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-411-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,15 +16,15 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 409
+**Total Problems Solved:** 411
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 232 |
+| 800 | 233 |
 | 900 | 83 |
-| 1000 | 34 |
+| 1000 | 35 |
 | 1100 | 23 |
 | 1200 | 13 |
 | 1300 | 14 |
@@ -54,15 +54,15 @@
 | graphs | 4 |
 | greedy | 108 |
 | hashing | 3 |
-| implementation | 235 |
+| implementation | 236 |
 | interactive | 2 |
-| math | 115 |
+| math | 116 |
 | number theory | 20 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 46 |
-| strings | 45 |
+| strings | 46 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -137,6 +137,7 @@
 | 584A | A Olesya and Rodion | 1000 | `math` | [View](https://codeforces.com/problemset/problem/584/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Olesya_and_Rodion.cpp) |
 | 579A | A Raising Bacteria | 1000 | `bitmasks` | [View](https://codeforces.com/problemset/problem/579/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Raising_Bacteria.cpp) |
 | 500A | A New Year Transportation | 1000 | `dfs and similar`, `graphs`, ... | [View](https://codeforces.com/problemset/problem/500/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Transportation.cpp) |
+| 499B | B Lecture | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/499/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Lecture.cpp) |
 | 491A | A Up the hill | 1000 | `constructive algorithms`, `implementation` | [View](https://codeforces.com/contest/491/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Up_the_hill.cpp) |
 | 476A | A Dreamoon and Stairs | 1000 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/476/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dreamoon_and_Stairs.cpp) |
 | 43A | 96A Football | 1000 | `strings` | [View](https://codeforces.com/problemset/problem/43/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/96A_Football.cpp) |
@@ -469,6 +470,7 @@
 | 141A | A Amusing Joke | 800 | `implementation`, `sortings`, ... | [View](https://codeforces.com/problemset/problem/141/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Amusing_Joke.cpp) |
 | 1409A | A Yet Another Two Integers Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1409/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yet_Another_Two_Integers_Problem.cpp) |
 | 1399A | A Remove Smallest | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1399/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Remove_Smallest.cpp) |
+| 1374A | A Required Remainder | 800 | `math` | [View](https://codeforces.com/contest/1374/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Required_Remainder.cpp) |
 | 1370A | A Maximum GCD | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1370/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Maximum_GCD.cpp) |
 | 136A | A Presents | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/136/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Presents.cpp) |
 | 1367A | Short Substrings | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1367/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1367A_Short_Substrings.cpp) |
