@@ -2769,6 +2769,19 @@
     "filename": "C_Shifted_MEX.cpp"
   },
   {
+    "id": "2204A",
+    "name": "A Passing the Ball",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2204/problem/A",
+    "sol_path": "Solutions/A_Passing_the_Ball.cpp",
+    "filename": "A_Passing_the_Ball.cpp"
+  },
+  {
     "id": "110A",
     "name": "A Nearly Lucky Number",
     "rating": 800,
