@@ -4456,6 +4456,18 @@
     "filename": "A_Ultra_Fast_Mathematician.cpp"
   },
   {
+    "id": "2204B",
+    "name": "B Right Maximum",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2204/problem/B",
+    "sol_path": "Solutions/B_Right_Maximum.cpp",
+    "filename": "B_Right_Maximum.cpp"
+  },
+  {
     "id": "509A",
     "name": "A Maximum in Table",
     "rating": 800,
