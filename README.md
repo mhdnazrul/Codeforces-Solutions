@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-413-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-414-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 413
+**Total Problems Solved:** 414
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 235 |
-| 900 | 83 |
+| 900 | 84 |
 | 1000 | 35 |
 | 1100 | 23 |
 | 1200 | 13 |
@@ -54,9 +54,9 @@
 | graphs | 4 |
 | greedy | 109 |
 | hashing | 3 |
-| implementation | 237 |
+| implementation | 238 |
 | interactive | 2 |
-| math | 116 |
+| math | 117 |
 | number theory | 20 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -234,6 +234,7 @@
 | 1837B | B Comparison String | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Comparison_String.cpp) |
 | 1807D | D Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
 | 1720A | A Burenka Plays with Fractions | 900 | `math`, `number theory` | [View](https://codeforces.com/contest/1720/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Burenka_Plays_with_Fractions.cpp) |
+| 1714A | A Everyone Loves to Sleep | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1714/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Everyone_Loves_to_Sleep.cpp) |
 | 1624B | B Make AP | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1624/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Make_AP.cpp) |
 | 1613A | A Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
 | 160A | A Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |

@@ -2248,6 +2248,19 @@
     "filename": "B_Beautiful_String.cpp"
   },
   {
+    "id": "1714A",
+    "name": "A Everyone Loves to Sleep",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1714/problem/A",
+    "sol_path": "Solutions/A_Everyone_Loves_to_Sleep.cpp",
+    "filename": "A_Everyone_Loves_to_Sleep.cpp"
+  },
+  {
     "id": "339B",
     "name": "B Xenia and Ringroad",
     "rating": 1000,
