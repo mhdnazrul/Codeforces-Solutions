@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-423-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-424-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 423
+**Total Problems Solved:** 424
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 241 |
+| 800 | 242 |
 | 900 | 86 |
 | 1000 | 36 |
 | 1100 | 23 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 112 |
 | hashing | 3 |
-| implementation | 243 |
+| implementation | 244 |
 | interactive | 2 |
 | math | 121 |
 | number theory | 21 |
@@ -447,6 +447,7 @@
 | 1791C | C Prepend and Append | 800 | `implementation`, `two pointers` | [View](https://codeforces.com/contest/1791/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Prepend_and_Append.cpp) |
 | 1791B | B Following Directions | 800 | `geometry`, `implementation` | [View](https://codeforces.com/contest/1791/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_Directions.cpp) |
 | 1791A | A Codeforces Checking | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1791/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Codeforces_Checking.cpp) |
+| 1772A | AB | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1772/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1772A_AB.cpp) |
 | 1760B | B Atilla s Favorite Problem | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1760/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Atilla_s_Favorite_Problem.cpp) |
 | 1760A | A Medium Number | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1760/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Medium_Number.cpp) |
 | 1746B | B Rebellion | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/1746/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Rebellion.cpp) |

@@ -3945,6 +3945,18 @@
     "filename": "A_Shortest_Increasing_Path.cpp"
   },
   {
+    "id": "1772A",
+    "name": "AB",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1772/A",
+    "sol_path": "Solutions/1772A_AB.cpp",
+    "filename": "1772A_AB.cpp"
+  },
+  {
     "id": "2139B",
     "name": "B Cake Collection",
     "rating": 800,
