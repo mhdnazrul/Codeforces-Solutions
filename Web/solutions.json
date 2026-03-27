@@ -2236,6 +2236,19 @@
     "filename": "A_Twins.cpp"
   },
   {
+    "id": "499B",
+    "name": "Lecture",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/499/B",
+    "sol_path": "Solutions/499B_Lecture.cpp",
+    "filename": "499B_Lecture.cpp"
+  },
+  {
     "id": "1343A",
     "name": "A Candies",
     "rating": 900,
