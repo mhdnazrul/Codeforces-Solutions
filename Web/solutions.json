@@ -834,6 +834,19 @@
     "filename": "A_George_and_Accommodation.cpp"
   },
   {
+    "id": "1367B",
+    "name": "Even Array",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1367/problem/B",
+    "sol_path": "Solutions/1367B_Even_Array.cpp",
+    "filename": "1367B_Even_Array.cpp"
+  },
+  {
     "id": "125B",
     "name": "B Simple XML",
     "rating": 1000,
