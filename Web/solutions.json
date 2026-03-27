@@ -545,6 +545,19 @@
     "filename": "A_Yes_or_Yes_2178.cpp"
   },
   {
+    "id": "1714A",
+    "name": "Everyone Loves to Sleep",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1714/problem/A",
+    "sol_path": "Solutions/1714A_Everyone_Loves_to_Sleep.cpp",
+    "filename": "1714A_Everyone_Loves_to_Sleep.cpp"
+  },
+  {
     "id": "579A",
     "name": "A Raising Bacteria",
     "rating": 1000,
@@ -2087,6 +2100,19 @@
     "q_link": "https://codeforces.com/contest/2149/problem/D",
     "sol_path": "Solutions/D_A_and_B.cpp",
     "filename": "D_A_and_B.cpp"
+  },
+  {
+    "id": "160A",
+    "name": "Twins",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/160/A",
+    "sol_path": "Solutions/160A_Twins.cpp",
+    "filename": "160A_Twins.cpp"
   },
   {
     "id": "2106D",
@@ -4194,6 +4220,18 @@
     "q_link": "https://codeforces.com/problemset/problem/1829/A",
     "sol_path": "Solutions/1829A_Love_Story.cpp",
     "filename": "1829A_Love_Story.cpp"
+  },
+  {
+    "id": "2204B",
+    "name": "Right Maximum",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2204/problem/B",
+    "sol_path": "Solutions/2204B_Right_Maximum.cpp",
+    "filename": "2204B_Right_Maximum.cpp"
   },
   {
     "id": "124A",

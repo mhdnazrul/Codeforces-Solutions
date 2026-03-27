@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-420-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-423-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 420
+**Total Problems Solved:** 423
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 240 |
-| 900 | 84 |
+| 800 | 241 |
+| 900 | 86 |
 | 1000 | 36 |
 | 1100 | 23 |
 | 1200 | 13 |
@@ -52,16 +52,16 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 4 |
-| greedy | 110 |
+| greedy | 112 |
 | hashing | 3 |
-| implementation | 242 |
+| implementation | 243 |
 | interactive | 2 |
-| math | 120 |
+| math | 121 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 46 |
+| sortings | 47 |
 | strings | 47 |
 | ternary search | 1 |
 | trees | 1 |
@@ -235,9 +235,11 @@
 | 1837B | B Comparison String | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Comparison_String.cpp) |
 | 1807D | D Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
 | 1720A | A Burenka Plays with Fractions | 900 | `math`, `number theory` | [View](https://codeforces.com/contest/1720/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Burenka_Plays_with_Fractions.cpp) |
+| 1714A | Everyone Loves to Sleep | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1714/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1714A_Everyone_Loves_to_Sleep.cpp) |
 | 1714A | A Everyone Loves to Sleep | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1714/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Everyone_Loves_to_Sleep.cpp) |
 | 1624B | B Make AP | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1624/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Make_AP.cpp) |
 | 1613A | A Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
+| 160A | Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/160A_Twins.cpp) |
 | 160A | A Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |
 | 1535B | B Array Reodering | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1535/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Array_Reodering.cpp) |
 | 1494A | A ABC String | 900 | `bitmasks`, `brute force`, ... | [View](https://codeforces.com/contest/1494/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ABC_String.cpp) |
@@ -328,6 +330,7 @@
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
 | 2204B | B Right Maximum | 800 | `greedy` | [View](https://codeforces.com/contest/2204/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Right_Maximum.cpp) |
+| 2204B | Right Maximum | 800 | `greedy` | [View](https://codeforces.com/contest/2204/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2204B_Right_Maximum.cpp) |
 | 2204A | Passing the Ball | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2204/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2204A_Passing_the_Ball.cpp) |
 | 2204A | A Passing the Ball | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2204/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Passing_the_Ball.cpp) |
 | 2197A | A Friendly Numbers | 800 | `binary search`, `brute force`, ... | [View](https://codeforces.com/problemset/problem/2197/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Friendly_Numbers.cpp) |
