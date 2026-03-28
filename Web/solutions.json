@@ -117,6 +117,18 @@
     "filename": "A_Beautiful_Year.cpp"
   },
   {
+    "id": "2211A",
+    "name": "Antimedian Deletion",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2211/problem/A",
+    "sol_path": "Solutions/2211A_Antimedian_Deletion.cpp",
+    "filename": "2211A_Antimedian_Deletion.cpp"
+  },
+  {
     "id": "2204A",
     "name": "Passing the Ball",
     "rating": 800,
