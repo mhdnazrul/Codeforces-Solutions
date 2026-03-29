@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-426-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-427-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 426
+**Total Problems Solved:** 427
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 244 |
+| 800 | 245 |
 | 900 | 86 |
 | 1000 | 36 |
 | 1100 | 23 |
@@ -43,7 +43,7 @@
 | brute force | 63 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 30 |
+| constructive algorithms | 31 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 20 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 245 |
 | interactive | 2 |
-| math | 122 |
+| math | 124 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -329,7 +329,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2211A | Antimedian Deletion | 800 | `implementation` | [View](https://codeforces.com/contest/2211/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2211A_Antimedian_Deletion.cpp) |
+| 2211A | Antimedian Deletion | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2211/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2211A_Antimedian_Deletion.cpp) |
 | 2204B | B Right Maximum | 800 | `greedy` | [View](https://codeforces.com/contest/2204/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Right_Maximum.cpp) |
 | 2204B | Right Maximum | 800 | `greedy` | [View](https://codeforces.com/contest/2204/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2204B_Right_Maximum.cpp) |
 | 2204A | Passing the Ball | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2204/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2204A_Passing_the_Ball.cpp) |
@@ -489,6 +489,7 @@
 | 1367B | Even Array | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/1367/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1367B_Even_Array.cpp) |
 | 1367A | Short Substrings | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1367/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1367A_Short_Substrings.cpp) |
 | 1352A | A Sum of Round Numbers | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1352/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Round_Numbers.cpp) |
+| 1343B | B Balanced Array | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/1343/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Balanced_Array.cpp) |
 | 1335A | A Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 1328A | A Divisibility Problem | 800 | `math` | [View](https://codeforces.com/problemset/problem/1328/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisibility_Problem.cpp) |
 | 1283A | A Minutes Before the New Year | 800 | `math` | [View](https://codeforces.com/contest/1283/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minutes_Before_the_New_Year.cpp) |

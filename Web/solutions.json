@@ -122,7 +122,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "implementation",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2211/problem/A",
     "sol_path": "Solutions/2211A_Antimedian_Deletion.cpp",
@@ -1130,6 +1131,19 @@
     "q_link": "https://codeforces.com/contest/1494/problem/A",
     "sol_path": "Solutions/A_ABC_String.cpp",
     "filename": "A_ABC_String.cpp"
+  },
+  {
+    "id": "1343B",
+    "name": "B Balanced Array",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1343/problem/B",
+    "sol_path": "Solutions/B_Balanced_Array.cpp",
+    "filename": "B_Balanced_Array.cpp"
   },
   {
     "id": "2161A",
