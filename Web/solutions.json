@@ -2234,6 +2234,19 @@
     "filename": "A_Kefa_and_First_Steps.cpp"
   },
   {
+    "id": "1343B",
+    "name": "Balanced Array",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1343/problem/B",
+    "sol_path": "Solutions/1343B_Balanced_Array.cpp",
+    "filename": "1343B_Balanced_Array.cpp"
+  },
+  {
     "id": "1722B",
     "name": "B Colourblindness",
     "rating": 800,

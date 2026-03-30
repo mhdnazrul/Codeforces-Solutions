@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-427-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-428-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 427
+**Total Problems Solved:** 428
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 245 |
+| 800 | 246 |
 | 900 | 86 |
 | 1000 | 36 |
 | 1100 | 23 |
@@ -43,7 +43,7 @@
 | brute force | 63 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 31 |
+| constructive algorithms | 32 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 20 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 245 |
 | interactive | 2 |
-| math | 124 |
+| math | 125 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -490,6 +490,7 @@
 | 1367A | Short Substrings | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1367/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1367A_Short_Substrings.cpp) |
 | 1352A | A Sum of Round Numbers | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1352/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_Round_Numbers.cpp) |
 | 1343B | B Balanced Array | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/1343/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Balanced_Array.cpp) |
+| 1343B | Balanced Array | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/1343/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1343B_Balanced_Array.cpp) |
 | 1335A | A Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 1328A | A Divisibility Problem | 800 | `math` | [View](https://codeforces.com/problemset/problem/1328/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisibility_Problem.cpp) |
 | 1283A | A Minutes Before the New Year | 800 | `math` | [View](https://codeforces.com/contest/1283/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minutes_Before_the_New_Year.cpp) |
