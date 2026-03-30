@@ -533,6 +533,18 @@
     "filename": "A_Yes_or_Yes_2178.cpp"
   },
   {
+    "id": "1772A",
+    "name": "A B",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1772/A",
+    "sol_path": "Solutions/1772A_A_B.cpp",
+    "filename": "1772A_A_B.cpp"
+  },
+  {
     "id": "579A",
     "name": "A Raising Bacteria",
     "rating": 1000,
@@ -1655,31 +1667,6 @@
     "q_link": "#",
     "sol_path": "Solutions/A_AppendAppendAppend.cpp",
     "filename": "A_AppendAppendAppend.cpp"
-  },
-  {
-    "id": "1850A",
-    "name": "To My Critics",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "implementation",
-      "sortings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/1850/A",
-    "sol_path": "Solutions/1850A_To_My_Critics.cpp",
-    "filename": "1850A_To_My_Critics.cpp"
-  },
-  {
-    "id": "1772A",
-    "name": "A B",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/1772/A",
-    "sol_path": "Solutions/1772A_A_B.cpp",
-    "filename": "1772A_A_B.cpp"
   },
   {
     "id": "489B",
@@ -4516,20 +4503,6 @@
     "q_link": "https://codeforces.com/contest/755/problem/B",
     "sol_path": "Solutions/B_PolandBall_and_Game.cpp",
     "filename": "B_PolandBall_and_Game.cpp"
-  },
-  {
-    "id": "432A",
-    "name": "Choosing Teams",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/432/A",
-    "sol_path": "Solutions/432A_Choosing_Teams.cpp",
-    "filename": "432A_Choosing_Teams.cpp"
   },
   {
     "id": "977C",
