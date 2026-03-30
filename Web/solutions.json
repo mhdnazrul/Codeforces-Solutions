@@ -130,19 +130,6 @@
     "filename": "2211A_Antimedian_Deletion.cpp"
   },
   {
-    "id": "2204A",
-    "name": "Passing the Ball",
-    "rating": 800,
-    "rating_source": "fallback",
-    "tags": [
-      "brute force",
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/2204/problem/A",
-    "sol_path": "Solutions/2204A_Passing_the_Ball.cpp",
-    "filename": "2204A_Passing_the_Ball.cpp"
-  },
-  {
     "id": "1360D",
     "name": "D Buying Shovels",
     "rating": 1300,
@@ -285,18 +272,6 @@
     "q_link": "https://codeforces.com/contest/2168/problem/A2",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
-  },
-  {
-    "id": "1374A",
-    "name": "Required Remainder",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "math"
-    ],
-    "q_link": "https://codeforces.com/contest/1374/problem/A",
-    "sol_path": "Solutions/1374A_Required_Remainder.cpp",
-    "filename": "1374A_Required_Remainder.cpp"
   },
   {
     "id": "1901A",
@@ -556,19 +531,6 @@
     "q_link": "https://codeforces.com/contest/2178/problem/A",
     "sol_path": "Solutions/A_Yes_or_Yes_2178.cpp",
     "filename": "A_Yes_or_Yes_2178.cpp"
-  },
-  {
-    "id": "1714A",
-    "name": "Everyone Loves to Sleep",
-    "rating": 900,
-    "rating_source": "api",
-    "tags": [
-      "implementation",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/contest/1714/problem/A",
-    "sol_path": "Solutions/1714A_Everyone_Loves_to_Sleep.cpp",
-    "filename": "1714A_Everyone_Loves_to_Sleep.cpp"
   },
   {
     "id": "579A",
@@ -1708,6 +1670,18 @@
     "filename": "1850A_To_My_Critics.cpp"
   },
   {
+    "id": "1772A",
+    "name": "A B",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1772/A",
+    "sol_path": "Solutions/1772A_A_B.cpp",
+    "filename": "1772A_A_B.cpp"
+  },
+  {
     "id": "489B",
     "name": "B BerSU Ball",
     "rating": 1200,
@@ -2141,19 +2115,6 @@
     "filename": "D_A_and_B.cpp"
   },
   {
-    "id": "160A",
-    "name": "Twins",
-    "rating": 900,
-    "rating_source": "api",
-    "tags": [
-      "greedy",
-      "sortings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/160/A",
-    "sol_path": "Solutions/160A_Twins.cpp",
-    "filename": "160A_Twins.cpp"
-  },
-  {
     "id": "2106D",
     "name": "D Flower Boy",
     "rating": 1500,
@@ -2234,19 +2195,6 @@
     "filename": "A_Kefa_and_First_Steps.cpp"
   },
   {
-    "id": "1343B",
-    "name": "Balanced Array",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "constructive algorithms",
-      "math"
-    ],
-    "q_link": "https://codeforces.com/contest/1343/problem/B",
-    "sol_path": "Solutions/1343B_Balanced_Array.cpp",
-    "filename": "1343B_Balanced_Array.cpp"
-  },
-  {
     "id": "1722B",
     "name": "B Colourblindness",
     "rating": 800,
@@ -2312,19 +2260,6 @@
     "q_link": "https://codeforces.com/problemset/problem/160/A",
     "sol_path": "Solutions/A_Twins.cpp",
     "filename": "A_Twins.cpp"
-  },
-  {
-    "id": "499B",
-    "name": "Lecture",
-    "rating": 1000,
-    "rating_source": "api",
-    "tags": [
-      "implementation",
-      "strings"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/499/B",
-    "sol_path": "Solutions/499B_Lecture.cpp",
-    "filename": "499B_Lecture.cpp"
   },
   {
     "id": "1343A",
@@ -2936,18 +2871,6 @@
     "q_link": "https://codeforces.com/contest/1714/problem/A",
     "sol_path": "Solutions/A_Everyone_Loves_to_Sleep.cpp",
     "filename": "A_Everyone_Loves_to_Sleep.cpp"
-  },
-  {
-    "id": "431A",
-    "name": "Black Square",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/431/problem/A",
-    "sol_path": "Solutions/431A_Black_Square.cpp",
-    "filename": "431A_Black_Square.cpp"
   },
   {
     "id": "816B",
@@ -4011,18 +3934,6 @@
     "filename": "A_Shortest_Increasing_Path.cpp"
   },
   {
-    "id": "1772A",
-    "name": "AB",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/1772/A",
-    "sol_path": "Solutions/1772A_AB.cpp",
-    "filename": "1772A_AB.cpp"
-  },
-  {
     "id": "2139B",
     "name": "B Cake Collection",
     "rating": 800,
@@ -4298,18 +4209,6 @@
     "q_link": "https://codeforces.com/problemset/problem/1829/A",
     "sol_path": "Solutions/1829A_Love_Story.cpp",
     "filename": "1829A_Love_Story.cpp"
-  },
-  {
-    "id": "2204B",
-    "name": "Right Maximum",
-    "rating": 800,
-    "rating_source": "fallback",
-    "tags": [
-      "greedy"
-    ],
-    "q_link": "https://codeforces.com/contest/2204/problem/B",
-    "sol_path": "Solutions/2204B_Right_Maximum.cpp",
-    "filename": "2204B_Right_Maximum.cpp"
   },
   {
     "id": "124A",
@@ -4683,33 +4582,6 @@
     "q_link": "https://codeforces.com/problemset/problem/2128/A",
     "sol_path": "Solutions/A_Recycling_Center.cpp",
     "filename": "A_Recycling_Center.cpp"
-  },
-  {
-    "id": "1370A",
-    "name": "Maximum GCD",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "greedy",
-      "implementation",
-      "math",
-      "number theory"
-    ],
-    "q_link": "https://codeforces.com/problemset/problem/1370/A",
-    "sol_path": "Solutions/1370A_Maximum_GCD.cpp",
-    "filename": "1370A_Maximum_GCD.cpp"
-  },
-  {
-    "id": "1283A",
-    "name": "Minutes Before the New Year",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "math"
-    ],
-    "q_link": "https://codeforces.com/contest/1283/problem/A",
-    "sol_path": "Solutions/1283A_Minutes_Before_the_New_Year.cpp",
-    "filename": "1283A_Minutes_Before_the_New_Year.cpp"
   },
   {
     "id": "105940I",
