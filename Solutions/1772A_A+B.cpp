@@ -1,7 +1,7 @@
 /*┌────────────────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7             
   │                        >   Author:- Nazrul Islam                   
-  │Problem Link: https://codeforces.com/contest/2204/problem/B
+  │Problem Link: https://codeforces.com/problemset/problem/1772/A
   └────────────────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
@@ -20,21 +20,14 @@ const char nl = '\n';
 template<class T>    void inV(vector<T> &v){for(auto &x:v) cin>>x;}
 template<typename T> void outV(const vector<T>& v) {if (v.empty()) return;
     for (int i = 0; i < sz(v); ++i)cout << v[i] << " \n"[i == sz(v) - 1];}
- 
+
 void run_case(){
-    int n;          cin>>n;
-    vi a(n);        
-    int ans = 0, mx = 0;
-	for(int i=0;i<n;i++){
-		cin>>a[i];
-		if(mx <= a[i]){
-			mx = a[i];
-			ans++;
-		}
-	}
-	cout<<ans<<nl;
+    string s;   cin>>s;
+    int a = s[0] - '0';
+    int b = s[2] - '0';
+    cout<<a+b<<nl; 
 }
- 
+
 int32_t main(){
     ios_base::sync_with_stdio(0);
     cin.tie(0);          int T=1;
@@ -42,4 +35,3 @@ int32_t main(){
     while(T--)        run_case();
     return 0;
 }
- 
