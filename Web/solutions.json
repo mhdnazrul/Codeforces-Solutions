@@ -2679,6 +2679,20 @@
     "filename": "A_Sum_of_Round_Numbers.cpp"
   },
   {
+    "id": "1858A",
+    "name": "Buttons",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "games",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1858/A",
+    "sol_path": "Solutions/1858A_Buttons.cpp",
+    "filename": "1858A_Buttons.cpp"
+  },
+  {
     "id": "208A",
     "name": "A Dubstep",
     "rating": 900,
