@@ -1093,6 +1093,19 @@
     "filename": "A_Binary_Array_Game.cpp"
   },
   {
+    "id": "1619A",
+    "name": "Square String",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1619/A",
+    "sol_path": "Solutions/1619A_Square_String.cpp",
+    "filename": "1619A_Square_String.cpp"
+  },
+  {
     "id": "1494A",
     "name": "A ABC String",
     "rating": 900,
