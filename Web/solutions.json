@@ -595,6 +595,18 @@
     "filename": "A_Magnets.cpp"
   },
   {
+    "id": "2218C",
+    "name": "The 67th Permutation Problem",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2218/problem/C",
+    "sol_path": "Solutions/2218C_The_67th_Permutation_Problem.cpp",
+    "filename": "2218C_The_67th_Permutation_Problem.cpp"
+  },
+  {
     "id": "2036B",
     "name": "B Startup",
     "rating": 800,
