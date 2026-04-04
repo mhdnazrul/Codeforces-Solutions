@@ -2523,6 +2523,20 @@
     "filename": "A_Team.cpp"
   },
   {
+    "id": "2218E",
+    "name": "The 67th XOR Problem",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force"
+    ],
+    "q_link": "https://codeforces.com/contest/2218/problem/E",
+    "sol_path": "Solutions/2218E_The_67th_XOR_Problem.cpp",
+    "filename": "2218E_The_67th_XOR_Problem.cpp"
+  },
+  {
     "id": "32B",
     "name": "B Borze",
     "rating": 800,
