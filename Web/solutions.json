@@ -989,6 +989,18 @@
     "filename": "A_Stones_on_the_Table.cpp"
   },
   {
+    "id": "2218A",
+    "name": "The 67th Integer Problem",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2218/problem/A",
+    "sol_path": "Solutions/2218A_The_67th_Integer_Problem.cpp",
+    "filename": "2218A_The_67th_Integer_Problem.cpp"
+  },
+  {
     "id": "1850D",
     "name": "D Balanced Round",
     "rating": 900,
