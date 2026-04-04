@@ -4059,6 +4059,18 @@
     "filename": "A_Collatz_Conjecture.cpp"
   },
   {
+    "id": "2218B",
+    "name": "The 67th 67 Integer Problem",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2218/problem/B",
+    "sol_path": "Solutions/2218B_The_67th_67_Integer_Problem.cpp",
+    "filename": "2218B_The_67th_67_Integer_Problem.cpp"
+  },
+  {
     "id": "466A",
     "name": "A Cheap Travel",
     "rating": 1200,
