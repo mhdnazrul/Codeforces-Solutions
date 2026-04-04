@@ -1313,6 +1313,18 @@
     "filename": "B_Tab_Closing.cpp"
   },
   {
+    "id": "2218D",
+    "name": "The 67th OEIS Problem",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2218/problem/D",
+    "sol_path": "Solutions/2218D_The_67th_OEIS_Problem.cpp",
+    "filename": "2218D_The_67th_OEIS_Problem.cpp"
+  },
+  {
     "id": "455A",
     "name": "A Boredom",
     "rating": 1500,
