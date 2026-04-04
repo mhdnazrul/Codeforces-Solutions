@@ -600,7 +600,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms",
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/C",
     "sol_path": "Solutions/2218C_The_67th_Permutation_Problem.cpp",
@@ -1006,7 +1008,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/A",
     "sol_path": "Solutions/2218A_The_67th_Integer_Problem.cpp",
@@ -1318,7 +1320,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "math",
+      "number theory"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/D",
     "sol_path": "Solutions/2218D_The_67th_OEIS_Problem.cpp",
@@ -4088,7 +4092,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/B",
     "sol_path": "Solutions/2218B_The_67th_67_Integer_Problem.cpp",
