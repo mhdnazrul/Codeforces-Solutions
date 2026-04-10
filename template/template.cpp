@@ -30,10 +30,7 @@ template<typename T> void Vout(const vector<T>& v) {if (v.empty()) return;
     for (int i = 0; i < sz(v); ++i)cout << v[i] << " \n"[i == sz(v) - 1];}
 
 void run_case(){
-    int n;
-    cin >> n;
-    vi arr(n);
-    Vin(arr);Vout(arr);
+    
 }
 
 int32_t main(){
@@ -43,4 +40,3 @@ int32_t main(){
     while(T--)run_case();
     return 0;
 }
-
