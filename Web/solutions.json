@@ -2563,6 +2563,19 @@
     "filename": "C_Production_of_Snowmen.cpp"
   },
   {
+    "id": "2214C",
+    "name": "And",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "*special",
+      "bitmasks"
+    ],
+    "q_link": "https://codeforces.com/contest/2214/problem/C",
+    "sol_path": "Solutions/2214C_And.cpp",
+    "filename": "2214C_And.cpp"
+  },
+  {
     "id": "1772A",
     "name": "A B",
     "rating": 800,
