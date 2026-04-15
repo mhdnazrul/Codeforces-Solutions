@@ -858,6 +858,19 @@
     "filename": "1901A_Line_Trip.cpp"
   },
   {
+    "id": "2214B",
+    "name": "Are You Smiling",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "*special",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/2214/problem/B",
+    "sol_path": "Solutions/2214B_Are_You_Smiling.cpp",
+    "filename": "2214B_Are_You_Smiling.cpp"
+  },
+  {
     "id": "2145A",
     "name": "A Candies for Nephews",
     "rating": 800,
