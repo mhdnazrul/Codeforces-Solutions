@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-426-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-427-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 426
+**Total Problems Solved:** 427
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 245 |
+| 800 | 246 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -37,7 +37,7 @@
 
 | Tag | Count |
 | :--- | :--- |
-| *special | 3 |
+| *special | 4 |
 | binary search | 14 |
 | bitmasks | 13 |
 | brute force | 65 |
@@ -50,11 +50,11 @@
 | expression parsing | 2 |
 | games | 10 |
 | geometry | 2 |
-| graph matchings | 2 |
+| graph matchings | 3 |
 | graphs | 4 |
 | greedy | 115 |
 | hashing | 3 |
-| implementation | 241 |
+| implementation | 242 |
 | interactive | 2 |
 | math | 128 |
 | number theory | 21 |
@@ -329,6 +329,7 @@
 | 2218C | The 67th Permutation Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218C_The_67th_Permutation_Problem.cpp) |
 | 2218B | The 67th 67 Integer Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2218/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218B_The_67th_67_Integer_Problem.cpp) |
 | 2218A | The 67th Integer Problem | 800 | `brute force`, `games`, ... | [View](https://codeforces.com/contest/2218/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218A_The_67th_Integer_Problem.cpp) |
+| 2214A | Odd One Out | 800 | `*special`, `graph matchings`, ... | [View](https://codeforces.com/contest/2214/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2214A_Odd_One_Out.cpp) |
 | 2211A | Antimedian Deletion | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2211/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2211A_Antimedian_Deletion.cpp) |
 | 2204B | B Right Maximum | 800 | `greedy` | [View](https://codeforces.com/contest/2204/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Right_Maximum.cpp) |
 | 2204A | A Passing the Ball | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/2204/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Passing_the_Ball.cpp) |

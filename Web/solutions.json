@@ -3006,6 +3006,20 @@
     "filename": "A_Amusing_Joke.cpp"
   },
   {
+    "id": "2214A",
+    "name": "Odd One Out",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "*special",
+      "graph matchings",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2214/problem/A",
+    "sol_path": "Solutions/2214A_Odd_One_Out.cpp",
+    "filename": "2214A_Odd_One_Out.cpp"
+  },
+  {
     "id": "1791C",
     "name": "C Prepend and Append",
     "rating": 800,
