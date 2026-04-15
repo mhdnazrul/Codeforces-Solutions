@@ -1064,8 +1064,8 @@
   {
     "id": "2218E",
     "name": "The 67th XOR Problem",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1200,
+    "rating_source": "api",
     "tags": [
       "binary search",
       "bitmasks",
@@ -2083,7 +2083,7 @@
     "id": "2218A",
     "name": "The 67th Integer Problem",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "games",
@@ -2110,7 +2110,7 @@
     "id": "2218C",
     "name": "The 67th Permutation Problem",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -2124,7 +2124,7 @@
     "id": "2204A",
     "name": "A Passing the Ball",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "implementation"
@@ -3164,8 +3164,8 @@
   {
     "id": "2218D",
     "name": "The 67th OEIS Problem",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy",
@@ -3256,7 +3256,7 @@
     "id": "2204B",
     "name": "B Right Maximum",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -3894,7 +3894,7 @@
     "id": "2218B",
     "name": "The 67th 67 Integer Problem",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -3955,6 +3955,20 @@
     "q_link": "https://codeforces.com/contest/2168/problem/A2",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
     "filename": "A_2_Encode_and_Decode_Hard_Version.cpp"
+  },
+  {
+    "id": "1209A",
+    "name": "Paint the Numbers",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1209/problem/A",
+    "sol_path": "Solutions/1209A_Paint_the_Numbers.cpp",
+    "filename": "1209A_Paint_the_Numbers.cpp"
   },
   {
     "id": "1760B",
@@ -4206,7 +4220,7 @@
     "id": "2211A",
     "name": "Antimedian Deletion",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"

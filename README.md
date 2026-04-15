@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-425-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-426-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,17 +16,17 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 425
+**Total Problems Solved:** 426
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 246 |
+| 800 | 245 |
 | 900 | 84 |
 | 1000 | 35 |
-| 1100 | 23 |
-| 1200 | 13 |
+| 1100 | 24 |
+| 1200 | 14 |
 | 1300 | 14 |
 | 1400 | 6 |
 | 1500 | 3 |
@@ -52,11 +52,11 @@
 | geometry | 2 |
 | graph matchings | 2 |
 | graphs | 4 |
-| greedy | 114 |
+| greedy | 115 |
 | hashing | 3 |
-| implementation | 240 |
+| implementation | 241 |
 | interactive | 2 |
-| math | 127 |
+| math | 128 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -103,6 +103,7 @@
 | 492B | B Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
 | 489B | B BerSU Ball | 1200 | `dfs and similar`, `dp`, ... | [View](https://codeforces.com/problemset/problem/489/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_BerSU_Ball.cpp) |
 | 466A | A Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
+| 2218E | The 67th XOR Problem | 1200 | `binary search`, `bitmasks`, ... | [View](https://codeforces.com/contest/2218/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218E_The_67th_XOR_Problem.cpp) |
 | 2182C | C Production of Snowmen | 1200 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2172E | E Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
 | 2158B | B Split | 1200 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2158/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Split.cpp) |
@@ -114,6 +115,7 @@
 | 456A | A Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | B Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
+| 2218D | The 67th OEIS Problem | 1100 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218D_The_67th_OEIS_Problem.cpp) |
 | 2195C | C Dice Roll Sequence | 1100 | `dp`, `greedy` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
 | 2185D | D OutOfMemoryError | 1100 | `data structures`, `implementation`, ... | [View](https://codeforces.com/contest/2185/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_OutOfMemoryError.cpp) |
 | 2184C | C Huge Pile | 1100 | `binary search`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2184/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Huge_Pile.cpp) |
@@ -324,8 +326,6 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2218E | The 67th XOR Problem | 800 | `binary search`, `bitmasks`, ... | [View](https://codeforces.com/contest/2218/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218E_The_67th_XOR_Problem.cpp) |
-| 2218D | The 67th OEIS Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218D_The_67th_OEIS_Problem.cpp) |
 | 2218C | The 67th Permutation Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218C_The_67th_Permutation_Problem.cpp) |
 | 2218B | The 67th 67 Integer Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2218/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218B_The_67th_67_Integer_Problem.cpp) |
 | 2218A | The 67th Integer Problem | 800 | `brute force`, `games`, ... | [View](https://codeforces.com/contest/2218/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218A_The_67th_Integer_Problem.cpp) |
@@ -492,6 +492,7 @@
 | 1335A | A Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 1328A | A Divisibility Problem | 800 | `math` | [View](https://codeforces.com/problemset/problem/1328/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisibility_Problem.cpp) |
 | 1283A | A Minutes Before the New Year | 800 | `math` | [View](https://codeforces.com/contest/1283/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minutes_Before_the_New_Year.cpp) |
+| 1209A | Paint the Numbers | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/1209/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1209A_Paint_the_Numbers.cpp) |
 | 116A | A Tram | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/116/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tram.cpp) |
 | 1154A | A Restoring Three Numbers | 800 | `math` | [View](https://codeforces.com/problemset/problem/1154/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Restoring_Three_Numbers.cpp) |
 | 112A | A Petya and Strings | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/112/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Petya_and_Strings.cpp) |
