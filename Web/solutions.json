@@ -2992,6 +2992,19 @@
     "filename": "C_Restricted_Sorting.cpp"
   },
   {
+    "id": "1433A",
+    "name": "Boring Apartments",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1433/A",
+    "sol_path": "Solutions/1433A_Boring_Apartments.cpp",
+    "filename": "1433A_Boring_Apartments.cpp"
+  },
+  {
     "id": "2158B",
     "name": "B Split",
     "rating": 1200,

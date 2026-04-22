@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-429-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-430-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 429
+**Total Problems Solved:** 430
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 248 |
+| 800 | 249 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -54,9 +54,9 @@
 | graphs | 4 |
 | greedy | 115 |
 | hashing | 3 |
-| implementation | 242 |
+| implementation | 243 |
 | interactive | 2 |
-| math | 128 |
+| math | 129 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -482,6 +482,7 @@
 | 148A | A Insomnia cure | 800 | `constructive algorithms`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/148/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Insomnia_cure.cpp) |
 | 1452C | C Two Brackets | 800 | `greedy` | [View](https://codeforces.com/contest/1452/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Two_Brackets.cpp) |
 | 144A | A Arrival of the General | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/144/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Arrival_of_the_General.cpp) |
+| 1433A | Boring Apartments | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1433/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1433A_Boring_Apartments.cpp) |
 | 141A | A Amusing Joke | 800 | `implementation`, `sortings`, ... | [View](https://codeforces.com/problemset/problem/141/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Amusing_Joke.cpp) |
 | 1409A | A Yet Another Two Integers Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1409/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Yet_Another_Two_Integers_Problem.cpp) |
 | 1399A | A Remove Smallest | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/1399/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Remove_Smallest.cpp) |
