@@ -187,6 +187,18 @@
     "filename": "A_Insomnia_cure.cpp"
   },
   {
+    "id": "2222A",
+    "name": "A Wonderful Contest",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2222/problem/A",
+    "sol_path": "Solutions/2222A_A_Wonderful_Contest.cpp",
+    "filename": "2222A_A_Wonderful_Contest.cpp"
+  },
+  {
     "id": "2036B",
     "name": "B Startup",
     "rating": 800,
