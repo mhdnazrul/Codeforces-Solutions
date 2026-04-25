@@ -437,6 +437,18 @@
     "filename": "A_Tram.cpp"
   },
   {
+    "id": "2222B",
+    "name": "Artistic Balance Tree",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2222/problem/B",
+    "sol_path": "Solutions/2222B_Artistic_Balance_Tree.cpp",
+    "filename": "2222B_Artistic_Balance_Tree.cpp"
+  },
+  {
     "id": "110A",
     "name": "A Nearly Lucky Number",
     "rating": 800,
