@@ -1,13 +1,13 @@
-/*┌────────────────────────────────────────────────────────────────────────────────────┐
+/*┌──────────────────────────────────────────────────────────────────────────┐
   │                        >   Handle:- nazrulislam_7
   │                        >   Author:- Nazrul Islam
   │Problem Link: 
-  └────────────────────────────────────────────────────────────────────────────────────┘*/
+  └──────────────────────────────────────────────────────────────────────────┘*/
 #include <bits/stdc++.h>
 using namespace std;
 using ll  = long long;using ld  = long double;using vi  = vector<int>;
 using vll = vector<ll>;using pii = pair<int,int>;using pll = pair<ll,ll>;
-using ull = unsigned long long;using i128 = __int128;
+using ull = unsigned long long; // using i128 = __int128; // only use C++ 20 or up
 constexpr ll INF = 1'000'000'000'000'000'000LL;  constexpr int MOD = 1'000'000'007;
 #define rep(i,a,b)  for(int i=(a);i<(b);++i)
 #define per(i,a,b)  for(int i=(b)-1;i>=(a);--i)
@@ -40,7 +40,7 @@ ll modinv(ll a, ll m = MOD) { return modpow(a, m - 2, m); }
 ll madd(ll a, ll b, ll m = MOD) { return (a + b) % m; }
 ll msub(ll a, ll b, ll m = MOD) { return ((a - b) % m + m) % m; }
 ll mmul(ll a, ll b, ll m = MOD) { return (__int128)a * b % m; }
-// ── Solution ──────────────────────────────────────────────────────────────────────────
+// ── Solution ──────────────────────────────────────────────────────────────
 
 void run_case() {
     
