@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-433-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-434-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 433
+**Total Problems Solved:** 434
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 252 |
+| 800 | 253 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 244 |
 | interactive | 2 |
-| math | 131 |
+| math | 132 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -473,6 +473,7 @@
 | 1669C | C Odd Even Increments | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/1669/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Odd_Even_Increments.cpp) |
 | 1669B | B Triple | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1669/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Triple.cpp) |
 | 1669A | A Division | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1669/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Division.cpp) |
+| 1624A | Plus One on the Subset | 800 | `math` | [View](https://codeforces.com/problemset/problem/1624/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1624A_Plus_One_on_the_Subset.cpp) |
 | 1619A | Square String | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1619/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1619A_Square_String.cpp) |
 | 158A | A Next Round | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Next_Round.cpp) |
 | 158A | A Domino piling | 800 | `*special`, `implementation` | [View](https://codeforces.com/problemset/problem/158/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Domino_piling.cpp) |

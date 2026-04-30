@@ -1709,6 +1709,18 @@
     "filename": "B_Rebellion.cpp"
   },
   {
+    "id": "1624A",
+    "name": "Plus One on the Subset",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1624/A",
+    "sol_path": "Solutions/1624A_Plus_One_on_the_Subset.cpp",
+    "filename": "1624A_Plus_One_on_the_Subset.cpp"
+  },
+  {
     "id": "1883B",
     "name": "B Chemistry",
     "rating": 900,
