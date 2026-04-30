@@ -1473,6 +1473,19 @@
     "filename": "B_Strings_of_Power.cpp"
   },
   {
+    "id": "2227A",
+    "name": "Koshary",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2227/problem/A",
+    "sol_path": "Solutions/2227A_Koshary.cpp",
+    "filename": "2227A_Koshary.cpp"
+  },
+  {
     "id": "58A",
     "name": "A Chat room",
     "rating": 1000,
