@@ -192,7 +192,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "brute force",
+      "dp",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2222/problem/A",
     "sol_path": "Solutions/2222A_A_Wonderful_Contest.cpp",
@@ -442,7 +444,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "sortings"
     ],
     "q_link": "https://codeforces.com/contest/2222/problem/B",
     "sol_path": "Solutions/2222B_Artistic_Balance_Tree.cpp",
