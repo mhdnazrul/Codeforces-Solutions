@@ -39,11 +39,11 @@ ll modpow(ll b, ll e, ll m = MOD) {
 ll modinv(ll a, ll m = MOD) { return modpow(a, m - 2, m); }
 ll madd(ll a, ll b, ll m = MOD) { return (a + b) % m; }
 ll msub(ll a, ll b, ll m = MOD) { return ((a - b) % m + m) % m; }
-ll mmul(ll a, ll b, ll m = MOD) { return (__int128)a * b % m; }
+ll mmul(ll a, ll b, ll m = MOD) { return (ull)a * b % m; }
 // ── Solution ──────────────────────────────────────────────────────────────
 
 void run_case() {
-    
+
 }
 
 int main() {
