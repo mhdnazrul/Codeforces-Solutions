@@ -40,28 +40,28 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 65 |
+| brute force | 66 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 35 |
 | data structures | 13 |
 | dfs and similar | 4 |
-| dp | 20 |
+| dp | 21 |
 | expression parsing | 2 |
 | games | 10 |
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 115 |
+| greedy | 116 |
 | hashing | 3 |
-| implementation | 245 |
+| implementation | 243 |
 | interactive | 2 |
-| math | 129 |
+| math | 130 |
 | number theory | 21 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 45 |
+| sortings | 46 |
 | strings | 48 |
 | ternary search | 1 |
 | trees | 1 |
@@ -326,8 +326,8 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2222B | Artistic Balance Tree | 800 | `implementation` | [View](https://codeforces.com/contest/2222/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222B_Artistic_Balance_Tree.cpp) |
-| 2222A | A Wonderful Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2222/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222A_A_Wonderful_Contest.cpp) |
+| 2222B | Artistic Balance Tree | 800 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2222/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222B_Artistic_Balance_Tree.cpp) |
+| 2222A | A Wonderful Contest | 800 | `brute force`, `dp`, ... | [View](https://codeforces.com/contest/2222/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222A_A_Wonderful_Contest.cpp) |
 | 2218C | The 67th Permutation Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218C_The_67th_Permutation_Problem.cpp) |
 | 2218B | The 67th 67 Integer Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2218/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218B_The_67th_67_Integer_Problem.cpp) |
 | 2218A | The 67th Integer Problem | 800 | `brute force`, `games`, ... | [View](https://codeforces.com/contest/2218/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218A_The_67th_Integer_Problem.cpp) |
