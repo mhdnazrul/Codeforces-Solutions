@@ -4347,6 +4347,19 @@
     "filename": "A_Restoring_Three_Numbers.cpp"
   },
   {
+    "id": "1360A",
+    "name": "Minimal Square",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1360/A",
+    "sol_path": "Solutions/1360A_Minimal_Square.cpp",
+    "filename": "1360A_Minimal_Square.cpp"
+  },
+  {
     "id": "2139B",
     "name": "B Cake Collection",
     "rating": 800,
