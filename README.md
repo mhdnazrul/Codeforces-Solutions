@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-435-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-436-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 435
+**Total Problems Solved:** 436
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 254 |
+| 800 | 255 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 66 |
+| brute force | 67 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 35 |
@@ -56,8 +56,8 @@
 | hashing | 3 |
 | implementation | 244 |
 | interactive | 2 |
-| math | 133 |
-| number theory | 21 |
+| math | 134 |
+| number theory | 22 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
@@ -429,6 +429,7 @@
 | 1999A | A A B Again | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1999/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_A_B_Again.cpp) |
 | 1996A | A Legs | 800 | `binary search`, `math`, ... | [View](https://codeforces.com/contest/1996/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Legs.cpp) |
 | 1992A | Only Pluses | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/1992/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1992A_Only_Pluses.cpp) |
+| 1985B | Maximum Multiple Sum | 800 | `brute force`, `math`, ... | [View](https://codeforces.com/problemset/problem/1985/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1985B_Maximum_Multiple_Sum.cpp) |
 | 1985A | Creating Words | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1985/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1985A_Creating_Words.cpp) |
 | 1950A | Stair Peak or Neither | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1950/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1950A_Stair_Peak_or_Neither.cpp) |
 | 1926A | A Vlad and the Best of Five | 800 | `implementation` | [View](https://codeforces.com/contest/1926/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vlad_and_the_Best_of_Five.cpp) |

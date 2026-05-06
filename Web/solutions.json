@@ -1861,6 +1861,20 @@
     "filename": "A_I_Wanna_Be_the_Guy.cpp"
   },
   {
+    "id": "1985B",
+    "name": "Maximum Multiple Sum",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1985/B",
+    "sol_path": "Solutions/1985B_Maximum_Multiple_Sum.cpp",
+    "filename": "1985B_Maximum_Multiple_Sum.cpp"
+  },
+  {
     "id": "1914B",
     "name": "Preparing for the Contest",
     "rating": 800,
