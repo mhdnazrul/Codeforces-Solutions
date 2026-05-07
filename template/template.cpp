@@ -43,7 +43,7 @@ ll mmul(ll a, ll b, ll m = MOD) { return (ull)a * b % m; }
 // ── Solution ──────────────────────────────────────────────────────────────
 
 void run_case() {
-
+    
 }
 
 int main() {
