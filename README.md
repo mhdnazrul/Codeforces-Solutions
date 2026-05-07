@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-437-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-438-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 437
+**Total Problems Solved:** 438
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 256 |
+| 800 | 257 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -46,17 +46,17 @@
 | constructive algorithms | 36 |
 | data structures | 13 |
 | dfs and similar | 4 |
-| dp | 21 |
+| dp | 22 |
 | expression parsing | 2 |
 | games | 10 |
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 118 |
+| greedy | 119 |
 | hashing | 3 |
 | implementation | 245 |
 | interactive | 2 |
-| math | 134 |
+| math | 135 |
 | number theory | 22 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -486,6 +486,7 @@
 | 1512A | A Spy Detected | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/1512/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Spy_Detected.cpp) |
 | 1498A | A GCD Sum | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/1498/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_GCD_Sum.cpp) |
 | 148A | A Insomnia cure | 800 | `constructive algorithms`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/148/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Insomnia_cure.cpp) |
+| 1472B | Fair Division | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1472/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1472B_Fair_Division.cpp) |
 | 1452C | C Two Brackets | 800 | `greedy` | [View](https://codeforces.com/contest/1452/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Two_Brackets.cpp) |
 | 144A | A Arrival of the General | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/144/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Arrival_of_the_General.cpp) |
 | 1433A | Boring Apartments | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1433/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1433A_Boring_Apartments.cpp) |

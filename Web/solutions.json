@@ -2017,6 +2017,20 @@
     "filename": "B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp"
   },
   {
+    "id": "1472B",
+    "name": "Fair Division",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1472/B",
+    "sol_path": "Solutions/1472B_Fair_Division.cpp",
+    "filename": "1472B_Fair_Division.cpp"
+  },
+  {
     "id": "1837B",
     "name": "B Comparison String",
     "rating": 900,
