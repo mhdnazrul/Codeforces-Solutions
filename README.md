@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-436-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-437-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 436
+**Total Problems Solved:** 437
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 255 |
+| 800 | 256 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -43,7 +43,7 @@
 | brute force | 67 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 35 |
+| constructive algorithms | 36 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 21 |
@@ -52,9 +52,9 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 117 |
+| greedy | 118 |
 | hashing | 3 |
-| implementation | 244 |
+| implementation | 245 |
 | interactive | 2 |
 | math | 134 |
 | number theory | 22 |
@@ -62,7 +62,7 @@
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 46 |
-| strings | 48 |
+| strings | 49 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -438,6 +438,7 @@
 | 1913A | A Rating Increase | 800 | `implementation` | [View](https://codeforces.com/contest/1913/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Rating_Increase.cpp) |
 | 1903A | A Halloumi Boxes | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1903/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Halloumi_Boxes.cpp) |
 | 1901A | Line Trip | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/1901/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1901A_Line_Trip.cpp) |
+| 1900A | Cover in Water | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1900/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1900A_Cover_in_Water.cpp) |
 | 1899A | A Game with Integers | 800 | `games`, `math`, ... | [View](https://codeforces.com/contest/1899/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_with_Integers.cpp) |
 | 1896A | A Jagged Swaps | 800 | `sortings` | [View](https://codeforces.com/contest/1896/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jagged_Swaps.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |

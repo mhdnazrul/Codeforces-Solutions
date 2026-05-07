@@ -973,6 +973,21 @@
     "filename": "A_Arrival_of_the_General.cpp"
   },
   {
+    "id": "1900A",
+    "name": "Cover in Water",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1900/A",
+    "sol_path": "Solutions/1900A_Cover_in_Water.cpp",
+    "filename": "1900A_Cover_in_Water.cpp"
+  },
+  {
     "id": "1850A",
     "name": "A To My Critics",
     "rating": 800,
