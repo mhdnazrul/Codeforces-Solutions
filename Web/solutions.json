@@ -4332,6 +4332,18 @@
     "filename": "A_New_Year_Candles.cpp"
   },
   {
+    "id": "2230B",
+    "name": "Digit String",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2230/problem/B",
+    "sol_path": "Solutions/2230B_Digit_String.cpp",
+    "filename": "2230B_Digit_String.cpp"
+  },
+  {
     "id": "2214A",
     "name": "Odd One Out",
     "rating": 800,
