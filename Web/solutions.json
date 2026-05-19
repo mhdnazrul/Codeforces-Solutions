@@ -131,6 +131,19 @@
     "filename": "B_Blackslex_and_Showering.cpp"
   },
   {
+    "id": "2228A",
+    "name": "Marisa Steals Reimus Takeout",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2228/problem/A",
+    "sol_path": "Solutions/2228A_Marisa_Steals_Reimus_Takeout.cpp",
+    "filename": "2228A_Marisa_Steals_Reimus_Takeout.cpp"
+  },
+  {
     "id": "1837B",
     "name": "B Comparison String",
     "rating": 900,
@@ -3440,7 +3453,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "implementation",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2230/problem/A",
     "sol_path": "Solutions/2230A_Optimal_Purchase.cpp",
@@ -4337,7 +4351,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "implementation",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2230/problem/B",
     "sol_path": "Solutions/2230B_Digit_String.cpp",
