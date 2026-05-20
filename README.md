@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-441-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-442-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 441
+**Total Problems Solved:** 442
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 260 |
+| 800 | 261 |
 | 900 | 84 |
 | 1000 | 35 |
 | 1100 | 24 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 248 |
 | interactive | 2 |
-| math | 137 |
+| math | 138 |
 | number theory | 22 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -335,6 +335,7 @@
 | 2218C | The 67th Permutation Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218C_The_67th_Permutation_Problem.cpp) |
 | 2218B | The 67th 67 Integer Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2218/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218B_The_67th_67_Integer_Problem.cpp) |
 | 2218A | The 67th Integer Problem | 800 | `brute force`, `games`, ... | [View](https://codeforces.com/contest/2218/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218A_The_67th_Integer_Problem.cpp) |
+| 2217A | The Equalizer | 800 | `math` | [View](https://codeforces.com/problemset/problem/2217/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2217A_The_Equalizer.cpp) |
 | 2214C | And | 800 | `*special`, `bitmasks` | [View](https://codeforces.com/contest/2214/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2214C_And.cpp) |
 | 2214B | Are You Smiling | 800 | `*special`, `strings` | [View](https://codeforces.com/contest/2214/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2214B_Are_You_Smiling.cpp) |
 | 2214A | Odd One Out | 800 | `*special`, `graph matchings`, ... | [View](https://codeforces.com/contest/2214/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2214A_Odd_One_Out.cpp) |

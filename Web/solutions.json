@@ -1695,6 +1695,18 @@
     "filename": "A_The_number_of_positions.cpp"
   },
   {
+    "id": "2217A",
+    "name": "The Equalizer",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2217/A",
+    "sol_path": "Solutions/2217A_The_Equalizer.cpp",
+    "filename": "2217A_The_Equalizer.cpp"
+  },
+  {
     "id": "122A",
     "name": "A Lucky Division",
     "rating": 1000,
