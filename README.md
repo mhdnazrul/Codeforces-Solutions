@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-442-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-443-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 442
+**Total Problems Solved:** 443
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 261 |
 | 900 | 84 |
-| 1000 | 35 |
+| 1000 | 36 |
 | 1100 | 24 |
 | 1200 | 14 |
 | 1300 | 14 |
@@ -52,9 +52,9 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 121 |
+| greedy | 122 |
 | hashing | 3 |
-| implementation | 248 |
+| implementation | 249 |
 | interactive | 2 |
 | math | 138 |
 | number theory | 22 |
@@ -146,6 +146,7 @@
 | 379A | A New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
+| 2217B | Flip the Bit Easy Version | 1000 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/2217/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2217B_Flip_the_Bit_Easy_Version.cpp) |
 | 2191B | B MEX Reordering | 1000 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
 | 2188B | B Seats | 1000 | `greedy` | [View](https://codeforces.com/contest/2188/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Seats.cpp) |
 | 2176B | B Optimal Shifts | 1000 | `bitmasks`, `greedy`, ... | [View](https://codeforces.com/contest/2176/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Optimal_Shifts.cpp) |

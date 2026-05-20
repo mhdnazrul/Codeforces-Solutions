@@ -3174,6 +3174,19 @@
     "filename": "A_Holiday_Of_Equality.cpp"
   },
   {
+    "id": "2217B",
+    "name": "Flip the Bit Easy Version",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2217/B",
+    "sol_path": "Solutions/2217B_Flip_the_Bit_Easy_Version.cpp",
+    "filename": "2217B_Flip_the_Bit_Easy_Version.cpp"
+  },
+  {
     "id": "1360D",
     "name": "D Buying Shovels",
     "rating": 1300,
