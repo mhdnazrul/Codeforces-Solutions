@@ -2350,6 +2350,18 @@
     "filename": "A_Social_Experiment.cpp"
   },
   {
+    "id": "2231A",
+    "name": "Construct an Array",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/contest/2231/problem/A",
+    "sol_path": "Solutions/2231A_Construct_an_Array.cpp",
+    "filename": "2231A_Construct_an_Array.cpp"
+  },
+  {
     "id": "1899A",
     "name": "A Game with Integers",
     "rating": 800,
