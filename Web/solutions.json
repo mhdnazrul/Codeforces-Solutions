@@ -1280,6 +1280,18 @@
     "filename": "A_Soft_Drinking.cpp"
   },
   {
+    "id": "2229C1",
+    "name": "We Be Flipping Easy Version",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2229/problem/C1",
+    "sol_path": "Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp",
+    "filename": "2229C1_We_Be_Flipping_Easy_Version.cpp"
+  },
+  {
     "id": "1873C",
     "name": "Target Practice",
     "rating": 800,
