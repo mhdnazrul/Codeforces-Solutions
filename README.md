@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-445-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-446-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 445
+**Total Problems Solved:** 446
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 263 |
+| 800 | 264 |
 | 900 | 84 |
 | 1000 | 36 |
 | 1100 | 24 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 122 |
 | hashing | 3 |
-| implementation | 250 |
+| implementation | 251 |
 | interactive | 2 |
 | math | 138 |
 | number theory | 22 |
@@ -330,6 +330,7 @@
 | 2231A | Construct an Array | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2231/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2231A_Construct_an_Array.cpp) |
 | 2230B | Digit String | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2230/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230B_Digit_String.cpp) |
 | 2230A | Optimal Purchase | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230A_Optimal_Purchase.cpp) |
+| 2229B | Absolute Cinema | 800 | `implementation` | [View](https://codeforces.com/contest/2229/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229B_Absolute_Cinema.cpp) |
 | 2229A | Slimes on a Line | 800 | `implementation` | [View](https://codeforces.com/contest/2229/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229A_Slimes_on_a_Line.cpp) |
 | 2228A | Marisa Steals Reimus Takeout | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2228/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2228A_Marisa_Steals_Reimus_Takeout.cpp) |
 | 2227A | Koshary | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2227/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2227A_Koshary.cpp) |

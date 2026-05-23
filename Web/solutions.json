@@ -845,6 +845,18 @@
     "filename": "A_Game_With_Sticks.cpp"
   },
   {
+    "id": "2229B",
+    "name": "Absolute Cinema",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2229/problem/B",
+    "sol_path": "Solutions/2229B_Absolute_Cinema.cpp",
+    "filename": "2229B_Absolute_Cinema.cpp"
+  },
+  {
     "id": "2172E",
     "name": "E Number Maze",
     "rating": 1200,
