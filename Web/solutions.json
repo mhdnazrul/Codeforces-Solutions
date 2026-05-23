@@ -592,6 +592,18 @@
     "filename": "A_Vasya_and_Socks.cpp"
   },
   {
+    "id": "2229A",
+    "name": "Slimes on a Line",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2229/problem/A",
+    "sol_path": "Solutions/2229A_Slimes_on_a_Line.cpp",
+    "filename": "2229A_Slimes_on_a_Line.cpp"
+  },
+  {
     "id": "2183A",
     "name": "A Binary Array Game",
     "rating": 800,
