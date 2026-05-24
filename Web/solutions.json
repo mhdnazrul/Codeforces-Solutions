@@ -597,7 +597,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "brute force",
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/A",
     "sol_path": "Solutions/2229A_Slimes_on_a_Line.cpp",
@@ -850,7 +852,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/B",
     "sol_path": "Solutions/2229B_Absolute_Cinema.cpp",
@@ -1285,7 +1288,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms",
+      "greedy"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/C1",
     "sol_path": "Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp",
@@ -2836,6 +2840,19 @@
     "q_link": "https://codeforces.com/problemset/problem/584/A",
     "sol_path": "Solutions/A_Olesya_and_Rodion.cpp",
     "filename": "A_Olesya_and_Rodion.cpp"
+  },
+  {
+    "id": "1881A",
+    "name": "Dont Try to Count",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1881/A",
+    "sol_path": "Solutions/1881A_Dont_Try_to_Count.cpp",
+    "filename": "1881A_Dont_Try_to_Count.cpp"
   },
   {
     "id": "2218B",

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-447-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-448-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 447
+**Total Problems Solved:** 448
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 265 |
+| 800 | 266 |
 | 900 | 84 |
 | 1000 | 36 |
 | 1100 | 24 |
@@ -40,10 +40,10 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 67 |
+| brute force | 69 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 37 |
+| constructive algorithms | 38 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 22 |
@@ -52,17 +52,17 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 122 |
+| greedy | 125 |
 | hashing | 3 |
-| implementation | 252 |
+| implementation | 249 |
 | interactive | 2 |
-| math | 138 |
+| math | 140 |
 | number theory | 22 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 46 |
-| strings | 49 |
+| strings | 50 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -330,9 +330,9 @@
 | 2231A | Construct an Array | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2231/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2231A_Construct_an_Array.cpp) |
 | 2230B | Digit String | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2230/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230B_Digit_String.cpp) |
 | 2230A | Optimal Purchase | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230A_Optimal_Purchase.cpp) |
-| 2229C1 | We Be Flipping Easy Version | 800 | `implementation` | [View](https://codeforces.com/contest/2229/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp) |
-| 2229B | Absolute Cinema | 800 | `implementation` | [View](https://codeforces.com/contest/2229/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229B_Absolute_Cinema.cpp) |
-| 2229A | Slimes on a Line | 800 | `implementation` | [View](https://codeforces.com/contest/2229/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229A_Slimes_on_a_Line.cpp) |
+| 2229C1 | We Be Flipping Easy Version | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2229/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp) |
+| 2229B | Absolute Cinema | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2229/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229B_Absolute_Cinema.cpp) |
+| 2229A | Slimes on a Line | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2229/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229A_Slimes_on_a_Line.cpp) |
 | 2228A | Marisa Steals Reimus Takeout | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2228/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2228A_Marisa_Steals_Reimus_Takeout.cpp) |
 | 2227A | Koshary | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2227/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2227A_Koshary.cpp) |
 | 2222B | Artistic Balance Tree | 800 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2222/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222B_Artistic_Balance_Tree.cpp) |
@@ -450,6 +450,7 @@
 | 1900A | Cover in Water | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1900/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1900A_Cover_in_Water.cpp) |
 | 1899A | A Game with Integers | 800 | `games`, `math`, ... | [View](https://codeforces.com/contest/1899/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_with_Integers.cpp) |
 | 1896A | A Jagged Swaps | 800 | `sortings` | [View](https://codeforces.com/contest/1896/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jagged_Swaps.cpp) |
+| 1881A | Dont Try to Count | 800 | `brute force`, `strings` | [View](https://codeforces.com/problemset/problem/1881/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1881A_Dont_Try_to_Count.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |
 | 1878A | A How Much Does Daytona Cost | 800 | `greedy` | [View](https://codeforces.com/problemset/problem/1878/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_How_Much_Does_Daytona_Cost.cpp) |
 | 1873C | Target Practice | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1873/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1873C_Target_Practice.cpp) |
