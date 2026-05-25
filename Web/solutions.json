@@ -3,10 +3,9 @@
     "id": "734A",
     "name": "B Anton and Danik",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/734/A",
     "sol_path": "Solutions/B_Anton_and_Danik.cpp",
@@ -15,12 +14,10 @@
   {
     "id": "2218E",
     "name": "The 67th XOR Problem",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "bitmasks",
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/E",
     "sol_path": "Solutions/2218E_The_67th_XOR_Problem.cpp",
@@ -29,10 +26,9 @@
   {
     "id": "2169B",
     "name": "B Drifting Away",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/B",
@@ -45,8 +41,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2227/problem/A",
     "sol_path": "Solutions/2227A_Koshary.cpp",
@@ -56,9 +51,9 @@
     "id": "155A",
     "name": "A I love username",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/155/A",
     "sol_path": "Solutions/A_I_love_username.cpp",
@@ -68,9 +63,8 @@
     "id": "2189A",
     "name": "A Table with Numbers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2189/problem/A",
@@ -81,10 +75,9 @@
     "id": "2194A",
     "name": "A Lawn Mower",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2194/problem/A",
     "sol_path": "Solutions/A_Lawn_Mower.cpp",
@@ -94,10 +87,9 @@
     "id": "112A",
     "name": "A Petya and Strings",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/112/A",
     "sol_path": "Solutions/A_Petya_and_Strings.cpp",
@@ -107,9 +99,8 @@
     "id": "1512A",
     "name": "A Spy Detected",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1512/problem/A",
@@ -120,10 +111,8 @@
     "id": "2179B",
     "name": "B Blackslex and Showering",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/B",
@@ -136,7 +125,6 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2228/problem/A",
@@ -146,10 +134,10 @@
   {
     "id": "1837B",
     "name": "B Comparison String",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1837/B",
     "sol_path": "Solutions/B_Comparison_String.cpp",
@@ -159,11 +147,9 @@
     "id": "1873B",
     "name": "B Good Kid",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1873/problem/B",
     "sol_path": "Solutions/B_Good_Kid.cpp",
@@ -172,11 +158,9 @@
   {
     "id": "4C",
     "name": "C Registration system",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "hashing",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/4/C",
@@ -187,9 +171,8 @@
     "id": "1873A",
     "name": "A Short Sort",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1873/A",
@@ -199,11 +182,10 @@
   {
     "id": "476A",
     "name": "A Dreamoon and Stairs",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/476/A",
     "sol_path": "Solutions/A_Dreamoon_and_Stairs.cpp",
@@ -213,11 +195,9 @@
     "id": "2127A",
     "name": "A Mix Mex Max",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2127/A",
     "sol_path": "Solutions/A_Mix_Mex_Max.cpp",
@@ -227,12 +207,9 @@
     "id": "2167C",
     "name": "C Isamatdin and His Magic Wand",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2167/problem/C",
     "sol_path": "Solutions/C_Isamatdin_and_His_Magic_Wand.cpp",
@@ -241,12 +218,10 @@
   {
     "id": "2171C2",
     "name": "C 2 Renako Amaori and XOR Game hard version",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "games",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/C2",
     "sol_path": "Solutions/C_2_Renako_Amaori_and_XOR_Game_hard_version.cpp",
@@ -280,10 +255,9 @@
     "id": "231A",
     "name": "A Team",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/231/A",
     "sol_path": "Solutions/A_Team.cpp",
@@ -292,11 +266,10 @@
   {
     "id": "1374C",
     "name": "C Move Brackets",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1374/C",
     "sol_path": "Solutions/C_Move_Brackets.cpp",
@@ -306,7 +279,7 @@
     "id": "1913A",
     "name": "A Rating Increase",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -318,7 +291,7 @@
     "id": "791A",
     "name": "A Bear and Big Brother",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -330,10 +303,9 @@
     "id": "1553A",
     "name": "A Digits Sum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1553/A",
     "sol_path": "Solutions/A_Digits_Sum.cpp",
@@ -343,7 +315,7 @@
     "id": "228A",
     "name": "A Is your horseshoe on the other hoof",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -355,11 +327,9 @@
     "id": "1669C",
     "name": "C Odd Even Increments",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1669/C",
     "sol_path": "Solutions/C_Odd_Even_Increments.cpp",
@@ -368,11 +338,9 @@
   {
     "id": "500A",
     "name": "A New Year Transportation",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dfs and similar",
-      "graphs",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/500/A",
@@ -382,12 +350,10 @@
   {
     "id": "821C",
     "name": "C Okabe and Boxes",
-    "rating": 1500,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "greedy",
-      "trees"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/821/problem/C",
     "sol_path": "Solutions/C_Okabe_and_Boxes.cpp",
@@ -397,11 +363,9 @@
     "id": "141A",
     "name": "A Amusing Joke",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/141/A",
     "sol_path": "Solutions/A_Amusing_Joke.cpp",
@@ -411,10 +375,9 @@
     "id": "1433A",
     "name": "Boring Apartments",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1433/A",
     "sol_path": "Solutions/1433A_Boring_Apartments.cpp",
@@ -424,10 +387,9 @@
     "id": "1791C",
     "name": "C Prepend and Append",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1791/problem/C",
     "sol_path": "Solutions/C_Prepend_and_Append.cpp",
@@ -436,8 +398,8 @@
   {
     "id": "1971C",
     "name": "C Clock and Strings",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -449,11 +411,9 @@
     "id": "1985B",
     "name": "Maximum Multiple Sum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1985/B",
     "sol_path": "Solutions/1985B_Maximum_Multiple_Sum.cpp",
@@ -463,12 +423,9 @@
     "id": "2133A",
     "name": "A Redstone",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "data structures",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2133/A",
     "sol_path": "Solutions/A_Redstone.cpp",
@@ -478,10 +435,9 @@
     "id": "2147A",
     "name": "A Shortest Increasing Path",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2147/problem/A",
     "sol_path": "Solutions/A_Shortest_Increasing_Path.cpp",
@@ -490,11 +446,9 @@
   {
     "id": "158B",
     "name": "B Taxi",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "*special",
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/158/B",
@@ -505,9 +459,8 @@
     "id": "1915A",
     "name": "A Odd One Out",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1915/A",
@@ -517,12 +470,10 @@
   {
     "id": "120A",
     "name": "A Elevator",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/120/problem/A",
     "sol_path": "Solutions/A_Elevator.cpp",
@@ -532,10 +483,9 @@
     "id": "2155A",
     "name": "A El fucho",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2155/problem/A",
     "sol_path": "Solutions/A_El_fucho.cpp",
@@ -545,9 +495,9 @@
     "id": "2139B",
     "name": "B Cake Collection",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2139/B",
     "sol_path": "Solutions/B_Cake_Collection.cpp",
@@ -557,7 +507,7 @@
     "id": "1669A",
     "name": "A Division",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -569,9 +519,9 @@
     "id": "1335A",
     "name": "A Candies and Two Sisters",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1335/A",
     "sol_path": "Solutions/A_Candies_and_Two_Sisters.cpp",
@@ -580,12 +530,10 @@
   {
     "id": "460A",
     "name": "A Vasya and Socks",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/460/problem/A",
     "sol_path": "Solutions/A_Vasya_and_Socks.cpp",
@@ -597,9 +545,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/A",
     "sol_path": "Solutions/2229A_Slimes_on_a_Line.cpp",
@@ -609,9 +555,9 @@
     "id": "2183A",
     "name": "A Binary Array Game",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "games"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2183/problem/A",
     "sol_path": "Solutions/A_Binary_Array_Game.cpp",
@@ -621,10 +567,9 @@
     "id": "1343B",
     "name": "B Balanced Array",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1343/problem/B",
     "sol_path": "Solutions/B_Balanced_Array.cpp",
@@ -633,10 +578,10 @@
   {
     "id": "1A",
     "name": "A Theatre Square",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1/A",
     "sol_path": "Solutions/A_Theatre_Square.cpp",
@@ -646,10 +591,9 @@
     "id": "2179A",
     "name": "A Blackslex and Password",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/A",
     "sol_path": "Solutions/A_Blackslex_and_Password.cpp",
@@ -659,10 +603,9 @@
     "id": "1399A",
     "name": "A Remove Smallest",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1399/A",
     "sol_path": "Solutions/A_Remove_Smallest.cpp",
@@ -671,13 +614,10 @@
   {
     "id": "1850D",
     "name": "D Balanced Round",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1850/D",
     "sol_path": "Solutions/D_Balanced_Round.cpp",
@@ -689,8 +629,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "*special",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2214/problem/B",
     "sol_path": "Solutions/2214B_Are_You_Smiling.cpp",
@@ -699,12 +638,10 @@
   {
     "id": "1927B",
     "name": "B Following the String",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1927/B",
     "sol_path": "Solutions/B_Following_the_String.cpp",
@@ -714,13 +651,9 @@
     "id": "1676C",
     "name": "C Most Similar Words",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "implementation",
-      "math",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1676/C",
     "sol_path": "Solutions/C_Most_Similar_Words.cpp",
@@ -730,13 +663,9 @@
     "id": "2170A",
     "name": "A Maximum Neighborhood",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "brute force",
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2170/problem/A",
     "sol_path": "Solutions/A_Maximum_Neighborhood.cpp",
@@ -746,11 +675,9 @@
     "id": "1209A",
     "name": "Paint the Numbers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1209/problem/A",
     "sol_path": "Solutions/1209A_Paint_the_Numbers.cpp",
@@ -762,8 +689,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2222/problem/B",
     "sol_path": "Solutions/2222B_Artistic_Balance_Tree.cpp",
@@ -773,10 +699,9 @@
     "id": "2153B",
     "name": "B Bitwise Reversion",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2153/problem/B",
     "sol_path": "Solutions/B_Bitwise_Reversion.cpp",
@@ -798,10 +723,9 @@
     "id": "2137A",
     "name": "A Collatz Conjecture",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2137/A",
     "sol_path": "Solutions/A_Collatz_Conjecture.cpp",
@@ -810,12 +734,10 @@
   {
     "id": "2173B",
     "name": "B Niko s Tactical Cards",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2173/problem/B",
     "sol_path": "Solutions/B_Niko_s_Tactical_Cards.cpp",
@@ -825,10 +747,9 @@
     "id": "1760A",
     "name": "A Medium Number",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1760/A",
     "sol_path": "Solutions/A_Medium_Number.cpp",
@@ -837,8 +758,8 @@
   {
     "id": "451A",
     "name": "A Game With Sticks",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -852,8 +773,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/B",
     "sol_path": "Solutions/2229B_Absolute_Cinema.cpp",
@@ -862,8 +782,8 @@
   {
     "id": "2172E",
     "name": "E Number Maze",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -874,10 +794,10 @@
   {
     "id": "26A",
     "name": "A Almost Prime",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/26/problem/A",
     "sol_path": "Solutions/A_Almost_Prime.cpp",
@@ -886,11 +806,10 @@
   {
     "id": "189B",
     "name": "B Counting Rhombi",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/189/problem/B",
     "sol_path": "Solutions/B_Counting_Rhombi.cpp",
@@ -900,7 +819,7 @@
     "id": "136A",
     "name": "A Presents",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -912,10 +831,9 @@
     "id": "2154A",
     "name": "A Notelock",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2154/problem/A",
     "sol_path": "Solutions/A_Notelock.cpp",
@@ -925,10 +843,9 @@
     "id": "996A",
     "name": "A Hit the Lottery",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/996/A",
     "sol_path": "Solutions/A_Hit_the_Lottery.cpp",
@@ -937,11 +854,10 @@
   {
     "id": "118A",
     "name": "A String Task",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/118/A",
     "sol_path": "Solutions/A_String_Task.cpp",
@@ -950,15 +866,10 @@
   {
     "id": "520B",
     "name": "B Two Buttons",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dfs and similar",
-      "graphs",
-      "greedy",
-      "implementation",
-      "math",
-      "shortest paths"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/520/B",
     "sol_path": "Solutions/B_Two_Buttons.cpp",
@@ -968,10 +879,9 @@
     "id": "1692B",
     "name": "B All Distinct",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1692/B",
     "sol_path": "Solutions/B_All_Distinct.cpp",
@@ -980,10 +890,10 @@
   {
     "id": "1985C",
     "name": "C Good Prefixes",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1985/problem/C",
     "sol_path": "Solutions/C_Good_Prefixes.cpp",
@@ -993,7 +903,7 @@
     "id": "510A",
     "name": "A Fox And Snake",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1004,10 +914,10 @@
   {
     "id": "25A",
     "name": "A IQ test",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/25/A",
     "sol_path": "Solutions/A_IQ_test.cpp",
@@ -1017,11 +927,9 @@
     "id": "2166A",
     "name": "A Same Difference",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2166/A",
     "sol_path": "Solutions/A_Same_Difference.cpp",
@@ -1030,8 +938,8 @@
   {
     "id": "133A",
     "name": "A HQ 9",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1043,10 +951,9 @@
     "id": "1498A",
     "name": "A GCD Sum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1498/A",
     "sol_path": "Solutions/A_GCD_Sum.cpp",
@@ -1056,11 +963,9 @@
     "id": "1746B",
     "name": "B Rebellion",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1746/problem/B",
     "sol_path": "Solutions/B_Rebellion.cpp",
@@ -1070,12 +975,9 @@
     "id": "339A",
     "name": "A Helpful Maths",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/339/A",
     "sol_path": "Solutions/A_Helpful_Maths.cpp",
@@ -1084,12 +986,10 @@
   {
     "id": "318B",
     "name": "B Strings of Power",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/318/problem/B",
     "sol_path": "Solutions/B_Strings_of_Power.cpp",
@@ -1098,13 +998,10 @@
   {
     "id": "279B",
     "name": "B Books",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "brute force",
-      "implementation",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/279/B",
     "sol_path": "Solutions/B_Books.cpp",
@@ -1114,10 +1011,9 @@
     "id": "620A",
     "name": "A Professor GukiZ s Robot",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/620/problem/A",
     "sol_path": "Solutions/A_Professor_GukiZ_s_Robot.cpp",
@@ -1126,11 +1022,9 @@
   {
     "id": "706B",
     "name": "B Interesting drink",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "dp",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/706/B",
@@ -1140,11 +1034,9 @@
   {
     "id": "1494A",
     "name": "A ABC String",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1494/problem/A",
@@ -1155,12 +1047,9 @@
     "id": "2161A",
     "name": "A Round Trip",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "games",
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2161/problem/A",
     "sol_path": "Solutions/A_Round_Trip.cpp",
@@ -1182,10 +1071,9 @@
     "id": "2164A",
     "name": "A Sequence Game",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2164/problem/A",
     "sol_path": "Solutions/A_Sequence_Game.cpp",
@@ -1195,13 +1083,9 @@
     "id": "2065A",
     "name": "A Skibidus and Amog u",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2065/A",
     "sol_path": "Solutions/A_Skibidus_and_Amog_u.cpp",
@@ -1210,13 +1094,10 @@
   {
     "id": "492B",
     "name": "B Vanya and Lanterns",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "implementation",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/492/B",
     "sol_path": "Solutions/B_Vanya_and_Lanterns.cpp",
@@ -1226,13 +1107,9 @@
     "id": "1992A",
     "name": "Only Pluses",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
-      "greedy",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1992/A",
     "sol_path": "Solutions/1992A_Only_Pluses.cpp",
@@ -1241,15 +1118,10 @@
   {
     "id": "489B",
     "name": "B BerSU Ball",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dfs and similar",
-      "dp",
-      "graph matchings",
-      "greedy",
-      "sortings",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/489/B",
     "sol_path": "Solutions/B_BerSU_Ball.cpp",
@@ -1259,11 +1131,9 @@
     "id": "2157A",
     "name": "A Dungeon Equilibrium",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2157/problem/A",
     "sol_path": "Solutions/A_Dungeon_Equilibrium.cpp",
@@ -1273,10 +1143,9 @@
     "id": "151A",
     "name": "A Soft Drinking",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/151/A",
     "sol_path": "Solutions/A_Soft_Drinking.cpp",
@@ -1288,8 +1157,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2229/problem/C1",
     "sol_path": "Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp",
@@ -1299,10 +1167,9 @@
     "id": "1873C",
     "name": "Target Practice",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1873/problem/C",
     "sol_path": "Solutions/1873C_Target_Practice.cpp",
@@ -1311,11 +1178,10 @@
   {
     "id": "160A",
     "name": "A Twins",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/160/A",
     "sol_path": "Solutions/A_Twins.cpp",
@@ -1325,9 +1191,9 @@
     "id": "2145A",
     "name": "A Candies for Nephews",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2145/problem/A",
     "sol_path": "Solutions/A_Candies_for_Nephews.cpp",
@@ -1337,9 +1203,8 @@
     "id": "1703B",
     "name": "B ICPC Balloons",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1703/B",
@@ -1349,12 +1214,10 @@
   {
     "id": "2158B",
     "name": "B Split",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2158/problem/B",
     "sol_path": "Solutions/B_Split.cpp",
@@ -1364,10 +1227,9 @@
     "id": "2162A",
     "name": "A Beautiful Average",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2162/problem/A",
     "sol_path": "Solutions/A_Beautiful_Average.cpp",
@@ -1377,7 +1239,7 @@
     "id": "61A",
     "name": "A Ultra Fast Mathematician",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1389,10 +1251,9 @@
     "id": "959A",
     "name": "A Mahmoud and Ehab and the even odd game",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "games",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/959/A",
     "sol_path": "Solutions/A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp",
@@ -1402,9 +1263,9 @@
     "id": "1624A",
     "name": "Plus One on the Subset",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1624/A",
     "sol_path": "Solutions/1624A_Plus_One_on_the_Subset.cpp",
@@ -1413,11 +1274,10 @@
   {
     "id": "451B",
     "name": "B Sort the Array",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/451/B",
     "sol_path": "Solutions/B_Sort_the_Array.cpp",
@@ -1427,12 +1287,9 @@
     "id": "2092A",
     "name": "A Kamilka and the Sheep",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math",
-      "number theory",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2092/A",
     "sol_path": "Solutions/A_Kamilka_and_the_Sheep.cpp",
@@ -1441,11 +1298,10 @@
   {
     "id": "1342B",
     "name": "B Binary Period",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1342/problem/B",
     "sol_path": "Solutions/B_Binary_Period.cpp",
@@ -1454,11 +1310,9 @@
   {
     "id": "1999B",
     "name": "B Card Game",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1999/problem/B",
@@ -1469,10 +1323,9 @@
     "id": "1857A",
     "name": "A Array Coloring",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1857/A",
     "sol_path": "Solutions/A_Array_Coloring.cpp",
@@ -1482,7 +1335,7 @@
     "id": "492A",
     "name": "A Vanya and Cubes",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1494,10 +1347,9 @@
     "id": "1791A",
     "name": "A Codeforces Checking",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1791/A",
     "sol_path": "Solutions/A_Codeforces_Checking.cpp",
@@ -1507,9 +1359,9 @@
     "id": "268A",
     "name": "A Games",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/268/A",
     "sol_path": "Solutions/A_Games.cpp",
@@ -1518,10 +1370,9 @@
   {
     "id": "491A",
     "name": "A Up the hill",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/491/problem/A",
@@ -1532,9 +1383,8 @@
     "id": "469A",
     "name": "A I Wanna Be the Guy",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/469/A",
@@ -1544,11 +1394,10 @@
   {
     "id": "1475A",
     "name": "A Odd Divisor",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1475/A",
     "sol_path": "Solutions/A_Odd_Divisor.cpp",
@@ -1558,10 +1407,9 @@
     "id": "59A",
     "name": "A Word",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/59/A",
     "sol_path": "Solutions/A_Word.cpp",
@@ -1570,11 +1418,9 @@
   {
     "id": "816B",
     "name": "B Karen and Coffee",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "data structures",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/816/problem/B",
@@ -1585,7 +1431,7 @@
     "id": "110A",
     "name": "A Nearly Lucky Number",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1597,9 +1443,8 @@
     "id": "443A",
     "name": "A Anton and Letters",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/443/A",
@@ -1610,11 +1455,9 @@
     "id": "1472B",
     "name": "Fair Division",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1472/B",
     "sol_path": "Solutions/1472B_Fair_Division.cpp",
@@ -1623,10 +1466,10 @@
   {
     "id": "1883B",
     "name": "B Chemistry",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1883/B",
     "sol_path": "Solutions/B_Chemistry.cpp",
@@ -1635,11 +1478,10 @@
   {
     "id": "2160B",
     "name": "B Distinct Elements",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2160/problem/B",
     "sol_path": "Solutions/B_Distinct_Elements.cpp",
@@ -1648,10 +1490,9 @@
   {
     "id": "1807D",
     "name": "D Odd Queries",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1807/D",
@@ -1662,9 +1503,9 @@
     "id": "2104A",
     "name": "A Three Decks",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2104/A",
     "sol_path": "Solutions/A_Three_Decks.cpp",
@@ -1673,10 +1514,10 @@
   {
     "id": "870B",
     "name": "B Maximum of Maximums of Minimums",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/870/B",
     "sol_path": "Solutions/B_Maximum_of_Maximums_of_Minimums.cpp",
@@ -1685,10 +1526,10 @@
   {
     "id": "26B",
     "name": "B Regular Bracket Sequence",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/26/B",
     "sol_path": "Solutions/B_Regular_Bracket_Sequence.cpp",
@@ -1698,10 +1539,9 @@
     "id": "9A",
     "name": "Die Roll",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "probabilities"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/9/A",
     "sol_path": "Solutions/9A_Die_Roll.cpp",
@@ -1711,12 +1551,9 @@
     "id": "1370A",
     "name": "A Maximum GCD",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1370/A",
     "sol_path": "Solutions/A_Maximum_GCD.cpp",
@@ -1725,10 +1562,10 @@
   {
     "id": "124A",
     "name": "A The number of positions",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/124/problem/A",
     "sol_path": "Solutions/A_The_number_of_positions.cpp",
@@ -1738,9 +1575,9 @@
     "id": "2217A",
     "name": "The Equalizer",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2217/A",
     "sol_path": "Solutions/2217A_The_Equalizer.cpp",
@@ -1749,11 +1586,10 @@
   {
     "id": "122A",
     "name": "A Lucky Division",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/122/A",
     "sol_path": "Solutions/A_Lucky_Division.cpp",
@@ -1762,11 +1598,10 @@
   {
     "id": "1875A",
     "name": "A Jellyfish and Undertale",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1875/problem/A",
     "sol_path": "Solutions/A_Jellyfish_and_Undertale.cpp",
@@ -1776,7 +1611,7 @@
     "id": "1807A",
     "name": "A Plus or Minus",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1787,11 +1622,10 @@
   {
     "id": "2162B",
     "name": "B Beautiful String",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2162/problem/B",
     "sol_path": "Solutions/B_Beautiful_String.cpp",
@@ -1800,10 +1634,10 @@
   {
     "id": "579A",
     "name": "A Raising Bacteria",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/579/A",
     "sol_path": "Solutions/A_Raising_Bacteria.cpp",
@@ -1812,10 +1646,10 @@
   {
     "id": "2130B",
     "name": "B Pathless",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2130/problem/B",
     "sol_path": "Solutions/B_Pathless.cpp",
@@ -1824,11 +1658,10 @@
   {
     "id": "363B",
     "name": "B Fence",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "dp"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/363/problem/B",
     "sol_path": "Solutions/B_Fence.cpp",
@@ -1838,10 +1671,9 @@
     "id": "1360A",
     "name": "Minimal Square",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1360/A",
     "sol_path": "Solutions/1360A_Minimal_Square.cpp",
@@ -1850,11 +1682,10 @@
   {
     "id": "313A",
     "name": "A Ilya and Bank Account",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/313/problem/A",
     "sol_path": "Solutions/A_Ilya_and_Bank_Account.cpp",
@@ -1863,10 +1694,10 @@
   {
     "id": "2166B",
     "name": "B Tab Closing",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2166/problem/B",
     "sol_path": "Solutions/B_Tab_Closing.cpp",
@@ -1875,11 +1706,10 @@
   {
     "id": "2195C",
     "name": "C Dice Roll Sequence",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/C",
     "sol_path": "Solutions/C_Dice_Roll_Sequence.cpp",
@@ -1889,7 +1719,7 @@
     "id": "431A",
     "name": "A Black Square",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1901,10 +1731,9 @@
     "id": "1367B",
     "name": "Even Array",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1367/problem/B",
     "sol_path": "Solutions/1367B_Even_Array.cpp",
@@ -1914,10 +1743,9 @@
     "id": "281A",
     "name": "A Word Capitalization",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/281/A",
     "sol_path": "Solutions/A_Word_Capitalization.cpp",
@@ -1927,10 +1755,9 @@
     "id": "2140A",
     "name": "A Shift Sort",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2140/A",
     "sol_path": "Solutions/A_Shift_Sort.cpp",
@@ -1939,11 +1766,10 @@
   {
     "id": "230A",
     "name": "A Dragons",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/230/problem/A",
     "sol_path": "Solutions/A_Dragons.cpp",
@@ -1953,11 +1779,9 @@
     "id": "1996A",
     "name": "A Legs",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "math",
-      "ternary search"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1996/problem/A",
     "sol_path": "Solutions/A_Legs.cpp",
@@ -1966,11 +1790,10 @@
   {
     "id": "1095C",
     "name": "C Powers Of Two",
-    "rating": 1400,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1095/C",
     "sol_path": "Solutions/C_Powers_Of_Two.cpp",
@@ -1979,8 +1802,8 @@
   {
     "id": "466A",
     "name": "A Cheap Travel",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -1992,11 +1815,9 @@
     "id": "432A",
     "name": "A Choosing Teams",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/432/A",
     "sol_path": "Solutions/A_Choosing_Teams.cpp",
@@ -2006,10 +1827,9 @@
     "id": "2044A",
     "name": "A Easy Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2044/problem/A",
     "sol_path": "Solutions/A_Easy_Problem.cpp",
@@ -2019,10 +1839,9 @@
     "id": "520A",
     "name": "A Pangram",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/520/A",
     "sol_path": "Solutions/A_Pangram.cpp",
@@ -2032,7 +1851,7 @@
     "id": "2172A",
     "name": "A ASCII Art Contest",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2043,10 +1862,9 @@
   {
     "id": "2146B",
     "name": "B Merging the Sets",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2146/problem/B",
@@ -2056,11 +1874,10 @@
   {
     "id": "1343A",
     "name": "A Candies",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1343/problem/A",
     "sol_path": "Solutions/A_Candies.cpp",
@@ -2069,14 +1886,10 @@
   {
     "id": "1535B",
     "name": "B Array Reodering",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "math",
-      "number theory",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1535/B",
     "sol_path": "Solutions/B_Array_Reodering.cpp",
@@ -2085,13 +1898,10 @@
   {
     "id": "230B",
     "name": "B T primes",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "implementation",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/230/B",
     "sol_path": "Solutions/B_T_primes.cpp",
@@ -2101,12 +1911,9 @@
     "id": "2182A",
     "name": "A New Year String",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/A",
     "sol_path": "Solutions/A_New_Year_String.cpp",
@@ -2116,11 +1923,9 @@
     "id": "2148A",
     "name": "A Sublime Sequence",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "hashing",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2148/problem/A",
     "sol_path": "Solutions/A_Sublime_Sequence.cpp",
@@ -2129,12 +1934,10 @@
   {
     "id": "2145C",
     "name": "C Monocarp s String",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2145/problem/C",
     "sol_path": "Solutions/C_Monocarp_s_String.cpp",
@@ -2143,14 +1946,10 @@
   {
     "id": "2184C",
     "name": "C Huge Pile",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "dfs and similar",
-      "dp",
-      "graphs",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2184/problem/C",
     "sol_path": "Solutions/C_Huge_Pile.cpp",
@@ -2160,9 +1959,9 @@
     "id": "80A",
     "name": "A Panoramix s Prediction",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/80/problem/A",
     "sol_path": "Solutions/A_Panoramix_s_Prediction.cpp",
@@ -2171,10 +1970,10 @@
   {
     "id": "208A",
     "name": "A Dubstep",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/208/A",
     "sol_path": "Solutions/A_Dubstep.cpp",
@@ -2184,7 +1983,7 @@
     "id": "1926A",
     "name": "A Vlad and the Best of Five",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2196,11 +1995,9 @@
     "id": "2218C",
     "name": "The 67th Permutation Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/C",
     "sol_path": "Solutions/2218C_The_67th_Permutation_Problem.cpp",
@@ -2209,11 +2006,10 @@
   {
     "id": "2144B",
     "name": "B Maximum Cost Permutation",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2144/problem/B",
     "sol_path": "Solutions/B_Maximum_Cost_Permutation.cpp",
@@ -2223,9 +2019,9 @@
     "id": "2185B",
     "name": "B Prefix Max",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2185/problem/B",
     "sol_path": "Solutions/B_Prefix_Max.cpp",
@@ -2235,10 +2031,9 @@
     "id": "2195A",
     "name": "A Sieve of Erato 67 henes",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/A",
     "sol_path": "Solutions/A_Sieve_of_Erato_67_henes.cpp",
@@ -2247,10 +2042,10 @@
   {
     "id": "1353C",
     "name": "C Board Moves",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1353/problem/C",
     "sol_path": "Solutions/C_Board_Moves.cpp",
@@ -2260,7 +2055,7 @@
     "id": "677A",
     "name": "A Vanya and Fence",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2271,12 +2066,10 @@
   {
     "id": "2164B",
     "name": "B Even Modulo Pair",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2164/problem/B",
     "sol_path": "Solutions/B_Even_Modulo_Pair.cpp",
@@ -2285,12 +2078,10 @@
   {
     "id": "2176B",
     "name": "B Optimal Shifts",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2176/problem/B",
     "sol_path": "Solutions/B_Optimal_Shifts.cpp",
@@ -2300,7 +2091,7 @@
     "id": "1829B",
     "name": "B Blank Space",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2311,13 +2102,10 @@
   {
     "id": "2092B",
     "name": "B Lady Bug",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2092/B",
     "sol_path": "Solutions/B_Lady_Bug.cpp",
@@ -2338,12 +2126,10 @@
   {
     "id": "1520D",
     "name": "D Same Differences",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "hashing",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1520/D",
     "sol_path": "Solutions/D_Same_Differences.cpp",
@@ -2352,10 +2138,9 @@
   {
     "id": "514A",
     "name": "A Chewba ca and Number",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/514/A",
@@ -2365,13 +2150,10 @@
   {
     "id": "2179C",
     "name": "C Blackslex and Number Theory",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math",
-      "number theory",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2179/problem/C",
     "sol_path": "Solutions/C_Blackslex_and_Number_Theory.cpp",
@@ -2381,9 +2163,9 @@
     "id": "2184A",
     "name": "A Social Experiment",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2184/problem/A",
     "sol_path": "Solutions/A_Social_Experiment.cpp",
@@ -2395,7 +2177,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "constructive algorithms"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2231/problem/A",
     "sol_path": "Solutions/2231A_Construct_an_Array.cpp",
@@ -2405,11 +2187,9 @@
     "id": "1899A",
     "name": "A Game with Integers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "games",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1899/problem/A",
     "sol_path": "Solutions/A_Game_with_Integers.cpp",
@@ -2419,10 +2199,9 @@
     "id": "2106A",
     "name": "A Dr TC",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2106/A",
     "sol_path": "Solutions/A_Dr_TC.cpp",
@@ -2431,10 +2210,10 @@
   {
     "id": "318A",
     "name": "A Even Odds",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/318/A",
     "sol_path": "Solutions/A_Even_Odds.cpp",
@@ -2443,10 +2222,9 @@
   {
     "id": "313B",
     "name": "B Ilya and Queries",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/313/problem/B",
@@ -2456,11 +2234,10 @@
   {
     "id": "1380A",
     "name": "A Three Indices",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "data structures"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1380/A",
     "sol_path": "Solutions/A_Three_Indices.cpp",
@@ -2469,13 +2246,10 @@
   {
     "id": "2106D",
     "name": "D Flower Boy",
-    "rating": 1500,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "dp",
-      "greedy",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2106/D",
     "sol_path": "Solutions/D_Flower_Boy.cpp",
@@ -2485,7 +2259,7 @@
     "id": "1722B",
     "name": "B Colourblindness",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2497,10 +2271,9 @@
     "id": "734A",
     "name": "A Anton and Danik",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/734/A",
     "sol_path": "Solutions/A_Anton_and_Danik.cpp",
@@ -2509,11 +2282,10 @@
   {
     "id": "131A",
     "name": "A cAPS lOCK",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/131/A",
     "sol_path": "Solutions/A_cAPS_lOCK.cpp",
@@ -2523,10 +2295,8 @@
     "id": "2146A",
     "name": "A Equal Occurrences",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2146/A",
@@ -2536,10 +2306,10 @@
   {
     "id": "2188B",
     "name": "B Seats",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2188/problem/B",
     "sol_path": "Solutions/B_Seats.cpp",
@@ -2549,9 +2319,9 @@
     "id": "1896A",
     "name": "A Jagged Swaps",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1896/problem/A",
     "sol_path": "Solutions/A_Jagged_Swaps.cpp",
@@ -2561,10 +2331,9 @@
     "id": "581A",
     "name": "A Vasya the Hipster",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/581/problem/A",
     "sol_path": "Solutions/A_Vasya_the_Hipster.cpp",
@@ -2574,10 +2343,9 @@
     "id": "1367A",
     "name": "Short Substrings",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1367/A",
     "sol_path": "Solutions/1367A_Short_Substrings.cpp",
@@ -2586,10 +2354,10 @@
   {
     "id": "43A",
     "name": "96A Football",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/43/A",
     "sol_path": "Solutions/96A_Football.cpp",
@@ -2598,13 +2366,10 @@
   {
     "id": "2137C",
     "name": "C Maximum Even Sum",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2137/problem/C",
     "sol_path": "Solutions/C_Maximum_Even_Sum.cpp",
@@ -2613,10 +2378,10 @@
   {
     "id": "1878C",
     "name": "C Vasilije in Cacak",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1878/C",
     "sol_path": "Solutions/C_Vasilije_in_Cacak.cpp",
@@ -2626,9 +2391,9 @@
     "id": "1374A",
     "name": "A Required Remainder",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1374/problem/A",
     "sol_path": "Solutions/A_Required_Remainder.cpp",
@@ -2638,10 +2403,9 @@
     "id": "1901A",
     "name": "Line Trip",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1901/problem/A",
     "sol_path": "Solutions/1901A_Line_Trip.cpp",
@@ -2651,7 +2415,7 @@
     "id": "1950A",
     "name": "Stair Peak or Neither",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2662,10 +2426,10 @@
   {
     "id": "2160C",
     "name": "C Reverse XOR",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2160/C",
     "sol_path": "Solutions/C_Reverse_XOR.cpp",
@@ -2675,9 +2439,9 @@
     "id": "2188A",
     "name": "A Divisible Permutation",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2188/problem/A",
     "sol_path": "Solutions/A_Divisible_Permutation.cpp",
@@ -2687,12 +2451,9 @@
     "id": "732A",
     "name": "A Buy a Shovel",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/732/A",
     "sol_path": "Solutions/A_Buy_a_Shovel.cpp",
@@ -2701,13 +2462,10 @@
   {
     "id": "2169C",
     "name": "C Range Operation",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy",
-      "math",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/C",
     "sol_path": "Solutions/C_Range_Operation.cpp",
@@ -2717,10 +2475,9 @@
     "id": "1669B",
     "name": "B Triple",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1669/B",
     "sol_path": "Solutions/B_Triple.cpp",
@@ -2730,11 +2487,9 @@
     "id": "2156A",
     "name": "A Pizza Time",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2156/problem/A",
     "sol_path": "Solutions/A_Pizza_Time.cpp",
@@ -2744,7 +2499,7 @@
     "id": "1742A",
     "name": "A Sum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2755,11 +2510,10 @@
   {
     "id": "1342A",
     "name": "A Road To Zero",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1342/problem/A",
     "sol_path": "Solutions/A_Road_To_Zero.cpp",
@@ -2768,11 +2522,10 @@
   {
     "id": "58A",
     "name": "A Chat room",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/58/A",
     "sol_path": "Solutions/A_Chat_room.cpp",
@@ -2782,7 +2535,7 @@
     "id": "703A",
     "name": "A Mishka and Game",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2794,10 +2547,9 @@
     "id": "2178A",
     "name": "A Yes or Yes 2178",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2178/problem/A",
     "sol_path": "Solutions/A_Yes_or_Yes_2178.cpp",
@@ -2806,11 +2558,10 @@
   {
     "id": "977B",
     "name": "B Two gram",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/977/B",
     "sol_path": "Solutions/B_Two_gram.cpp",
@@ -2820,10 +2571,9 @@
     "id": "2185A",
     "name": "A Perfect Root",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2185/problem/A",
     "sol_path": "Solutions/A_Perfect_Root.cpp",
@@ -2832,10 +2582,10 @@
   {
     "id": "584A",
     "name": "A Olesya and Rodion",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/584/A",
     "sol_path": "Solutions/A_Olesya_and_Rodion.cpp",
@@ -2845,10 +2595,9 @@
     "id": "1881A",
     "name": "Dont Try to Count",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1881/A",
     "sol_path": "Solutions/1881A_Dont_Try_to_Count.cpp",
@@ -2858,10 +2607,9 @@
     "id": "2218B",
     "name": "The 67th 67 Integer Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/B",
     "sol_path": "Solutions/2218B_The_67th_67_Integer_Problem.cpp",
@@ -2870,11 +2618,10 @@
   {
     "id": "1714A",
     "name": "A Everyone Loves to Sleep",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1714/problem/A",
     "sol_path": "Solutions/A_Everyone_Loves_to_Sleep.cpp",
@@ -2884,10 +2631,9 @@
     "id": "1352A",
     "name": "A Sum of Round Numbers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1352/A",
     "sol_path": "Solutions/A_Sum_of_Round_Numbers.cpp",
@@ -2897,9 +2643,8 @@
     "id": "2074A",
     "name": "A Draw a Square",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "geometry",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2074/A",
@@ -2910,10 +2655,9 @@
     "id": "2193A",
     "name": "A DBMB and the Array",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2193/problem/A",
     "sol_path": "Solutions/A_DBMB_and_the_Array.cpp",
@@ -2923,7 +2667,7 @@
     "id": "1692A",
     "name": "A Marathon",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -2934,11 +2678,10 @@
   {
     "id": "96A",
     "name": "A Football",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/96/A",
     "sol_path": "Solutions/A_Football.cpp",
@@ -2947,10 +2690,10 @@
   {
     "id": "2171B",
     "name": "B Yuu Koito and Minimum Absolute Sum",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/B",
     "sol_path": "Solutions/B_Yuu_Koito_and_Minimum_Absolute_Sum.cpp",
@@ -2959,11 +2702,10 @@
   {
     "id": "189A",
     "name": "A Cut Ribbon",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "dp"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/189/A",
     "sol_path": "Solutions/A_Cut_Ribbon.cpp",
@@ -2973,9 +2715,9 @@
     "id": "630A",
     "name": "A Again Twenty Five",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/630/A",
     "sol_path": "Solutions/A_Again_Twenty_Five.cpp",
@@ -2985,9 +2727,9 @@
     "id": "71A",
     "name": "A Way Too Long Words",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/71/A",
     "sol_path": "Solutions/A_Way_Too_Long_Words.cpp",
@@ -2996,10 +2738,10 @@
   {
     "id": "1374B",
     "name": "B Multiply by 2 divide by 6",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1374/B",
     "sol_path": "Solutions/B_Multiply_by_2_divide_by_6.cpp",
@@ -3009,9 +2751,9 @@
     "id": "617A",
     "name": "A Sum of 2050",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/617/A",
     "sol_path": "Solutions/A_Sum_of_2050.cpp",
@@ -3021,11 +2763,9 @@
     "id": "148A",
     "name": "A Insomnia cure",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/148/A",
     "sol_path": "Solutions/A_Insomnia_cure.cpp",
@@ -3035,9 +2775,9 @@
     "id": "2160A",
     "name": "A MEX Partition",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2160/A",
     "sol_path": "Solutions/A_MEX_Partition.cpp",
@@ -3047,9 +2787,9 @@
     "id": "2204B",
     "name": "B Right Maximum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2204/problem/B",
     "sol_path": "Solutions/B_Right_Maximum.cpp",
@@ -3059,9 +2799,9 @@
     "id": "2000B",
     "name": "B Seating in a Bus",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2000/B",
     "sol_path": "Solutions/B_Seating_in_a_Bus.cpp",
@@ -3070,10 +2810,10 @@
   {
     "id": "2149C",
     "name": "C MEX rose",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2149/problem/C",
     "sol_path": "Solutions/C_MEX_rose.cpp",
@@ -3082,11 +2822,10 @@
   {
     "id": "2195B",
     "name": "B Heapify 1",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2195/problem/B",
     "sol_path": "Solutions/B_Heapify_1.cpp",
@@ -3096,7 +2835,7 @@
     "id": "467A",
     "name": "A George and Accommodation",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3108,9 +2847,9 @@
     "id": "1154A",
     "name": "A Restoring Three Numbers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1154/A",
     "sol_path": "Solutions/A_Restoring_Three_Numbers.cpp",
@@ -3132,9 +2871,9 @@
     "id": "617A",
     "name": "A Elephant",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/617/A",
     "sol_path": "Solutions/A_Elephant.cpp",
@@ -3144,9 +2883,8 @@
     "id": "158A",
     "name": "A Next Round",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "*special",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/158/A",
@@ -3157,10 +2895,9 @@
     "id": "200B",
     "name": "B Drinks",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/200/B",
     "sol_path": "Solutions/B_Drinks.cpp",
@@ -3169,12 +2906,10 @@
   {
     "id": "2106B",
     "name": "B St Chroma",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2106/B",
     "sol_path": "Solutions/B_St_Chroma.cpp",
@@ -3183,12 +2918,10 @@
   {
     "id": "2182C",
     "name": "C Production of Snowmen",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "combinatorics",
-      "dp"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/C",
     "sol_path": "Solutions/C_Production_of_Snowmen.cpp",
@@ -3197,15 +2930,10 @@
   {
     "id": "755B",
     "name": "B PolandBall and Game",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "data structures",
-      "games",
-      "greedy",
-      "sortings",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/755/problem/B",
     "sol_path": "Solutions/B_PolandBall_and_Game.cpp",
@@ -3215,11 +2943,9 @@
     "id": "1858A",
     "name": "Buttons",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "games",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1858/A",
     "sol_path": "Solutions/1858A_Buttons.cpp",
@@ -3229,10 +2955,9 @@
     "id": "758A",
     "name": "A Holiday Of Equality",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/758/problem/A",
     "sol_path": "Solutions/A_Holiday_Of_Equality.cpp",
@@ -3241,10 +2966,9 @@
   {
     "id": "2217B",
     "name": "Flip the Bit Easy Version",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2217/B",
@@ -3254,11 +2978,10 @@
   {
     "id": "1360D",
     "name": "D Buying Shovels",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1360/D",
     "sol_path": "Solutions/D_Buying_Shovels.cpp",
@@ -3268,11 +2991,9 @@
     "id": "1903A",
     "name": "A Halloumi Boxes",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1903/A",
     "sol_path": "Solutions/A_Halloumi_Boxes.cpp",
@@ -3282,11 +3003,9 @@
     "id": "1742B",
     "name": "B Increasing",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1742/B",
     "sol_path": "Solutions/B_Increasing.cpp",
@@ -3295,11 +3014,10 @@
   {
     "id": "2093B",
     "name": "B Expensive Number",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2093/B",
     "sol_path": "Solutions/B_Expensive_Number.cpp",
@@ -3309,10 +3027,9 @@
     "id": "2139A",
     "name": "A Maple and Multiplication",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2139/A",
     "sol_path": "Solutions/A_Maple_and_Multiplication.cpp",
@@ -3322,10 +3039,9 @@
     "id": "2153A",
     "name": "A Circle of Apple Trees",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2153/problem/A",
     "sol_path": "Solutions/A_Circle_of_Apple_Trees.cpp",
@@ -3347,9 +3063,9 @@
     "id": "1878A",
     "name": "A How Much Does Daytona Cost",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1878/A",
     "sol_path": "Solutions/A_How_Much_Does_Daytona_Cost.cpp",
@@ -3359,10 +3075,9 @@
     "id": "2211A",
     "name": "Antimedian Deletion",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2211/problem/A",
     "sol_path": "Solutions/2211A_Antimedian_Deletion.cpp",
@@ -3371,10 +3086,9 @@
   {
     "id": "2169A",
     "name": "A Alice and Bob",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2169/problem/A",
@@ -3385,9 +3099,8 @@
     "id": "1999C",
     "name": "C Showering",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1999/problem/C",
@@ -3397,10 +3110,10 @@
   {
     "id": "1373B",
     "name": "B 01 Game",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "games"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1373/B",
     "sol_path": "Solutions/B_01_Game.cpp",
@@ -3410,9 +3123,8 @@
     "id": "509A",
     "name": "A Maximum in Table",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/509/problem/A",
@@ -3422,11 +3134,10 @@
   {
     "id": "320A",
     "name": "A Magic Numbers",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/320/A",
     "sol_path": "Solutions/A_Magic_Numbers.cpp",
@@ -3448,11 +3159,9 @@
     "id": "381A",
     "name": "A Sereja and Dima",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/381/problem/A",
     "sol_path": "Solutions/A_Sereja_and_Dima.cpp",
@@ -3462,11 +3171,9 @@
     "id": "1703A",
     "name": "A YES or YES",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1703/A",
     "sol_path": "Solutions/A_YES_or_YES.cpp",
@@ -3476,10 +3183,9 @@
     "id": "2167B",
     "name": "B Your Name",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "sortings",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2167/problem/B",
     "sol_path": "Solutions/B_Your_Name.cpp",
@@ -3489,12 +3195,9 @@
     "id": "1900A",
     "name": "Cover in Water",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1900/A",
     "sol_path": "Solutions/1900A_Cover_in_Water.cpp",
@@ -3504,10 +3207,9 @@
     "id": "1985A",
     "name": "Creating Words",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1985/A",
     "sol_path": "Solutions/1985A_Creating_Words.cpp",
@@ -3517,7 +3219,7 @@
     "id": "1722A",
     "name": "A Spell Check",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3529,9 +3231,9 @@
     "id": "271A",
     "name": "A Beautiful Year",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/271/A",
     "sol_path": "Solutions/A_Beautiful_Year.cpp",
@@ -3543,8 +3245,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2230/problem/A",
     "sol_path": "Solutions/2230A_Optimal_Purchase.cpp",
@@ -3554,10 +3255,9 @@
     "id": "41A",
     "name": "A Translation",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/41/A",
     "sol_path": "Solutions/A_Translation.cpp",
@@ -3567,9 +3267,9 @@
     "id": "1283A",
     "name": "A Minutes Before the New Year",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1283/problem/A",
     "sol_path": "Solutions/A_Minutes_Before_the_New_Year.cpp",
@@ -3578,10 +3278,10 @@
   {
     "id": "1327A",
     "name": "A Sum of Odd Integers",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1327/problem/A",
     "sol_path": "Solutions/A_Sum_of_Odd_Integers.cpp",
@@ -3590,10 +3290,10 @@
   {
     "id": "2110B",
     "name": "B Down with Brackets",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2110/B",
     "sol_path": "Solutions/B_Down_with_Brackets.cpp",
@@ -3603,10 +3303,9 @@
     "id": "2024A",
     "name": "A Profitable Interest Rate",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2024/A",
     "sol_path": "Solutions/A_Profitable_Interest_Rate.cpp",
@@ -3618,10 +3317,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "communication",
-      "interactive",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2168/problem/A2",
     "sol_path": "Solutions/A_2_Encode_and_Decode_Hard_Version.cpp",
@@ -3631,9 +3327,9 @@
     "id": "1328A",
     "name": "A Divisibility Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1328/A",
     "sol_path": "Solutions/A_Divisibility_Problem.cpp",
@@ -3642,11 +3338,10 @@
   {
     "id": "2093C",
     "name": "C Simple Repetition",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2093/C",
     "sol_path": "Solutions/C_Simple_Repetition.cpp",
@@ -3656,10 +3351,9 @@
     "id": "1409A",
     "name": "A Yet Another Two Integers Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1409/A",
     "sol_path": "Solutions/A_Yet_Another_Two_Integers_Problem.cpp",
@@ -3669,10 +3363,9 @@
     "id": "1914B",
     "name": "Preparing for the Contest",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1914/B",
     "sol_path": "Solutions/1914B_Preparing_for_the_Contest.cpp",
@@ -3682,10 +3375,9 @@
     "id": "785A",
     "name": "A Anton and Polyhedrons",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/785/A",
     "sol_path": "Solutions/A_Anton_and_Polyhedrons.cpp",
@@ -3707,10 +3399,9 @@
     "id": "2128A",
     "name": "A Recycling Center",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2128/A",
     "sol_path": "Solutions/A_Recycling_Center.cpp",
@@ -3719,11 +3410,10 @@
   {
     "id": "1720A",
     "name": "A Burenka Plays with Fractions",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1720/problem/A",
     "sol_path": "Solutions/A_Burenka_Plays_with_Fractions.cpp",
@@ -3744,10 +3434,10 @@
   {
     "id": "455A",
     "name": "A Boredom",
-    "rating": 1500,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/455/problem/A",
     "sol_path": "Solutions/A_Boredom.cpp",
@@ -3756,11 +3446,10 @@
   {
     "id": "499B",
     "name": "B Lecture",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/499/B",
     "sol_path": "Solutions/B_Lecture.cpp",
@@ -3770,10 +3459,9 @@
     "id": "472A",
     "name": "Design Tutorial Learn from Math",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/472/A",
     "sol_path": "Solutions/472A_Design_Tutorial_Learn_from_Math.cpp",
@@ -3783,7 +3471,7 @@
     "id": "427A",
     "name": "A Police Recruits",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3794,12 +3482,10 @@
   {
     "id": "405A",
     "name": "A Gravity Flip",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/405/A",
     "sol_path": "Solutions/A_Gravity_Flip.cpp",
@@ -3809,7 +3495,7 @@
     "id": "1030A",
     "name": "A In Search of an Easy Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3820,11 +3506,10 @@
   {
     "id": "34B",
     "name": "B Sale",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/34/B",
     "sol_path": "Solutions/B_Sale.cpp",
@@ -3834,9 +3519,9 @@
     "id": "2094A",
     "name": "A TrippiTroppi",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2094/A",
     "sol_path": "Solutions/A_TrippiTroppi.cpp",
@@ -3845,11 +3530,10 @@
   {
     "id": "2183B",
     "name": "B Yet Another MEX Problem",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2183/problem/B",
     "sol_path": "Solutions/B_Yet_Another_MEX_Problem.cpp",
@@ -3859,11 +3543,9 @@
     "id": "490A",
     "name": "Team Olympiad",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/490/A",
     "sol_path": "Solutions/490A_Team_Olympiad.cpp",
@@ -3872,12 +3554,10 @@
   {
     "id": "742A",
     "name": "A Arpa s hard exam and Mehrdad s naive cheat",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/742/A",
     "sol_path": "Solutions/A_Arpa_s_hard_exam_and_Mehrdad_s_naive_cheat.cpp",
@@ -3887,9 +3567,8 @@
     "id": "1791B",
     "name": "B Following Directions",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "geometry",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1791/problem/B",
@@ -3900,7 +3579,7 @@
     "id": "144A",
     "name": "A Arrival of the General",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -3911,13 +3590,10 @@
   {
     "id": "2218D",
     "name": "The 67th OEIS Problem",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/D",
     "sol_path": "Solutions/2218D_The_67th_OEIS_Problem.cpp",
@@ -3926,12 +3602,10 @@
   {
     "id": "459B",
     "name": "B Pashmak and Flowers",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "combinatorics",
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/459/problem/B",
     "sol_path": "Solutions/B_Pashmak_and_Flowers.cpp",
@@ -3941,11 +3615,9 @@
     "id": "2176A",
     "name": "A Operations with Inversions",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2176/problem/A",
     "sol_path": "Solutions/A_Operations_with_Inversions.cpp",
@@ -3955,9 +3627,9 @@
     "id": "2093A",
     "name": "A Ideal Generator",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2093/A",
     "sol_path": "Solutions/A_Ideal_Generator.cpp",
@@ -3967,12 +3639,9 @@
     "id": "2218A",
     "name": "The 67th Integer Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "games",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2218/problem/A",
     "sol_path": "Solutions/2218A_The_67th_Integer_Problem.cpp",
@@ -3982,12 +3651,9 @@
     "id": "266B",
     "name": "B Queue at the School c",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "graph matchings",
-      "implementation",
-      "shortest paths"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/266/B",
     "sol_path": "Solutions/B_Queue_at_the_School_c.cpp",
@@ -3997,10 +3663,9 @@
     "id": "1821A",
     "name": "A Matching",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "combinatorics",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1821/problem/A",
     "sol_path": "Solutions/A_Matching.cpp",
@@ -4009,13 +3674,10 @@
   {
     "id": "961B",
     "name": "B Lecture Sleep",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "dp",
-      "implementation",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/961/problem/B",
     "sol_path": "Solutions/B_Lecture_Sleep.cpp",
@@ -4024,12 +3686,10 @@
   {
     "id": "2162C",
     "name": "C Beautiful XOR",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "constructive algorithms",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2162/problem/C",
     "sol_path": "Solutions/C_Beautiful_XOR.cpp",
@@ -4039,10 +3699,9 @@
     "id": "4A",
     "name": "A Watermelon",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/4/A",
     "sol_path": "Solutions/A_Watermelon.cpp",
@@ -4051,10 +3710,10 @@
   {
     "id": "2184B",
     "name": "B Hourglass",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2184/problem/B",
     "sol_path": "Solutions/B_Hourglass.cpp",
@@ -4064,7 +3723,7 @@
     "id": "266A",
     "name": "A Stones on the Table",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4076,11 +3735,9 @@
     "id": "1760B",
     "name": "B Atilla s Favorite Problem",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1760/B",
     "sol_path": "Solutions/B_Atilla_s_Favorite_Problem.cpp",
@@ -4089,11 +3746,10 @@
   {
     "id": "1352C",
     "name": "C K th Not Divisible by n",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1352/C",
     "sol_path": "Solutions/C_K_th_Not_Divisible_by_n.cpp",
@@ -4103,7 +3759,7 @@
     "id": "116A",
     "name": "A Tram",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4114,12 +3770,10 @@
   {
     "id": "2171C1",
     "name": "C 1 Renako Amaori and XOR Game easy version",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "bitmasks",
-      "games",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2171/C1",
     "sol_path": "Solutions/C_1_Renako_Amaori_and_XOR_Game_easy_version.cpp",
@@ -4129,11 +3783,9 @@
     "id": "1676B",
     "name": "B Equal Candies",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1676/B",
     "sol_path": "Solutions/B_Equal_Candies.cpp",
@@ -4143,7 +3795,7 @@
     "id": "1676A",
     "name": "A Lucky",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4154,13 +3806,10 @@
   {
     "id": "2185D",
     "name": "D OutOfMemoryError",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "implementation",
-      "math",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2185/problem/D",
     "sol_path": "Solutions/D_OutOfMemoryError.cpp",
@@ -4170,11 +3819,9 @@
     "id": "2158A",
     "name": "A Suspension",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2158/problem/A",
     "sol_path": "Solutions/A_Suspension.cpp",
@@ -4184,7 +3831,7 @@
     "id": "282A",
     "name": "A Bit",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4196,7 +3843,7 @@
     "id": "977A",
     "name": "A Wrong Subtraction",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4208,10 +3855,9 @@
     "id": "1850A",
     "name": "A To My Critics",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1850/A",
     "sol_path": "Solutions/A_To_My_Critics.cpp",
@@ -4220,10 +3866,10 @@
   {
     "id": "2149D",
     "name": "D A and B",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2149/problem/D",
     "sol_path": "Solutions/D_A_and_B.cpp",
@@ -4233,10 +3879,9 @@
     "id": "1999A",
     "name": "A A B Again",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1999/problem/A",
     "sol_path": "Solutions/A_A_B_Again.cpp",
@@ -4246,10 +3891,9 @@
     "id": "2171A",
     "name": "A Shizuku Hoshikawa and Farm Legs",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2171/problem/A",
     "sol_path": "Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp",
@@ -4258,11 +3902,10 @@
   {
     "id": "2185C",
     "name": "C Shifted MEX",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2185/problem/C",
     "sol_path": "Solutions/C_Shifted_MEX.cpp",
@@ -4271,11 +3914,9 @@
   {
     "id": "580A",
     "name": "A Kefa and First Steps",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "dp",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/580/A",
@@ -4286,7 +3927,7 @@
     "id": "2050A",
     "name": "A Line Breaks",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4298,10 +3939,9 @@
     "id": "2094B",
     "name": "B Bobritto Bandito",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "constructive algorithms"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2094/problem/B",
     "sol_path": "Solutions/B_Bobritto_Bandito.cpp",
@@ -4310,8 +3950,8 @@
   {
     "id": "339B",
     "name": "B Xenia and Ringroad",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4322,10 +3962,10 @@
   {
     "id": "598A",
     "name": "A Tricky Sum",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/598/A",
     "sol_path": "Solutions/A_Tricky_Sum.cpp",
@@ -4334,10 +3974,10 @@
   {
     "id": "556A",
     "name": "A Case of the Zeros and Ones",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/556/problem/A",
     "sol_path": "Solutions/A_Case_of_the_Zeros_and_Ones.cpp",
@@ -4347,7 +3987,7 @@
     "id": "263A",
     "name": "A Beautiful Matrix",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4359,11 +3999,9 @@
     "id": "236A",
     "name": "A Boy or Girl",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/236/A",
     "sol_path": "Solutions/A_Boy_or_Girl.cpp",
@@ -4373,9 +4011,9 @@
     "id": "1452C",
     "name": "C Two Brackets",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1452/problem/C",
     "sol_path": "Solutions/C_Two_Brackets.cpp",
@@ -4384,13 +4022,10 @@
   {
     "id": "2178B",
     "name": "B Impost or Sus",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "dp",
-      "greedy",
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2178/problem/B",
     "sol_path": "Solutions/B_Impost_or_Sus.cpp",
@@ -4399,11 +4034,10 @@
   {
     "id": "1613A",
     "name": "A Long Comparison",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1613/A",
     "sol_path": "Solutions/A_Long_Comparison.cpp",
@@ -4412,12 +4046,10 @@
   {
     "id": "2106C",
     "name": "C Cherry Bomb",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2106/C",
     "sol_path": "Solutions/C_Cherry_Bomb.cpp",
@@ -4426,8 +4058,8 @@
   {
     "id": "379A",
     "name": "A New Year Candles",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4441,9 +4073,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2230/problem/B",
     "sol_path": "Solutions/2230B_Digit_String.cpp",
@@ -4455,8 +4085,6 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "*special",
-      "graph matchings",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2214/problem/A",
@@ -4467,10 +4095,9 @@
     "id": "2009A",
     "name": "A Minimize",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2009/A",
     "sol_path": "Solutions/A_Minimize.cpp",
@@ -4480,7 +4107,7 @@
     "id": "344A",
     "name": "A Magnets",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4491,12 +4118,10 @@
   {
     "id": "1475B",
     "name": "B New Year s Number",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "dp",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1475/B",
     "sol_path": "Solutions/B_New_Year_s_Number.cpp",
@@ -4506,13 +4131,9 @@
     "id": "1720B",
     "name": "B Interesting Sum",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "data structures",
-      "greedy",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1720/problem/B",
     "sol_path": "Solutions/B_Interesting_Sum.cpp",
@@ -4522,12 +4143,9 @@
     "id": "2163A",
     "name": "A Souvlaki VS Kalamaki",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "greedy",
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2163/problem/A",
     "sol_path": "Solutions/A_Souvlaki_VS_Kalamaki.cpp",
@@ -4536,8 +4154,8 @@
   {
     "id": "474A",
     "name": "A Keyboard",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4549,10 +4167,9 @@
     "id": "486A",
     "name": "A Calculating Function",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/486/A",
     "sol_path": "Solutions/A_Calculating_Function.cpp",
@@ -4561,11 +4178,10 @@
   {
     "id": "2191B",
     "name": "B MEX Reordering",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "constructive algorithms",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2191/problem/B",
     "sol_path": "Solutions/B_MEX_Reordering.cpp",
@@ -4575,10 +4191,9 @@
     "id": "2149B",
     "name": "B Unconventional Pairs",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2149/problem/B",
     "sol_path": "Solutions/B_Unconventional_Pairs.cpp",
@@ -4588,10 +4203,9 @@
     "id": "2167A",
     "name": "A Square",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2167/problem/A",
     "sol_path": "Solutions/A_Square.cpp",
@@ -4601,10 +4215,9 @@
     "id": "2143A",
     "name": "A All Lengths Subtraction",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "two pointers"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2143/problem/A",
     "sol_path": "Solutions/A_All_Lengths_Subtraction.cpp",
@@ -4614,10 +4227,9 @@
     "id": "2130A",
     "name": "A Submission is All You Need",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2130/A",
     "sol_path": "Solutions/A_Submission_is_All_You_Need.cpp",
@@ -4627,9 +4239,8 @@
     "id": "2204A",
     "name": "A Passing the Ball",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2204/problem/A",
@@ -4640,10 +4251,9 @@
     "id": "2036B",
     "name": "B Startup",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2036/B",
     "sol_path": "Solutions/B_Startup.cpp",
@@ -4652,10 +4262,10 @@
   {
     "id": "456A",
     "name": "A Laptops",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/456/A",
     "sol_path": "Solutions/A_Laptops.cpp",
@@ -4664,11 +4274,10 @@
   {
     "id": "1624B",
     "name": "B Make AP",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1624/problem/B",
     "sol_path": "Solutions/B_Make_AP.cpp",
@@ -4677,13 +4286,10 @@
   {
     "id": "2167D",
     "name": "D Yet Another Array Problem",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "math",
-      "number theory"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2167/problem/D",
     "sol_path": "Solutions/D_Yet_Another_Array_Problem.cpp",
@@ -4693,9 +4299,8 @@
     "id": "2173A",
     "name": "A Sleeping Through Classes",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "greedy",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2173/problem/A",
@@ -4706,10 +4311,9 @@
     "id": "1829A",
     "name": "Love Story",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1829/A",
     "sol_path": "Solutions/1829A_Love_Story.cpp",
@@ -4718,11 +4322,10 @@
   {
     "id": "2167G",
     "name": "G Mukhammadali and the Smooth Array",
-    "rating": 1600,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "data structures",
-      "dp"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2167/problem/G",
     "sol_path": "Solutions/G_Mukhammadali_and_the_Smooth_Array.cpp",
@@ -4734,9 +4337,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "communication",
-      "constructive algorithms",
-      "interactive"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2168/problem/A1",
     "sol_path": "Solutions/A_1_Encode_and_Decode_Easy_Version.cpp",
@@ -4748,9 +4349,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "dp",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2222/problem/A",
     "sol_path": "Solutions/2222A_A_Wonderful_Contest.cpp",
@@ -4760,9 +4359,9 @@
     "id": "2182B",
     "name": "B New Year Cake",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2182/problem/B",
     "sol_path": "Solutions/B_New_Year_Cake.cpp",
@@ -4772,13 +4371,9 @@
     "id": "2197A",
     "name": "A Friendly Numbers",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "brute force",
-      "expression parsing",
-      "math",
-      "schedules"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2197/A",
     "sol_path": "Solutions/A_Friendly_Numbers.cpp",
@@ -4787,12 +4382,10 @@
   {
     "id": "2065C1",
     "name": "C 1 Skibidus and Fanum Tax easy version",
-    "rating": 1100,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "binary search",
-      "dp",
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2065/problem/C1",
     "sol_path": "Solutions/C_1_Skibidus_and_Fanum_Tax_easy_version.cpp",
@@ -4801,11 +4394,10 @@
   {
     "id": "1203C",
     "name": "C Common Divisors",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1203/C",
     "sol_path": "Solutions/C_Common_Divisors.cpp",
@@ -4815,7 +4407,7 @@
     "id": "1560A",
     "name": "A Dislike of Threes",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4826,10 +4418,10 @@
   {
     "id": "977C",
     "name": "C Less or Equal",
-    "rating": 1200,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "sortings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/977/problem/C",
     "sol_path": "Solutions/C_Less_or_Equal.cpp",
@@ -4838,10 +4430,10 @@
   {
     "id": "1913B",
     "name": "B Swap and Delete",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/1913/problem/B",
     "sol_path": "Solutions/B_Swap_and_Delete.cpp",
@@ -4851,9 +4443,8 @@
     "id": "32B",
     "name": "B Borze",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "expression parsing",
       "implementation"
     ],
     "q_link": "https://codeforces.com/contest/32/problem/B",
@@ -4864,9 +4455,9 @@
     "id": "2149A",
     "name": "A Be Positive",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2149/problem/A",
     "sol_path": "Solutions/A_Be_Positive.cpp",
@@ -4876,7 +4467,7 @@
     "id": "1772A",
     "name": "A B",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4888,10 +4479,9 @@
     "id": "1619A",
     "name": "Square String",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "implementation",
-      "strings"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/1619/A",
     "sol_path": "Solutions/1619A_Square_String.cpp",
@@ -4900,8 +4490,8 @@
   {
     "id": "125B",
     "name": "B Simple XML",
-    "rating": 1000,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
       "implementation"
     ],
@@ -4913,9 +4503,8 @@
     "id": "158A",
     "name": "A Domino piling",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "*special",
       "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/158/A",
@@ -4925,11 +4514,10 @@
   {
     "id": "2172M",
     "name": "M Maximum Distance To Port",
-    "rating": 1300,
-    "rating_source": "api",
+    "rating": 900,
+    "rating_source": "fallback",
     "tags": [
-      "graphs",
-      "shortest paths"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/2172/M",
     "sol_path": "Solutions/M_Maximum_Distance_To_Port.cpp",
@@ -4938,10 +4526,10 @@
   {
     "id": "337A",
     "name": "A Puzzles",
-    "rating": 900,
-    "rating_source": "api",
+    "rating": 800,
+    "rating_source": "fallback",
     "tags": [
-      "greedy"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/337/A",
     "sol_path": "Solutions/A_Puzzles.cpp",
@@ -4953,8 +4541,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "*special",
-      "bitmasks"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/contest/2214/problem/C",
     "sol_path": "Solutions/2214C_And.cpp",
@@ -4964,11 +4551,9 @@
     "id": "546A",
     "name": "A Soldier and Bananas",
     "rating": 800,
-    "rating_source": "api",
+    "rating_source": "fallback",
     "tags": [
-      "brute force",
-      "implementation",
-      "math"
+      "implementation"
     ],
     "q_link": "https://codeforces.com/problemset/problem/546/A",
     "sol_path": "Solutions/A_Soldier_and_Bananas.cpp",
