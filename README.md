@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-449-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-450-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 449
+**Total Problems Solved:** 450
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 267 |
+| 800 | 268 |
 | 900 | 84 |
 | 1000 | 36 |
 | 1100 | 24 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 69 |
+| brute force | 70 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 38 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 125 |
 | hashing | 3 |
-| implementation | 250 |
+| implementation | 251 |
 | interactive | 2 |
 | math | 140 |
 | number theory | 22 |
@@ -493,6 +493,7 @@
 | 1560A | A Dislike of Threes | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1560/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dislike_of_Threes.cpp) |
 | 155A | A I love username | 800 | `brute force` | [View](https://codeforces.com/problemset/problem/155/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_I_love_username.cpp) |
 | 1553A | A Digits Sum | 800 | `math`, `number theory` | [View](https://codeforces.com/problemset/problem/1553/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Digits_Sum.cpp) |
+| 1520A | Do Not Be Distracted | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1520/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1520A_Do_Not_Be_Distracted.cpp) |
 | 151A | A Soft Drinking | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/151/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soft_Drinking.cpp) |
 | 1512A | A Spy Detected | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/1512/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Spy_Detected.cpp) |
 | 1498A | A GCD Sum | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/1498/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_GCD_Sum.cpp) |

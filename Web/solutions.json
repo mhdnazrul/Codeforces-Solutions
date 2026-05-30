@@ -3232,6 +3232,19 @@
     "filename": "A_Shizuku_Hoshikawa_and_Farm_Legs.cpp"
   },
   {
+    "id": "1520A",
+    "name": "Do Not Be Distracted",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1520/A",
+    "sol_path": "Solutions/1520A_Do_Not_Be_Distracted.cpp",
+    "filename": "1520A_Do_Not_Be_Distracted.cpp"
+  },
+  {
     "id": "961B",
     "name": "B Lecture Sleep",
     "rating": 1200,
