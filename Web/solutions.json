@@ -399,7 +399,7 @@
     "id": "2222A",
     "name": "A Wonderful Contest",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "dp",
@@ -1069,8 +1069,8 @@
   {
     "id": "2230B",
     "name": "Digit String",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation",
@@ -1236,6 +1236,19 @@
     "filename": "A_Candies.cpp"
   },
   {
+    "id": "1551A",
+    "name": "Polycarp and Coins",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1551/A",
+    "sol_path": "Solutions/1551A_Polycarp_and_Coins.cpp",
+    "filename": "1551A_Polycarp_and_Coins.cpp"
+  },
+  {
     "id": "2218D",
     "name": "The 67th OEIS Problem",
     "rating": 1100,
@@ -1300,6 +1313,19 @@
     "q_link": "https://codeforces.com/contest/2178/problem/A",
     "sol_path": "Solutions/A_Yes_or_Yes_2178.cpp",
     "filename": "A_Yes_or_Yes_2178.cpp"
+  },
+  {
+    "id": "2232A",
+    "name": "Convergence",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2232/problem/A",
+    "sol_path": "Solutions/2232A_Convergence.cpp",
+    "filename": "2232A_Convergence.cpp"
   },
   {
     "id": "43A",
@@ -1824,7 +1850,7 @@
     "id": "2227A",
     "name": "Koshary",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -1969,8 +1995,8 @@
   {
     "id": "2229C1",
     "name": "We Be Flipping Easy Version",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "greedy"
@@ -2268,7 +2294,7 @@
     "id": "2228A",
     "name": "Marisa Steals Reimus Takeout",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "implementation"
@@ -2521,7 +2547,7 @@
     "id": "2229A",
     "name": "Slimes on a Line",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -2584,8 +2610,8 @@
   {
     "id": "2222B",
     "name": "Artistic Balance Tree",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
@@ -2975,7 +3001,7 @@
     "id": "2230A",
     "name": "Optimal Purchase",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "implementation",
       "math"
@@ -3835,7 +3861,7 @@
     "id": "2231A",
     "name": "Construct an Array",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "constructive algorithms"
     ],
@@ -4319,7 +4345,7 @@
     "id": "2229B",
     "name": "Absolute Cinema",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -4364,6 +4390,19 @@
     "q_link": "https://codeforces.com/contest/2211/problem/A",
     "sol_path": "Solutions/2211A_Antimedian_Deletion.cpp",
     "filename": "2211A_Antimedian_Deletion.cpp"
+  },
+  {
+    "id": "1353B",
+    "name": "Two Arrays And Swaps",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1353/B",
+    "sol_path": "Solutions/1353B_Two_Arrays_And_Swaps.cpp",
+    "filename": "1353B_Two_Arrays_And_Swaps.cpp"
   },
   {
     "id": "2092B",
