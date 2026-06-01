@@ -509,6 +509,19 @@
     "filename": "B_PolandBall_and_Game.cpp"
   },
   {
+    "id": "1535A",
+    "name": "Fair Playoff",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1535/A",
+    "sol_path": "Solutions/1535A_Fair_Playoff.cpp",
+    "filename": "1535A_Fair_Playoff.cpp"
+  },
+  {
     "id": "2179A",
     "name": "A Blackslex and Password",
     "rating": 800,
