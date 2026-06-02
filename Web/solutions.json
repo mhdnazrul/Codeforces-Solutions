@@ -452,6 +452,20 @@
     "filename": "B_Blackslex_and_Showering.cpp"
   },
   {
+    "id": "702A",
+    "name": "Maximum Increase",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/702/A",
+    "sol_path": "Solutions/702A_Maximum_Increase.cpp",
+    "filename": "702A_Maximum_Increase.cpp"
+  },
+  {
     "id": "1374C",
     "name": "C Move Brackets",
     "rating": 1000,

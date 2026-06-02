@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-455-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-456-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 455
+**Total Problems Solved:** 456
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 270 |
+| 800 | 271 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -46,15 +46,15 @@
 | constructive algorithms | 38 |
 | data structures | 13 |
 | dfs and similar | 4 |
-| dp | 22 |
+| dp | 23 |
 | expression parsing | 2 |
 | games | 10 |
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 129 |
+| greedy | 130 |
 | hashing | 3 |
-| implementation | 252 |
+| implementation | 253 |
 | interactive | 2 |
 | math | 142 |
 | number theory | 22 |
@@ -274,6 +274,7 @@
 | 732A | A Buy a Shovel | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/732/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Buy_a_Shovel.cpp) |
 | 71A | A Way Too Long Words | 800 | `strings` | [View](https://codeforces.com/problemset/problem/71/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Way_Too_Long_Words.cpp) |
 | 703A | A Mishka and Game | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/703/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mishka_and_Game.cpp) |
+| 702A | Maximum Increase | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/702/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/702A_Maximum_Increase.cpp) |
 | 677A | A Vanya and Fence | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/677/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vanya_and_Fence.cpp) |
 | 645209C | C Journey | 800 | `implementation` | [View](https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/C_Journey.cpp) |
 | 645209B | B Coin Transformation | 800 | `implementation` | [View](https://codeforces.com/group/YiaGPYJsA1/contest/645209/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/B_Coin_Transformation.cpp) |
