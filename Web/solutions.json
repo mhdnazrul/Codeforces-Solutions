@@ -4523,6 +4523,20 @@
     "filename": "B_Simple_XML.cpp"
   },
   {
+    "id": "1853A",
+    "name": "Desorting",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1853/A",
+    "sol_path": "Solutions/1853A_Desorting.cpp",
+    "filename": "1853A_Desorting.cpp"
+  },
+  {
     "id": "141A",
     "name": "A Amusing Joke",
     "rating": 800,

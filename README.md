@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-454-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-455-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 454
+**Total Problems Solved:** 455
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 269 |
+| 800 | 270 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 71 |
+| brute force | 72 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 38 |
@@ -52,11 +52,11 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 128 |
+| greedy | 129 |
 | hashing | 3 |
 | implementation | 252 |
 | interactive | 2 |
-| math | 141 |
+| math | 142 |
 | number theory | 22 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -460,6 +460,7 @@
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1858A | Buttons | 800 | `games`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1858/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1858A_Buttons.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
+| 1853A | Desorting | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1853/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1853A_Desorting.cpp) |
 | 1850A | A To My Critics | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1850/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_To_My_Critics.cpp) |
 | 1829B | B Blank Space | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1829/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blank_Space.cpp) |
 | 1829A | Love Story | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1829/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1829A_Love_Story.cpp) |
