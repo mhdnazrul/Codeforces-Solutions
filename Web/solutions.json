@@ -1754,6 +1754,21 @@
     "filename": "C_Showering.cpp"
   },
   {
+    "id": "749A",
+    "name": "Bachgold Problem",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/749/problem/A",
+    "sol_path": "Solutions/749A_Bachgold_Problem.cpp",
+    "filename": "749A_Bachgold_Problem.cpp"
+  },
+  {
     "id": "1950A",
     "name": "Stair Peak or Neither",
     "rating": 800,
