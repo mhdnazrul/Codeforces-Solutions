@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-456-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-457-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 456
+**Total Problems Solved:** 457
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 271 |
+| 800 | 272 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -43,7 +43,7 @@
 | brute force | 72 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 38 |
+| constructive algorithms | 39 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 23 |
@@ -453,6 +453,7 @@
 | 1900A | Cover in Water | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1900/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1900A_Cover_in_Water.cpp) |
 | 1899A | A Game with Integers | 800 | `games`, `math`, ... | [View](https://codeforces.com/contest/1899/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Game_with_Integers.cpp) |
 | 1896A | A Jagged Swaps | 800 | `sortings` | [View](https://codeforces.com/contest/1896/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jagged_Swaps.cpp) |
+| 1890A | Doremys Paint 3 | 800 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/1890/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1890A_Doremys_Paint_3.cpp) |
 | 1881A | Dont Try to Count | 800 | `brute force`, `strings` | [View](https://codeforces.com/problemset/problem/1881/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1881A_Dont_Try_to_Count.cpp) |
 | 1880A | A Sorted Identity | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1880/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sorted_Identity.cpp) |
 | 1878A | A How Much Does Daytona Cost | 800 | `greedy` | [View](https://codeforces.com/problemset/problem/1878/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_How_Much_Does_Daytona_Cost.cpp) |

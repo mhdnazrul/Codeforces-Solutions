@@ -1133,6 +1133,18 @@
     "filename": "A_Sieve_of_Erato_67_henes.cpp"
   },
   {
+    "id": "1890A",
+    "name": "Doremys Paint 3",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1890/A",
+    "sol_path": "Solutions/1890A_Doremys_Paint_3.cpp",
+    "filename": "1890A_Doremys_Paint_3.cpp"
+  },
+  {
     "id": "1352A",
     "name": "A Sum of Round Numbers",
     "rating": 800,
@@ -1345,7 +1357,7 @@
     "id": "2232A",
     "name": "Convergence",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "sortings"
