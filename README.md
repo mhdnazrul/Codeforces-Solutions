@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-458-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-459-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 458
+**Total Problems Solved:** 459
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 273 |
+| 800 | 274 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 131 |
 | hashing | 3 |
-| implementation | 254 |
+| implementation | 255 |
 | interactive | 2 |
 | math | 143 |
 | number theory | 23 |
@@ -274,6 +274,7 @@
 | 734A | B Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Anton_and_Danik.cpp) |
 | 732A | A Buy a Shovel | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/732/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Buy_a_Shovel.cpp) |
 | 71A | A Way Too Long Words | 800 | `strings` | [View](https://codeforces.com/problemset/problem/71/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Way_Too_Long_Words.cpp) |
+| 707A | Brains Photos | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/707/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/707A_Brains_Photos.cpp) |
 | 703A | A Mishka and Game | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/703/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mishka_and_Game.cpp) |
 | 702A | Maximum Increase | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/702/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/702A_Maximum_Increase.cpp) |
 | 677A | A Vanya and Fence | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/677/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vanya_and_Fence.cpp) |

@@ -4617,6 +4617,18 @@
     "filename": "B_Tab_Closing.cpp"
   },
   {
+    "id": "707A",
+    "name": "Brains Photos",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/707/A",
+    "sol_path": "Solutions/707A_Brains_Photos.cpp",
+    "filename": "707A_Brains_Photos.cpp"
+  },
+  {
     "id": "469A",
     "name": "A I Wanna Be the Guy",
     "rating": 800,
