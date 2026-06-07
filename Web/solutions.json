@@ -4578,6 +4578,20 @@
     "filename": "1853A_Desorting.cpp"
   },
   {
+    "id": "1788A",
+    "name": "One and Two",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1788/problem/A",
+    "sol_path": "Solutions/1788A_One_and_Two.cpp",
+    "filename": "1788A_One_and_Two.cpp"
+  },
+  {
     "id": "141A",
     "name": "A Amusing Joke",
     "rating": 800,
