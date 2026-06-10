@@ -258,8 +258,8 @@
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
-| N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
 | N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
+| N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_AppendAppendAppend.cpp) |
 | 9A | Die Roll | 800 | `math`, `probabilities` | [View](https://codeforces.com/problemset/problem/9/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/9A_Die_Roll.cpp) |
 | 996A | A Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
@@ -290,8 +290,8 @@
 | 630A | A Again Twenty Five | 800 | `number theory` | [View](https://codeforces.com/problemset/problem/630/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Again_Twenty_Five.cpp) |
 | 620A | A Professor GukiZ s Robot | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/620/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Professor_GukiZ_s_Robot.cpp) |
 | 61A | A Ultra Fast Mathematician | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/61/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ultra_Fast_Mathematician.cpp) |
-| 617A | A Sum of 2050 | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_2050.cpp) |
 | 617A | A Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
+| 617A | A Sum of 2050 | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_2050.cpp) |
 | 59A | A Word | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/59/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Word.cpp) |
 | 581A | A Vasya the Hipster | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/581/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vasya_the_Hipster.cpp) |
 | 546A | A Soldier and Bananas | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/546/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soldier_and_Bananas.cpp) |
