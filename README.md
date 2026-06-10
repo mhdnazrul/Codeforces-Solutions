@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-460-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-461-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 460
+**Total Problems Solved:** 461
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 275 |
+| 800 | 276 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 14 |
 | bitmasks | 14 |
-| brute force | 73 |
+| brute force | 74 |
 | combinatorics | 3 |
 | communication | 2 |
 | constructive algorithms | 39 |
@@ -54,9 +54,9 @@
 | graphs | 4 |
 | greedy | 131 |
 | hashing | 3 |
-| implementation | 256 |
+| implementation | 257 |
 | interactive | 2 |
-| math | 144 |
+| math | 145 |
 | number theory | 23 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -258,8 +258,8 @@
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
-| N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
 | N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
+| N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_AppendAppendAppend.cpp) |
 | 9A | Die Roll | 800 | `math`, `probabilities` | [View](https://codeforces.com/problemset/problem/9/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/9A_Die_Roll.cpp) |
 | 996A | A Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
@@ -290,8 +290,8 @@
 | 630A | A Again Twenty Five | 800 | `number theory` | [View](https://codeforces.com/problemset/problem/630/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Again_Twenty_Five.cpp) |
 | 620A | A Professor GukiZ s Robot | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/620/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Professor_GukiZ_s_Robot.cpp) |
 | 61A | A Ultra Fast Mathematician | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/61/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ultra_Fast_Mathematician.cpp) |
-| 617A | A Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
 | 617A | A Sum of 2050 | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_2050.cpp) |
+| 617A | A Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
 | 59A | A Word | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/59/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Word.cpp) |
 | 581A | A Vasya the Hipster | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/581/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vasya_the_Hipster.cpp) |
 | 546A | A Soldier and Bananas | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/546/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soldier_and_Bananas.cpp) |
@@ -423,6 +423,7 @@
 | 2130A | A Submission is All You Need | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2130/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Submission_is_All_You_Need.cpp) |
 | 2128A | A Recycling Center | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/2128/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Recycling_Center.cpp) |
 | 2127A | A Mix Mex Max | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/2127/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Mix_Mex_Max.cpp) |
+| 2126A | Only One Digit | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/2126/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2126A_Only_One_Digit.cpp) |
 | 2106A | A Dr TC | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/2106/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dr_TC.cpp) |
 | 2104A | A Three Decks | 800 | `math` | [View](https://codeforces.com/problemset/problem/2104/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Three_Decks.cpp) |
 | 2094B | B Bobritto Bandito | 800 | `brute force`, `constructive algorithms` | [View](https://codeforces.com/contest/2094/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Bobritto_Bandito.cpp) |
