@@ -1022,6 +1022,19 @@
     "filename": "B_Cake_Collection.cpp"
   },
   {
+    "id": "1426A",
+    "name": "Floor Number",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1426/A",
+    "sol_path": "Solutions/1426A_Floor_Number.cpp",
+    "filename": "1426A_Floor_Number.cpp"
+  },
+  {
     "id": "2092B",
     "name": "B Lady Bug",
     "rating": 1000,
