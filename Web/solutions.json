@@ -2830,6 +2830,20 @@
     "filename": "D_Same_Differences.cpp"
   },
   {
+    "id": "2233A",
+    "name": "AI Project Development",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2233/problem/A",
+    "sol_path": "Solutions/2233A_AI_Project_Development.cpp",
+    "filename": "2233A_AI_Project_Development.cpp"
+  },
+  {
     "id": "266A",
     "name": "A Stones on the Table",
     "rating": 800,
