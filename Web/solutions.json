@@ -160,7 +160,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2236/problem/A",
     "sol_path": "Solutions/2236A_Games_on_the_Train.cpp",
@@ -2399,6 +2400,20 @@
     "filename": "B_Anton_and_Danik.cpp"
   },
   {
+    "id": "2236C",
+    "name": "Omsk Programmers",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2236/problem/C",
+    "sol_path": "Solutions/2236C_Omsk_Programmers.cpp",
+    "filename": "2236C_Omsk_Programmers.cpp"
+  },
+  {
     "id": "2232A",
     "name": "Convergence",
     "rating": 800,
@@ -4027,7 +4042,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "math",
+      "strings"
     ],
     "q_link": "https://codeforces.com/contest/2236/problem/B",
     "sol_path": "Solutions/2236B_Tatar_TV_Show.cpp",
