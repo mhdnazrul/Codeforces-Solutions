@@ -4022,6 +4022,18 @@
     "filename": "C_Restricted_Sorting.cpp"
   },
   {
+    "id": "2236B",
+    "name": "Tatar TV Show",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2236/problem/B",
+    "sol_path": "Solutions/2236B_Tatar_TV_Show.cpp",
+    "filename": "2236B_Tatar_TV_Show.cpp"
+  },
+  {
     "id": "151A",
     "name": "A Soft Drinking",
     "rating": 800,

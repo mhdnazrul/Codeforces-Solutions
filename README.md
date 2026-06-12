@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-464-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-465-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 464
+**Total Problems Solved:** 465
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 279 |
+| 800 | 280 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 131 |
 | hashing | 3 |
-| implementation | 259 |
+| implementation | 260 |
 | interactive | 2 |
 | math | 147 |
 | number theory | 23 |
@@ -333,6 +333,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 2236B | Tatar TV Show | 800 | `implementation` | [View](https://codeforces.com/contest/2236/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236B_Tatar_TV_Show.cpp) |
 | 2236A | Games on the Train | 800 | `implementation` | [View](https://codeforces.com/contest/2236/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236A_Games_on_the_Train.cpp) |
 | 2233A | AI Project Development | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2233/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2233A_AI_Project_Development.cpp) |
 | 2232A | Convergence | 800 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2232/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2232A_Convergence.cpp) |
