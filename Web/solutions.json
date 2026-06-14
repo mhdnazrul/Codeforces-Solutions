@@ -2857,10 +2857,22 @@
     "filename": "D_Same_Differences.cpp"
   },
   {
+    "id": "1542A",
+    "name": "Odd Set",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1542/problem/A",
+    "sol_path": "Solutions/1542A_Odd_Set.cpp",
+    "filename": "1542A_Odd_Set.cpp"
+  },
+  {
     "id": "2233A",
     "name": "AI Project Development",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "brute force",
       "math"
@@ -4042,6 +4054,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
+      "greedy",
       "math",
       "strings"
     ],
