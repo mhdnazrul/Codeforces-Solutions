@@ -4937,6 +4937,20 @@
     "filename": "A_Four_Coprimes.cpp"
   },
   {
+    "id": "1915B",
+    "name": "Not Quite Latin Square",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/1915/problem/B",
+    "sol_path": "Solutions/1915B_Not_Quite_Latin_Square.cpp",
+    "filename": "1915B_Not_Quite_Latin_Square.cpp"
+  },
+  {
     "id": "1913B",
     "name": "B Swap and Delete",
     "rating": 1000,
