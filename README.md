@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-467-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-468-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 467
+**Total Problems Solved:** 468
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 282 |
+| 800 | 283 |
 | 900 | 85 |
 | 1000 | 37 |
 | 1100 | 25 |
@@ -38,7 +38,7 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 6 |
-| binary search | 14 |
+| binary search | 15 |
 | bitmasks | 14 |
 | brute force | 76 |
 | combinatorics | 3 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 134 |
 | hashing | 3 |
-| implementation | 258 |
+| implementation | 259 |
 | interactive | 2 |
 | math | 151 |
 | number theory | 23 |
@@ -452,6 +452,7 @@
 | 1971A | My First Sorting Problem | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1971/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1971A_My_First_Sorting_Problem.cpp) |
 | 1950A | Stair Peak or Neither | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1950/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1950A_Stair_Peak_or_Neither.cpp) |
 | 1926A | A Vlad and the Best of Five | 800 | `implementation` | [View](https://codeforces.com/contest/1926/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vlad_and_the_Best_of_Five.cpp) |
+| 1915C | Can I Square | 800 | `binary search`, `implementation` | [View](https://codeforces.com/contest/1915/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1915C_Can_I_Square.cpp) |
 | 1915A | A Odd One Out | 800 | `bitmasks`, `implementation` | [View](https://codeforces.com/problemset/problem/1915/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Odd_One_Out.cpp) |
 | 1914B | Preparing for the Contest | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/problemset/problem/1914/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1914B_Preparing_for_the_Contest.cpp) |
 | 1913A | A Rating Increase | 800 | `implementation` | [View](https://codeforces.com/contest/1913/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Rating_Increase.cpp) |

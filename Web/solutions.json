@@ -2477,6 +2477,19 @@
     "filename": "A_New_Year_Candles.cpp"
   },
   {
+    "id": "1915C",
+    "name": "Can I Square",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "binary search",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/1915/problem/C",
+    "sol_path": "Solutions/1915C_Can_I_Square.cpp",
+    "filename": "1915C_Can_I_Square.cpp"
+  },
+  {
     "id": "268A",
     "name": "A Games",
     "rating": 800,
