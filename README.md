@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-469-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-470-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 469
+**Total Problems Solved:** 470
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 284 |
 | 900 | 85 |
-| 1000 | 37 |
+| 1000 | 38 |
 | 1100 | 25 |
 | 1200 | 14 |
 | 1300 | 14 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 260 |
 | interactive | 2 |
-| math | 151 |
+| math | 152 |
 | number theory | 23 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -147,6 +147,7 @@
 | 379A | A New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
+| 2236C | Omsk Programmers | 1000 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2236/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236C_Omsk_Programmers.cpp) |
 | 2230B | Digit String | 1000 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2230/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230B_Digit_String.cpp) |
 | 2217B | Flip the Bit Easy Version | 1000 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/2217/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2217B_Flip_the_Bit_Easy_Version.cpp) |
 | 2191B | B MEX Reordering | 1000 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/contest/2191/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_MEX_Reordering.cpp) |
@@ -333,7 +334,6 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2236C | Omsk Programmers | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2236/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236C_Omsk_Programmers.cpp) |
 | 2236B | Tatar TV Show | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2236/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236B_Tatar_TV_Show.cpp) |
 | 2236A | Games on the Train | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2236/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236A_Games_on_the_Train.cpp) |
 | 2233A | AI Project Development | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2233/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2233A_AI_Project_Development.cpp) |
@@ -469,6 +469,7 @@
 | 1873C | Target Practice | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/1873/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1873C_Target_Practice.cpp) |
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
+| 1866A | Ambitious Kid | 800 | `math` | [View](https://codeforces.com/problemset/problem/1866/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1866A_Ambitious_Kid.cpp) |
 | 1858A | Buttons | 800 | `games`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1858/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1858A_Buttons.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
 | 1853A | Desorting | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1853/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1853A_Desorting.cpp) |

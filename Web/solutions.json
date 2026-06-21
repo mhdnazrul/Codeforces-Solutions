@@ -158,7 +158,7 @@
     "id": "2236A",
     "name": "Games on the Train",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math"
@@ -2402,8 +2402,8 @@
   {
     "id": "2236C",
     "name": "Omsk Programmers",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "brute force",
       "greedy",
@@ -3868,6 +3868,18 @@
     "filename": "2218D_The_67th_OEIS_Problem.cpp"
   },
   {
+    "id": "1866A",
+    "name": "Ambitious Kid",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1866/A",
+    "sol_path": "Solutions/1866A_Ambitious_Kid.cpp",
+    "filename": "1866A_Ambitious_Kid.cpp"
+  },
+  {
     "id": "4A",
     "name": "A Watermelon",
     "rating": 800,
@@ -4065,7 +4077,7 @@
     "id": "2236B",
     "name": "Tatar TV Show",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math",
