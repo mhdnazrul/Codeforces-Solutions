@@ -1696,6 +1696,20 @@
     "filename": "C_Registration_system.cpp"
   },
   {
+    "id": "2234B",
+    "name": "Palindrome Twelve and Two Terms",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2234/B",
+    "sol_path": "Solutions/2234B_Palindrome_Twelve_and_Two_Terms.cpp",
+    "filename": "2234B_Palindrome_Twelve_and_Two_Terms.cpp"
+  },
+  {
     "id": "228A",
     "name": "A Is your horseshoe on the other hoof",
     "rating": 800,
