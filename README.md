@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-472-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-473-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 472
+**Total Problems Solved:** 473
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 286 |
-| 900 | 85 |
+| 900 | 86 |
 | 1000 | 38 |
 | 1100 | 25 |
 | 1200 | 14 |
@@ -62,7 +62,7 @@
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 49 |
-| strings | 52 |
+| strings | 53 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -245,6 +245,7 @@
 | 1624B | B Make AP | 900 | `implementation`, `math` | [View](https://codeforces.com/contest/1624/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Make_AP.cpp) |
 | 1613A | A Long Comparison | 900 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1613/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Long_Comparison.cpp) |
 | 160A | A Twins | 900 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/160/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Twins.cpp) |
+| 1606A | AB Balance | 900 | `strings` | [View](https://codeforces.com/contest/1606/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1606A_AB_Balance.cpp) |
 | 1535B | B Array Reodering | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1535/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Array_Reodering.cpp) |
 | 1494A | A ABC String | 900 | `bitmasks`, `brute force`, ... | [View](https://codeforces.com/contest/1494/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_ABC_String.cpp) |
 | 1475B | B New Year s Number | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/1475/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_New_Year_s_Number.cpp) |

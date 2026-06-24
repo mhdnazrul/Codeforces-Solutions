@@ -5155,6 +5155,18 @@
     "filename": "1353B_Two_Arrays_And_Swaps.cpp"
   },
   {
+    "id": "1606A",
+    "name": "AB Balance",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/1606/problem/A",
+    "sol_path": "Solutions/1606A_AB_Balance.cpp",
+    "filename": "1606A_AB_Balance.cpp"
+  },
+  {
     "id": "821C",
     "name": "C Okabe and Boxes",
     "rating": 1500,
