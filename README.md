@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-471-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-472-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 471
+**Total Problems Solved:** 472
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 285 |
+| 800 | 286 |
 | 900 | 85 |
 | 1000 | 38 |
 | 1100 | 25 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 134 |
 | hashing | 3 |
-| implementation | 260 |
+| implementation | 261 |
 | interactive | 2 |
 | math | 153 |
 | number theory | 23 |
@@ -62,7 +62,7 @@
 | schedules | 1 |
 | shortest paths | 3 |
 | sortings | 49 |
-| strings | 51 |
+| strings | 52 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -438,6 +438,7 @@
 | 2074A | A Draw a Square | 800 | `geometry`, `implementation` | [View](https://codeforces.com/problemset/problem/2074/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Draw_a_Square.cpp) |
 | 2065A | A Skibidus and Amog u | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2065/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Skibidus_and_Amog_u.cpp) |
 | 2050A | A Line Breaks | 800 | `implementation` | [View](https://codeforces.com/contest/2050/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Line_Breaks.cpp) |
+| 2044B | Normal Problem | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/2044/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2044B_Normal_Problem.cpp) |
 | 2044A | A Easy Problem | 800 | `brute force`, `math` | [View](https://codeforces.com/contest/2044/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Easy_Problem.cpp) |
 | 2036B | B Startup | 800 | `greedy`, `sortings` | [View](https://codeforces.com/problemset/problem/2036/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Startup.cpp) |
 | 2024A | A Profitable Interest Rate | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/2024/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Profitable_Interest_Rate.cpp) |

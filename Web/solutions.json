@@ -523,6 +523,19 @@
     "filename": "A_Round_Trip.cpp"
   },
   {
+    "id": "2044B",
+    "name": "Normal Problem",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2044/B",
+    "sol_path": "Solutions/2044B_Normal_Problem.cpp",
+    "filename": "2044B_Normal_Problem.cpp"
+  },
+  {
     "id": "2211A",
     "name": "Antimedian Deletion",
     "rating": 800,
