@@ -4650,6 +4650,18 @@
     "filename": "1858A_Buttons.cpp"
   },
   {
+    "id": "1862B",
+    "name": "B Sequence Game",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1862/B",
+    "sol_path": "Solutions/B_Sequence_Game.cpp",
+    "filename": "B_Sequence_Game.cpp"
+  },
+  {
     "id": "2167D",
     "name": "D Yet Another Array Problem",
     "rating": 1000,
