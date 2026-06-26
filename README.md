@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-475-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-476-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 475
+**Total Problems Solved:** 476
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 288 |
+| 800 | 289 |
 | 900 | 86 |
 | 1000 | 38 |
 | 1100 | 25 |
@@ -43,7 +43,7 @@
 | brute force | 78 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 42 |
+| constructive algorithms | 43 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 23 |
@@ -56,7 +56,7 @@
 | hashing | 3 |
 | implementation | 261 |
 | interactive | 2 |
-| math | 153 |
+| math | 154 |
 | number theory | 23 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -479,6 +479,7 @@
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |
 | 1853A | Desorting | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1853/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1853A_Desorting.cpp) |
 | 1850A | A To My Critics | 800 | `implementation`, `sortings` | [View](https://codeforces.com/problemset/problem/1850/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_To_My_Critics.cpp) |
+| 1837A | Grasshopper on a Line | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/1837/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1837A_Grasshopper_on_a_Line.cpp) |
 | 1829B | B Blank Space | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1829/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blank_Space.cpp) |
 | 1829A | Love Story | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1829/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1829A_Love_Story.cpp) |
 | 1821A | A Matching | 800 | `combinatorics`, `math` | [View](https://codeforces.com/contest/1821/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Matching.cpp) |

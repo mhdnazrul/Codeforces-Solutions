@@ -3095,6 +3095,19 @@
     "filename": "A_Rating_Increase.cpp"
   },
   {
+    "id": "1837A",
+    "name": "Grasshopper on a Line",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/1837/problem/A",
+    "sol_path": "Solutions/1837A_Grasshopper_on_a_Line.cpp",
+    "filename": "1837A_Grasshopper_on_a_Line.cpp"
+  },
+  {
     "id": "2184B",
     "name": "B Hourglass",
     "rating": 1100,
