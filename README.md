@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-474-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-475-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 474
+**Total Problems Solved:** 475
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 287 |
+| 800 | 288 |
 | 900 | 86 |
 | 1000 | 38 |
 | 1100 | 25 |
@@ -43,7 +43,7 @@
 | brute force | 78 |
 | combinatorics | 3 |
 | communication | 2 |
-| constructive algorithms | 41 |
+| constructive algorithms | 42 |
 | data structures | 13 |
 | dfs and similar | 4 |
 | dp | 23 |
@@ -473,6 +473,7 @@
 | 1873B | B Good Kid | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1873/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Good_Kid.cpp) |
 | 1873A | A Short Sort | 800 | `brute force`, `implementation` | [View](https://codeforces.com/problemset/problem/1873/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Short_Sort.cpp) |
 | 1866A | Ambitious Kid | 800 | `math` | [View](https://codeforces.com/problemset/problem/1866/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1866A_Ambitious_Kid.cpp) |
+| 1862B | Sequence Game | 800 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/1862/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1862B_Sequence_Game.cpp) |
 | 1862B | B Sequence Game | 800 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/1862/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Sequence_Game.cpp) |
 | 1858A | Buttons | 800 | `games`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1858/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1858A_Buttons.cpp) |
 | 1857A | A Array Coloring | 800 | `greedy`, `math` | [View](https://codeforces.com/problemset/problem/1857/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Array_Coloring.cpp) |

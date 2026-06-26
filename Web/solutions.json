@@ -51,6 +51,18 @@
     "filename": "B_Interesting_drink.cpp"
   },
   {
+    "id": "1862B",
+    "name": "Sequence Game",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1862/B",
+    "sol_path": "Solutions/1862B_Sequence_Game.cpp",
+    "filename": "1862B_Sequence_Game.cpp"
+  },
+  {
     "id": "2145C",
     "name": "C Monocarp s String",
     "rating": 1300,
