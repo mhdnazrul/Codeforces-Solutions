@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-476-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-477-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 476
+**Total Problems Solved:** 477
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 289 |
+| 800 | 290 |
 | 900 | 86 |
 | 1000 | 38 |
 | 1100 | 25 |
@@ -54,9 +54,9 @@
 | graphs | 4 |
 | greedy | 134 |
 | hashing | 3 |
-| implementation | 261 |
+| implementation | 262 |
 | interactive | 2 |
-| math | 154 |
+| math | 155 |
 | number theory | 23 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -483,6 +483,7 @@
 | 1829B | B Blank Space | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1829/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Blank_Space.cpp) |
 | 1829A | Love Story | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/1829/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1829A_Love_Story.cpp) |
 | 1821A | A Matching | 800 | `combinatorics`, `math` | [View](https://codeforces.com/contest/1821/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Matching.cpp) |
+| 1814A | Coins | 800 | `implementation`, `math` | [View](https://codeforces.com/problemset/problem/1814/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1814A_Coins.cpp) |
 | 1807A | A Plus or Minus | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/1807/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Plus_or_Minus.cpp) |
 | 1791C | C Prepend and Append | 800 | `implementation`, `two pointers` | [View](https://codeforces.com/contest/1791/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Prepend_and_Append.cpp) |
 | 1791B | B Following Directions | 800 | `geometry`, `implementation` | [View](https://codeforces.com/contest/1791/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Following_Directions.cpp) |

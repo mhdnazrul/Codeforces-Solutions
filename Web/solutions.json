@@ -2865,6 +2865,19 @@
     "filename": "A_Divisibility_Problem.cpp"
   },
   {
+    "id": "1814A",
+    "name": "Coins",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1814/A",
+    "sol_path": "Solutions/1814A_Coins.cpp",
+    "filename": "1814A_Coins.cpp"
+  },
+  {
     "id": "2179C",
     "name": "C Blackslex and Number Theory",
     "rating": 1100,
