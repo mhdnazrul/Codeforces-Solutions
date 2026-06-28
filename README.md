@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-478-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-479-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 478
+**Total Problems Solved:** 479
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 290 |
+| 800 | 291 |
 | 900 | 87 |
 | 1000 | 38 |
 | 1100 | 25 |
@@ -52,11 +52,11 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 135 |
+| greedy | 136 |
 | hashing | 3 |
 | implementation | 262 |
 | interactive | 2 |
-| math | 156 |
+| math | 157 |
 | number theory | 24 |
 | probabilities | 1 |
 | schedules | 1 |
@@ -300,6 +300,7 @@
 | 546A | A Soldier and Bananas | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/546/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soldier_and_Bananas.cpp) |
 | 520A | A Pangram | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/520/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Pangram.cpp) |
 | 510A | A Fox And Snake | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/510/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Fox_And_Snake.cpp) |
+| 50A | Domino piling | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/50/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/50A_Domino_piling.cpp) |
 | 509A | A Maximum in Table | 800 | `brute force`, `implementation` | [View](https://codeforces.com/contest/509/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Maximum_in_Table.cpp) |
 | 4A | A Watermelon | 800 | `brute force`, `math` | [View](https://codeforces.com/problemset/problem/4/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Watermelon.cpp) |
 | 492A | A Vanya and Cubes | 800 | `implementation` | [View](https://codeforces.com/contest/492/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vanya_and_Cubes.cpp) |
