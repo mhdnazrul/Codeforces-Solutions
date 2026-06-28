@@ -3174,6 +3174,18 @@
     "filename": "A_Puzzles.cpp"
   },
   {
+    "id": "2238B",
+    "name": "Crimson Triples",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2238/problem/B",
+    "sol_path": "Solutions/2238B_Crimson_Triples.cpp",
+    "filename": "2238B_Crimson_Triples.cpp"
+  },
+  {
     "id": "120A",
     "name": "A Elevator",
     "rating": 1000,
