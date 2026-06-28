@@ -3945,6 +3945,19 @@
     "filename": "2230B_Digit_String.cpp"
   },
   {
+    "id": "1324A",
+    "name": "Yet Another Tetris Problem",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "implementation",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1324/A",
+    "sol_path": "Solutions/1324A_Yet_Another_Tetris_Problem.cpp",
+    "filename": "1324A_Yet_Another_Tetris_Problem.cpp"
+  },
+  {
     "id": "2169C",
     "name": "C Range Operation",
     "rating": 1300,
