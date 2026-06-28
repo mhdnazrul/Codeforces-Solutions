@@ -2508,6 +2508,19 @@
     "filename": "A_Maximum_in_Table.cpp"
   },
   {
+    "id": "445A",
+    "name": "DZY Loves Chessboard",
+    "rating": 1200,
+    "rating_source": "api",
+    "tags": [
+      "dfs and similar",
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/445/A",
+    "sol_path": "Solutions/445A_DZY_Loves_Chessboard.cpp",
+    "filename": "445A_DZY_Loves_Chessboard.cpp"
+  },
+  {
     "id": "1742A",
     "name": "A Sum",
     "rating": 800,

@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-479-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-480-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 479
+**Total Problems Solved:** 480
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -26,7 +26,7 @@
 | 900 | 87 |
 | 1000 | 38 |
 | 1100 | 25 |
-| 1200 | 14 |
+| 1200 | 15 |
 | 1300 | 14 |
 | 1400 | 6 |
 | 1500 | 3 |
@@ -45,7 +45,7 @@
 | communication | 2 |
 | constructive algorithms | 43 |
 | data structures | 13 |
-| dfs and similar | 4 |
+| dfs and similar | 5 |
 | dp | 23 |
 | expression parsing | 2 |
 | games | 10 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 136 |
 | hashing | 3 |
-| implementation | 262 |
+| implementation | 263 |
 | interactive | 2 |
 | math | 157 |
 | number theory | 24 |
@@ -103,6 +103,7 @@
 | 492B | B Vanya and Lanterns | 1200 | `binary search`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/492/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Vanya_and_Lanterns.cpp) |
 | 489B | B BerSU Ball | 1200 | `dfs and similar`, `dp`, ... | [View](https://codeforces.com/problemset/problem/489/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_BerSU_Ball.cpp) |
 | 466A | A Cheap Travel | 1200 | `implementation` | [View](https://codeforces.com/problemset/problem/466/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Cheap_Travel.cpp) |
+| 445A | DZY Loves Chessboard | 1200 | `dfs and similar`, `implementation` | [View](https://codeforces.com/problemset/problem/445/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/445A_DZY_Loves_Chessboard.cpp) |
 | 2218E | The 67th XOR Problem | 1200 | `binary search`, `bitmasks`, ... | [View](https://codeforces.com/contest/2218/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218E_The_67th_XOR_Problem.cpp) |
 | 2182C | C Production of Snowmen | 1200 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/2182/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Production_of_Snowmen.cpp) |
 | 2172E | E Number Maze | 1200 | `implementation` | [View](https://codeforces.com/contest/2172/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/E_Number_Maze.cpp) |
