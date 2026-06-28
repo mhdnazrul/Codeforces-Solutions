@@ -3305,6 +3305,18 @@
     "filename": "C_1_Skibidus_and_Fanum_Tax_easy_version.cpp"
   },
   {
+    "id": "2238A",
+    "name": "Another Puzzle from Papyrus",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2238/problem/A",
+    "sol_path": "Solutions/2238A_Another_Puzzle_from_Papyrus.cpp",
+    "filename": "2238A_Another_Puzzle_from_Papyrus.cpp"
+  },
+  {
     "id": "2149C",
     "name": "C MEX rose",
     "rating": 900,
