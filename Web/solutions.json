@@ -906,6 +906,22 @@
     "filename": "B_Karen_and_Coffee.cpp"
   },
   {
+    "id": "1855B",
+    "name": "Longest Divisors Interval",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/1855/problem/B",
+    "sol_path": "Solutions/1855B_Longest_Divisors_Interval.cpp",
+    "filename": "1855B_Longest_Divisors_Interval.cpp"
+  },
+  {
     "id": "160A",
     "name": "A Twins",
     "rating": 900,

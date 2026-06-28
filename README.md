@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-477-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-478-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 477
+**Total Problems Solved:** 478
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 290 |
-| 900 | 86 |
+| 900 | 87 |
 | 1000 | 38 |
 | 1100 | 25 |
 | 1200 | 14 |
@@ -40,8 +40,8 @@
 | *special | 6 |
 | binary search | 15 |
 | bitmasks | 15 |
-| brute force | 78 |
-| combinatorics | 3 |
+| brute force | 79 |
+| combinatorics | 4 |
 | communication | 2 |
 | constructive algorithms | 43 |
 | data structures | 13 |
@@ -52,12 +52,12 @@
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 134 |
+| greedy | 135 |
 | hashing | 3 |
 | implementation | 262 |
 | interactive | 2 |
-| math | 155 |
-| number theory | 23 |
+| math | 156 |
+| number theory | 24 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
@@ -237,6 +237,7 @@
 | 1883B | B Chemistry | 900 | `strings` | [View](https://codeforces.com/problemset/problem/1883/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Chemistry.cpp) |
 | 1878C | C Vasilije in Cacak | 900 | `math` | [View](https://codeforces.com/problemset/problem/1878/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Vasilije_in_Cacak.cpp) |
 | 1875A | A Jellyfish and Undertale | 900 | `brute force`, `greedy` | [View](https://codeforces.com/contest/1875/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Jellyfish_and_Undertale.cpp) |
+| 1855B | Longest Divisors Interval | 900 | `brute force`, `combinatorics`, ... | [View](https://codeforces.com/contest/1855/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1855B_Longest_Divisors_Interval.cpp) |
 | 1850D | D Balanced Round | 900 | `brute force`, `greedy`, ... | [View](https://codeforces.com/problemset/problem/1850/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Balanced_Round.cpp) |
 | 1837B | B Comparison String | 900 | `greedy` | [View](https://codeforces.com/problemset/problem/1837/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Comparison_String.cpp) |
 | 1807D | D Odd Queries | 900 | `data structures`, `implementation` | [View](https://codeforces.com/problemset/problem/1807/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/D_Odd_Queries.cpp) |
