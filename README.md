@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-483-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-484-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 483
+**Total Problems Solved:** 484
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 293 |
-| 900 | 88 |
+| 900 | 89 |
 | 1000 | 38 |
 | 1100 | 25 |
 | 1200 | 15 |
@@ -46,22 +46,22 @@
 | constructive algorithms | 43 |
 | data structures | 13 |
 | dfs and similar | 5 |
-| dp | 23 |
+| dp | 24 |
 | expression parsing | 2 |
 | games | 10 |
 | geometry | 2 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 136 |
+| greedy | 138 |
 | hashing | 3 |
-| implementation | 266 |
+| implementation | 264 |
 | interactive | 2 |
-| math | 157 |
-| number theory | 25 |
+| math | 159 |
+| number theory | 26 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 49 |
+| sortings | 50 |
 | strings | 53 |
 | ternary search | 1 |
 | trees | 1 |
@@ -191,6 +191,7 @@
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
+| 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
 | 2229C1 | We Be Flipping Easy Version | 900 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2229/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp) |
 | 2195B | B Heapify 1 | 900 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2195/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Heapify_1.cpp) |
 | 219432U | U Some Sums | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/U_Some_Sums.cpp) |
@@ -339,8 +340,8 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2238B | Crimson Triples | 800 | `implementation` | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
-| 2238A | Another Puzzle from Papyrus | 800 | `implementation` | [View](https://codeforces.com/contest/2238/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238A_Another_Puzzle_from_Papyrus.cpp) |
+| 2240A | Another Popcount Problem | 800 | `greedy` | [View](https://codeforces.com/contest/2240/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2240A_Another_Popcount_Problem.cpp) |
+| 2238A | Another Puzzle from Papyrus | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238A_Another_Puzzle_from_Papyrus.cpp) |
 | 2236B | Tatar TV Show | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2236/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236B_Tatar_TV_Show.cpp) |
 | 2236A | Games on the Train | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2236/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236A_Games_on_the_Train.cpp) |
 | 2234B | Palindrome Twelve and Two Terms | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/2234/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2234B_Palindrome_Twelve_and_Two_Terms.cpp) |

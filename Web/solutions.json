@@ -3176,10 +3176,12 @@
   {
     "id": "2238B",
     "name": "Crimson Triples",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "dp",
+      "math",
+      "number theory"
     ],
     "q_link": "https://codeforces.com/contest/2238/problem/B",
     "sol_path": "Solutions/2238B_Crimson_Triples.cpp",
@@ -3320,9 +3322,11 @@
     "id": "2238A",
     "name": "Another Puzzle from Papyrus",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "greedy",
+      "math",
+      "sortings"
     ],
     "q_link": "https://codeforces.com/contest/2238/problem/A",
     "sol_path": "Solutions/2238A_Another_Puzzle_from_Papyrus.cpp",
@@ -3770,6 +3774,18 @@
     "q_link": "https://codeforces.com/problemset/problem/2146/A",
     "sol_path": "Solutions/A_Equal_Occurrences.cpp",
     "filename": "A_Equal_Occurrences.cpp"
+  },
+  {
+    "id": "2240A",
+    "name": "Another Popcount Problem",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2240/problem/A",
+    "sol_path": "Solutions/2240A_Another_Popcount_Problem.cpp",
+    "filename": "2240A_Another_Popcount_Problem.cpp"
   },
   {
     "id": "1829B",
