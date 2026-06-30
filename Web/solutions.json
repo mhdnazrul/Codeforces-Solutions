@@ -468,6 +468,18 @@
     "filename": "A_Pangram.cpp"
   },
   {
+    "id": "2241A",
+    "name": "Divide and Conquer",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2241/problem/A",
+    "sol_path": "Solutions/2241A_Divide_and_Conquer.cpp",
+    "filename": "2241A_Divide_and_Conquer.cpp"
+  },
+  {
     "id": "118A",
     "name": "A String Task",
     "rating": 1000,
