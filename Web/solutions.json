@@ -712,6 +712,18 @@
     "filename": "C_Move_Brackets.cpp"
   },
   {
+    "id": "2241C",
+    "name": "RemovevomeR",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2241/problem/C",
+    "sol_path": "Solutions/2241C_RemovevomeR.cpp",
+    "filename": "2241C_RemovevomeR.cpp"
+  },
+  {
     "id": "2143A",
     "name": "A All Lengths Subtraction",
     "rating": 800,
