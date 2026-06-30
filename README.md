@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-488-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-489-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 488
+**Total Problems Solved:** 489
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 296 |
+| 800 | 297 |
 | 900 | 89 |
 | 1000 | 39 |
 | 1100 | 25 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 139 |
 | hashing | 3 |
-| implementation | 266 |
+| implementation | 267 |
 | interactive | 2 |
 | math | 160 |
 | number theory | 27 |
@@ -341,6 +341,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 2241D | An Alternative Way | 800 | `implementation` | [View](https://codeforces.com/contest/2241/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241D_An_Alternative_Way.cpp) |
 | 2241C | RemovevomeR | 800 | `implementation` | [View](https://codeforces.com/contest/2241/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241C_RemovevomeR.cpp) |
 | 2241A | Divide and Conquer | 800 | `implementation` | [View](https://codeforces.com/contest/2241/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241A_Divide_and_Conquer.cpp) |
 | 2240A | Another Popcount Problem | 800 | `greedy` | [View](https://codeforces.com/contest/2240/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2240A_Another_Popcount_Problem.cpp) |

@@ -390,6 +390,18 @@
     "filename": "B_ICPC_Balloons.cpp"
   },
   {
+    "id": "2241D",
+    "name": "An Alternative Way",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2241/problem/D",
+    "sol_path": "Solutions/2241D_An_Alternative_Way.cpp",
+    "filename": "2241D_An_Alternative_Way.cpp"
+  },
+  {
     "id": "1352A",
     "name": "A Sum of Round Numbers",
     "rating": 800,
