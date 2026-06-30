@@ -2584,6 +2584,19 @@
     "filename": "2218C_The_67th_Permutation_Problem.cpp"
   },
   {
+    "id": "1312B",
+    "name": "Bogosort",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/1312/B",
+    "sol_path": "Solutions/1312B_Bogosort.cpp",
+    "filename": "1312B_Bogosort.cpp"
+  },
+  {
     "id": "1850A",
     "name": "A To My Critics",
     "rating": 800,

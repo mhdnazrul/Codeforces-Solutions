@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-484-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-485-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 484
+**Total Problems Solved:** 485
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 293 |
 | 900 | 89 |
-| 1000 | 38 |
+| 1000 | 39 |
 | 1100 | 25 |
 | 1200 | 15 |
 | 1300 | 14 |
@@ -43,7 +43,7 @@
 | brute force | 79 |
 | combinatorics | 4 |
 | communication | 2 |
-| constructive algorithms | 43 |
+| constructive algorithms | 44 |
 | data structures | 13 |
 | dfs and similar | 5 |
 | dp | 24 |
@@ -61,7 +61,7 @@
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
-| sortings | 50 |
+| sortings | 51 |
 | strings | 53 |
 | ternary search | 1 |
 | trees | 1 |
@@ -169,6 +169,7 @@
 | 1353C | C Board Moves | 1000 | `math` | [View](https://codeforces.com/contest/1353/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Board_Moves.cpp) |
 | 1342A | A Road To Zero | 1000 | `greedy`, `math` | [View](https://codeforces.com/contest/1342/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Road_To_Zero.cpp) |
 | 131A | A cAPS lOCK | 1000 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/131/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_cAPS_lOCK.cpp) |
+| 1312B | Bogosort | 1000 | `constructive algorithms`, `sortings` | [View](https://codeforces.com/problemset/problem/1312/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1312B_Bogosort.cpp) |
 | 125B | B Simple XML | 1000 | `implementation` | [View](https://codeforces.com/contest/125/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Simple_XML.cpp) |
 | 124A | A The number of positions | 1000 | `math` | [View](https://codeforces.com/contest/124/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_The_number_of_positions.cpp) |
 | 122A | A Lucky Division | 1000 | `brute force`, `number theory` | [View](https://codeforces.com/problemset/problem/122/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Lucky_Division.cpp) |
