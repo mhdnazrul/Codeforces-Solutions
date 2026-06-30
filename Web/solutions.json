@@ -1406,6 +1406,21 @@
     "filename": "A_Football.cpp"
   },
   {
+    "id": "1312A",
+    "name": "Two Regular Polygons",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "geometry",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "q_link": "https://codeforces.com/contest/1312/problem/A",
+    "sol_path": "Solutions/1312A_Two_Regular_Polygons.cpp",
+    "filename": "1312A_Two_Regular_Polygons.cpp"
+  },
+  {
     "id": "486A",
     "name": "A Calculating Function",
     "rating": 800,

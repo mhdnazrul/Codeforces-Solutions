@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-485-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-486-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 485
+**Total Problems Solved:** 486
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 293 |
+| 800 | 294 |
 | 900 | 89 |
 | 1000 | 39 |
 | 1100 | 25 |
@@ -49,15 +49,15 @@
 | dp | 24 |
 | expression parsing | 2 |
 | games | 10 |
-| geometry | 2 |
+| geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 138 |
+| greedy | 139 |
 | hashing | 3 |
 | implementation | 264 |
 | interactive | 2 |
-| math | 159 |
-| number theory | 26 |
+| math | 160 |
+| number theory | 27 |
 | probabilities | 1 |
 | schedules | 1 |
 | shortest paths | 3 |
@@ -550,6 +550,7 @@
 | 1343B | B Balanced Array | 800 | `constructive algorithms`, `math` | [View](https://codeforces.com/contest/1343/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Balanced_Array.cpp) |
 | 1335A | A Candies and Two Sisters | 800 | `math` | [View](https://codeforces.com/problemset/problem/1335/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies_and_Two_Sisters.cpp) |
 | 1328A | A Divisibility Problem | 800 | `math` | [View](https://codeforces.com/problemset/problem/1328/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Divisibility_Problem.cpp) |
+| 1312A | Two Regular Polygons | 800 | `geometry`, `greedy`, ... | [View](https://codeforces.com/contest/1312/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1312A_Two_Regular_Polygons.cpp) |
 | 1283A | A Minutes Before the New Year | 800 | `math` | [View](https://codeforces.com/contest/1283/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Minutes_Before_the_New_Year.cpp) |
 | 1209A | Paint the Numbers | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/1209/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1209A_Paint_the_Numbers.cpp) |
 | 116A | A Tram | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/116/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tram.cpp) |
