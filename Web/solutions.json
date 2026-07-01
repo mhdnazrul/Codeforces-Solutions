@@ -395,7 +395,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "dp",
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2241/problem/D",
     "sol_path": "Solutions/2241D_An_Alternative_Way.cpp",
@@ -485,7 +487,9 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy",
+      "math",
+      "number theory"
     ],
     "q_link": "https://codeforces.com/contest/2241/problem/A",
     "sol_path": "Solutions/2241A_Divide_and_Conquer.cpp",
@@ -729,7 +733,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "greedy"
     ],
     "q_link": "https://codeforces.com/contest/2241/problem/C",
     "sol_path": "Solutions/2241C_RemovevomeR.cpp",
@@ -3132,6 +3136,19 @@
     "q_link": "https://codeforces.com/problemset/problem/1669/A",
     "sol_path": "Solutions/A_Division.cpp",
     "filename": "A_Division.cpp"
+  },
+  {
+    "id": "2241B",
+    "name": "Good times Good times",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2241/problem/B",
+    "sol_path": "Solutions/2241B_Good_times_Good_times.cpp",
+    "filename": "2241B_Good_times_Good_times.cpp"
   },
   {
     "id": "1472B",
