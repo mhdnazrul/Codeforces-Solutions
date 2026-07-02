@@ -3144,6 +3144,7 @@
     "rating_source": "fallback",
     "tags": [
       "constructive algorithms",
+      "dfs and similar",
       "math"
     ],
     "q_link": "https://codeforces.com/contest/2241/problem/B",
@@ -5405,6 +5406,20 @@
     "q_link": "https://codeforces.com/contest/821/problem/C",
     "sol_path": "Solutions/C_Okabe_and_Boxes.cpp",
     "filename": "C_Okabe_and_Boxes.cpp"
+  },
+  {
+    "id": "2237A",
+    "name": "Destroying Towers",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "games",
+      "greedy",
+      "schedules"
+    ],
+    "q_link": "https://codeforces.com/contest/2237/problem/A",
+    "sol_path": "Solutions/2237A_Destroying_Towers.cpp",
+    "filename": "2237A_Destroying_Towers.cpp"
   },
   {
     "id": "630A",
