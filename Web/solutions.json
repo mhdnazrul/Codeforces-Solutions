@@ -2471,6 +2471,19 @@
     "filename": "A_Shortest_Increasing_Path.cpp"
   },
   {
+    "id": "2237C",
+    "name": "Duck Surplus",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "binary search",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2237/C",
+    "sol_path": "Solutions/2237C_Duck_Surplus.cpp",
+    "filename": "2237C_Duck_Surplus.cpp"
+  },
+  {
     "id": "230A",
     "name": "A Dragons",
     "rating": 1000,
