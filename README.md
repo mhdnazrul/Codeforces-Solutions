@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-492-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-493-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 492
+**Total Problems Solved:** 493
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 299 |
 | 900 | 89 |
-| 1000 | 40 |
+| 1000 | 41 |
 | 1100 | 25 |
 | 1200 | 15 |
 | 1300 | 14 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 16 |
 | bitmasks | 15 |
-| brute force | 79 |
+| brute force | 80 |
 | combinatorics | 4 |
 | communication | 2 |
 | constructive algorithms | 45 |
@@ -52,7 +52,7 @@
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 144 |
+| greedy | 145 |
 | hashing | 3 |
 | implementation | 264 |
 | interactive | 2 |
@@ -149,6 +149,7 @@
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
 | 2237C | Duck Surplus | 1000 | `binary search`, `greedy` | [View](https://codeforces.com/problemset/problem/2237/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2237C_Duck_Surplus.cpp) |
+| 2237B | Annoying the Ghost | 1000 | `brute force`, `greedy` | [View](https://codeforces.com/contest/2237/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2237B_Annoying_the_Ghost.cpp) |
 | 2236C | Omsk Programmers | 1000 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2236/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236C_Omsk_Programmers.cpp) |
 | 2230B | Digit String | 1000 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/2230/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2230B_Digit_String.cpp) |
 | 2217B | Flip the Bit Easy Version | 1000 | `greedy`, `implementation` | [View](https://codeforces.com/problemset/problem/2217/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2217B_Flip_the_Bit_Easy_Version.cpp) |

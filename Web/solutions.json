@@ -3468,6 +3468,19 @@
     "filename": "B_Split.cpp"
   },
   {
+    "id": "2237B",
+    "name": "Annoying the Ghost",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2237/problem/B",
+    "sol_path": "Solutions/2237B_Annoying_the_Ghost.cpp",
+    "filename": "2237B_Annoying_the_Ghost.cpp"
+  },
+  {
     "id": "131A",
     "name": "A cAPS lOCK",
     "rating": 1000,
