@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-493-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-494-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 493
+**Total Problems Solved:** 494
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 299 |
+| 800 | 300 |
 | 900 | 89 |
 | 1000 | 41 |
 | 1100 | 25 |
@@ -43,7 +43,7 @@
 | brute force | 80 |
 | combinatorics | 4 |
 | communication | 2 |
-| constructive algorithms | 45 |
+| constructive algorithms | 46 |
 | data structures | 13 |
 | dfs and similar | 6 |
 | dp | 25 |
@@ -52,7 +52,7 @@
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 145 |
+| greedy | 146 |
 | hashing | 3 |
 | implementation | 264 |
 | interactive | 2 |
@@ -361,6 +361,7 @@
 | 2229A | Slimes on a Line | 800 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2229/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229A_Slimes_on_a_Line.cpp) |
 | 2228A | Marisa Steals Reimus Takeout | 800 | `greedy`, `implementation` | [View](https://codeforces.com/contest/2228/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2228A_Marisa_Steals_Reimus_Takeout.cpp) |
 | 2227A | Koshary | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/2227/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2227A_Koshary.cpp) |
+| 2224A | Zhily and Array Operating | 800 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2224/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2224A_Zhily_and_Array_Operating.cpp) |
 | 2222A | A Wonderful Contest | 800 | `brute force`, `dp`, ... | [View](https://codeforces.com/contest/2222/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222A_A_Wonderful_Contest.cpp) |
 | 2218C | The 67th Permutation Problem | 800 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218C_The_67th_Permutation_Problem.cpp) |
 | 2218B | The 67th 67 Integer Problem | 800 | `greedy`, `math` | [View](https://codeforces.com/contest/2218/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218B_The_67th_67_Integer_Problem.cpp) |

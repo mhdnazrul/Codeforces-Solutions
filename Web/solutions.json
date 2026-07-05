@@ -2073,6 +2073,19 @@
     "filename": "D_Buying_Shovels.cpp"
   },
   {
+    "id": "2224A",
+    "name": "Zhily and Array Operating",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2224/problem/A",
+    "sol_path": "Solutions/2224A_Zhily_and_Array_Operating.cpp",
+    "filename": "2224A_Zhily_and_Array_Operating.cpp"
+  },
+  {
     "id": "1551A",
     "name": "Polycarp and Coins",
     "rating": 800,
