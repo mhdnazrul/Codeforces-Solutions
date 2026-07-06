@@ -4382,6 +4382,18 @@
     "filename": "A_Soft_Drinking.cpp"
   },
   {
+    "id": "2242B",
+    "name": "Predominant Frequency Division",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2242/problem/B",
+    "sol_path": "Solutions/2242B_Predominant_Frequency_Division.cpp",
+    "filename": "2242B_Predominant_Frequency_Division.cpp"
+  },
+  {
     "id": "1883B",
     "name": "B Chemistry",
     "rating": 900,
