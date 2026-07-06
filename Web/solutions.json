@@ -4681,6 +4681,18 @@
     "filename": "A_Gravity_Flip.cpp"
   },
   {
+    "id": "2242A",
+    "name": "Bigrams",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2242/problem/A",
+    "sol_path": "Solutions/2242A_Bigrams.cpp",
+    "filename": "2242A_Bigrams.cpp"
+  },
+  {
     "id": "620A",
     "name": "A Professor GukiZ s Robot",
     "rating": 800,
