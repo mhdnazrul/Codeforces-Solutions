@@ -392,8 +392,8 @@
   {
     "id": "2241D",
     "name": "An Alternative Way",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "dp",
       "greedy",
@@ -485,7 +485,7 @@
     "id": "2241A",
     "name": "Divide and Conquer",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
       "greedy",
       "math",
@@ -691,6 +691,20 @@
     "filename": "C_Shifted_MEX.cpp"
   },
   {
+    "id": "2232B",
+    "name": "Cake Leveling",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ],
+    "q_link": "https://codeforces.com/contest/2232/problem/B",
+    "sol_path": "Solutions/2232B_Cake_Leveling.cpp",
+    "filename": "2232B_Cake_Leveling.cpp"
+  },
+  {
     "id": "2182B",
     "name": "B New Year Cake",
     "rating": 800,
@@ -730,8 +744,8 @@
   {
     "id": "2241C",
     "name": "RemovevomeR",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
       "greedy"
     ],
@@ -3166,8 +3180,8 @@
   {
     "id": "2241B",
     "name": "Good times Good times",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1100,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms",
       "dfs and similar",
@@ -4384,10 +4398,13 @@
   {
     "id": "2242B",
     "name": "Predominant Frequency Division",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2242/problem/B",
     "sol_path": "Solutions/2242B_Predominant_Frequency_Division.cpp",
@@ -4696,9 +4713,10 @@
     "id": "2242A",
     "name": "Bigrams",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "sortings",
+      "strings"
     ],
     "q_link": "https://codeforces.com/contest/2242/problem/A",
     "sol_path": "Solutions/2242A_Bigrams.cpp",

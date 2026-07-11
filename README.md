@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-496-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-497-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,16 +16,16 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 496
+**Total Problems Solved:** 497
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 302 |
-| 900 | 89 |
-| 1000 | 41 |
-| 1100 | 25 |
+| 800 | 298 |
+| 900 | 90 |
+| 1000 | 43 |
+| 1100 | 27 |
 | 1200 | 15 |
 | 1300 | 14 |
 | 1400 | 6 |
@@ -38,13 +38,13 @@
 | Tag | Count |
 | :--- | :--- |
 | *special | 6 |
-| binary search | 16 |
+| binary search | 17 |
 | bitmasks | 15 |
 | brute force | 80 |
 | combinatorics | 4 |
 | communication | 2 |
 | constructive algorithms | 46 |
-| data structures | 13 |
+| data structures | 14 |
 | dfs and similar | 6 |
 | dp | 25 |
 | expression parsing | 2 |
@@ -52,17 +52,17 @@
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 146 |
+| greedy | 148 |
 | hashing | 3 |
-| implementation | 266 |
+| implementation | 265 |
 | interactive | 2 |
-| math | 163 |
+| math | 165 |
 | number theory | 28 |
 | probabilities | 1 |
 | schedules | 2 |
 | shortest paths | 3 |
-| sortings | 51 |
-| strings | 53 |
+| sortings | 52 |
+| strings | 54 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -116,6 +116,8 @@
 | 456A | A Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | B Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
+| 2241D | An Alternative Way | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2241/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241D_An_Alternative_Way.cpp) |
+| 2241B | Good times Good times | 1100 | `constructive algorithms`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2241/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241B_Good_times_Good_times.cpp) |
 | 2222B | Artistic Balance Tree | 1100 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2222/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222B_Artistic_Balance_Tree.cpp) |
 | 2218D | The 67th OEIS Problem | 1100 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218D_The_67th_OEIS_Problem.cpp) |
 | 2195C | C Dice Roll Sequence | 1100 | `dp`, `greedy` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
@@ -148,6 +150,8 @@
 | 379A | A New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
+| 2242B | Predominant Frequency Division | 1000 | `data structures`, `greedy`, ... | [View](https://codeforces.com/contest/2242/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242B_Predominant_Frequency_Division.cpp) |
+| 2241C | RemovevomeR | 1000 | `greedy` | [View](https://codeforces.com/contest/2241/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241C_RemovevomeR.cpp) |
 | 2237C | Duck Surplus | 1000 | `binary search`, `greedy` | [View](https://codeforces.com/problemset/problem/2237/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2237C_Duck_Surplus.cpp) |
 | 2237B | Annoying the Ghost | 1000 | `brute force`, `greedy` | [View](https://codeforces.com/contest/2237/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2237B_Annoying_the_Ghost.cpp) |
 | 2236C | Omsk Programmers | 1000 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/2236/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2236C_Omsk_Programmers.cpp) |
@@ -195,6 +199,7 @@
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
+| 2232B | Cake Leveling | 900 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2232/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2232B_Cake_Leveling.cpp) |
 | 2229C1 | We Be Flipping Easy Version | 900 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2229/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp) |
 | 2195B | B Heapify 1 | 900 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2195/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Heapify_1.cpp) |
 | 219432U | U Some Sums | 900 | `implementation` | [View](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Groups/U_Some_Sums.cpp) |
@@ -343,11 +348,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2242B | Predominant Frequency Division | 800 | `implementation` | [View](https://codeforces.com/contest/2242/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242B_Predominant_Frequency_Division.cpp) |
-| 2242A | Bigrams | 800 | `implementation` | [View](https://codeforces.com/contest/2242/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242A_Bigrams.cpp) |
-| 2241D | An Alternative Way | 800 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2241/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241D_An_Alternative_Way.cpp) |
-| 2241C | RemovevomeR | 800 | `greedy` | [View](https://codeforces.com/contest/2241/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241C_RemovevomeR.cpp) |
-| 2241B | Good times Good times | 800 | `constructive algorithms`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2241/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241B_Good_times_Good_times.cpp) |
+| 2242A | Bigrams | 800 | `sortings`, `strings` | [View](https://codeforces.com/contest/2242/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242A_Bigrams.cpp) |
 | 2241A | Divide and Conquer | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2241/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241A_Divide_and_Conquer.cpp) |
 | 2240A | Another Popcount Problem | 800 | `greedy` | [View](https://codeforces.com/contest/2240/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2240A_Another_Popcount_Problem.cpp) |
 | 2238A | Another Puzzle from Papyrus | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238A_Another_Puzzle_from_Papyrus.cpp) |
