@@ -3809,6 +3809,18 @@
     "filename": "A_Presents.cpp"
   },
   {
+    "id": "2246A",
+    "name": "farmpiggie and Subset Sum",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2246/problem/A",
+    "sol_path": "Solutions/2246A_farmpiggie_and_Subset_Sum.cpp",
+    "filename": "2246A_farmpiggie_and_Subset_Sum.cpp"
+  },
+  {
     "id": "2148A",
     "name": "A Sublime Sequence",
     "rating": 800,

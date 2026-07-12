@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-500-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-501-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,13 +16,13 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 500
+**Total Problems Solved:** 501
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 298 |
+| 800 | 299 |
 | 900 | 91 |
 | 1000 | 44 |
 | 1100 | 28 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 150 |
 | hashing | 3 |
-| implementation | 265 |
+| implementation | 266 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 28 |
@@ -351,6 +351,7 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
+| 2246A | farmpiggie and Subset Sum | 800 | `implementation` | [View](https://codeforces.com/contest/2246/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246A_farmpiggie_and_Subset_Sum.cpp) |
 | 2242A | Bigrams | 800 | `sortings`, `strings` | [View](https://codeforces.com/contest/2242/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242A_Bigrams.cpp) |
 | 2241A | Divide and Conquer | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2241/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241A_Divide_and_Conquer.cpp) |
 | 2240A | Another Popcount Problem | 800 | `greedy` | [View](https://codeforces.com/contest/2240/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2240A_Another_Popcount_Problem.cpp) |
