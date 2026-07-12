@@ -3073,6 +3073,18 @@
     "filename": "D_Same_Differences.cpp"
   },
   {
+    "id": "2233B",
+    "name": "Different Distances",
+    "rating": 900,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2233/B",
+    "sol_path": "Solutions/2233B_Different_Distances.cpp",
+    "filename": "2233B_Different_Distances.cpp"
+  },
+  {
     "id": "1542A",
     "name": "Odd Set",
     "rating": 800,

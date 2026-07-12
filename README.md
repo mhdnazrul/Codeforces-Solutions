@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-498-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-499-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 498
+**Total Problems Solved:** 499
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 298 |
-| 900 | 90 |
+| 900 | 91 |
 | 1000 | 44 |
 | 1100 | 27 |
 | 1200 | 15 |
@@ -43,7 +43,7 @@
 | brute force | 81 |
 | combinatorics | 4 |
 | communication | 2 |
-| constructive algorithms | 46 |
+| constructive algorithms | 47 |
 | data structures | 14 |
 | dfs and similar | 6 |
 | dp | 25 |
@@ -200,6 +200,7 @@
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
+| 2233B | Different Distances | 900 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/2233/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2233B_Different_Distances.cpp) |
 | 2232B | Cake Leveling | 900 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2232/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2232B_Cake_Leveling.cpp) |
 | 2229C1 | We Be Flipping Easy Version | 900 | `constructive algorithms`, `greedy` | [View](https://codeforces.com/contest/2229/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2229C1_We_Be_Flipping_Easy_Version.cpp) |
 | 2195B | B Heapify 1 | 900 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2195/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Heapify_1.cpp) |
