@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-497-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-498-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 497
+**Total Problems Solved:** 498
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | 800 | 298 |
 | 900 | 90 |
-| 1000 | 43 |
+| 1000 | 44 |
 | 1100 | 27 |
 | 1200 | 15 |
 | 1300 | 14 |
@@ -40,7 +40,7 @@
 | *special | 6 |
 | binary search | 17 |
 | bitmasks | 15 |
-| brute force | 80 |
+| brute force | 81 |
 | combinatorics | 4 |
 | communication | 2 |
 | constructive algorithms | 46 |
@@ -52,7 +52,7 @@
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 148 |
+| greedy | 149 |
 | hashing | 3 |
 | implementation | 265 |
 | interactive | 2 |
@@ -62,7 +62,7 @@
 | schedules | 2 |
 | shortest paths | 3 |
 | sortings | 52 |
-| strings | 54 |
+| strings | 55 |
 | ternary search | 1 |
 | trees | 1 |
 | two pointers | 13 |
@@ -171,6 +171,7 @@
 | 1999B | B Card Game | 1000 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/contest/1999/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Card_Game.cpp) |
 | 1985C | C Good Prefixes | 1000 | `greedy` | [View](https://codeforces.com/contest/1985/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Good_Prefixes.cpp) |
 | 1913B | B Swap and Delete | 1000 | `strings` | [View](https://codeforces.com/contest/1913/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Swap_and_Delete.cpp) |
+| 1791D | Distinct Split | 1000 | `brute force`, `greedy`, ... | [View](https://codeforces.com/contest/1791/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1791D_Distinct_Split.cpp) |
 | 1374C | C Move Brackets | 1000 | `greedy`, `strings` | [View](https://codeforces.com/problemset/problem/1374/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Move_Brackets.cpp) |
 | 1353C | C Board Moves | 1000 | `math` | [View](https://codeforces.com/contest/1353/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Board_Moves.cpp) |
 | 1342A | A Road To Zero | 1000 | `greedy`, `math` | [View](https://codeforces.com/contest/1342/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Road_To_Zero.cpp) |

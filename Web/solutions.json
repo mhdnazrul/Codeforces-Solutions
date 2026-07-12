@@ -2190,6 +2190,20 @@
     "filename": "A_Table_with_Numbers.cpp"
   },
   {
+    "id": "1791D",
+    "name": "Distinct Split",
+    "rating": 1000,
+    "rating_source": "api",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/1791/problem/D",
+    "sol_path": "Solutions/1791D_Distinct_Split.cpp",
+    "filename": "1791D_Distinct_Split.cpp"
+  },
+  {
     "id": "381A",
     "name": "A Sereja and Dima",
     "rating": 800,
