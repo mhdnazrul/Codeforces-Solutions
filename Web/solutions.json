@@ -4682,6 +4682,18 @@
     "filename": "B_Even_Modulo_Pair.cpp"
   },
   {
+    "id": "2246B",
+    "name": "ezraft and Array",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2246/problem/B",
+    "sol_path": "Solutions/2246B_ezraft_and_Array.cpp",
+    "filename": "2246B_ezraft_and_Array.cpp"
+  },
+  {
     "id": "1380A",
     "name": "A Three Indices",
     "rating": 900,
