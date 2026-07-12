@@ -2975,6 +2975,19 @@
     "filename": "1367A_Short_Substrings.cpp"
   },
   {
+    "id": "2225C",
+    "name": "RedBlack Pairs",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2225/C",
+    "sol_path": "Solutions/2225C_RedBlack_Pairs.cpp",
+    "filename": "2225C_RedBlack_Pairs.cpp"
+  },
+  {
     "id": "1720B",
     "name": "B Interesting Sum",
     "rating": 800,

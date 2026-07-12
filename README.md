@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-499-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-500-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,7 +16,7 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 499
+**Total Problems Solved:** 500
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
@@ -25,7 +25,7 @@
 | 800 | 298 |
 | 900 | 91 |
 | 1000 | 44 |
-| 1100 | 27 |
+| 1100 | 28 |
 | 1200 | 15 |
 | 1300 | 14 |
 | 1400 | 6 |
@@ -46,13 +46,13 @@
 | constructive algorithms | 47 |
 | data structures | 14 |
 | dfs and similar | 6 |
-| dp | 25 |
+| dp | 26 |
 | expression parsing | 2 |
 | games | 11 |
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 149 |
+| greedy | 150 |
 | hashing | 3 |
 | implementation | 265 |
 | interactive | 2 |
@@ -118,6 +118,7 @@
 | 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
 | 2241D | An Alternative Way | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2241/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241D_An_Alternative_Way.cpp) |
 | 2241B | Good times Good times | 1100 | `constructive algorithms`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2241/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241B_Good_times_Good_times.cpp) |
+| 2225C | RedBlack Pairs | 1100 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/2225/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2225C_RedBlack_Pairs.cpp) |
 | 2222B | Artistic Balance Tree | 1100 | `greedy`, `sortings` | [View](https://codeforces.com/contest/2222/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2222B_Artistic_Balance_Tree.cpp) |
 | 2218D | The 67th OEIS Problem | 1100 | `constructive algorithms`, `greedy`, ... | [View](https://codeforces.com/contest/2218/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2218D_The_67th_OEIS_Problem.cpp) |
 | 2195C | C Dice Roll Sequence | 1100 | `dp`, `greedy` | [View](https://codeforces.com/contest/2195/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/C_Dice_Roll_Sequence.cpp) |
