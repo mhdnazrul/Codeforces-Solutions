@@ -5775,6 +5775,18 @@
     "filename": "A_Einstein_s_Calculator.cpp"
   },
   {
+    "id": "106619H",
+    "name": "Standoff",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/106619/problem/H",
+    "sol_path": "Gyms/106619H_Standoff.cpp",
+    "filename": "106619H_Standoff.cpp"
+  },
+  {
     "id": "105940G",
     "name": "G Cheetahs Hunting Deers Easy",
     "rating": 900,
