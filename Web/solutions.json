@@ -3814,7 +3814,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms"
     ],
     "q_link": "https://codeforces.com/contest/2246/problem/A",
     "sol_path": "Solutions/2246A_farmpiggie_and_Subset_Sum.cpp",
@@ -4687,7 +4687,8 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms",
+      "number theory"
     ],
     "q_link": "https://codeforces.com/contest/2246/problem/B",
     "sol_path": "Solutions/2246B_ezraft_and_Array.cpp",
@@ -4824,6 +4825,18 @@
     "q_link": "https://codeforces.com/contest/961/problem/B",
     "sol_path": "Solutions/B_Lecture_Sleep.cpp",
     "filename": "B_Lecture_Sleep.cpp"
+  },
+  {
+    "id": "2231B",
+    "name": "Another Sorting Problem",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "q_link": "https://codeforces.com/problemset/problem/2231/B",
+    "sol_path": "Solutions/2231B_Another_Sorting_Problem.cpp",
+    "filename": "2231B_Another_Sorting_Problem.cpp"
   },
   {
     "id": "1853A",
