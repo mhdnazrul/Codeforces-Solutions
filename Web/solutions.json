@@ -5751,6 +5751,18 @@
     "filename": "I_The_Youngest_in_ASZoo.cpp"
   },
   {
+    "id": "106619E",
+    "name": "A Distinct Problem",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/106619/problem/E",
+    "sol_path": "Gyms/106619E_A_Distinct_Problem.cpp",
+    "filename": "106619E_A_Distinct_Problem.cpp"
+  },
+  {
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,

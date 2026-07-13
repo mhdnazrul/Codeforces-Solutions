@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-504-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-505-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 504
+**Total Problems Solved:** 505
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 300 |
-| 900 | 92 |
+| 900 | 93 |
 | 1000 | 44 |
 | 1100 | 29 |
 | 1200 | 15 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 150 |
 | hashing | 3 |
-| implementation | 266 |
+| implementation | 267 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 29 |
@@ -271,6 +271,7 @@
 | 1343A | A Candies | 900 | `brute force`, `math` | [View](https://codeforces.com/contest/1343/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Candies.cpp) |
 | 133A | A HQ 9 | 900 | `implementation` | [View](https://codeforces.com/problemset/problem/133/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_HQ_9.cpp) |
 | 1324A | Yet Another Tetris Problem | 900 | `implementation`, `number theory` | [View](https://codeforces.com/problemset/problem/1324/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/1324A_Yet_Another_Tetris_Problem.cpp) |
+| 106619E | A Distinct Problem | 900 | `implementation` | [View](https://codeforces.com/gym/106619/problem/E) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/106619E_A_Distinct_Problem.cpp) |
 | 106188A | A Einstein s Calculator | 900 | `implementation` | [View](https://codeforces.com/gym/106188/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/A_Einstein_s_Calculator.cpp) |
 | 105981C | C Echoes of the Runes | 900 | `implementation` | [View](https://codeforces.com/gym/105981/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/C_Echoes_of_the_Runes.cpp) |
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
