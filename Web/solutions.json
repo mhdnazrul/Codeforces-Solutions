@@ -5703,6 +5703,18 @@
     "filename": "B_Pathless.cpp"
   },
   {
+    "id": "104289A",
+    "name": "String Removal",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/104289/problem/A",
+    "sol_path": "Gyms/104289A_String_Removal.cpp",
+    "filename": "104289A_String_Removal.cpp"
+  },
+  {
     "id": "N/A",
     "name": "ZA Subarray Sums I",
     "rating": 900,
