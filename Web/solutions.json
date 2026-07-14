@@ -5763,6 +5763,21 @@
     "filename": "106619E_A_Distinct_Problem.cpp"
   },
   {
+    "id": "2244A",
+    "name": "Iskander and Drawings",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/2244/problem/A",
+    "sol_path": "Gyms/2244A_Iskander_and_Drawings.cpp",
+    "filename": "2244A_Iskander_and_Drawings.cpp"
+  },
+  {
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,
