@@ -5739,6 +5739,18 @@
     "filename": "106619E_A_Distinct_Problem.cpp"
   },
   {
+    "id": "2245B",
+    "name": "Delete and Concatenate",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2245/problem/B",
+    "sol_path": "Gyms/2245B_Delete_and_Concatenate.cpp",
+    "filename": "2245B_Delete_and_Concatenate.cpp"
+  },
+  {
     "id": "2244A",
     "name": "Iskander and Drawings",
     "rating": 900,

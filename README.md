@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-508-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-509-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 508
+**Total Problems Solved:** 509
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 300 |
-| 900 | 96 |
+| 900 | 97 |
 | 1000 | 44 |
 | 1100 | 29 |
 | 1200 | 15 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 151 |
 | hashing | 3 |
-| implementation | 269 |
+| implementation | 270 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 29 |
@@ -201,6 +201,7 @@
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
+| 2245B | Delete and Concatenate | 900 | `implementation` | [View](https://codeforces.com/contest/2245/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245B_Delete_and_Concatenate.cpp) |
 | 2245A | Who Watches the Watchpig | 900 | `implementation` | [View](https://codeforces.com/contest/2245/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245A_Who_Watches_the_Watchpig.cpp) |
 | 2244A | Iskander and Drawings | 900 | `dp`, `games`, ... | [View](https://codeforces.com/contest/2244/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2244A_Iskander_and_Drawings.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
