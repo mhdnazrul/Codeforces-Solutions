@@ -5703,6 +5703,18 @@
     "filename": "A_Divisible_Permutation.cpp"
   },
   {
+    "id": "2254C1",
+    "name": "Marenol easy version",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2254/problem/C1",
+    "sol_path": "Gyms/2254C1_Marenol_easy_version.cpp",
+    "filename": "2254C1_Marenol_easy_version.cpp"
+  },
+  {
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,
