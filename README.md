@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-509-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-510-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,16 +16,16 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 509
+**Total Problems Solved:** 510
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 300 |
-| 900 | 97 |
+| 800 | 301 |
+| 900 | 96 |
 | 1000 | 44 |
-| 1100 | 29 |
+| 1100 | 30 |
 | 1200 | 15 |
 | 1300 | 14 |
 | 1400 | 6 |
@@ -52,9 +52,9 @@
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 151 |
+| greedy | 153 |
 | hashing | 3 |
-| implementation | 270 |
+| implementation | 269 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 29 |
@@ -116,6 +116,7 @@
 | 456A | A Laptops | 1100 | `sortings` | [View](https://codeforces.com/problemset/problem/456/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Laptops.cpp) |
 | 363B | B Fence | 1100 | `brute force`, `dp` | [View](https://codeforces.com/contest/363/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Fence.cpp) |
 | 313B | B Ilya and Queries | 1100 | `dp`, `implementation` | [View](https://codeforces.com/contest/313/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Ilya_and_Queries.cpp) |
+| 2245B | Delete and Concatenate | 1100 | `greedy` | [View](https://codeforces.com/contest/2245/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245B_Delete_and_Concatenate.cpp) |
 | 2241D | An Alternative Way | 1100 | `dp`, `greedy`, ... | [View](https://codeforces.com/contest/2241/problem/D) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241D_An_Alternative_Way.cpp) |
 | 2241B | Good times Good times | 1100 | `constructive algorithms`, `dfs and similar`, ... | [View](https://codeforces.com/contest/2241/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241B_Good_times_Good_times.cpp) |
 | 2231B | Another Sorting Problem | 1100 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/2231/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2231B_Another_Sorting_Problem.cpp) |
@@ -201,9 +202,8 @@
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
-| 2245B | Delete and Concatenate | 900 | `implementation` | [View](https://codeforces.com/contest/2245/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245B_Delete_and_Concatenate.cpp) |
-| 2245A | Who Watches the Watchpig | 900 | `implementation` | [View](https://codeforces.com/contest/2245/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245A_Who_Watches_the_Watchpig.cpp) |
-| 2244A | Iskander and Drawings | 900 | `dp`, `games`, ... | [View](https://codeforces.com/contest/2244/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2244A_Iskander_and_Drawings.cpp) |
+| 2254A | Riptide | 900 | `implementation` | [View](https://codeforces.com/contest/2254/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2254A_Riptide.cpp) |
+| 2246B | ezraft and Array | 900 | `constructive algorithms`, `number theory` | [View](https://codeforces.com/contest/2246/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246B_ezraft_and_Array.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
 | 2233B | Different Distances | 900 | `constructive algorithms` | [View](https://codeforces.com/problemset/problem/2233/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2233B_Different_Distances.cpp) |
 | 2232B | Cake Leveling | 900 | `binary search`, `greedy`, ... | [View](https://codeforces.com/contest/2232/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2232B_Cake_Leveling.cpp) |
@@ -281,10 +281,10 @@
 | 105940I | I The Youngest in ASZoo | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_The_Youngest_in_ASZoo.cpp) |
 | 105940G | G Cheetahs Hunting Deers Easy | 900 | `implementation` | [View](https://codeforces.com/gym/105940/problem/G) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/G_Cheetahs_Hunting_Deers_Easy.cpp) |
 | 104289A | String Removal | 900 | `implementation` | [View](https://codeforces.com/gym/104289/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/104289A_String_Removal.cpp) |
-| N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
-| N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
-| N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
 | N/A | A AppendAppendAppend | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_AppendAppendAppend.cpp) |
+| N/A | A Range Minimum Query | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Range_Minimum_Query.cpp) |
+| N/A | 100 A B | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/100_A_B.cpp) |
+| N/A | B Worms | 800 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Worms.cpp) |
 | 9A | Die Roll | 800 | `math`, `probabilities` | [View](https://codeforces.com/problemset/problem/9/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/9A_Die_Roll.cpp) |
 | 996A | A Hit the Lottery | 800 | `dp`, `greedy` | [View](https://codeforces.com/problemset/problem/996/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Hit_the_Lottery.cpp) |
 | 977A | A Wrong Subtraction | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/977/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Wrong_Subtraction.cpp) |
@@ -294,8 +294,8 @@
 | 785A | A Anton and Polyhedrons | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/785/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Polyhedrons.cpp) |
 | 758A | A Holiday Of Equality | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/758/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Holiday_Of_Equality.cpp) |
 | 749A | Bachgold Problem | 800 | `greedy`, `implementation`, ... | [View](https://codeforces.com/contest/749/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/749A_Bachgold_Problem.cpp) |
-| 734A | A Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Danik.cpp) |
 | 734A | B Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Anton_and_Danik.cpp) |
+| 734A | A Anton and Danik | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/734/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Anton_and_Danik.cpp) |
 | 732A | A Buy a Shovel | 800 | `brute force`, `constructive algorithms`, ... | [View](https://codeforces.com/problemset/problem/732/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Buy_a_Shovel.cpp) |
 | 71A | A Way Too Long Words | 800 | `strings` | [View](https://codeforces.com/problemset/problem/71/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Way_Too_Long_Words.cpp) |
 | 707A | Brains Photos | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/707/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/707A_Brains_Photos.cpp) |
@@ -314,8 +314,8 @@
 | 630A | A Again Twenty Five | 800 | `number theory` | [View](https://codeforces.com/problemset/problem/630/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Again_Twenty_Five.cpp) |
 | 620A | A Professor GukiZ s Robot | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/620/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Professor_GukiZ_s_Robot.cpp) |
 | 61A | A Ultra Fast Mathematician | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/61/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ultra_Fast_Mathematician.cpp) |
-| 617A | A Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
 | 617A | A Sum of 2050 | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Sum_of_2050.cpp) |
+| 617A | A Elephant | 800 | `math` | [View](https://codeforces.com/problemset/problem/617/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Elephant.cpp) |
 | 59A | A Word | 800 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/59/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Word.cpp) |
 | 581A | A Vasya the Hipster | 800 | `implementation`, `math` | [View](https://codeforces.com/contest/581/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Vasya_the_Hipster.cpp) |
 | 546A | A Soldier and Bananas | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/546/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Soldier_and_Bananas.cpp) |
@@ -358,8 +358,9 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2246B | ezraft and Array | 800 | `constructive algorithms`, `number theory` | [View](https://codeforces.com/contest/2246/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246B_ezraft_and_Array.cpp) |
 | 2246A | farmpiggie and Subset Sum | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2246/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246A_farmpiggie_and_Subset_Sum.cpp) |
+| 2245A | Who Watches the Watchpig | 800 | `greedy` | [View](https://codeforces.com/contest/2245/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2245A_Who_Watches_the_Watchpig.cpp) |
+| 2244A | Iskander and Drawings | 800 | `dp`, `games`, ... | [View](https://codeforces.com/contest/2244/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2244A_Iskander_and_Drawings.cpp) |
 | 2242A | Bigrams | 800 | `sortings`, `strings` | [View](https://codeforces.com/contest/2242/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242A_Bigrams.cpp) |
 | 2241A | Divide and Conquer | 800 | `greedy`, `math`, ... | [View](https://codeforces.com/contest/2241/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241A_Divide_and_Conquer.cpp) |
 | 2240A | Another Popcount Problem | 800 | `greedy` | [View](https://codeforces.com/contest/2240/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2240A_Another_Popcount_Problem.cpp) |
