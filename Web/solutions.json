@@ -5763,6 +5763,18 @@
     "filename": "ZA_Subarray_Sums_I.cpp"
   },
   {
+    "id": "2254B",
+    "name": "Evanescent",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2254/problem/B",
+    "sol_path": "Gyms/2254B_Evanescent.cpp",
+    "filename": "2254B_Evanescent.cpp"
+  },
+  {
     "id": "2245A",
     "name": "Who Watches the Watchpig",
     "rating": 800,

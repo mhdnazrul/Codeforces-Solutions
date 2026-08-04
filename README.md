@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-510-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-511-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 510
+**Total Problems Solved:** 511
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 301 |
-| 900 | 96 |
+| 900 | 97 |
 | 1000 | 44 |
 | 1100 | 30 |
 | 1200 | 15 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 153 |
 | hashing | 3 |
-| implementation | 269 |
+| implementation | 270 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 29 |
@@ -202,6 +202,7 @@
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
+| 2254B | Evanescent | 900 | `implementation` | [View](https://codeforces.com/contest/2254/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2254B_Evanescent.cpp) |
 | 2254A | Riptide | 900 | `implementation` | [View](https://codeforces.com/contest/2254/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/2254A_Riptide.cpp) |
 | 2246B | ezraft and Array | 900 | `constructive algorithms`, `number theory` | [View](https://codeforces.com/contest/2246/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246B_ezraft_and_Array.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
