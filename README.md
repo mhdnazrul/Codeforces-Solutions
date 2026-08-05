@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-512-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-516-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,14 +16,14 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 512
+**Total Problems Solved:** 516
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
 | 800 | 304 |
-| 900 | 95 |
+| 900 | 99 |
 | 1000 | 44 |
 | 1100 | 30 |
 | 1200 | 15 |
@@ -54,7 +54,7 @@
 | graphs | 4 |
 | greedy | 154 |
 | hashing | 3 |
-| implementation | 270 |
+| implementation | 274 |
 | interactive | 2 |
 | math | 165 |
 | number theory | 29 |
@@ -188,6 +188,10 @@
 | N/A | ZA Subarray Sums I | 900 | `implementation` | [View](#) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/ZA_Subarray_Sums_I.cpp) |
 | 977B | B Two gram | 900 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/977/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Two_gram.cpp) |
 | 96A | A Football | 900 | `implementation`, `strings` | [View](https://codeforces.com/problemset/problem/96/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Football.cpp) |
+| 707857I | I Levko and Permutation | 900 | `implementation` | [View](https://codeforces.com/gym/707857/problem/I) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/I_Levko_and_Permutation.cpp) |
+| 707857H | H Complete the Word | 900 | `implementation` | [View](https://codeforces.com/gym/707857/problem/H) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/H_Complete_the_Word.cpp) |
+| 707857C | C 3 palindrome | 900 | `implementation` | [View](https://codeforces.com/gym/707857/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/C_3_palindrome.cpp) |
+| 707857B | B Equality | 900 | `implementation` | [View](https://codeforces.com/gym/707857/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Gyms/B_Equality.cpp) |
 | 598A | A Tricky Sum | 900 | `math` | [View](https://codeforces.com/problemset/problem/598/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Tricky_Sum.cpp) |
 | 580A | A Kefa and First Steps | 900 | `brute force`, `dp`, ... | [View](https://codeforces.com/problemset/problem/580/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Kefa_and_First_Steps.cpp) |
 | 556A | A Case of the Zeros and Ones | 900 | `greedy` | [View](https://codeforces.com/contest/556/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Case_of_the_Zeros_and_Ones.cpp) |

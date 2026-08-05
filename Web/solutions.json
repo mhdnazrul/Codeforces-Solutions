@@ -5781,6 +5781,30 @@
     "filename": "A_Divisible_Permutation.cpp"
   },
   {
+    "id": "707857C",
+    "name": "C 3 palindrome",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/707857/problem/C",
+    "sol_path": "Gyms/C_3_palindrome.cpp",
+    "filename": "C_3_palindrome.cpp"
+  },
+  {
+    "id": "707857I",
+    "name": "I Levko and Permutation",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/707857/problem/I",
+    "sol_path": "Gyms/I_Levko_and_Permutation.cpp",
+    "filename": "I_Levko_and_Permutation.cpp"
+  },
+  {
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,
@@ -5791,6 +5815,18 @@
     "q_link": "https://codeforces.com/gym/106188/problem/A",
     "sol_path": "Gyms/A_Einstein_s_Calculator.cpp",
     "filename": "A_Einstein_s_Calculator.cpp"
+  },
+  {
+    "id": "707857H",
+    "name": "H Complete the Word",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/707857/problem/H",
+    "sol_path": "Gyms/H_Complete_the_Word.cpp",
+    "filename": "H_Complete_the_Word.cpp"
   },
   {
     "id": "106619H",
@@ -5863,6 +5899,18 @@
     "q_link": "https://codeforces.com/gym/104289/problem/A",
     "sol_path": "Gyms/104289A_String_Removal.cpp",
     "filename": "104289A_String_Removal.cpp"
+  },
+  {
+    "id": "707857B",
+    "name": "B Equality",
+    "rating": 900,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/gym/707857/problem/B",
+    "sol_path": "Gyms/B_Equality.cpp",
+    "filename": "B_Equality.cpp"
   },
   {
     "id": "106619E",
