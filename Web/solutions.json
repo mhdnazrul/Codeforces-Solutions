@@ -131,6 +131,18 @@
     "filename": "A_Perfect_Root.cpp"
   },
   {
+    "id": "2254C1",
+    "name": "Marenol easy version",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2254/problem/C1",
+    "sol_path": "Solutions/2254C1_Marenol_easy_version.cpp",
+    "filename": "2254C1_Marenol_easy_version.cpp"
+  },
+  {
     "id": "2236B",
     "name": "Tatar TV Show",
     "rating": 800,
@@ -2257,6 +2269,18 @@
     "filename": "B_Array_Reodering.cpp"
   },
   {
+    "id": "2245B",
+    "name": "Delete and Concatenate",
+    "rating": 1100,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2245/problem/B",
+    "sol_path": "Solutions/2245B_Delete_and_Concatenate.cpp",
+    "filename": "2245B_Delete_and_Concatenate.cpp"
+  },
+  {
     "id": "381A",
     "name": "A Sereja and Dima",
     "rating": 800,
@@ -4061,6 +4085,20 @@
     "filename": "C_Sorting_Game.cpp"
   },
   {
+    "id": "2254B",
+    "name": "Evanescent",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers"
+    ],
+    "q_link": "https://codeforces.com/contest/2254/problem/B",
+    "sol_path": "Solutions/2254B_Evanescent.cpp",
+    "filename": "2254B_Evanescent.cpp"
+  },
+  {
     "id": "620A",
     "name": "A Professor GukiZ s Robot",
     "rating": 800,
@@ -4254,6 +4292,18 @@
     "q_link": "https://codeforces.com/problemset/problem/1312/B",
     "sol_path": "Solutions/1312B_Bogosort.cpp",
     "filename": "1312B_Bogosort.cpp"
+  },
+  {
+    "id": "2245A",
+    "name": "Who Watches the Watchpig",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "greedy"
+    ],
+    "q_link": "https://codeforces.com/contest/2245/problem/A",
+    "sol_path": "Solutions/2245A_Who_Watches_the_Watchpig.cpp",
+    "filename": "2245A_Who_Watches_the_Watchpig.cpp"
   },
   {
     "id": "2197A",
@@ -5626,6 +5676,21 @@
     "filename": "B_Colourblindness.cpp"
   },
   {
+    "id": "2244A",
+    "name": "Iskander and Drawings",
+    "rating": 800,
+    "rating_source": "api",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "strings"
+    ],
+    "q_link": "https://codeforces.com/contest/2244/problem/A",
+    "sol_path": "Solutions/2244A_Iskander_and_Drawings.cpp",
+    "filename": "2244A_Iskander_and_Drawings.cpp"
+  },
+  {
     "id": "1669C",
     "name": "C Odd Even Increments",
     "rating": 800,
@@ -5651,6 +5716,19 @@
     "q_link": "https://codeforces.com/problemset/problem/1324/A",
     "sol_path": "Solutions/1324A_Yet_Another_Tetris_Problem.cpp",
     "filename": "1324A_Yet_Another_Tetris_Problem.cpp"
+  },
+  {
+    "id": "2254A",
+    "name": "Riptide",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "q_link": "https://codeforces.com/contest/2254/problem/A",
+    "sol_path": "Solutions/2254A_Riptide.cpp",
+    "filename": "2254A_Riptide.cpp"
   },
   {
     "id": "344A",
@@ -5703,18 +5781,6 @@
     "filename": "A_Divisible_Permutation.cpp"
   },
   {
-    "id": "2254C1",
-    "name": "Marenol easy version",
-    "rating": 900,
-    "rating_source": "fallback",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/2254/problem/C1",
-    "sol_path": "Gyms/2254C1_Marenol_easy_version.cpp",
-    "filename": "2254C1_Marenol_easy_version.cpp"
-  },
-  {
     "id": "106188A",
     "name": "A Einstein s Calculator",
     "rating": 900,
@@ -5725,18 +5791,6 @@
     "q_link": "https://codeforces.com/gym/106188/problem/A",
     "sol_path": "Gyms/A_Einstein_s_Calculator.cpp",
     "filename": "A_Einstein_s_Calculator.cpp"
-  },
-  {
-    "id": "2245B",
-    "name": "Delete and Concatenate",
-    "rating": 1100,
-    "rating_source": "api",
-    "tags": [
-      "greedy"
-    ],
-    "q_link": "https://codeforces.com/contest/2245/problem/B",
-    "sol_path": "Gyms/2245B_Delete_and_Concatenate.cpp",
-    "filename": "2245B_Delete_and_Concatenate.cpp"
   },
   {
     "id": "106619H",
@@ -5773,30 +5827,6 @@
     "q_link": "#",
     "sol_path": "Gyms/ZA_Subarray_Sums_I.cpp",
     "filename": "ZA_Subarray_Sums_I.cpp"
-  },
-  {
-    "id": "2254B",
-    "name": "Evanescent",
-    "rating": 900,
-    "rating_source": "fallback",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/2254/problem/B",
-    "sol_path": "Gyms/2254B_Evanescent.cpp",
-    "filename": "2254B_Evanescent.cpp"
-  },
-  {
-    "id": "2245A",
-    "name": "Who Watches the Watchpig",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "greedy"
-    ],
-    "q_link": "https://codeforces.com/contest/2245/problem/A",
-    "sol_path": "Gyms/2245A_Who_Watches_the_Watchpig.cpp",
-    "filename": "2245A_Who_Watches_the_Watchpig.cpp"
   },
   {
     "id": "105981C",
@@ -5845,33 +5875,6 @@
     "q_link": "https://codeforces.com/gym/106619/problem/E",
     "sol_path": "Gyms/106619E_A_Distinct_Problem.cpp",
     "filename": "106619E_A_Distinct_Problem.cpp"
-  },
-  {
-    "id": "2244A",
-    "name": "Iskander and Drawings",
-    "rating": 800,
-    "rating_source": "api",
-    "tags": [
-      "dp",
-      "games",
-      "greedy",
-      "strings"
-    ],
-    "q_link": "https://codeforces.com/contest/2244/problem/A",
-    "sol_path": "Gyms/2244A_Iskander_and_Drawings.cpp",
-    "filename": "2244A_Iskander_and_Drawings.cpp"
-  },
-  {
-    "id": "2254A",
-    "name": "Riptide",
-    "rating": 900,
-    "rating_source": "fallback",
-    "tags": [
-      "implementation"
-    ],
-    "q_link": "https://codeforces.com/contest/2254/problem/A",
-    "sol_path": "Gyms/2254A_Riptide.cpp",
-    "filename": "2254A_Riptide.cpp"
   },
   {
     "id": "219432I",
