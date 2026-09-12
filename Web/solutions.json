@@ -1024,6 +1024,18 @@
     "filename": "D_OutOfMemoryError.cpp"
   },
   {
+    "id": "2263C1",
+    "name": "Floor of MEX Easy Version",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2263/problem/C1",
+    "sol_path": "Solutions/2263C1_Floor_of_MEX_Easy_Version.cpp",
+    "filename": "2263C1_Floor_of_MEX_Easy_Version.cpp"
+  },
+  {
     "id": "755B",
     "name": "B PolandBall and Game",
     "rating": 1100,
@@ -3215,6 +3227,18 @@
     "q_link": "https://codeforces.com/problemset/problem/118/A",
     "sol_path": "Solutions/A_String_Task.cpp",
     "filename": "A_String_Task.cpp"
+  },
+  {
+    "id": "2263B",
+    "name": "Min Matrices",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2263/problem/B",
+    "sol_path": "Solutions/2263B_Min_Matrices.cpp",
+    "filename": "2263B_Min_Matrices.cpp"
   },
   {
     "id": "110A",
