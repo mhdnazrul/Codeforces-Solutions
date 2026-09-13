@@ -3234,7 +3234,7 @@
     "rating": 800,
     "rating_source": "fallback",
     "tags": [
-      "implementation"
+      "constructive algorithms"
     ],
     "q_link": "https://codeforces.com/contest/2263/problem/B",
     "sol_path": "Solutions/2263B_Min_Matrices.cpp",
@@ -5523,6 +5523,18 @@
     "q_link": "https://codeforces.com/contest/2171/problem/A",
     "sol_path": "Solutions/A_Shizuku_Hoshikawa_and_Farm_Legs.cpp",
     "filename": "A_Shizuku_Hoshikawa_and_Farm_Legs.cpp"
+  },
+  {
+    "id": "2264A",
+    "name": "Rumb Needs a Hand",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2264/problem/A",
+    "sol_path": "Solutions/2264A_Rumb_Needs_a_Hand.cpp",
+    "filename": "2264A_Rumb_Needs_a_Hand.cpp"
   },
   {
     "id": "742A",
