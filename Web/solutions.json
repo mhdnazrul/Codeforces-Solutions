@@ -620,6 +620,18 @@
     "filename": "1606A_AB_Balance.cpp"
   },
   {
+    "id": "2264B",
+    "name": "Knifes Pill Farm",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2264/problem/B",
+    "sol_path": "Solutions/2264B_Knifes_Pill_Farm.cpp",
+    "filename": "2264B_Knifes_Pill_Farm.cpp"
+  },
+  {
     "id": "2169A",
     "name": "A Alice and Bob",
     "rating": 900,
