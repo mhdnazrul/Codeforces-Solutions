@@ -513,6 +513,18 @@
     "filename": "B_T_primes.cpp"
   },
   {
+    "id": "2266C",
+    "name": "AND OR Sort",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2266/problem/C",
+    "sol_path": "Solutions/2266C_AND_OR_Sort.cpp",
+    "filename": "2266C_AND_OR_Sort.cpp"
+  },
+  {
     "id": "580A",
     "name": "A Kefa and First Steps",
     "rating": 900,
@@ -2145,6 +2157,18 @@
     "q_link": "https://codeforces.com/problemset/problem/271/A",
     "sol_path": "Solutions/A_Beautiful_Year.cpp",
     "filename": "A_Beautiful_Year.cpp"
+  },
+  {
+    "id": "2266D",
+    "name": "Falling Concrete",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2266/problem/D",
+    "sol_path": "Solutions/2266D_Falling_Concrete.cpp",
+    "filename": "2266D_Falling_Concrete.cpp"
   },
   {
     "id": "2218C",
