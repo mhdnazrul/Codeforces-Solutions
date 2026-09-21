@@ -4678,6 +4678,18 @@
     "filename": "A_Football.cpp"
   },
   {
+    "id": "2266B",
+    "name": "Three Piles",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2266/problem/B",
+    "sol_path": "Solutions/2266B_Three_Piles.cpp",
+    "filename": "2266B_Three_Piles.cpp"
+  },
+  {
     "id": "313B",
     "name": "B Ilya and Queries",
     "rating": 1100,
