@@ -622,10 +622,12 @@
   {
     "id": "2264B",
     "name": "Knifes Pill Farm",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 1000,
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "data structures",
+      "greedy",
+      "math"
     ],
     "q_link": "https://codeforces.com/contest/2264/problem/B",
     "sol_path": "Solutions/2264B_Knifes_Pill_Farm.cpp",
@@ -1911,6 +1913,18 @@
     "filename": "1890A_Doremys_Paint_3.cpp"
   },
   {
+    "id": "2266A",
+    "name": "Good Contest",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2266/problem/A",
+    "sol_path": "Solutions/2266A_Good_Contest.cpp",
+    "filename": "2266A_Good_Contest.cpp"
+  },
+  {
     "id": "1535B",
     "name": "B Array Reodering",
     "rating": 900,
@@ -2623,9 +2637,9 @@
     "id": "2263A",
     "name": "Min Max Game",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "games"
     ],
     "q_link": "https://codeforces.com/contest/2263/problem/A",
     "sol_path": "Solutions/2263A_Min_Max_Game.cpp",
@@ -3243,8 +3257,8 @@
   {
     "id": "2263B",
     "name": "Min Matrices",
-    "rating": 800,
-    "rating_source": "fallback",
+    "rating": 900,
+    "rating_source": "api",
     "tags": [
       "constructive algorithms"
     ],
@@ -5540,9 +5554,11 @@
     "id": "2264A",
     "name": "Rumb Needs a Hand",
     "rating": 800,
-    "rating_source": "fallback",
+    "rating_source": "api",
     "tags": [
-      "implementation"
+      "implementation",
+      "sortings",
+      "two pointers"
     ],
     "q_link": "https://codeforces.com/contest/2264/problem/A",
     "sol_path": "Solutions/2264A_Rumb_Needs_a_Hand.cpp",

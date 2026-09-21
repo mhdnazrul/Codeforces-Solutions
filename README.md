@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Language-C++%20%7C%20Python-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
-    <img src="https://img.shields.io/badge/Total%20Solved-521-00b894?style=for-the-badge&logo=codeforces" alt="Total">
+    <img src="https://img.shields.io/badge/Total%20Solved-522-00b894?style=for-the-badge&logo=codeforces" alt="Total">
 </p>
 <p align="center">
     <b>🚀 Find me on: </b>
@@ -16,15 +16,15 @@
 ---
 
 ## 📊 Statistics
-**Total Problems Solved:** 521
+**Total Problems Solved:** 522
 
 <details><summary><b>Breakdown by Difficulty</b></summary>
 
 | Difficulty | Count |
 | :--- | :--- |
-| 800 | 307 |
-| 900 | 100 |
-| 1000 | 45 |
+| 800 | 306 |
+| 900 | 101 |
+| 1000 | 46 |
 | 1100 | 30 |
 | 1200 | 15 |
 | 1300 | 14 |
@@ -44,28 +44,28 @@
 | combinatorics | 4 |
 | communication | 2 |
 | constructive algorithms | 51 |
-| data structures | 14 |
+| data structures | 15 |
 | dfs and similar | 6 |
 | dp | 27 |
 | expression parsing | 2 |
-| games | 12 |
+| games | 13 |
 | geometry | 3 |
 | graph matchings | 3 |
 | graphs | 4 |
-| greedy | 154 |
+| greedy | 155 |
 | hashing | 3 |
-| implementation | 278 |
+| implementation | 277 |
 | interactive | 2 |
-| math | 165 |
+| math | 166 |
 | number theory | 29 |
 | probabilities | 1 |
 | schedules | 2 |
 | shortest paths | 3 |
-| sortings | 53 |
+| sortings | 54 |
 | strings | 57 |
 | ternary search | 1 |
 | trees | 1 |
-| two pointers | 14 |
+| two pointers | 15 |
 </details>
 
 <h2 align="center">📋 Solution Index</h2>
@@ -153,6 +153,7 @@
 | 379A | A New Year Candles | 1000 | `implementation` | [View](https://codeforces.com/problemset/problem/379/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_New_Year_Candles.cpp) |
 | 339B | B Xenia and Ringroad | 1000 | `implementation` | [View](https://codeforces.com/contest/339/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/B_Xenia_and_Ringroad.cpp) |
 | 230A | A Dragons | 1000 | `greedy`, `sortings` | [View](https://codeforces.com/contest/230/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Dragons.cpp) |
+| 2264B | Knifes Pill Farm | 1000 | `data structures`, `greedy`, ... | [View](https://codeforces.com/contest/2264/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2264B_Knifes_Pill_Farm.cpp) |
 | 2254C1 | Marenol easy version | 1000 | `greedy` | [View](https://codeforces.com/contest/2254/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2254C1_Marenol_easy_version.cpp) |
 | 2242B | Predominant Frequency Division | 1000 | `data structures`, `greedy`, ... | [View](https://codeforces.com/contest/2242/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2242B_Predominant_Frequency_Division.cpp) |
 | 2241C | RemovevomeR | 1000 | `greedy` | [View](https://codeforces.com/contest/2241/problem/C) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2241C_RemovevomeR.cpp) |
@@ -207,6 +208,7 @@
 | 318A | A Even Odds | 900 | `math` | [View](https://codeforces.com/problemset/problem/318/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Even_Odds.cpp) |
 | 313A | A Ilya and Bank Account | 900 | `implementation`, `number theory` | [View](https://codeforces.com/contest/313/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Ilya_and_Bank_Account.cpp) |
 | 26A | A Almost Prime | 900 | `number theory` | [View](https://codeforces.com/contest/26/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Almost_Prime.cpp) |
+| 2263B | Min Matrices | 900 | `constructive algorithms` | [View](https://codeforces.com/contest/2263/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2263B_Min_Matrices.cpp) |
 | 2254B | Evanescent | 900 | `implementation`, `strings`, ... | [View](https://codeforces.com/contest/2254/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2254B_Evanescent.cpp) |
 | 2246B | ezraft and Array | 900 | `constructive algorithms`, `number theory` | [View](https://codeforces.com/contest/2246/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246B_ezraft_and_Array.cpp) |
 | 2238B | Crimson Triples | 900 | `dp`, `math`, ... | [View](https://codeforces.com/contest/2238/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2238B_Crimson_Triples.cpp) |
@@ -363,11 +365,10 @@
 | 236A | A Boy or Girl | 800 | `brute force`, `implementation`, ... | [View](https://codeforces.com/problemset/problem/236/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Boy_or_Girl.cpp) |
 | 231A | A Team | 800 | `brute force`, `greedy` | [View](https://codeforces.com/problemset/problem/231/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Team.cpp) |
 | 228A | A Is your horseshoe on the other hoof | 800 | `implementation` | [View](https://codeforces.com/problemset/problem/228/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/A_Is_your_horseshoe_on_the_other_hoof.cpp) |
-| 2264B | Knifes Pill Farm | 800 | `implementation` | [View](https://codeforces.com/contest/2264/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2264B_Knifes_Pill_Farm.cpp) |
-| 2264A | Rumb Needs a Hand | 800 | `implementation` | [View](https://codeforces.com/contest/2264/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2264A_Rumb_Needs_a_Hand.cpp) |
+| 2266A | Good Contest | 800 | `implementation` | [View](https://codeforces.com/contest/2266/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2266A_Good_Contest.cpp) |
+| 2264A | Rumb Needs a Hand | 800 | `implementation`, `sortings`, ... | [View](https://codeforces.com/contest/2264/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2264A_Rumb_Needs_a_Hand.cpp) |
 | 2263C1 | Floor of MEX Easy Version | 800 | `implementation` | [View](https://codeforces.com/contest/2263/problem/C1) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2263C1_Floor_of_MEX_Easy_Version.cpp) |
-| 2263B | Min Matrices | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2263/problem/B) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2263B_Min_Matrices.cpp) |
-| 2263A | Min Max Game | 800 | `implementation` | [View](https://codeforces.com/contest/2263/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2263A_Min_Max_Game.cpp) |
+| 2263A | Min Max Game | 800 | `games` | [View](https://codeforces.com/contest/2263/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2263A_Min_Max_Game.cpp) |
 | 2254A | Riptide | 800 | `implementation`, `sortings` | [View](https://codeforces.com/contest/2254/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2254A_Riptide.cpp) |
 | 2246A | farmpiggie and Subset Sum | 800 | `constructive algorithms` | [View](https://codeforces.com/contest/2246/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2246A_farmpiggie_and_Subset_Sum.cpp) |
 | 2245A | Who Watches the Watchpig | 800 | `greedy` | [View](https://codeforces.com/contest/2245/problem/A) | [Code](https://github.com/mhdnazrul/Codeforces-Solutions/blob/main/Solutions/2245A_Who_Watches_the_Watchpig.cpp) |
