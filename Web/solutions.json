@@ -3294,6 +3294,18 @@
     "filename": "1901A_Line_Trip.cpp"
   },
   {
+    "id": "2271B",
+    "name": "MEX Game",
+    "rating": 800,
+    "rating_source": "fallback",
+    "tags": [
+      "implementation"
+    ],
+    "q_link": "https://codeforces.com/contest/2271/problem/B",
+    "sol_path": "Solutions/2271B_MEX_Game.cpp",
+    "filename": "2271B_MEX_Game.cpp"
+  },
+  {
     "id": "2236C",
     "name": "Omsk Programmers",
     "rating": 1000,
